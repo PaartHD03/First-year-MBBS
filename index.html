@@ -1,86 +1,1034 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#142238">
-<meta name="description" content="A calm, customizable study space for every learner. Organise subjects, track goals and build consistent study habits.">
-<title>StudyBloom — Your Study Space</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#101b2d">
+<meta name="description" content="StudyBloom — a First MBBS study companion with topic-wise resources, progress tracking and a smarter study framework.">
+<title>StudyBloom | First MBBS Study Hub</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+
 <style>
-:root{--bg:#f5f7fb;--ink:#17243a;--muted:#68758a;--navy:#142238;--card:#fff;--line:#e6eaf1;--pink:#f4dce7;--rose:#a64f73;--blue:#dceafa;--teal:#d9eee9;--gold:#f6edcf;--shadow:0 12px 36px rgba(23,36,58,.08)}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:'DM Sans',sans-serif;line-height:1.55}a{color:#315f9d;text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:1120px;margin:auto;padding:0 22px}
-header{background:var(--navy);color:white;padding:18px 0 62px;position:relative;overflow:hidden}header:after{content:"";position:absolute;width:460px;height:460px;border-radius:50%;background:radial-gradient(circle,#a64f7344,transparent 68%);right:-120px;top:-230px}
-nav{display:flex;align-items:center;justify-content:space-between;gap:15px;position:relative;z-index:1}.brand{font-weight:700;letter-spacing:.3px;font-size:17px}.brand span{color:#f0b9cf}.navlinks{display:flex;gap:20px;font-size:13px}.navlinks a{color:#d8e1ef}
-.hero{padding:65px 0 8px;position:relative;z-index:1;max-width:780px}.eyebrow{color:#f0b9cf;text-transform:uppercase;letter-spacing:2px;font-size:11px;font-weight:700}h1{font:700 clamp(38px,6vw,66px)/1.05 'Playfair Display',serif;margin:13px 0 15px}.hero p{color:#c4cede;font-size:16px;max-width:650px}.hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:25px}
-.btn{display:inline-flex;align-items:center;justify-content:center;padding:11px 17px;border-radius:12px;background:#f0b9cf;color:#351c2a;font-weight:700;font-size:13px;border:0;cursor:pointer}.btn.ghost{background:#ffffff14;color:white;border:1px solid #ffffff30}
-main{padding:28px 0 70px}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:13px;margin-top:-48px;position:relative;z-index:2}.stat{background:white;padding:18px;border-radius:17px;box-shadow:var(--shadow)}.stat b{font-size:25px;display:block}.stat span{font-size:12px;color:var(--muted)}
-.section{margin-top:43px}.section-head{display:flex;align-items:end;justify-content:space-between;gap:15px;margin-bottom:17px}.section h2{font:700 27px 'Playfair Display',serif;margin:0}.section-head p{margin:4px 0 0;color:var(--muted);font-size:13px}
-.panel{background:white;border:1px solid var(--line);border-radius:18px;padding:21px;box-shadow:0 5px 20px #15233a08}.subject-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.subject{background:white;border:1px solid var(--line);border-radius:17px;padding:18px}.subject h3{margin:0 0 5px;font:700 19px 'Playfair Display',serif}.subject p{font-size:12px;color:var(--muted);margin:0}.progressline{height:6px;background:#edf0f5;border-radius:10px;overflow:hidden;margin:14px 0 7px}.progressline i{display:block;height:100%;background:var(--rose);width:0}.progressmeta{font-size:11px;color:var(--muted);display:flex;justify-content:space-between}
-.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}.search,.field,.select{border:1px solid var(--line);border-radius:11px;padding:11px 13px;font:inherit;background:white;color:var(--ink)}.search{flex:1;min-width:180px}.field{min-width:150px;flex:1}.select{min-width:150px}
-.addrow{display:flex;gap:9px;flex-wrap:wrap;margin-top:12px}.task-list{display:grid;gap:9px}.task{display:flex;align-items:center;gap:10px;padding:12px 13px;background:#fff;border:1px solid var(--line);border-radius:12px}.task input{accent-color:var(--rose)}.task span{flex:1;font-size:13px}.task.done span{text-decoration:line-through;color:#8993a3}.task small{color:var(--muted);font-size:11px}.delete{border:0;background:transparent;color:#9b647b;cursor:pointer;font-size:17px}
-.resource-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:13px}.resource-card{padding:17px;border:1px solid var(--line);border-radius:14px;background:white}.resource-card h3{font-size:14px;margin:0 0 5px}.resource-card p{font-size:12px;color:var(--muted);margin:0 0 10px}
-.plan{display:grid;grid-template-columns:repeat(7,1fr);gap:8px}.day{background:white;border:1px solid var(--line);border-radius:12px;padding:12px 8px;text-align:center}.day b{font-size:12px}.day span{display:block;font-size:10px;color:var(--muted);margin-top:4px}
-.note{font-size:12px;color:var(--muted);margin-top:12px}.callout{border-left:4px solid #d59bb3;background:#fff8fb;padding:14px 16px;border-radius:0 12px 12px 0;font-size:13px;color:#654354}
-footer{background:var(--navy);color:#b8c4d4;padding:25px 0;font-size:11px}footer strong{color:#f0b9cf}
-@media(max-width:800px){.subject-grid,.resource-grid{grid-template-columns:1fr 1fr}.stats{grid-template-columns:repeat(2,1fr)}.plan{grid-template-columns:repeat(4,1fr)}.navlinks{display:none}}
-@media(max-width:520px){.subject-grid,.resource-grid{grid-template-columns:1fr}.hero{padding-top:48px}.section-head{display:block}.stats{gap:8px}.stat{padding:14px}.stat b{font-size:21px}}
-</style></head>
-<body>
-<header><div class="wrap">
-<nav><div class="brand">Study<span>Bloom</span> <span aria-label="small monogram" title="A little reminder">· S</span></div><div class="navlinks"><a href="#subjects">Subjects</a><a href="#tasks">My tasks</a><a href="#resources">Resources</a><a href="#routine">Routine</a></div></nav>
-<div class="hero"><div class="eyebrow">A calmer way to make progress</div><h1>Learn at your pace.<br><span style="color:#f0b9cf">Grow every day.</span></h1>
-<p>Your personal study space — for school, college, university, competitive exams or self-learning. Organise subjects, break big goals into small tasks and celebrate every bit of progress.</p>
-<div class="hero-actions"><a class="btn" href="#subjects">Build your study space ↓</a><a class="btn ghost" href="#resources">Explore free resources</a></div></div></div></header>
-<main class="wrap">
-<div class="stats"><div class="stat"><b id="subjectCount">0</b><span>Subjects added</span></div><div class="stat"><b id="doneCount">0</b><span>Tasks completed</span></div><div class="stat"><b id="totalCount">0</b><span>Total tasks</span></div><div class="stat"><b id="percent">0%</b><span>Overall progress</span></div></div>
-<section class="section" id="subjects"><div class="section-head"><div><h2>Your subjects</h2><p>Add any subject, course, exam or skill you are learning.</p></div></div>
-<div class="subject-grid" id="subjectCards"></div>
-<div class="panel" style="margin-top:14px"><strong>Add a subject</strong><div class="addrow"><input class="field" id="subjectName" placeholder="e.g. Biology, Java, Economics"><input class="field" id="subjectDetail" placeholder="Short description (optional)"><button class="btn" id="addSubject">＋ Add subject</button></div><div class="note">Tip: create a subject for each paper, module, certification or skill.</div></div>
-</section>
-<section class="section" id="tasks"><div class="section-head"><div><h2>Your study tasks</h2><p>Turn your syllabus and goals into small, trackable steps.</p></div></div>
-<div class="panel"><div class="toolbar"><input class="search" id="taskSearch" placeholder="Search tasks…"><select class="select" id="taskSubject"><option value="all">All subjects</option></select><select class="select" id="taskStatus"><option value="all">All tasks</option><option value="pending">To do</option><option value="done">Completed</option></select></div><div class="task-list" id="taskList"></div>
-<div class="addrow"><input class="field" id="taskName" placeholder="Add a task, chapter or goal…"><select class="select" id="taskFor"></select><button class="btn" id="addTask">＋ Add task</button></div><div class="note">Your subjects and task progress are saved in this browser on this device. They are not synced across devices.</div></div>
-</section>
-<section class="section" id="resources"><div class="section-head"><div><h2>Useful learning resources</h2><p>A few reliable starting points for different kinds of learners.</p></div></div>
-<div class="resource-grid">
-<div class="resource-card"><h3>Khan Academy</h3><p>Free lessons and practice across maths, science, computing, economics and more.</p><a href="https://www.khanacademy.org/" target="_blank" rel="noopener">Explore lessons ↗</a></div>
-<div class="resource-card"><h3>OpenStax</h3><p>Free, peer-reviewed textbooks for many school and college subjects.</p><a href="https://openstax.org/subjects" target="_blank" rel="noopener">Browse textbooks ↗</a></div>
-<div class="resource-card"><h3>MIT OpenCourseWare</h3><p>University-level course materials, lecture notes and assignments.</p><a href="https://ocw.mit.edu/" target="_blank" rel="noopener">Explore courses ↗</a></div>
-<div class="resource-card"><h3>Coursera</h3><p>Courses and guided learning from universities and organisations; some are paid.</p><a href="https://www.coursera.org/" target="_blank" rel="noopener">Find a course ↗</a></div>
-<div class="resource-card"><h3>freeCodeCamp</h3><p>Free, hands-on paths for programming, web development and data skills.</p><a href="https://www.freecodecamp.org/learn/" target="_blank" rel="noopener">Start coding ↗</a></div>
-<div class="resource-card"><h3>Google Scholar</h3><p>Search scholarly articles, books and research across academic disciplines.</p><a href="https://scholar.google.com/" target="_blank" rel="noopener">Search research ↗</a></div>
-</div></section>
-<section class="section" id="routine"><div class="section-head"><div><h2>A simple weekly rhythm</h2><p>Consistency beats occasional marathon sessions. Adjust this to your schedule.</p></div></div>
-<div class="plan"><div class="day"><b>MON</b><span>Learn a new topic</span></div><div class="day"><b>TUE</b><span>Practise & apply</span></div><div class="day"><b>WED</b><span>Learn a new topic</span></div><div class="day"><b>THU</b><span>Active recall</span></div><div class="day"><b>FRI</b><span>Practice questions</span></div><div class="day"><b>SAT</b><span>Weekly revision</span></div><div class="day"><b>SUN</b><span>Rest & plan</span></div></div>
-</section>
-<section class="section"><div class="callout">You don't need to have everything figured out. Start with one subject, one task and one focused session. Small steps add up. 🌱</div></section>
-</main>
-<footer><div class="wrap">StudyBloom · A little study project <strong>created by Paarth Doshi</strong> · Keep learning, keep growing.</div></footer>
-<script>
-const STORAGE="studybloom-v1";
-const defaults={subjects:[{id:"s1",name:"Subject 1",detail:"Rename this to your first subject."},{id:"s2",name:"Subject 2",detail:"Add a course, paper or skill."},{id:"s3",name:"Subject 3",detail:"Make this study space yours."}],tasks:[]};
-let state;try{state=JSON.parse(localStorage.getItem(STORAGE))||defaults}catch(e){state=defaults}
-function persist(){localStorage.setItem(STORAGE,JSON.stringify(state));render()}
-function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
-function render(){
- const done=state.tasks.filter(t=>t.done).length,total=state.tasks.length;
- document.getElementById("subjectCount").textContent=state.subjects.length;
- document.getElementById("doneCount").textContent=done;
- document.getElementById("totalCount").textContent=total;
- document.getElementById("percent").textContent=(total?Math.round(done/total*100):0)+"%";
- document.getElementById("subjectCards").innerHTML=state.subjects.map(s=>{let ts=state.tasks.filter(t=>t.subject===s.id),d=ts.filter(t=>t.done).length;return `<article class="subject"><h3>${esc(s.name)}</h3><p>${esc(s.detail||"Your learning journey starts here.")}</p><div class="progressline"><i style="width:${ts.length?d/ts.length*100:0}%"></i></div><div class="progressmeta"><span>${d} / ${ts.length} tasks</span><button class="delete" title="Remove subject" onclick="removeSubject('${s.id}')">×</button></div></article>`}).join("");
- const opts=state.subjects.map(s=>`<option value="${s.id}">${esc(s.name)}</option>`).join("");
- document.getElementById("taskFor").innerHTML=opts;document.getElementById("taskSubject").innerHTML='<option value="all">All subjects</option>'+opts;
- let q=document.getElementById("taskSearch").value.toLowerCase(),filter=document.getElementById("taskSubject").value,status=document.getElementById("taskStatus").value;
- let tasks=state.tasks.filter(t=>(!q||t.name.toLowerCase().includes(q))&&(filter==="all"||t.subject===filter)&&(status==="all"||(status==="done"&&t.done)||(status==="pending"&&!t.done)));
- document.getElementById("taskList").innerHTML=tasks.length?tasks.map(t=>`<label class="task ${t.done?"done":""}"><input type="checkbox" ${t.done?"checked":""} onchange="toggleTask('${t.id}',this.checked)"><span>${esc(t.name)}</span><small>${esc(state.subjects.find(s=>s.id===t.subject)?.name||"Subject")}</small><button class="delete" type="button" title="Delete task" onclick="event.preventDefault();removeTask('${t.id}')">×</button></label>`).join(""):'<div class="note">No tasks here yet. Add a task above to get started.</div>';
+:root {
+  --bg:#f5f7fb;
+  --ink:#17243a;
+  --muted:#68758a;
+  --navy:#101b2d;
+  --card:#ffffff;
+  --line:#e6eaf1;
+  --pink:#f0b9cf;
+  --rose:#a64f73;
+  --blue:#dceafa;
+  --shadow:0 12px 36px rgba(23,36,58,.08);
 }
-function removeSubject(id){if(!confirm("Remove this subject and its tasks?"))return;state.subjects=state.subjects.filter(s=>s.id!==id);state.tasks=state.tasks.filter(t=>t.subject!==id);persist()}
-function removeTask(id){state.tasks=state.tasks.filter(t=>t.id!==id);persist()}
-function toggleTask(id,v){let t=state.tasks.find(t=>t.id===id);if(t)t.done=v;persist()}
-document.getElementById("addSubject").onclick=()=>{let name=document.getElementById("subjectName").value.trim();if(!name)return;state.subjects.push({id:"s"+Date.now(),name,detail:document.getElementById("subjectDetail").value.trim()});document.getElementById("subjectName").value="";document.getElementById("subjectDetail").value="";persist()};
-document.getElementById("addTask").onclick=()=>{let name=document.getElementById("taskName").value.trim();if(!name||!state.subjects.length){alert("Add a subject and enter a task first.");return}state.tasks.push({id:"t"+Date.now(),name,subject:document.getElementById("taskFor").value,done:false});document.getElementById("taskName").value="";persist()};
-["taskSearch","taskSubject","taskStatus"].forEach(id=>document.getElementById(id).addEventListener(id==="taskSearch"?"input":"change",render));
-render();
-</script></body></html>
+
+* {box-sizing:border-box}
+html {scroll-behavior:smooth}
+body {
+  margin:0;
+  background:var(--bg);
+  color:var(--ink);
+  font-family:'DM Sans',sans-serif;
+  line-height:1.6;
+}
+a {color:#315f9d;text-decoration:none}
+a:hover {text-decoration:underline}
+.wrap {max-width:1160px;margin:auto;padding:0 22px}
+
+header {
+  background:var(--navy);
+  color:white;
+  padding:18px 0 65px;
+  position:relative;
+  overflow:hidden;
+}
+header:after {
+  content:"";
+  position:absolute;
+  width:460px;
+  height:460px;
+  border-radius:50%;
+  background:radial-gradient(circle,#a64f7344,transparent 68%);
+  right:-120px;
+  top:-230px;
+}
+nav {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:15px;
+  position:relative;
+  z-index:1;
+}
+.brand {
+  font-weight:700;
+  font-size:21px;
+  letter-spacing:.3px;
+}
+.brand span {color:var(--pink)}
+.navlinks {display:flex;gap:20px;font-size:13px}
+.navlinks a {color:#d8e1ef}
+
+.hero {
+  padding:65px 0 10px;
+  position:relative;
+  z-index:1;
+  max-width:780px;
+}
+.eyebrow {
+  color:var(--pink);
+  text-transform:uppercase;
+  letter-spacing:2px;
+  font-size:11px;
+  font-weight:700;
+}
+h1 {
+  font:700 clamp(38px,6vw,66px)/1.08 'Playfair Display',serif;
+  margin:13px 0 15px;
+}
+.hero p {color:#c4cede;font-size:16px;max-width:650px}
+.hero-actions {display:flex;gap:12px;flex-wrap:wrap;margin-top:25px}
+
+.btn {
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding:11px 17px;
+  border-radius:12px;
+  background:var(--pink);
+  color:#351c2a;
+  font-weight:700;
+  font-size:13px;
+  border:0;
+  cursor:pointer;
+}
+.btn.ghost {
+  background:#ffffff14;
+  color:white;
+  border:1px solid #ffffff30;
+}
+
+main {padding:28px 0 70px}
+.stats {
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:13px;
+  margin-top:-48px;
+  position:relative;
+  z-index:2;
+}
+.stat {
+  background:white;
+  padding:18px;
+  border-radius:17px;
+  box-shadow:var(--shadow);
+}
+.stat b {font-size:25px;display:block}
+.stat span {font-size:12px;color:var(--muted)}
+
+.section {margin-top:45px}
+.section-head {
+  display:flex;
+  align-items:end;
+  justify-content:space-between;
+  gap:15px;
+  margin-bottom:17px;
+}
+.section h2 {
+  font:700 27px 'Playfair Display',serif;
+  margin:0;
+}
+.section-head p {margin:4px 0 0;color:var(--muted);font-size:13px}
+
+.grid {
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:16px;
+}
+.subject {
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:18px;
+  padding:20px;
+  box-shadow:0 5px 20px #15233a08;
+}
+.subject .tag {
+  font-size:10px;
+  letter-spacing:1.4px;
+  text-transform:uppercase;
+  font-weight:700;
+  color:var(--rose);
+}
+.subject h3 {
+  font:700 21px 'Playfair Display',serif;
+  margin:8px 0;
+}
+.subject p {color:var(--muted);font-size:13px;min-height:40px}
+
+.progressline {
+  height:6px;
+  background:#edf0f5;
+  border-radius:10px;
+  overflow:hidden;
+  margin:14px 0 7px;
+}
+.progressline i {
+  display:block;
+  height:100%;
+  background:var(--rose);
+  width:0;
+  transition:.25s;
+}
+.progressmeta {
+  font-size:11px;
+  color:var(--muted);
+  display:flex;
+  justify-content:space-between;
+}
+
+.toolbar {display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}
+.search {
+  flex:1;
+  min-width:210px;
+  border:1px solid var(--line);
+  border-radius:12px;
+  padding:12px 14px;
+  font:inherit;
+  background:white;
+}
+.filter {
+  border:1px solid var(--line);
+  background:white;
+  border-radius:12px;
+  padding:10px 13px;
+  font:inherit;
+  color:var(--ink);
+}
+
+.topic-list {display:grid;gap:12px}
+.topic-card {
+  background:white;
+  border:1px solid var(--line);
+  border-radius:15px;
+  overflow:hidden;
+}
+.topic-top {
+  padding:15px 17px;
+  display:flex;
+  align-items:center;
+  gap:12px;
+  cursor:pointer;
+}
+.topic-top:hover {background:#fafbfe}
+.topic-num {
+  width:35px;
+  height:35px;
+  border-radius:11px;
+  background:var(--blue);
+  display:grid;
+  place-items:center;
+  font-weight:700;
+  flex-shrink:0;
+}
+.topic-title {flex:1}
+.topic-title strong {display:block;font-size:14px}
+.topic-title small {color:var(--muted);font-size:11px}
+.chev {color:var(--muted);transition:.2s}
+.topic-card.open .chev {transform:rotate(180deg)}
+.topic-body {
+  display:none;
+  border-top:1px solid var(--line);
+  padding:13px 17px 17px;
+}
+.topic-card.open .topic-body {display:block}
+
+.checkrow {
+  display:flex;
+  align-items:flex-start;
+  gap:9px;
+  padding:7px 0;
+  font-size:13px;
+  border-bottom:1px dashed #edf0f4;
+}
+.checkrow:last-of-type {border:0}
+.checkrow input {accent-color:var(--rose);margin-top:5px}
+.checkrow.done span {
+  text-decoration:line-through;
+  color:#8993a3;
+}
+.resources {
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+  margin-top:12px;
+}
+.resource {
+  font-size:11px;
+  font-weight:700;
+  padding:7px 10px;
+  border-radius:9px;
+  background:#f0f4fa;
+  border:1px solid #e5ebf4;
+}
+.resource.primary {
+  background:#f9edf2;
+  border-color:#f1d9e3;
+  color:#914462;
+}
+
+.panel {
+  background:white;
+  border:1px solid var(--line);
+  border-radius:18px;
+  padding:21px;
+  box-shadow:0 5px 20px #15233a08;
+}
+.resource-grid,.book-grid {
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:13px;
+}
+.resource-card {
+  padding:17px;
+  border:1px solid var(--line);
+  border-radius:14px;
+  background:white;
+}
+.resource-card h3 {font-size:14px;margin:0 0 5px}
+.resource-card p {font-size:12px;color:var(--muted);margin:0 0 10px}
+.book {
+  padding:16px;
+  border-radius:14px;
+  background:#faf8f6;
+  border:1px solid #eee8e4;
+}
+.book h3 {font-size:14px;margin:0 0 6px}
+.book p {font-size:12px;color:var(--muted);margin:0}
+
+.plan {
+  display:grid;
+  grid-template-columns:repeat(7,1fr);
+  gap:8px;
+}
+.day {
+  background:white;
+  border:1px solid var(--line);
+  border-radius:12px;
+  padding:12px 8px;
+  text-align:center;
+}
+.day b {font-size:12px}
+.day span {
+  display:block;
+  font-size:10px;
+  color:var(--muted);
+  margin-top:4px;
+}
+
+.method-grid {
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:13px;
+}
+.method-card {
+  background:white;
+  border:1px solid var(--line);
+  border-radius:16px;
+  padding:19px;
+  display:flex;
+  gap:14px;
+  align-items:flex-start;
+}
+.method-letter {
+  min-width:42px;
+  height:42px;
+  display:grid;
+  place-items:center;
+  border-radius:12px;
+  background:#f9edf2;
+  color:var(--rose);
+  font:700 22px 'Playfair Display',serif;
+}
+.method-card h3 {font-size:14px;margin:0 0 3px}
+.method-card p {font-size:12px;color:var(--muted);margin:0}
+
+.method-intro {
+  background:var(--navy);
+  color:white;
+  border-radius:18px;
+  padding:25px;
+  margin-bottom:15px;
+}
+.method-intro h3 {
+  font:700 24px 'Playfair Display',serif;
+  margin:0 0 5px;
+}
+.method-intro p {font-size:13px;color:#c4cede;margin:0}
+
+.notice {
+  border-left:4px solid #d59bb3;
+  background:#fff8fb;
+  padding:14px 16px;
+  border-radius:0 12px 12px 0;
+  font-size:12px;
+  color:#654354;
+}
+footer {
+  background:var(--navy);
+  color:#b8c4d4;
+  padding:25px 0;
+  font-size:11px;
+}
+footer strong {color:var(--pink)}
+
+@media(max-width:800px) {
+  .grid,.resource-grid,.book-grid,.method-grid {grid-template-columns:1fr 1fr}
+  .stats {grid-template-columns:repeat(2,1fr)}
+  .plan {grid-template-columns:repeat(4,1fr)}
+  .navlinks {display:none}
+}
+@media(max-width:520px) {
+  .grid,.resource-grid,.book-grid,.method-grid {grid-template-columns:1fr}
+  .hero {padding-top:48px}
+  .section-head {display:block}
+  .stats {gap:8px}
+  .stat {padding:14px}
+  .stat b {font-size:21px}
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <div class="wrap">
+    <nav>
+      <div class="brand">Study<span>Bloom</span> ✿</div>
+      <div class="navlinks">
+        <a href="#syllabus">Syllabus</a>
+        <a href="#method">SUHANI Method</a>
+        <a href="#resources">Resources</a>
+        <a href="#books">Books</a>
+        <a href="#plan">Study plan</a>
+      </div>
+    </nav>
+
+    <div class="hero">
+      <div class="eyebrow">Your First MBBS companion</div>
+      <h1>One chapter at a time.<br>
+        <span style="color:#f0b9cf">One step closer</span> to Dr.
+      </h1>
+      <p>
+        A dedicated First MBBS study space — topic-wise syllabus,
+        useful learning resources, recommended textbooks and a
+        personal progress tracker. Your medical journey, organised
+        one step at a time. 🩺
+      </p>
+      <div class="hero-actions">
+        <a class="btn" href="#syllabus">Explore your syllabus ↓</a>
+        <a class="btn ghost" href="#method">Discover the SUHANI Method</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+<div class="stats">
+  <div class="stat"><b>03</b><span>Core first-year subjects</span></div>
+  <div class="stat"><b id="doneCount">0</b><span>Topics completed</span></div>
+  <div class="stat"><b id="totalCount">0</b><span>Topics to explore</span></div>
+  <div class="stat"><b id="percent">0%</b><span>Overall progress</span></div>
+</div>
+
+<!-- SUHANI METHOD -->
+<section class="section" id="method">
+  <div class="section-head">
+    <div>
+      <h2>The SUHANI Method</h2>
+      <p>A little framework for smarter learning.</p>
+    </div>
+  </div>
+
+  <div class="method-intro">
+    <h3>Learn with purpose. Grow with consistency.</h3>
+    <p>
+      Medical school is a journey of small efforts repeated every day.
+      Follow these six simple principles to make your learning more meaningful.
+    </p>
+  </div>
+
+  <div class="method-grid">
+    <div class="method-card">
+      <div class="method-letter">S</div>
+      <div><h3>Study with focus</h3><p>Give your full attention to what you are learning. Quality matters more than hours.</p></div>
+    </div>
+    <div class="method-card">
+      <div class="method-letter">U</div>
+      <div><h3>Understand concepts</h3><p>Build a strong foundation instead of simply memorising information.</p></div>
+    </div>
+    <div class="method-card">
+      <div class="method-letter">H</div>
+      <div><h3>Habituate consistency</h3><p>Make learning a daily habit. Small efforts add up over time.</p></div>
+    </div>
+    <div class="method-card">
+      <div class="method-letter">A</div>
+      <div><h3>Apply what you learn</h3><p>Connect theory with diagrams, practicals, clinical examples and questions.</p></div>
+    </div>
+    <div class="method-card">
+      <div class="method-letter">N</div>
+      <div><h3>Never stop improving</h3><p>Learn from mistakes, revise difficult topics and keep challenging yourself.</p></div>
+    </div>
+    <div class="method-card">
+      <div class="method-letter">I</div>
+      <div><h3>Improve every day</h3><p>Be a little better than yesterday. Progress matters more than perfection.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- SYLLABUS -->
+<section class="section" id="syllabus">
+  <div class="section-head">
+    <div>
+      <h2>Your First MBBS syllabus</h2>
+      <p>Open a unit, tick topics as you study, and watch your progress grow.</p>
+    </div>
+  </div>
+
+  <div class="grid" id="subjectCards"></div>
+
+  <div class="toolbar">
+    <input class="search" id="search" placeholder="Search topics: brachial plexus, ECG, glycolysis...">
+    <select class="filter" id="subjectFilter">
+      <option value="all">All subjects</option>
+      <option value="Anatomy">Anatomy</option>
+      <option value="Physiology">Physiology</option>
+      <option value="Biochemistry">Biochemistry</option>
+    </select>
+    <select class="filter" id="statusFilter">
+      <option value="all">All topics</option>
+      <option value="pending">Not completed</option>
+      <option value="done">Completed</option>
+    </select>
+  </div>
+
+  <div class="topic-list" id="topicList"></div>
+</section>
+
+<!-- RESOURCES -->
+<section class="section" id="resources">
+  <div class="section-head">
+    <div>
+      <h2>Free study resources</h2>
+      <p>Useful platforms for understanding, revising and practising.</p>
+    </div>
+  </div>
+
+  <div class="resource-grid">
+    <div class="resource-card">
+      <h3>TeachMeAnatomy</h3>
+      <p>Regional anatomy explanations, diagrams and clinical correlations.</p>
+      <a href="https://teachmeanatomy.info/" target="_blank" rel="noopener">Explore anatomy ↗</a>
+    </div>
+    <div class="resource-card">
+      <h3>Kenhub</h3>
+      <p>Anatomy articles, illustrations, quizzes and flashcards. Some content is paid.</p>
+      <a href="https://www.kenhub.com/en/library/anatomy" target="_blank" rel="noopener">Open Kenhub ↗</a>
+    </div>
+    <div class="resource-card">
+      <h3>OpenStax Anatomy & Physiology</h3>
+      <p>Free online textbook with detailed chapters and illustrations.</p>
+      <a href="https://openstax.org/subjects/anatomy-and-physiology" target="_blank" rel="noopener">Read textbook ↗</a>
+    </div>
+    <div class="resource-card">
+      <h3>Ninja Nerd</h3>
+      <p>Detailed video lessons for physiology, biochemistry and mechanisms.</p>
+      <a href="https://www.ninjanerd.org/" target="_blank" rel="noopener">Watch lessons ↗</a>
+    </div>
+    <div class="resource-card">
+      <h3>NCBI Bookshelf</h3>
+      <p>Free biomedical and medical reference books and chapters.</p>
+      <a href="https://www.ncbi.nlm.nih.gov/books/" target="_blank" rel="noopener">Browse books ↗</a>
+    </div>
+    <div class="resource-card">
+      <h3>MedlinePlus</h3>
+      <p>Easy-to-understand health and laboratory-test explanations.</p>
+      <a href="https://medlineplus.gov/lab-tests/" target="_blank" rel="noopener">Explore lab tests ↗</a>
+    </div>
+    <div class="resource-card">
+      <h3>UNSW Embryology</h3>
+      <p>Embryology learning material, developmental diagrams and references.</p>
+      <a href="https://embryology.med.unsw.edu.au/embryology/index.php/Main_Page" target="_blank" rel="noopener">Study embryology ↗</a>
+    </div>
+    <div class="resource-card">
+      <h3>University of Leeds Histology</h3>
+      <p>Microscopy and tissue-identification learning resources.</p>
+      <a href="https://www.histology.leeds.ac.uk/" target="_blank" rel="noopener">Study histology ↗</a>
+    </div>
+    <div class="resource-card">
+      <h3>Khan Academy</h3>
+      <p>Free foundational biology and cellular respiration lessons.</p>
+      <a href="https://www.khanacademy.org/science/biology" target="_blank" rel="noopener">Learn concepts ↗</a>
+    </div>
+  </div>
+</section>
+
+<!-- BOOKS -->
+<section class="section" id="books">
+  <div class="section-head">
+    <div>
+      <h2>Recommended textbooks</h2>
+      <p>Check the edition and preferred books with the department or library before buying.</p>
+    </div>
+  </div>
+
+  <div class="book-grid">
+    <div class="book">
+      <h3>🦴 Anatomy</h3>
+      <p><b>Core options:</b> B.D. Chaurasia; Vishram Singh.<br>
+      <b>Atlas:</b> Netter's Atlas; Gray's Anatomy for Students.<br>
+      <b>Histology/Embryology:</b> Use the faculty-recommended text.</p>
+    </div>
+    <div class="book">
+      <h3>❤️ Physiology</h3>
+      <p><b>Core options:</b> Sembulingam; Guyton & Hall.<br>
+      <b>Reference:</b> Ganong's Review of Medical Physiology.</p>
+    </div>
+    <div class="book">
+      <h3>🧬 Biochemistry</h3>
+      <p><b>Core options:</b> D.M. Vasudevan; Satyanarayana.<br>
+      <b>Reference:</b> Harper's Illustrated Biochemistry.</p>
+    </div>
+  </div>
+</section>
+
+<!-- WEEKLY PLAN -->
+<section class="section" id="plan">
+  <div class="section-head">
+    <div>
+      <h2>A gentle weekly study rhythm</h2>
+      <p>Adjust this around college lectures, dissection, practicals and rest.</p>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="plan">
+      <div class="day"><b>MON</b><span>Anatomy<br>lecture revision</span></div>
+      <div class="day"><b>TUE</b><span>Physiology<br>concepts</span></div>
+      <div class="day"><b>WED</b><span>Biochemistry<br>pathways</span></div>
+      <div class="day"><b>THU</b><span>Anatomy<br>diagrams</span></div>
+      <div class="day"><b>FRI</b><span>Physiology<br>practicals</span></div>
+      <div class="day"><b>SAT</b><span>Biochemistry<br>revision</span></div>
+      <div class="day"><b>SUN</b><span>Weekly recap<br>+ rest</span></div>
+    </div>
+    <p style="font-size:12px;color:var(--muted);margin:15px 0 0">
+      Simple routine: revise the day's lecture, practise one diagram or flowchart,
+      and spend a short session recalling what you learned without looking at notes.
+    </p>
+  </div>
+</section>
+
+<!-- OFFICIAL LINKS -->
+<section class="section">
+  <div class="section-head">
+    <div>
+      <h2>Official college & curriculum links</h2>
+      <p>Always refer to the latest batch-specific syllabus shared by the college.</p>
+    </div>
+  </div>
+
+  <div class="panel">
+    <p>🏛️ <a href="https://www.tsmmch.org/" target="_blank" rel="noopener">T.S. Misra Medical College & Hospital — official website</a></p>
+    <p>📘 <a href="https://www.tsmmch.org/Syllabus.aspx" target="_blank" rel="noopener">T.S. Misra syllabus page</a></p>
+    <p>📚 <a href="https://www.nmc.org.in/rules-regulations-nmc/1000/" target="_blank" rel="noopener">NMC rules & regulations / curriculum listing</a></p>
+
+    <div class="notice">
+      This website is a learning roadmap based on broad Phase-I subjects and resources.
+      It is not an official T.S. Misra syllabus or exam blueprint. Confirm exact
+      competencies, modules, assessment pattern and practical list with the college
+      and the relevant admission batch.
+    </div>
+  </div>
+</section>
+
+<!-- TELEGRAM -->
+<section class="section">
+  <div class="section-head">
+    <div>
+      <h2>Shared study resource</h2>
+      <p>A quick link to the study collection you shared.</p>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3 style="margin-top:0">📨 First-year books / study channel</h3>
+    <p style="font-size:13px;color:var(--muted)">
+      This Telegram post may require membership or login. Use only materials
+      legally shared by their authors or publishers, or made available with permission.
+    </p>
+    <a class="btn" href="https://t.me/c/2008697864/123" target="_blank" rel="noopener">
+      Open Telegram link ↗
+    </a>
+  </div>
+</section>
+
+<section class="section">
+  <div class="notice">
+    A note for the future doctor: You do not need to master everything on day one.
+    Be curious, ask questions, respect every patient and keep showing up.
+    One chapter at a time. ❤️
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    StudyBloom · First MBBS Study Hub · Created by <strong>Paarth Doshi</strong>.
+    Progress is saved locally in this browser on this device.
+  </div>
+</footer>
+
+<script>
+const data = [
+{
+  subject:"Anatomy",
+  icon:"🦴",
+  desc:"Structure, development and relationships of the human body.",
+  units:[
+    ["General anatomy & locomotor system",[
+      "Anatomical position, planes, terms and movements",
+      "Cells, tissues, epithelium and connective tissue",
+      "Cartilage, bone, ossification and joints",
+      "Upper limb: pectoral region, axilla, arm, forearm and hand",
+      "Brachial plexus, upper-limb vessels and applied anatomy",
+      "Lower limb: gluteal region, thigh, leg and foot",
+      "Lumbosacral plexus, lower-limb vessels and applied anatomy",
+      "Osteology: identify and describe major bones"
+    ]],
+    ["Thorax",[
+      "Thoracic wall, intercostal spaces and diaphragm",
+      "Pleura and lungs; bronchopulmonary segments",
+      "Mediastinum and pericardium",
+      "Heart: chambers, valves, coronary circulation and conducting system",
+      "Great vessels, thoracic duct and autonomic nerves"
+    ]],
+    ["Abdomen & pelvis",[
+      "Anterior abdominal wall, inguinal canal and hernias",
+      "Peritoneum and abdominal viscera",
+      "Stomach, intestines, liver, gallbladder, pancreas and spleen",
+      "Kidneys, ureters, posterior abdominal wall and vessels",
+      "Pelvic walls, pelvic organs, perineum and pelvic floor"
+    ]],
+    ["Head, neck & neuroanatomy",[
+      "Scalp, face, parotid region and triangles of neck",
+      "Pharynx, larynx, thyroid, oral and nasal cavities",
+      "Orbit, eyeball, ear and cranial nerves",
+      "Meninges, ventricles and cerebrospinal fluid",
+      "Cerebrum, brainstem, cerebellum and spinal cord",
+      "Ascending/descending tracts and blood supply of brain"
+    ]],
+    ["Histology, embryology & genetics",[
+      "Microscope basics and identification of tissues",
+      "Histology of major organs and systems",
+      "Gametogenesis, fertilisation, implantation and placenta",
+      "Early embryonic development and folding",
+      "Development of organ systems and congenital anomalies",
+      "Chromosomes, inheritance, karyotyping and basic genetics"
+    ]]
+  ]
+},
+{
+  subject:"Physiology",
+  icon:"❤️",
+  desc:"How the human body works and maintains homeostasis.",
+  units:[
+    ["General, cell & nerve-muscle physiology",[
+      "Homeostasis, feedback and body-fluid compartments",
+      "Cell membrane transport and resting membrane potential",
+      "Action potential, synapses and neurotransmitters",
+      "Skeletal, smooth and cardiac muscle physiology",
+      "Neuromuscular junction, reflexes and sensory receptors"
+    ]],
+    ["Blood & immunity",[
+      "Composition and functions of blood; plasma proteins",
+      "Haemoglobin, RBC formation and anaemia",
+      "WBCs, immunity and inflammation basics",
+      "Platelets, haemostasis and coagulation",
+      "ABO/Rh blood groups and transfusion basics"
+    ]],
+    ["Cardiovascular system",[
+      "Cardiac muscle and properties of myocardium",
+      "Cardiac cycle, heart sounds and pressure changes",
+      "ECG basics and cardiac output",
+      "Blood pressure, pulse and regulation of circulation",
+      "Microcirculation, regional circulation, shock and exercise"
+    ]],
+    ["Respiratory system",[
+      "Mechanics of breathing and lung volumes/capacities",
+      "Gas exchange and transport of oxygen/carbon dioxide",
+      "Regulation of respiration and respiratory centres",
+      "Hypoxia, cyanosis and pulmonary function tests"
+    ]],
+    ["Gastrointestinal & renal physiology",[
+      "GI motility, secretions and digestion",
+      "Absorption; functions of liver and pancreas",
+      "Renal blood flow and glomerular filtration",
+      "Tubular transport, urine concentration and micturition",
+      "Body fluids, electrolytes, buffers and acid-base balance"
+    ]],
+    ["Endocrine, reproductive & special senses",[
+      "Pituitary, thyroid, adrenal and pancreatic hormones",
+      "Calcium regulation and endocrine feedback",
+      "Male and female reproductive physiology",
+      "Menstrual cycle, pregnancy and lactation",
+      "Vision, hearing, taste, smell and vestibular function",
+      "Temperature regulation, exercise and environmental physiology"
+    ]]
+  ]
+},
+{
+  subject:"Biochemistry",
+  icon:"🧬",
+  desc:"Molecules, pathways and chemical processes behind health and disease.",
+  units:[
+    ["Cell biology, biomolecules & enzymes",[
+      "Cell organelles, membranes and cellular organisation",
+      "Carbohydrates: structure, properties and functions",
+      "Amino acids and proteins: structure and functions",
+      "Lipids and lipoproteins: structure and functions",
+      "Nucleotides and nucleic acids",
+      "Enzyme classification, kinetics, inhibition and regulation",
+      "Vitamins, minerals and coenzymes"
+    ]],
+    ["Nutrition, digestion & metabolism",[
+      "Balanced diet, energy needs and nutritional assessment",
+      "Digestion and absorption of carbohydrates, proteins and fats",
+      "Glycolysis, gluconeogenesis and glycogen metabolism",
+      "Citric acid cycle, ETC and oxidative phosphorylation",
+      "Fatty-acid oxidation and lipid synthesis",
+      "Cholesterol, lipoproteins and ketone bodies",
+      "Amino-acid metabolism and urea cycle"
+    ]],
+    ["Molecular biology & clinical biochemistry",[
+      "DNA replication, transcription and translation",
+      "Gene regulation, mutations and inherited disorders",
+      "Hormones and biochemical regulation",
+      "Liver and kidney function tests",
+      "Blood glucose, diabetes tests and lipid profile",
+      "Clinical enzymes and cardiac/pancreatic markers",
+      "Water, electrolytes, buffers and acid-base disorders"
+    ]]
+  ]
+}
+];
+
+const links = {
+  Anatomy:[
+    ["TeachMeAnatomy","https://teachmeanatomy.info/"],
+    ["Kenhub","https://www.kenhub.com/en/library/anatomy"],
+    ["Histology Leeds","https://www.histology.leeds.ac.uk/"],
+    ["UNSW Embryology","https://embryology.med.unsw.edu.au/embryology/index.php/Main_Page"]
+  ],
+  Physiology:[
+    ["OpenStax A&P","https://openstax.org/subjects/anatomy-and-physiology"],
+    ["Ninja Nerd","https://www.ninjanerd.org/"],
+    ["Khan Academy","https://www.khanacademy.org/science/biology"]
+  ],
+  Biochemistry:[
+    ["NCBI Bookshelf","https://www.ncbi.nlm.nih.gov/books/"],
+    ["Ninja Nerd","https://www.ninjanerd.org/"],
+    ["LibreTexts Biochemistry","https://bio.libretexts.org/Bookshelves/Biochemistry"]
+  ]
+};
+
+const storageKey = "studybloom-first-mbbs-progress-v1";
+
+function loadProgress() {
+  try {
+    return JSON.parse(localStorage.getItem(storageKey) || "{}");
+  } catch (error) {
+    return {};
+  }
+}
+
+let completed = loadProgress();
+
+const allTopics = [];
+
+data.forEach(subject => {
+  subject.units.forEach((unit, unitIndex) => {
+    unit[1].forEach((topic, topicIndex) => {
+      allTopics.push({
+        id:`${subject.subject}-${unitIndex}-${topicIndex}`,
+        subject:subject.subject,
+        unit:unit[0],
+        title:topic
+      });
+    });
+  });
+});
+
+function saveProgress() {
+  try {
+    localStorage.setItem(storageKey, JSON.stringify(completed));
+  } catch (error) {
+    console.warn("Progress could not be saved in this browser.");
+  }
+  renderStats();
+  renderCards();
+}
+
+function renderStats() {
+  const done = allTopics.filter(topic => completed[topic.id]).length;
+  const total = allTopics.length;
+  const percentage = total ? Math.round(done / total * 100) : 0;
+
+  document.getElementById("doneCount").textContent = done;
+  document.getElementById("totalCount").textContent = total;
+  document.getElementById("percent").textContent = percentage + "%";
+}
+
+function renderCards() {
+  const container = document.getElementById("subjectCards");
+
+  container.innerHTML = data.map(subject => {
+    const topics = allTopics.filter(t => t.subject === subject.subject);
+    const done = topics.filter(t => completed[t.id]).length;
+    const percentage = topics.length
+      ? Math.round(done / topics.length * 100)
+      : 0;
+
+    return `
+      <div class="subject">
+        <div class="tag">${subject.icon} ${subject.subject}</div>
+        <h3>${subject.subject}</h3>
+        <p>${subject.desc}</p>
+        <div class="progressline">
+          <i style="width:${percentage}%"></i>
+        </div>
+        <div class="progressmeta">
+          <span>${done} / ${topics.length} topics</span>
+          <span>${percentage}%</span>
+        </div>
+      </div>
+    `;
+  }).join("");
+}
+
+function renderTopics() {
+  const query = document.getElementById("search").value.toLowerCase().trim();
+  const subjectFilter = document.getElementById("subjectFilter").value;
+  const statusFilter = document.getElementById("statusFilter").value;
+
+  const output = [];
+
+  data.forEach(subject => {
+    if (subjectFilter !== "all" && subjectFilter !== subject.subject) return;
+
+    subject.units.forEach((unit, unitIndex) => {
+      const visibleTopics = unit[1].map((topic, topicIndex) => ({
+        title:topic,
+        id:`${subject.subject}-${unitIndex}-${topicIndex}`
+      })).filter(topic => {
+        const matchesSearch = !query ||
+          `${subject.subject} ${unit[0]} ${topic.title}`.toLowerCase().includes(query);
+
+        const isDone = Boolean(completed[topic.id]);
+
+        const matchesStatus =
+          statusFilter === "all" ||
+          (statusFilter === "done" && isDone) ||
+          (statusFilter === "pending" && !isDone);
+
+        return matchesSearch && matchesStatus;
+      });
+
+      if (!visibleTopics.length) return;
+
+      const topicHTML = visibleTopics.map(topic => `
+        <label class="checkrow ${completed[topic.id] ? "done" : ""}">
+          <input
+            type="checkbox"
+            ${completed[topic.id] ? "checked" : ""}
+            onchange="toggleTopic('${topic.id}', this.checked)"
+          >
+          <span>${topic.title}</span>
+        </label>
+      `).join("");
+
+      const resourceHTML = links[subject.subject].map((link, index) => `
+        <a
+          class="resource ${index === 0 ? "primary" : ""}"
+          href="${link[1]}"
+          target="_blank"
+          rel="noopener"
+        >${link[0]} ↗</a>
+      `).join("");
+
+      output.push(`
+        <div class="topic-card ${query ? "open" : ""}">
+          <div
+            class="topic-top"
+            role="button"
+            tabindex="0"
+            aria-expanded="${query ? "true" : "false"}"
+            onclick="toggleUnit(this)"
+            onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();toggleUnit(this)}"
+          >
+            <div class="topic-num">${subject.icon}</div>
+            <div class="topic-title">
+              <strong>${unit[0]}</strong>
+              <small>${subject.subject} · ${visibleTopics.length} visible topics</small>
+            </div>
+            <span class="chev">⌄</span>
+          </div>
+
+          <div class="topic-body">
+            ${topicHTML}
+            <div class="resources">${resourceHTML}</div>
+          </div>
+        </div>
+      `);
+    });
+  });
+
+  document.getElementById("topicList").innerHTML =
+    output.join("") ||
+    '<div class="panel">No matching topics. Try another search or filter.</div>';
+}
+
+function toggleUnit(element) {
+  const card = element.parentElement;
+  card.classList.toggle("open");
+  element.setAttribute(
+    "aria-expanded",
+    card.classList.contains("open") ? "true" : "false"
+  );
+}
+
+function toggleTopic(id, value) {
+  completed[id] = value;
+  saveProgress();
+  renderTopics();
+}
+
+["search","subjectFilter","statusFilter"].forEach(id => {
+  const element = document.getElementById(id);
+  element.addEventListener(
+    id === "search" ? "input" : "change",
+    renderTopics
+  );
+});
+
+renderStats();
+renderCards();
+renderTopics();
+</script>
+
+</body>
+</html>
