@@ -1,0 +1,1475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>For Suhani ❤️ | Future Dr. Suhani</title>
+  <meta name="description" content="A personal, lovely and simple MBBS study space created with love for Suhani by Paarth.">
+  
+  <!-- Google Fonts & Tailwind CDN -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            rosebud: '#a64f73',
+            'rosebud-dark': '#8e385c',
+            'rosebud-light': '#fdf2f6',
+            blush: '#f8c9d9',
+            creamy: '#fffaf6',
+            charcoal: '#43343d',
+            mutedgray: '#85737e',
+            softpink: '#ffe8f0'
+          },
+          fontFamily: {
+            sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+            serif: ['"Playfair Display"', 'serif'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    /* Custom delicate scrollbars and aesthetic transitions */
+    ::-webkit-scrollbar {
+      width: 7px;
+      height: 7px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #fff5f8;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #eac5d4;
+      border-radius: 999px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #d89eb7;
+    }
+
+    .glass-card {
+      background: rgba(255, 255, 255, 0.94);
+      backdrop-filter: blur(12px);
+      border: 1px solid #fce3ec;
+    }
+
+    .tab-active {
+      background: #a64f73 !important;
+      color: #ffffff !important;
+      box-shadow: 0 4px 14px rgba(166, 79, 115, 0.28);
+    }
+
+    /* Subtle float animation for heart emblems */
+    @keyframes gentleFloat {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-6px); }
+    }
+    .float-slow {
+      animation: gentleFloat 4s ease-in-out infinite;
+    }
+  </style>
+</head>
+<body class="bg-creamy text-charcoal font-sans antialiased min-h-screen selection:bg-blush selection:text-rosebud-dark">
+
+  <!-- ============================================================= -->
+  <!-- 1. PASSWORD SCREEN                                            -->
+  <!-- ============================================================= -->
+  <div id="passwordScreen" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-gradient-to-br from-[#ffeef4] via-[#fff4f8] to-[#fce4ee]">
+    <div class="glass-card max-w-md w-full p-8 sm:p-10 rounded-3xl shadow-xl border border-[#fad5e3] text-center relative overflow-hidden">
+      <!-- Decorative background blurbs -->
+      <div class="absolute -top-12 -right-12 w-32 h-32 bg-blush/40 rounded-full blur-2xl pointer-events-none"></div>
+      <div class="absolute -bottom-10 -left-10 w-28 h-28 bg-[#f5cad9]/40 rounded-full blur-2xl pointer-events-none"></div>
+
+      <div class="inline-block text-5xl mb-4 float-slow">🌸</div>
+      
+      <span class="inline-block px-3 py-1 bg-rosebud-light text-rosebud text-xs font-semibold tracking-widest rounded-full uppercase mb-2">
+        A Little Place Just For You
+      </span>
+
+      <h1 class="font-serif text-3xl sm:text-4xl text-rosebud-dark font-bold my-2">
+        Hi, Suhani! ❤️
+      </h1>
+
+      <p class="text-mutedgray text-sm mb-6 leading-relaxed">
+        Welcome to your personal MBBS library & study sanctuary. Enter our secret password to step inside.
+      </p>
+
+      <form id="passwordForm" class="space-y-4">
+        <div class="relative">
+          <input 
+            type="password" 
+            id="passwordInput" 
+            placeholder="Enter password (e.g. SuPa)"
+            autocomplete="current-password"
+            class="w-full px-5 py-3.5 bg-[#fff8fa] border border-[#f2d0de] rounded-2xl text-center text-charcoal placeholder-mutedgray/60 focus:outline-none focus:ring-2 focus:ring-rosebud/50 focus:border-rosebud transition shadow-inner font-medium text-sm"
+            required
+          />
+        </div>
+
+        <button 
+          type="submit" 
+          class="w-full py-3.5 px-6 bg-gradient-to-r from-rosebud to-[#b95780] hover:from-[#954165] hover:to-rosebud text-white font-medium text-sm rounded-2xl shadow-md hover:shadow-lg transition-all duration-200 transform hover:-translate-y-0.5 active:translate-y-0 flex items-center justify-center gap-2"
+        >
+          <span>Open My Little World</span>
+          <span class="text-base">💕</span>
+        </button>
+
+        <p id="passwordError" class="text-rose-600 text-xs font-medium min-h-[1.25rem]"></p>
+      </form>
+
+      <div class="pt-4 border-t border-rose-100/80 mt-4">
+        <p class="font-serif italic text-rosebud text-xs">
+          Made with endless love by Paarth 💗
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- ============================================================= -->
+  <!-- 2. MAIN APPLICATION (Initially Hidden)                        -->
+  <!-- ============================================================= -->
+  <div id="website" class="hidden min-h-screen flex flex-col">
+    
+    <!-- Top Romantic Ribbon -->
+    <div class="bg-gradient-to-r from-[#ffe4ee] via-[#fff0f5] to-[#ffe4ee] border-b border-[#fcd5e5] py-2 px-4 text-center text-xs font-medium text-rosebud-dark flex items-center justify-center gap-2">
+      <span>✨</span>
+      <span>Future Dr. Suhani · Studying hard today for your white coat tomorrow</span>
+      <span>✨</span>
+    </div>
+
+    <!-- Header Navigation -->
+    <header class="sticky top-0 z-40 glass-card border-b border-[#f6d7e4]">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 sm:h-20 flex items-center justify-between">
+        <div class="flex items-center gap-3">
+          <span class="text-2xl p-2 bg-rosebud-light rounded-2xl text-rosebud">🩺</span>
+          <div>
+            <a href="#" class="font-serif text-xl sm:text-2xl font-bold text-rosebud-dark tracking-tight flex items-center gap-1.5">
+              For Suhani <span class="text-rose-400 font-sans text-lg">♡</span>
+            </a>
+            <p class="text-[11px] text-mutedgray hidden sm:block">Curated MBBS 1st Year Companion</p>
+          </div>
+        </div>
+
+        <!-- Quick motivational pill -->
+        <div class="flex items-center gap-3">
+          <button 
+            id="cheerUpBtn" 
+            title="Click for a quick hug & smile!"
+            class="hidden md:flex items-center gap-2 text-xs font-medium bg-rosebud-light hover:bg-[#fae2ec] text-rosebud px-3 py-1.5 rounded-full border border-[#f7cadc] transition transform active:scale-95 shadow-sm"
+          >
+            <span>💌 Need a smile?</span>
+          </button>
+          <button 
+            onclick="lockSite()" 
+            class="text-xs text-mutedgray hover:text-rosebud-dark border border-[#f0c8d9] px-3 py-1.5 rounded-full bg-white transition hover:bg-rose-50"
+          >
+            🔒 Lock
+          </button>
+        </div>
+      </div>
+
+      <!-- Navigation Tabs -->
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        <nav class="flex gap-2 sm:gap-4 overflow-x-auto py-2.5 no-scrollbar text-xs sm:text-sm font-medium">
+          <button onclick="switchTab('library')" id="tab-library" class="nav-tab px-4 py-2 rounded-xl transition whitespace-nowrap tab-active flex items-center gap-2">
+            <span>📚</span>
+            <span>Books & Drive Library</span>
+            <span id="bookCountBadge" class="ml-1 text-[10px] bg-white/20 px-1.5 py-0.5 rounded-full">43</span>
+          </button>
+          
+          <button onclick="switchTab('syllabus')" id="tab-syllabus" class="nav-tab px-4 py-2 rounded-xl text-charcoal hover:text-rosebud hover:bg-rosebud-light transition whitespace-nowrap flex items-center gap-2">
+            <span>📝</span>
+            <span>Syllabus Tracker</span>
+          </button>
+
+          <button onclick="switchTab('plan')" id="tab-plan" class="nav-tab px-4 py-2 rounded-xl text-charcoal hover:text-rosebud hover:bg-rosebud-light transition whitespace-nowrap flex items-center gap-2">
+            <span>🌸</span>
+            <span>Routine & Method</span>
+          </button>
+
+          <button onclick="switchTab('love')" id="tab-love" class="nav-tab px-4 py-2 rounded-xl text-charcoal hover:text-rosebud hover:bg-rosebud-light transition whitespace-nowrap flex items-center gap-2">
+            <span>💌</span>
+            <span>From Paarth</span>
+          </button>
+        </nav>
+      </div>
+    </header>
+
+
+    <!-- Main Body Container -->
+    <main class="max-w-6xl mx-auto px-4 sm:px-6 py-6 sm:py-8 flex-1 w-full space-y-8">
+
+      <!-- HERO / GREETING BANNER -->
+      <section class="glass-card rounded-3xl p-6 sm:p-8 border border-[#f8d4e3] relative overflow-hidden shadow-sm">
+        <div class="relative z-10 flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
+          <div class="max-w-xl">
+            <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-rosebud-light text-rosebud mb-3">
+              <span>🌸</span> Welcome to your calm space
+            </span>
+            <h2 class="font-serif text-2xl sm:text-3xl text-rosebud-dark font-bold leading-tight">
+              Keep shining, Puchu. Every page brings you closer! 🩺
+            </h2>
+            <p class="text-mutedgray text-xs sm:text-sm mt-2 leading-relaxed">
+              All 43 textbooks, atlases, and high-yield notes are connected with direct Google Drive links. Read online, preview instantly, or download anytime with one touch.
+            </p>
+          </div>
+
+          <!-- Overall Mini Progress Meter -->
+          <div class="w-full md:w-64 bg-white/80 p-4 rounded-2xl border border-rose-100 shadow-sm flex flex-col justify-between">
+            <div class="flex items-center justify-between text-xs font-semibold mb-2">
+              <span class="text-rosebud-dark">Syllabus Progress</span>
+              <span id="heroProgressPercent" class="text-rosebud font-bold">0%</span>
+            </div>
+            <div class="w-full bg-[#fae8f0] h-2.5 rounded-full overflow-hidden">
+              <div id="heroProgressBar" class="h-full bg-gradient-to-r from-blush to-rosebud transition-all duration-500 rounded-full" style="width: 0%"></div>
+            </div>
+            <p id="heroProgressText" class="text-[11px] text-mutedgray mt-2 italic text-center">
+              0 of 86 topics mastered
+            </p>
+          </div>
+        </div>
+      </section>
+
+
+      <!-- ============================================================= -->
+      <!-- TAB 1: BOOKS & DIGITAL LIBRARY (Alphabetical, 43 books)       -->
+      <!-- ============================================================= -->
+      <section id="panel-library" class="tab-panel space-y-6">
+        
+        <!-- Controls: Filter & Search -->
+        <div class="glass-card p-4 sm:p-5 rounded-2xl flex flex-col sm:flex-row gap-4 justify-between items-center border border-[#fad4e3]">
+          
+          <!-- Category Pills -->
+          <div class="flex flex-wrap gap-1.5 w-full sm:w-auto">
+            <button onclick="filterBooks('all')" class="book-cat-btn px-3.5 py-1.5 rounded-full text-xs font-semibold bg-rosebud text-white shadow-sm" data-category="all">
+              All Books (43)
+            </button>
+            <button onclick="filterBooks('anatomy')" class="book-cat-btn px-3.5 py-1.5 rounded-full text-xs font-medium text-charcoal bg-[#fff1f6] hover:bg-rosebud-light" data-category="anatomy">
+              🦴 Anatomy (27)
+            </button>
+            <button onclick="filterBooks('physiology')" class="book-cat-btn px-3.5 py-1.5 rounded-full text-xs font-medium text-charcoal bg-[#fff1f6] hover:bg-rosebud-light" data-category="physiology">
+              ❤️ Physiology (6)
+            </button>
+            <button onclick="filterBooks('biochemistry')" class="book-cat-btn px-3.5 py-1.5 rounded-full text-xs font-medium text-charcoal bg-[#fff1f6] hover:bg-rosebud-light" data-category="biochemistry">
+              🧬 Biochemistry (10)
+            </button>
+          </div>
+
+          <!-- Search Input -->
+          <div class="relative w-full sm:w-72">
+            <input 
+              type="text" 
+              id="bookSearchInput" 
+              placeholder="Search by title, author, topic..." 
+              oninput="handleBookSearch()"
+              class="w-full pl-9 pr-4 py-2.5 bg-white border border-[#f3cadb] rounded-full text-xs text-charcoal placeholder-mutedgray/60 focus:outline-none focus:ring-2 focus:ring-rosebud/40 focus:border-rosebud"
+            />
+            <span class="absolute left-3 top-3 text-xs text-mutedgray">🔍</span>
+          </div>
+        </div>
+
+        <!-- Quick Alphabetical Navigation & Drive Status Banner -->
+        <div class="bg-rosebud-light/70 border border-[#fcd5e5] rounded-2xl p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs text-mutedgray">
+          <div class="flex items-center gap-2">
+            <span class="text-base text-rosebud">☁️</span>
+            <div>
+              <strong class="text-rosebud-dark font-medium">43 Books in Alphabetical Order:</strong>
+              <span>Numbered books appear first, followed by A to Z with direct Google Drive access.</span>
+            </div>
+          </div>
+          <span class="text-[11px] font-semibold text-rosebud bg-white px-3 py-1 rounded-full border border-rose-200 self-start sm:self-auto">
+            All 43 Drive Links Active ✓
+          </span>
+        </div>
+
+        <!-- Books Grid Container -->
+        <div id="booksGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5">
+          <!-- Populated dynamically via JS in alphabetical order -->
+        </div>
+
+        <!-- Empty Search State -->
+        <div id="emptyBooksMsg" class="hidden text-center py-16 bg-white/60 rounded-3xl border border-dashed border-rose-200">
+          <span class="text-4xl block mb-2">🔍</span>
+          <h4 class="font-serif text-lg text-rosebud-dark font-bold">No books match that search</h4>
+          <p class="text-xs text-mutedgray mt-1">Try another keyword or switch category filters.</p>
+        </div>
+
+      </section>
+
+
+      <!-- ============================================================= -->
+      <!-- TAB 2: SYLLABUS & CHECKLIST TRACKER                           -->
+      <!-- ============================================================= -->
+      <section id="panel-syllabus" class="tab-panel hidden space-y-6">
+        
+        <div class="glass-card p-6 rounded-3xl border border-[#fad4e3] flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+          <div>
+            <span class="text-xs font-semibold tracking-wider uppercase text-rosebud">Competency Based MBBS Curriculum</span>
+            <h3 class="font-serif text-2xl font-bold text-rosebud-dark">1st Year Syllabus Checklist</h3>
+            <p class="text-xs text-mutedgray mt-1">Tick off topics as you attend lectures or revise. Everything automatically saves.</p>
+          </div>
+          
+          <div class="flex items-center gap-2">
+            <button onclick="resetSyllabusPrompt()" class="text-xs text-mutedgray hover:text-rose-600 bg-white border border-rose-200 px-3 py-1.5 rounded-full transition">
+              Reset Progress
+            </button>
+          </div>
+        </div>
+
+        <!-- Subject Pickers -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4" id="subjectCards">
+          <!-- Populated by JS -->
+        </div>
+
+        <!-- Active Subject Details -->
+        <div id="studyArea" class="space-y-4">
+          <!-- Populated by JS -->
+        </div>
+
+      </section>
+
+
+      <!-- ============================================================= -->
+      <!-- TAB 3: STUDY ROUTINE & THE SUHANI METHOD                      -->
+      <!-- ============================================================= -->
+      <section id="panel-plan" class="tab-panel hidden space-y-8">
+        
+        <!-- SUHANI Method -->
+        <div class="glass-card p-6 sm:p-8 rounded-3xl border border-[#fad4e3]">
+          <div class="text-center max-w-lg mx-auto mb-6">
+            <span class="text-xs font-semibold uppercase tracking-widest text-rosebud">Exclusive For You</span>
+            <h3 class="font-serif text-2xl sm:text-3xl font-bold text-rosebud-dark mt-1">The SUHANI Method ❤️</h3>
+            <p class="text-xs text-mutedgray mt-1">A gentle daily philosophy crafted specifically with your name.</p>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
+              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">S</div>
+              <div>
+                <h4 class="font-medium text-sm text-charcoal">Study with Calm Focus</h4>
+                <p class="text-xs text-mutedgray mt-0.5">Eliminate distractions. Quality of 45 focused minutes always beats 3 hours of stressed skimming.</p>
+              </div>
+            </div>
+
+            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
+              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">U</div>
+              <div>
+                <h4 class="font-medium text-sm text-charcoal">Understand Concepts First</h4>
+                <p class="text-xs text-mutedgray mt-0.5">Connect anatomy structure to physiology functions. Don't just rote learn—visualize it!</p>
+              </div>
+            </div>
+
+            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
+              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">H</div>
+              <div>
+                <h4 class="font-medium text-sm text-charcoal">Habituate Consistency</h4>
+                <p class="text-xs text-mutedgray mt-0.5">Even on rough days, doing just one diagram or one metabolic cycle keeps the momentum alive.</p>
+              </div>
+            </div>
+
+            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
+              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">A</div>
+              <div>
+                <h4 class="font-medium text-sm text-charcoal">Apply with Clinical Diagrams</h4>
+                <p class="text-xs text-mutedgray mt-0.5">Practice sketching simplified diagrams and clinical correlations like a real doctor.</p>
+              </div>
+            </div>
+
+            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
+              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">N</div>
+              <div>
+                <h4 class="font-medium text-sm text-charcoal">Never Hesitate to Rest</h4>
+                <p class="text-xs text-mutedgray mt-0.5">Hydrate, eat good food, and sleep well. Your brain consolidates memory when you sleep, Puchu.</p>
+              </div>
+            </div>
+
+            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
+              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">I</div>
+              <div>
+                <h4 class="font-medium text-sm text-charcoal">Inspire Yourself Daily</h4>
+                <p class="text-xs text-mutedgray mt-0.5">Remember why you started. You have the heart and kindness needed to be an exceptional doctor.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Weekly Balanced Rhythm -->
+        <div class="glass-card p-6 rounded-3xl border border-[#fad4e3]">
+          <h4 class="font-serif text-lg font-bold text-rosebud-dark mb-1">Your Stress-Free Weekly Flow</h4>
+          <p class="text-xs text-mutedgray mb-4">A gentle distribution of high-yield subjects throughout the week.</p>
+          
+          <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-2.5 text-center text-xs">
+            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
+              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Mon</div>
+              <div class="font-medium text-charcoal mt-1">Anatomy</div>
+              <div class="text-[10px] text-mutedgray mt-0.5">Dissection & Bones</div>
+            </div>
+            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
+              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Tue</div>
+              <div class="font-medium text-charcoal mt-1">Physiology</div>
+              <div class="text-[10px] text-mutedgray mt-0.5">CVS & Respiration</div>
+            </div>
+            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
+              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Wed</div>
+              <div class="font-medium text-charcoal mt-1">Biochemistry</div>
+              <div class="text-[10px] text-mutedgray mt-0.5">Metabolic Pathways</div>
+            </div>
+            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
+              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Thu</div>
+              <div class="font-medium text-charcoal mt-1">Histology</div>
+              <div class="text-[10px] text-mutedgray mt-0.5">Slides & Embryo</div>
+            </div>
+            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
+              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Fri</div>
+              <div class="font-medium text-charcoal mt-1">Physio Practicals</div>
+              <div class="text-[10px] text-mutedgray mt-0.5">Clinical exams & labs</div>
+            </div>
+            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
+              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Sat</div>
+              <div class="font-medium text-charcoal mt-1">High-Yield MCQs</div>
+              <div class="text-[10px] text-mutedgray mt-0.5">Quick active recall</div>
+            </div>
+            <div class="bg-gradient-to-b from-[#fff2f7] to-[#ffe5f0] p-3 rounded-2xl border border-rose-200 shadow-xs">
+              <div class="font-bold text-rosebud-dark text-[11px] tracking-wider uppercase">Sun</div>
+              <div class="font-medium text-rosebud-dark mt-1">Rest & Recharge</div>
+              <div class="text-[10px] text-rosebud mt-0.5">Relax, you earned it!</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Essential External Medical References -->
+        <div class="glass-card p-6 rounded-3xl border border-[#fad4e3]">
+          <h4 class="font-serif text-lg font-bold text-rosebud-dark mb-1">Recommended Quick Links</h4>
+          <p class="text-xs text-mutedgray mb-4">Bookmarked websites for when you need quick conceptual clarity.</p>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+            <a href="https://teachmeanatomy.info/" target="_blank" rel="noopener" class="p-3 bg-white rounded-2xl border border-rose-100 hover:border-rosebud/50 transition flex items-center justify-between text-xs group">
+              <div>
+                <p class="font-semibold text-charcoal group-hover:text-rosebud">TeachMeAnatomy</p>
+                <p class="text-[11px] text-mutedgray">Crisp anatomy diagrams</p>
+              </div>
+              <span class="text-rosebud">↗</span>
+            </a>
+            <a href="https://www.ninjanerd.org/" target="_blank" rel="noopener" class="p-3 bg-white rounded-2xl border border-rose-100 hover:border-rosebud/50 transition flex items-center justify-between text-xs group">
+              <div>
+                <p class="font-semibold text-charcoal group-hover:text-rosebud">Ninja Nerd Science</p>
+                <p class="text-[11px] text-mutedgray">Best physio & biochem videos</p>
+              </div>
+              <span class="text-rosebud">↗</span>
+            </a>
+            <a href="https://www.kenhub.com/en/library/anatomy" target="_blank" rel="noopener" class="p-3 bg-white rounded-2xl border border-rose-100 hover:border-rosebud/50 transition flex items-center justify-between text-xs group">
+              <div>
+                <p class="font-semibold text-charcoal group-hover:text-rosebud">Kenhub Anatomy</p>
+                <p class="text-[11px] text-mutedgray">Histology & atlases</p>
+              </div>
+              <span class="text-rosebud">↗</span>
+            </a>
+          </div>
+        </div>
+
+      </section>
+
+
+      <!-- ============================================================= -->
+      <!-- TAB 4: LOVE NOTE FROM PAARTH                                  -->
+      <!-- ============================================================= -->
+      <section id="panel-love" class="tab-panel hidden space-y-6">
+        
+        <div class="max-w-2xl mx-auto glass-card p-8 sm:p-12 rounded-3xl border border-[#f7cadc] shadow-md text-center relative overflow-hidden">
+          
+          <div class="text-4xl mb-4 float-slow">💌</div>
+
+          <span class="inline-block px-3 py-1 bg-rosebud-light text-rosebud text-xs font-semibold tracking-widest rounded-full uppercase mb-3">
+            To My Dearest Suhani
+          </span>
+
+          <h3 class="font-serif text-2xl sm:text-3xl text-rosebud-dark font-bold mb-4">
+            You're Going To Be An Incredible Doctor ❤️
+          </h3>
+
+          <div class="space-y-4 text-xs sm:text-sm text-charcoal/90 leading-relaxed font-sans text-left bg-white/70 p-6 rounded-2xl border border-rose-100">
+            <p>
+              Hey Puchu,
+            </p>
+            <p>
+              I know MBBS gets overwhelmingly heavy sometimes. Between the vast volumes of BDC, the endless biochemical cycles, and the never-ending viva topics, it's completely normal to feel tired or doubt yourself once in a while.
+            </p>
+            <p>
+              Whenever that happens, I want you to take a deep breath and remember how hard you worked to be here. You are remarkably smart, resilient, and genuine. You don't have to conquer the whole syllabus in a single day—just one topic, one diagram, one page at a time.
+            </p>
+            <p>
+              I made this little space so you'd never have to dig through messy Telegram chats or search around for your textbooks, and so you'd have a gentle reminder that wherever you are and whatever you're studying, I am always right here rooting for you with all my heart.
+            </p>
+            <p class="font-semibold text-rosebud-dark pt-2">
+              Eat properly, drink plenty of water, and keep your sweet smile intact. I love you so much!
+            </p>
+          </div>
+
+          <div class="mt-6 flex flex-col items-center">
+            <span class="text-2xl text-rosebud mb-1">♡</span>
+            <p class="font-serif italic text-base text-rosebud-dark font-medium">Forever cheering for you,</p>
+            <p class="font-serif font-bold text-lg text-rosebud-dark mt-0.5">Your Paarth 💗</p>
+            <p class="text-[11px] text-mutedgray mt-3">One chapter at a time. One dream at a time.</p>
+          </div>
+
+        </div>
+
+      </section>
+
+    </main>
+
+
+    <!-- PDF / Drive Viewer Modal -->
+    <div id="pdfModal" class="fixed inset-0 z-50 hidden bg-black/60 backdrop-blur-sm flex items-center justify-center p-2 sm:p-4">
+      <div class="bg-white w-full max-w-5xl h-[92vh] rounded-3xl overflow-hidden flex flex-col shadow-2xl border border-rose-200">
+        
+        <!-- Viewer Header -->
+        <div class="px-5 py-3.5 bg-gradient-to-r from-[#fff0f5] to-[#ffe5ee] border-b border-[#fad2e2] flex items-center justify-between">
+          <div class="flex items-center gap-2.5 overflow-hidden">
+            <span class="text-lg">📖</span>
+            <h4 id="pdfModalTitle" class="font-serif font-bold text-sm sm:text-base text-rosebud-dark truncate">Book Title</h4>
+          </div>
+          <div class="flex items-center gap-2">
+            <a id="modalDirectDriveLink" href="#" target="_blank" rel="noopener" class="text-xs bg-rosebud text-white hover:bg-rosebud-dark px-3.5 py-1.5 rounded-full font-medium transition flex items-center gap-1 shadow-sm">
+              <span>Open in Drive</span> <span>↗</span>
+            </a>
+            <button onclick="closePdfModal()" class="w-8 h-8 rounded-full bg-white text-mutedgray hover:text-rosebud-dark hover:bg-rose-50 flex items-center justify-center border border-rose-200 font-bold transition">
+              ✕
+            </button>
+          </div>
+        </div>
+
+        <!-- Viewer Iframe / Placeholder -->
+        <div class="flex-1 bg-gray-100 relative">
+          <iframe id="pdfFrame" class="w-full h-full border-0" src="about:blank" allow="autoplay"></iframe>
+        </div>
+
+      </div>
+    </div>
+
+
+    <!-- Cheerful Love Alert Toast -->
+    <div id="loveToast" class="fixed bottom-6 right-6 z-50 transform translate-y-24 opacity-0 transition-all duration-300 pointer-events-none">
+      <div class="glass-card bg-white p-4 rounded-2xl shadow-xl border border-rose-200 flex items-center gap-3 max-w-sm">
+        <span class="text-2xl">💖</span>
+        <div>
+          <h5 class="font-serif font-bold text-xs text-rosebud-dark">Paarth's Quick Cheer:</h5>
+          <p id="toastMessage" class="text-xs text-charcoal mt-0.5 font-medium">You are doing so well, Suhani!</p>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Footer -->
+    <footer class="glass-card border-t border-[#fad4e3] mt-12 py-6 text-center text-xs text-mutedgray">
+      <div class="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
+        <div class="flex items-center gap-1.5 font-serif text-rosebud font-medium">
+          <span>Made with love for Suhani</span>
+          <span>♡</span>
+          <span>By Paarth</span>
+        </div>
+        <p class="text-[11px]">
+          All study checklists are saved locally on this browser.
+        </p>
+      </div>
+    </footer>
+
+  </div>
+
+
+  <!-- ============================================================= -->
+  <!-- 3. JAVASCRIPT LOGIC                                           -->
+  <!-- ============================================================= -->
+  <script>
+    // -------------------------------------------------------------
+    // A. PASSWORD PROTECTION & SESSION
+    // -------------------------------------------------------------
+    const SECRET_PASSWORD = "SuPa";
+    const passwordScreen = document.getElementById("passwordScreen");
+    const passwordForm = document.getElementById("passwordForm");
+    const passwordInput = document.getElementById("passwordInput");
+    const passwordError = document.getElementById("passwordError");
+    const website = document.getElementById("website");
+
+    function unlockApp() {
+      passwordScreen.style.display = "none";
+      website.classList.remove("hidden");
+    }
+
+    function lockSite() {
+      sessionStorage.removeItem("suhaniMBBSAccess");
+      window.location.reload();
+    }
+
+    // Check existing session
+    if (sessionStorage.getItem("suhaniMBBSAccess") === "true") {
+      unlockApp();
+    }
+
+    passwordForm.addEventListener("submit", function(e) {
+      e.preventDefault();
+      if (passwordInput.value.trim() === SECRET_PASSWORD) {
+        sessionStorage.setItem("suhaniMBBSAccess", "true");
+        passwordError.textContent = "";
+        unlockApp();
+      } else {
+        passwordError.textContent = "Oops! That's not our secret password. Try again, Puchu! 💗";
+        passwordInput.value = "";
+        passwordInput.focus();
+      }
+    });
+
+
+    // -------------------------------------------------------------
+    // B. DIGITAL BOOKSHELF DATA (Alphabetical Order, Numbers First)
+    // All 43 exact books with their Google Drive links
+    // -------------------------------------------------------------
+    const BOOKS_DATA = [
+      {
+        order: 1,
+        title: "16- Lang's FULL anatomy MCQs",
+        category: "anatomy",
+        author: "Lang",
+        type: "MCQ Bank & Assessment",
+        driveUrl: "https://drive.google.com/file/d/1UGBgrqI7j6eDKwjOpSGNrQ4cuks6VplQ/view?usp=drive_link"
+      },
+      {
+        order: 2,
+        title: "AK Jain Physiology",
+        category: "physiology",
+        author: "A.K. Jain",
+        type: "Core Textbook",
+        driveUrl: "https://drive.google.com/file/d/1V8JgWr1su6BblE4_3woAcz8mEuUbggZP/view?usp=drive_link"
+      },
+      {
+        order: 3,
+        title: "Anatomy Cadaveric Atlas",
+        category: "anatomy",
+        author: "Medical Dissection Department",
+        type: "Dissection Atlas",
+        driveUrl: "https://drive.google.com/file/d/1iDEIqMvKMo0H9hU6R46PotuuOoZc_9Ty/view?usp=drive_link"
+      },
+      {
+        order: 4,
+        title: "Anatomy Images (all in one Merged)",
+        category: "anatomy",
+        author: "High-Yield Compendium",
+        type: "Visual Atlas",
+        driveUrl: "https://drive.google.com/file/d/1zr65tloZLFKdWJ6FuVkkuPKVczhlJzUX/view?usp=drive_link"
+      },
+      {
+        order: 5,
+        title: "Anatomy MCQ's",
+        category: "anatomy",
+        author: "Exam Prep Series",
+        type: "Question Bank",
+        driveUrl: "https://drive.google.com/file/d/1VW0jIc8QYrIJQo3-cK9BDXR_Uc4X4v7g/view?usp=drive_link"
+      },
+      {
+        order: 6,
+        title: "Anatomy MCQs",
+        category: "anatomy",
+        author: "Medical Faculty Series",
+        type: "Practice MCQs",
+        driveUrl: "https://drive.google.com/file/d/1r65tMlFeok9tQtvAavk_ljrMaw3lagIK/view?usp=drive_link"
+      },
+      {
+        order: 7,
+        title: "BAP Viva",
+        category: "anatomy",
+        author: "Viva Examiners Guild",
+        type: "Practical Viva Guide",
+        driveUrl: "https://drive.google.com/file/d/1bwr3V11x0jYjjTqMJMk57ba2AqsnAvNO/view?usp=drive_link"
+      },
+      {
+        order: 8,
+        title: "BD Chaurasia General Anatomy (4th Ed)",
+        category: "anatomy",
+        author: "B.D. Chaurasia",
+        type: "General Anatomy & Tissues",
+        driveUrl: "https://drive.google.com/file/d/1xfb5ld1VhsrTXWpdWIvry7eQ4Ey2lw5Q/view?usp=drive_link"
+      },
+      {
+        order: 9,
+        title: "BD-Chaurasia's-Human-Anatomy-Volume-1",
+        category: "anatomy",
+        author: "B.D. Chaurasia",
+        type: "Upper Limb & Thorax",
+        driveUrl: "https://drive.google.com/file/d/1uLQu0GQbs9Xr-jD9beqmjO-AGyP_a0i5/view?usp=drive_link"
+      },
+      {
+        order: 10,
+        title: "BD-Chaurasia's-Human-Anatomy-Volume-2",
+        category: "anatomy",
+        author: "B.D. Chaurasia",
+        type: "Lower Limb, Abdomen & Pelvis",
+        driveUrl: "https://drive.google.com/file/d/141UCSqfZ-z00HC6Hc2aNFauh7Cts0FfM/view?usp=drive_link"
+      },
+      {
+        order: 11,
+        title: "BDC volume 1 latest Edition 10",
+        category: "anatomy",
+        author: "B.D. Chaurasia",
+        type: "10th Edition Core (Vol 1)",
+        driveUrl: "https://drive.google.com/file/d/183xy7KQUNCYg05_11AOmistPN9qmnW-w/view?usp=drive_link"
+      },
+      {
+        order: 12,
+        title: "BDC volume 2 latest Edition 10",
+        category: "anatomy",
+        author: "B.D. Chaurasia",
+        type: "10th Edition Core (Vol 2)",
+        driveUrl: "https://drive.google.com/file/d/11WYpjKkZip0scbBNbyJc0UiuHv9lkUS0/view?usp=drive_link"
+      },
+      {
+        order: 13,
+        title: "BDC volume 3,4 latest Edition 10",
+        category: "anatomy",
+        author: "B.D. Chaurasia",
+        type: "10th Edition Core (Vol 3 & 4)",
+        driveUrl: "https://drive.google.com/file/d/1PbigDU3QMSv6qQ0ESGAJ5V8f1vtDkz7f/view?usp=drive_link"
+      },
+      {
+        order: 14,
+        title: "Biochemistry by U Satyanarayan 4th Edition",
+        category: "biochemistry",
+        author: "U. Satyanarayana & U. Chakrapani",
+        type: "Standard Core Textbook",
+        driveUrl: "https://drive.google.com/file/d/1XxieH9HCpAe30iYaHkiBksPGb-xDX6YS/view?usp=drive_link"
+      },
+      {
+        order: 15,
+        title: "Biochemistry Case",
+        category: "biochemistry",
+        author: "Clinical Faculty",
+        type: "Case Studies & Problem-Based",
+        driveUrl: "https://drive.google.com/file/d/18LGbBwxwe5AWpLd1pQ2G2MtoE7jvVJT7/view?usp=drive_link"
+      },
+      {
+        order: 16,
+        title: "biochemistry Dinesh puri3rd",
+        category: "biochemistry",
+        author: "Dinesh Puri",
+        type: "Core Textbook (3rd Ed)",
+        driveUrl: "https://drive.google.com/file/d/1E3EJfngr7MbvmiMaFC9LYyxDTKHlnIyK/view?usp=drive_link"
+      },
+      {
+        order: 17,
+        title: "biochemistry v k Malhotra12th",
+        category: "biochemistry",
+        author: "V.K. Malhotra",
+        type: "Practical & Theory Manual",
+        driveUrl: "https://drive.google.com/file/d/1WaKdNqFpUAaMQEJI6pQALluSvBP8h3Ol/view?usp=drive_link"
+      },
+      {
+        order: 18,
+        title: "Biochemistry_at_a_Glance",
+        category: "biochemistry",
+        author: "J.G. Salway",
+        type: "Concise Rapid Revision",
+        driveUrl: "https://drive.google.com/file/d/10n8J4skkXwmspv_66qOSiYc7mO89N8qh/view?usp=drive_link"
+      },
+      {
+        order: 19,
+        title: "BRS Physiology",
+        category: "physiology",
+        author: "Linda S. Costanzo",
+        type: "Board Review Series (High-Yield)",
+        driveUrl: "https://drive.google.com/file/d/1avRRgxxmVzV75SNhH49w4J537mUBY394/view?usp=drive_link"
+      },
+      {
+        order: 20,
+        title: "Case Study Biochemistry",
+        category: "biochemistry",
+        author: "Clinical Biochemistry Series",
+        type: "Case-Based Scenarios",
+        driveUrl: "https://drive.google.com/file/d/1Sj1YNqF5kqoSItzXmAH22aQKASIg1I-0/view?usp=drive_link"
+      },
+      {
+        order: 21,
+        title: "Ganongs Review of Medical Physiology_ 25th Edition",
+        category: "physiology",
+        author: "Kim E. Barrett et al.",
+        type: "Standard Advanced Reference",
+        driveUrl: "https://drive.google.com/file/d/1Ah7vDq0bG0nbSp2WQqVgAIWCLOaIAY-W/view?usp=drive_link"
+      },
+      {
+        order: 22,
+        title: "Gray's Anatomy",
+        category: "anatomy",
+        author: "Richard L. Drake et al.",
+        type: "Gold Standard Anatomy",
+        driveUrl: "https://drive.google.com/file/d/13OdsJZnJVssYtJzbzPeGwLownMfG4qEf/view?usp=drive_link"
+      },
+      {
+        order: 23,
+        title: "Guyton & Hall Physiology",
+        category: "physiology",
+        author: "John E. Hall & Arthur C. Guyton",
+        type: "Global Benchmark Textbook",
+        driveUrl: "https://drive.google.com/file/d/1O3wyF5_aIvtSV-VKhUhZsFWOtHTZdJ3n/view?usp=drive_link"
+      },
+      {
+        order: 24,
+        title: "Harper Lipincott Biochemistry",
+        category: "biochemistry",
+        author: "Lippincott Illustrated Series",
+        type: "Visual Review & Clinical Summary",
+        driveUrl: "https://drive.google.com/file/d/1eKpk2v4PhPFAO1qEgi9w1pgTL3pmZ7vj/view?usp=drive_link"
+      },
+      {
+        order: 25,
+        title: "harpers-illustrated-biochemistry-28th-edition",
+        category: "biochemistry",
+        author: "Robert K. Murray et al.",
+        type: "Illustrated 28th Edition",
+        driveUrl: "https://drive.google.com/file/d/1GVvyMoFiaSJ1f6-4gDZn1TTRfHn1Q3M1/view?usp=drive_link"
+      },
+      {
+        order: 26,
+        title: "Human Genetics Gangane",
+        category: "anatomy",
+        author: "S.D. Gangane",
+        type: "Medical Genetics & Inheritance",
+        driveUrl: "https://drive.google.com/file/d/1vlcISajpb8GDBtkKehYGi5DesME0SQhp/view?usp=drive_link"
+      },
+      {
+        order: 27,
+        title: "Langman Embryology",
+        category: "anatomy",
+        author: "T.W. Sadler",
+        type: "Medical Embryology",
+        driveUrl: "https://drive.google.com/file/d/12Qd950XD4O84CxDpo8DYYuIwFplUUw9k/view?usp=drive_link"
+      },
+      {
+        order: 28,
+        title: "Lower Limb Cadeveric Images -Dr. Ashwani Kumar",
+        category: "anatomy",
+        author: "Dr. Ashwani Kumar",
+        type: "Dissection Hall Cadaveric Atlas",
+        driveUrl: "https://drive.google.com/file/d/1M6U3EN1kjPuJ-12WPzNyABktsJ0i7zt3/view?usp=drive_link"
+      },
+      {
+        order: 29,
+        title: "Muscles in Tabular Form",
+        category: "anatomy",
+        author: "Medical Anatomy Tables",
+        type: "Origin, Insertion & Nerve Quick Table",
+        driveUrl: "https://drive.google.com/file/d/19XD4tZasgG_lav-0tKwyapwN4YVQiOY7/view?usp=drive_link"
+      },
+      {
+        order: 30,
+        title: "Netter atlas of physiology",
+        category: "physiology",
+        author: "Frank H. Netter",
+        type: "Illustrated Visual Physiology",
+        driveUrl: "https://drive.google.com/file/d/1qCjwVN4i8naXpAfzmBVR3uOHV-4MNqkV/view?usp=drive_link"
+      },
+      {
+        order: 31,
+        title: "Netter's Atlas of Human Anatomy 7th edition",
+        category: "anatomy",
+        author: "Frank H. Netter",
+        type: "Classic Human Anatomy Atlas",
+        driveUrl: "https://drive.google.com/file/d/1t0eip4e-1_Vnd-G--eA60TCJ5NqdVpDO/view?usp=drive_link"
+      },
+      {
+        order: 32,
+        title: "Neuroanatomy Cadeveric Images -Dr.Ashwani Kumar",
+        category: "anatomy",
+        author: "Dr. Ashwani Kumar",
+        type: "Dissection Hall Neuro Atlas",
+        driveUrl: "https://drive.google.com/file/d/1Zl4Vix4MIX5y5LGmGU7X2YFur28X-gJL/view?usp=drive_link"
+      },
+      {
+        order: 33,
+        title: "Selective Anatomy Vishram Singh vol 1",
+        category: "anatomy",
+        author: "Vishram Singh",
+        type: "Selective Exam Prep (Vol 1)",
+        driveUrl: "https://drive.google.com/file/d/1cH5ACQzZS6b2a73SBn9H7KkY_Q2HALxU/view?usp=drive_link"
+      },
+      {
+        order: 34,
+        title: "Selective Anatomy Vishram Singh vol 2",
+        category: "anatomy",
+        author: "Vishram Singh",
+        type: "Selective Exam Prep (Vol 2)",
+        driveUrl: "https://drive.google.com/file/d/1s_ono8l7ot6X9KReobf2uMQlwRrEfGZ5/view?usp=drive_link"
+      },
+      {
+        order: 35,
+        title: "Sembulingum Physio",
+        category: "physiology",
+        author: "K. Sembulingam & Prema Sembulingam",
+        type: "Essential Medical Physiology",
+        driveUrl: "https://drive.google.com/file/d/1iuvRxl7Uzd_PeubkWQkb-v5IMhtbpaMq/view?usp=drive_link"
+      },
+      {
+        order: 36,
+        title: "SN Kazi Vol 1",
+        category: "anatomy",
+        author: "Dr. S.N. Kazi",
+        type: "Anatomy Viva Companion (Vol 1)",
+        driveUrl: "https://drive.google.com/file/d/1d2MCwceznOqmf0Pm57JoZGnd6Wb4i_Qr/view?usp=drive_link"
+      },
+      {
+        order: 37,
+        title: "SN Kazi Vol 2",
+        category: "anatomy",
+        author: "Dr. S.N. Kazi",
+        type: "Anatomy Viva Companion (Vol 2)",
+        driveUrl: "https://drive.google.com/file/d/1zuWgO9VerGSHCEPHlZvDTKcwMmxcvBkm/view?usp=drive_link"
+      },
+      {
+        order: 38,
+        title: "Unique Biochemistry",
+        category: "biochemistry",
+        author: "Unique Exam Master Series",
+        type: "Viva & Question Bank",
+        driveUrl: "https://drive.google.com/file/d/1ZcPgS9UMTXEWIt4fmB6gVWuQQnUqp4xx/view?usp=drive_link"
+      },
+      {
+        order: 39,
+        title: "Upper Limb Cadeveric Images -Dr. Ashwani Kumar",
+        category: "anatomy",
+        author: "Dr. Ashwani Kumar",
+        type: "Dissection Hall Cadaveric Atlas",
+        driveUrl: "https://drive.google.com/file/d/15NtVRNTCOp8_vmhMNEVBH-CQH53wdm6p/view?usp=drive_link"
+      },
+      {
+        order: 40,
+        title: "Vasudevan biochemistry",
+        category: "biochemistry",
+        author: "D.M. Vasudevan & Sreekumari S.",
+        type: "Standard Core Textbook",
+        driveUrl: "https://drive.google.com/file/d/1rwxoo5OfkNIWV5M2zx7MfEeH1dxYAJrV/view?usp=drive_link"
+      },
+      {
+        order: 41,
+        title: "Vishram Singh Vol 1",
+        category: "anatomy",
+        author: "Vishram Singh",
+        type: "Upper Limb & Thorax",
+        driveUrl: "https://drive.google.com/file/d/1ejcPJ31fbpmK5gQiFAD-kF4hbEOfOyOe/view?usp=drive_link"
+      },
+      {
+        order: 42,
+        title: "Vishram Singh Vol 2",
+        category: "anatomy",
+        author: "Vishram Singh",
+        type: "Abdomen & Lower Limb",
+        driveUrl: "https://drive.google.com/file/d/1K8_RcIzKgnaHzr_8FL7ygWsbwidXhulR/view?usp=drive_link"
+      },
+      {
+        order: 43,
+        title: "Vishram Singh Vol 3",
+        category: "anatomy",
+        author: "Vishram Singh",
+        type: "Head, Neck & Neuroanatomy",
+        driveUrl: "https://drive.google.com/file/d/1nmhnkQ4YAAx99dINaN2MOc54JKjLtM53/view?usp=drive_link"
+      }
+    ];
+
+    // Helper: Turn a Google Drive /view link into an embeddable /preview link
+    function getDrivePreviewUrl(url) {
+      if (!url) return "";
+      return url.replace("/view?usp=drive_link", "/preview").replace("/view", "/preview");
+    }
+
+    let currentCategory = "all";
+    let searchQuery = "";
+
+    function renderBooks() {
+      const grid = document.getElementById("booksGrid");
+      const emptyMsg = document.getElementById("emptyBooksMsg");
+      grid.innerHTML = "";
+
+      const filtered = BOOKS_DATA.filter(book => {
+        const matchesCat = currentCategory === "all" || book.category === currentCategory;
+        const matchesSearch = book.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
+                              book.author.toLowerCase().includes(searchQuery.toLowerCase()) ||
+                              book.type.toLowerCase().includes(searchQuery.toLowerCase());
+        return matchesCat && matchesSearch;
+      });
+
+      if (filtered.length === 0) {
+        emptyMsg.classList.remove("hidden");
+      } else {
+        emptyMsg.classList.add("hidden");
+      }
+
+      filtered.forEach(book => {
+        const card = document.createElement("div");
+        card.className = "bg-white p-4 sm:p-5 rounded-2xl border border-rose-100/90 shadow-sm hover:shadow-md transition-all duration-200 flex flex-col justify-between group hover:border-[#f5c6d8]";
+
+        // Category Tag styles
+        let badgeColor = "bg-rose-50 text-rosebud";
+        let icon = "🦴";
+        if (book.category === "physiology") {
+          badgeColor = "bg-rose-100/70 text-rosebud-dark";
+          icon = "❤️";
+        } else if (book.category === "biochemistry") {
+          badgeColor = "bg-pink-100 text-[#964264]";
+          icon = "🧬";
+        }
+
+        card.innerHTML = `
+          <div>
+            <div class="flex items-center justify-between text-xs mb-2">
+              <span class="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full font-medium text-[11px] ${badgeColor}">
+                <span>${icon}</span>
+                <span class="capitalize">${book.category}</span>
+              </span>
+              <span class="text-[11px] text-mutedgray font-medium">#${book.order}</span>
+            </div>
+
+            <h4 class="font-serif font-bold text-sm sm:text-base text-charcoal group-hover:text-rosebud transition-colors line-clamp-2 mt-1">
+              ${book.title}
+            </h4>
+
+            <p class="text-xs text-mutedgray mt-1 flex items-center gap-1.5">
+              <span>✍️</span> <span>${book.author}</span>
+            </p>
+            <p class="text-[11px] text-rosebud-dark/70 font-medium mt-1">
+              🏷️ ${book.type}
+            </p>
+          </div>
+
+          <div class="mt-4 pt-3 border-t border-rose-50 grid grid-cols-2 gap-2">
+            <button 
+              onclick="openPdfModal('${escapeJsString(book.title)}', '${book.driveUrl}')" 
+              class="py-2 px-3 bg-rosebud-light hover:bg-[#fadce7] text-rosebud-dark rounded-xl text-xs font-semibold transition text-center flex items-center justify-center gap-1 shadow-2xs border border-[#f5c6d8]"
+            >
+              <span>👁️</span> Preview
+            </button>
+            <a 
+              href="${book.driveUrl}" 
+              target="_blank"
+              rel="noopener"
+              title="Open direct file on Google Drive"
+              class="py-2 px-3 bg-rosebud hover:bg-rosebud-dark text-white rounded-xl text-xs font-semibold transition text-center flex items-center justify-center gap-1 shadow-xs"
+            >
+              <span>Drive</span> <span>↗</span>
+            </a>
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    function escapeJsString(str) {
+      return str.replace(/'/g, "\\'");
+    }
+
+    function filterBooks(category) {
+      currentCategory = category;
+      document.querySelectorAll(".book-cat-btn").forEach(btn => {
+        if (btn.dataset.category === category) {
+          btn.className = "book-cat-btn px-3.5 py-1.5 rounded-full text-xs font-semibold bg-rosebud text-white shadow-sm";
+        } else {
+          btn.className = "book-cat-btn px-3.5 py-1.5 rounded-full text-xs font-medium text-charcoal bg-[#fff1f6] hover:bg-rosebud-light";
+        }
+      });
+      renderBooks();
+    }
+
+    function handleBookSearch() {
+      searchQuery = document.getElementById("bookSearchInput").value.trim();
+      renderBooks();
+    }
+
+    // Modal Drive PDF Viewer Handler
+    const pdfModal = document.getElementById("pdfModal");
+    const pdfModalTitle = document.getElementById("pdfModalTitle");
+    const pdfFrame = document.getElementById("pdfFrame");
+    const modalDirectDriveLink = document.getElementById("modalDirectDriveLink");
+
+    function openPdfModal(title, driveUrl) {
+      pdfModalTitle.textContent = title;
+      modalDirectDriveLink.href = driveUrl;
+
+      // Convert Google Drive view URL to preview URL for embedded viewing
+      const previewUrl = getDrivePreviewUrl(driveUrl);
+      pdfFrame.src = previewUrl;
+
+      // Show modal
+      pdfModal.classList.remove("hidden");
+      document.body.style.overflow = "hidden";
+    }
+
+    function closePdfModal() {
+      pdfModal.classList.add("hidden");
+      pdfFrame.src = "about:blank";
+      document.body.style.overflow = "auto";
+    }
+
+
+    // -------------------------------------------------------------
+    // C. SYLLABUS & CHECKLIST LOGIC
+    // -------------------------------------------------------------
+    const SYLLABUS_DATA = [
+      {
+        name: "Anatomy",
+        icon: "🦴",
+        desc: "Master human architecture, dissection relationships, and clinical osteology.",
+        units: [
+          ["General Anatomy & Locomotor System", [
+            "Anatomical position, planes, terms and movements",
+            "Cells, tissues, epithelium and connective tissue",
+            "Cartilage, bone, ossification and joints",
+            "Upper limb: pectoral region, axilla, arm, forearm and hand",
+            "Brachial plexus, upper-limb vessels and applied anatomy",
+            "Lower limb: gluteal region, thigh, leg and foot",
+            "Lumbosacral plexus, lower-limb vessels and applied anatomy",
+            "Osteology: major identifying landmarks"
+          ]],
+          ["Thorax", [
+            "Thoracic wall, intercostal spaces and diaphragm",
+            "Pleura and lungs; bronchopulmonary segments",
+            "Mediastinum and pericardium",
+            "Heart: chambers, valves, coronary circulation and conducting system",
+            "Great vessels, thoracic duct and autonomic nerves"
+          ]],
+          ["Abdomen & Pelvis", [
+            "Anterior abdominal wall, inguinal canal and hernias",
+            "Peritoneum and abdominal viscera",
+            "Stomach, intestines, liver, gallbladder, pancreas and spleen",
+            "Kidneys, ureters, posterior abdominal wall and vessels",
+            "Pelvic walls, pelvic organs, perineum and pelvic floor"
+          ]],
+          ["Head, Neck & Neuroanatomy", [
+            "Scalp, face, parotid region and triangles of neck",
+            "Pharynx, larynx, thyroid, oral and nasal cavities",
+            "Orbit, eyeball, ear and cranial nerves",
+            "Meninges, ventricles and cerebrospinal fluid",
+            "Cerebrum, brainstem, cerebellum and spinal cord",
+            "Ascending/descending tracts and blood supply of brain"
+          ]],
+          ["Histology, Embryology & Genetics", [
+            "Microscope basics and identification of tissues",
+            "Histology of major organs and systems",
+            "Gametogenesis, fertilisation, implantation and placenta",
+            "Early embryonic development and folding",
+            "Development of organ systems and congenital anomalies",
+            "Chromosomes, inheritance, karyotyping and basic genetics"
+          ]]
+        ]
+      },
+      {
+        name: "Physiology",
+        icon: "❤️",
+        desc: "Understand normal body functions, feedback loops, and clinical signs.",
+        units: [
+          ["General, Cell & Nerve-Muscle Physiology", [
+            "Homeostasis, feedback and body-fluid compartments",
+            "Cell membrane transport and resting membrane potential",
+            "Action potential, synapses and neurotransmitters",
+            "Skeletal, smooth and cardiac muscle physiology",
+            "Neuromuscular junction, reflexes and sensory receptors"
+          ]],
+          ["Hematology & Immunity", [
+            "Composition and functions of blood; plasma proteins",
+            "Haemoglobin, RBC formation and anaemia classification",
+            "WBCs, immunity and inflammation basics",
+            "Platelets, haemostasis and coagulation pathway",
+            "ABO/Rh blood groups and transfusion reactions"
+          ]],
+          ["Cardiovascular System", [
+            "Cardiac muscle and properties of myocardium",
+            "Cardiac cycle, heart sounds and pressure curves",
+            "ECG basics and cardiac output regulation",
+            "Blood pressure regulation, shock and exercise physiology"
+          ]],
+          ["Respiratory System", [
+            "Mechanics of breathing and lung volumes/capacities",
+            "Gas exchange and transport of O2 / CO2",
+            "Regulation of respiration and respiratory centres",
+            "Hypoxia, cyanosis and pulmonary function tests"
+          ]],
+          ["Gastrointestinal & Renal Physiology", [
+            "GI motility, secretions and digestion",
+            "Absorption; liver and pancreas functions",
+            "Renal blood flow, GFR and countercurrent mechanism",
+            "Tubular transport, micturition and acid-base balance"
+          ]],
+          ["Endocrine & Special Senses", [
+            "Pituitary, thyroid, adrenal and pancreatic hormones",
+            "Calcium regulation and endocrine feedback loops",
+            "Male and female reproductive endocrinology",
+            "Vision, hearing, taste, smell and vestibular function"
+          ]]
+        ]
+      },
+      {
+        name: "Biochemistry",
+        icon: "🧬",
+        desc: "Understand molecular mechanisms, nutrition, and diagnostic laboratory tests.",
+        units: [
+          ["Cell Biology, Biomolecules & Enzymes", [
+            "Cell organelles, membranes and cellular transport",
+            "Carbohydrates: structure, properties and classifications",
+            "Amino acids, peptides and protein architecture",
+            "Lipids and lipoproteins: chemistry and functions",
+            "Enzyme kinetics, inhibition types and clinical enzymes",
+            "Vitamins, minerals and cofactors"
+          ]],
+          ["Metabolism & Bioenergetics", [
+            "Glycolysis, TCA cycle, and glycogen metabolism",
+            "Electron transport chain and oxidative phosphorylation",
+            "Gluconeogenesis and HMP shunt",
+            "Fatty acid oxidation, ketogenesis and cholesterol metabolism",
+            "Amino acid catabolism and urea cycle"
+          ]],
+          ["Molecular Biology & Clinical Biochemistry", [
+            "DNA replication, transcription and translation",
+            "Gene mutations and molecular biology techniques (PCR/Blotting)",
+            "Liver function tests (LFT) and Kidney function tests (KFT)",
+            "Blood glucose control and diabetes workup (HbA1c)",
+            "Lipid profile and myocardial markers",
+            "Acid-base disorders and arterial blood gases (ABG)"
+          ]]
+        ]
+      }
+    ];
+
+    const SYLLABUS_STORAGE_KEY = "suhani_mbbs_checklist_v2";
+    let completedTopics = {};
+
+    try {
+      completedTopics = JSON.parse(localStorage.getItem(SYLLABUS_STORAGE_KEY)) || {};
+    } catch(e) {
+      completedTopics = {};
+    }
+
+    let selectedSubjectIdx = 0;
+
+    function getTopicId(subIdx, unitIdx, topIdx) {
+      return `top_${subIdx}_${unitIdx}_${topIdx}`;
+    }
+
+    function getAllTopicsList() {
+      const list = [];
+      SYLLABUS_DATA.forEach((sub, sIdx) => {
+        sub.units.forEach((u, uIdx) => {
+          u[1].forEach((t, tIdx) => {
+            list.push({ id: getTopicId(sIdx, uIdx, tIdx), subject: sub.name, title: t });
+          });
+        });
+      });
+      return list;
+    }
+
+    const allTopics = getAllTopicsList();
+
+    function updateOverallProgress() {
+      const total = allTopics.length;
+      const done = allTopics.filter(t => completedTopics[t.id]).length;
+      const pct = total > 0 ? Math.round((done / total) * 100) : 0;
+
+      document.getElementById("heroProgressPercent").textContent = `${pct}%`;
+      document.getElementById("heroProgressBar").style.width = `${pct}%`;
+      document.getElementById("heroProgressText").textContent = `${done} of ${total} topics completed`;
+    }
+
+    function renderSubjectCards() {
+      const container = document.getElementById("subjectCards");
+      container.innerHTML = "";
+
+      SYLLABUS_DATA.forEach((sub, idx) => {
+        const subTopics = allTopics.filter(t => t.subject === sub.name);
+        const done = subTopics.filter(t => completedTopics[t.id]).length;
+        const pct = Math.round((done / subTopics.length) * 100);
+        const isSelected = selectedSubjectIdx === idx;
+
+        const card = document.createElement("button");
+        card.className = `p-4 sm:p-5 rounded-2xl text-left transition border ${
+          isSelected 
+            ? 'bg-white border-rosebud shadow-md ring-2 ring-rosebud/20' 
+            : 'bg-white/80 border-rose-100 hover:border-rose-300'
+        }`;
+
+        card.onclick = () => {
+          selectedSubjectIdx = idx;
+          renderSubjectCards();
+          renderActiveSubjectUnits();
+        };
+
+        card.innerHTML = `
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-2xl">${sub.icon}</span>
+            <span class="text-xs font-bold text-rosebud">${pct}%</span>
+          </div>
+          <h4 class="font-serif font-bold text-base text-charcoal">${sub.name}</h4>
+          <p class="text-xs text-mutedgray line-clamp-2 mt-1">${sub.desc}</p>
+          <div class="w-full bg-[#fae8f0] h-1.5 rounded-full overflow-hidden mt-3">
+            <div class="h-full bg-rosebud transition-all duration-300" style="width: ${pct}%"></div>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function renderActiveSubjectUnits() {
+      const container = document.getElementById("studyArea");
+      const currentSubject = SYLLABUS_DATA[selectedSubjectIdx];
+
+      let html = `
+        <div class="glass-card p-5 sm:p-6 rounded-3xl border border-[#fad4e3]">
+          <div class="flex items-center gap-3 mb-4">
+            <span class="text-3xl">${currentSubject.icon}</span>
+            <div>
+              <h3 class="font-serif text-xl sm:text-2xl font-bold text-rosebud-dark">${currentSubject.name} Syllabus</h3>
+              <p class="text-xs text-mutedgray">${currentSubject.desc}</p>
+            </div>
+          </div>
+          <div class="space-y-4">
+      `;
+
+      currentSubject.units.forEach((unit, uIdx) => {
+        const topics = unit[1];
+        const unitDone = topics.filter((_, tIdx) => completedTopics[getTopicId(selectedSubjectIdx, uIdx, tIdx)]).length;
+
+        html += `
+          <div class="bg-white rounded-2xl border border-rose-100 overflow-hidden shadow-xs">
+            <div class="px-4 py-3 bg-[#fff9fb] border-b border-rose-50 flex items-center justify-between">
+              <div>
+                <span class="text-[10px] font-bold text-rosebud tracking-widest uppercase">Unit ${uIdx + 1}</span>
+                <h4 class="font-serif font-bold text-sm text-charcoal">${unit[0]}</h4>
+              </div>
+              <span class="text-xs font-semibold text-rosebud bg-rosebud-light px-2.5 py-1 rounded-full">
+                ${unitDone} / ${topics.length}
+              </span>
+            </div>
+            <div class="p-4 grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+        `;
+
+        topics.forEach((topic, tIdx) => {
+          const id = getTopicId(selectedSubjectIdx, uIdx, tIdx);
+          const isDone = Boolean(completedTopics[id]);
+
+          html += `
+            <label class="flex items-start gap-2.5 p-2 rounded-xl hover:bg-rosebud-light/40 transition cursor-pointer text-xs ${isDone ? 'bg-[#fff0f5]/60' : ''}">
+              <input 
+                type="checkbox" 
+                data-topic-id="${id}" 
+                ${isDone ? "checked" : ""} 
+                onchange="toggleTopic('${id}', this.checked)"
+                class="mt-0.5 rounded border-rose-300 text-rosebud focus:ring-rosebud/40 accent-rosebud w-4 h-4 shrink-0"
+              />
+              <span class="${isDone ? 'line-through text-mutedgray font-normal' : 'text-charcoal font-medium'} leading-relaxed">
+                ${topic}
+              </span>
+            </label>
+          `;
+        });
+
+        html += `
+            </div>
+          </div>
+        `;
+      });
+
+      html += `
+          </div>
+        </div>
+      `;
+
+      container.innerHTML = html;
+    }
+
+    function toggleTopic(id, isChecked) {
+      if (isChecked) {
+        completedTopics[id] = true;
+      } else {
+        delete completedTopics[id];
+      }
+      try {
+        localStorage.setItem(SYLLABUS_STORAGE_KEY, JSON.stringify(completedTopics));
+      } catch(e) {}
+
+      updateOverallProgress();
+      renderSubjectCards();
+      renderActiveSubjectUnits();
+    }
+
+    function resetSyllabusPrompt() {
+      const confirmReset = window.confirm("Are you sure you want to reset your checklist progress, Suhani?");
+      if (confirmReset) {
+        completedTopics = {};
+        localStorage.removeItem(SYLLABUS_STORAGE_KEY);
+        updateOverallProgress();
+        renderSubjectCards();
+        renderActiveSubjectUnits();
+      }
+    }
+
+
+    // -------------------------------------------------------------
+    // D. TABS MANAGEMENT
+    // -------------------------------------------------------------
+    function switchTab(tabName) {
+      document.querySelectorAll(".tab-panel").forEach(panel => panel.classList.add("hidden"));
+      document.querySelectorAll(".nav-tab").forEach(tab => {
+        tab.classList.remove("tab-active");
+        tab.classList.add("text-charcoal", "hover:text-rosebud", "hover:bg-rosebud-light");
+      });
+
+      const activePanel = document.getElementById(`panel-${tabName}`);
+      const activeTabBtn = document.getElementById(`tab-${tabName}`);
+
+      if (activePanel) activePanel.classList.remove("hidden");
+      if (activeTabBtn) {
+        activeTabBtn.classList.remove("text-charcoal", "hover:text-rosebud", "hover:bg-rosebud-light");
+        activeTabBtn.classList.add("tab-active");
+      }
+    }
+
+
+    // -------------------------------------------------------------
+    // E. MOTIVATIONAL CHEER TOAST
+    // -------------------------------------------------------------
+    const CHEER_MESSAGES = [
+      "I am so proud of your dedication today, Suhani! ❤️",
+      "Drink some water, take a deep breath, and smile. You've got this! 🌸",
+      "One topic at a time. Future Dr. Suhani in the making! 🩺",
+      "You are smarter and more capable than you know, Puchu. 💗",
+      "Paarth is always cheering for you right here! ✨",
+      "Even a small 20-minute revision makes a huge difference! 🌷"
+    ];
+
+    const cheerUpBtn = document.getElementById("cheerUpBtn");
+    const loveToast = document.getElementById("loveToast");
+    const toastMessage = document.getElementById("toastMessage");
+
+    cheerUpBtn.addEventListener("click", () => {
+      const randomMsg = CHEER_MESSAGES[Math.floor(Math.random() * CHEER_MESSAGES.length)];
+      toastMessage.textContent = randomMsg;
+      loveToast.classList.remove("translate-y-24", "opacity-0");
+      loveToast.classList.add("translate-y-0", "opacity-100");
+
+      setTimeout(() => {
+        loveToast.classList.add("translate-y-24", "opacity-0");
+        loveToast.classList.remove("translate-y-0", "opacity-100");
+      }, 3500);
+    });
+
+
+    // -------------------------------------------------------------
+    // F. INITIALIZATION
+    // -------------------------------------------------------------
+    window.onload = function() {
+      renderBooks();
+      updateOverallProgress();
+      renderSubjectCards();
+      renderActiveSubjectUnits();
+    };
+  </script>
+</body>
+</html>
