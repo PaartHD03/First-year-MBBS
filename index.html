@@ -182,6 +182,11 @@
             <span>Books & Drive Library</span>
             <span id="bookCountBadge" class="ml-1 text-[10px] bg-white/20 px-1.5 py-0.5 rounded-full">43</span>
           </button>
+
+          <button onclick="switchTab('flowchart')" id="tab-flowchart" class="nav-tab px-4 py-2 rounded-xl text-charcoal hover:text-rosebud hover:bg-rosebud-light transition whitespace-nowrap flex items-center gap-2">
+            <span>🗺️</span>
+            <span>Study Flowchart</span>
+          </button>
           
           <button onclick="switchTab('syllabus')" id="tab-syllabus" class="nav-tab px-4 py-2 rounded-xl text-charcoal hover:text-rosebud hover:bg-rosebud-light transition whitespace-nowrap flex items-center gap-2">
             <span>📝</span>
@@ -304,172 +309,213 @@
 
 
       <!-- ============================================================= -->
-      <!-- TAB 2: SYLLABUS & CHECKLIST TRACKER                           -->
+      <!-- TAB 1.5: VISUAL STUDY FLOWCHART & ROADMAP                     -->
       <!-- ============================================================= -->
-      <section id="panel-syllabus" class="tab-panel hidden space-y-6">
+      <section id="panel-flowchart" class="tab-panel hidden space-y-8">
         
-        <div class="glass-card p-6 rounded-3xl border border-[#fad4e3] flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+        <!-- Intro Banner -->
+        <div class="glass-card p-6 sm:p-8 rounded-3xl border border-[#fad4e3] flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
           <div>
-            <span class="text-xs font-semibold tracking-wider uppercase text-rosebud">Competency Based MBBS Curriculum</span>
-            <h3 class="font-serif text-2xl font-bold text-rosebud-dark">1st Year Syllabus Checklist</h3>
-            <p class="text-xs text-mutedgray mt-1">Tick off topics as you attend lectures or revise. Everything automatically saves.</p>
+            <span class="text-xs font-semibold tracking-widest uppercase text-rosebud">Zero Confusion · Clear Direction</span>
+            <h3 class="font-serif text-2xl sm:text-3xl font-bold text-rosebud-dark mt-1">How to Master Any Topic, Suhani 🗺️</h3>
+            <p class="text-xs sm:text-sm text-mutedgray mt-1.5 max-w-2xl leading-relaxed">
+              Whenever a chapter feels huge, don't stress! Just follow this simple 4-step flow from picking a topic to opening the right book in your library.
+            </p>
           </div>
-          
-          <div class="flex items-center gap-2">
-            <button onclick="resetSyllabusPrompt()" class="text-xs text-mutedgray hover:text-rose-600 bg-white border border-rose-200 px-3 py-1.5 rounded-full transition">
-              Reset Progress
-            </button>
-          </div>
+          <button onclick="switchTab('syllabus')" class="px-4 py-2.5 bg-rosebud hover:bg-rosebud-dark text-white rounded-2xl text-xs font-semibold transition shadow-sm shrink-0 flex items-center gap-1.5">
+            <span>Pick Today's Topic</span> <span>→</span>
+          </button>
         </div>
 
-        <!-- Subject Pickers -->
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4" id="subjectCards">
-          <!-- Populated by JS -->
-        </div>
-
-        <!-- Active Subject Details -->
-        <div id="studyArea" class="space-y-4">
-          <!-- Populated by JS -->
-        </div>
-
-      </section>
-
-
-      <!-- ============================================================= -->
-      <!-- TAB 3: STUDY ROUTINE & THE SUHANI METHOD                      -->
-      <!-- ============================================================= -->
-      <section id="panel-plan" class="tab-panel hidden space-y-8">
-        
-        <!-- SUHANI Method -->
-        <div class="glass-card p-6 sm:p-8 rounded-3xl border border-[#fad4e3]">
-          <div class="text-center max-w-lg mx-auto mb-6">
-            <span class="text-xs font-semibold uppercase tracking-widest text-rosebud">Exclusive For You</span>
-            <h3 class="font-serif text-2xl sm:text-3xl font-bold text-rosebud-dark mt-1">The SUHANI Method ❤️</h3>
-            <p class="text-xs text-mutedgray mt-1">A gentle daily philosophy crafted specifically with your name.</p>
+        <!-- 1. THE 4-STAGE VISUAL LEARNING LOOP FLOWCHART -->
+        <div class="glass-card p-6 sm:p-8 rounded-3xl border border-[#fad4e3] space-y-6">
+          <div class="text-center max-w-xl mx-auto">
+            <span class="px-3 py-1 bg-rosebud-light text-rosebud text-[11px] font-bold tracking-wider uppercase rounded-full">The 4-Stage Learning Loop</span>
+            <h4 class="font-serif text-xl sm:text-2xl font-bold text-rosebud-dark mt-2">What → Where → How → Revise</h4>
           </div>
 
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
-              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">S</div>
+          <!-- Flowchart Nodes & Connectors -->
+          <div class="grid grid-cols-1 lg:grid-cols-11 gap-3 items-stretch">
+            
+            <!-- Stage 1 -->
+            <div class="lg:col-span-2 bg-white p-4 rounded-2xl border border-rose-200 shadow-xs flex flex-col justify-between relative group hover:border-rosebud transition">
               <div>
-                <h4 class="font-medium text-sm text-charcoal">Study with Calm Focus</h4>
-                <p class="text-xs text-mutedgray mt-0.5">Eliminate distractions. Quality of 45 focused minutes always beats 3 hours of stressed skimming.</p>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="w-7 h-7 rounded-full bg-rosebud text-white text-xs font-bold flex items-center justify-center">1</span>
+                  <span class="text-[10px] font-bold uppercase tracking-wider text-rosebud bg-rosebud-light px-2 py-0.5 rounded-full">What</span>
+                </div>
+                <h5 class="font-serif font-bold text-sm text-charcoal">Pick 1 Small Topic</h5>
+                <p class="text-[11px] text-mutedgray mt-1.5 leading-relaxed">
+                  Open your <b>Syllabus Tracker</b> or today's college lecture notes. Pick just <b>one</b> sub-topic (e.g., <i>Brachial Plexus</i> or <i>Cardiac Cycle</i>).
+                </p>
               </div>
+              <button onclick="switchTab('syllabus')" class="mt-3 pt-2 border-t border-rose-50 text-[11px] font-semibold text-rosebud hover:underline text-left flex items-center justify-between">
+                <span>Open Syllabus</span> <span>↗</span>
+              </button>
             </div>
 
-            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
-              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">U</div>
-              <div>
-                <h4 class="font-medium text-sm text-charcoal">Understand Concepts First</h4>
-                <p class="text-xs text-mutedgray mt-0.5">Connect anatomy structure to physiology functions. Don't just rote learn—visualize it!</p>
-              </div>
+            <!-- Arrow 1 -> 2 -->
+            <div class="lg:col-span-1 flex items-center justify-center text-rosebud font-bold text-xl py-1">
+              <span class="hidden lg:inline">➔</span>
+              <span class="lg:hidden">⬇</span>
             </div>
 
-            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
-              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">H</div>
+            <!-- Stage 2 -->
+            <div class="lg:col-span-2 bg-white p-4 rounded-2xl border border-rose-200 shadow-xs flex flex-col justify-between relative group hover:border-rosebud transition">
               <div>
-                <h4 class="font-medium text-sm text-charcoal">Habituate Consistency</h4>
-                <p class="text-xs text-mutedgray mt-0.5">Even on rough days, doing just one diagram or one metabolic cycle keeps the momentum alive.</p>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="w-7 h-7 rounded-full bg-rosebud text-white text-xs font-bold flex items-center justify-center">2</span>
+                  <span class="text-[10px] font-bold uppercase tracking-wider text-rosebud bg-rosebud-light px-2 py-0.5 rounded-full">Where</span>
+                </div>
+                <h5 class="font-serif font-bold text-sm text-charcoal">Open Right Source</h5>
+                <p class="text-[11px] text-mutedgray mt-1.5 leading-relaxed">
+                  Use the <b>Subject Blueprint</b> below to open 1 Core Book + 1 Atlas from your 43-book Drive library (no jumping between 5 books!).
+                </p>
               </div>
+              <a href="#subjectBlueprintSection" class="mt-3 pt-2 border-t border-rose-50 text-[11px] font-semibold text-rosebud hover:underline flex items-center justify-between">
+                <span>See Book Map</span> <span>↓</span>
+              </a>
             </div>
 
-            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
-              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">A</div>
-              <div>
-                <h4 class="font-medium text-sm text-charcoal">Apply with Clinical Diagrams</h4>
-                <p class="text-xs text-mutedgray mt-0.5">Practice sketching simplified diagrams and clinical correlations like a real doctor.</p>
-              </div>
+            <!-- Arrow 2 -> 3 -->
+            <div class="lg:col-span-1 flex items-center justify-center text-rosebud font-bold text-xl py-1">
+              <span class="hidden lg:inline">➔</span>
+              <span class="lg:hidden">⬇</span>
             </div>
 
-            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
-              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">N</div>
+            <!-- Stage 3 -->
+            <div class="lg:col-span-2 bg-white p-4 rounded-2xl border border-rose-200 shadow-xs flex flex-col justify-between relative group hover:border-rosebud transition">
               <div>
-                <h4 class="font-medium text-sm text-charcoal">Never Hesitate to Rest</h4>
-                <p class="text-xs text-mutedgray mt-0.5">Hydrate, eat good food, and sleep well. Your brain consolidates memory when you sleep, Puchu.</p>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="w-7 h-7 rounded-full bg-rosebud text-white text-xs font-bold flex items-center justify-center">3</span>
+                  <span class="text-[10px] font-bold uppercase tracking-wider text-rosebud bg-rosebud-light px-2 py-0.5 rounded-full">How</span>
+                </div>
+                <h5 class="font-serif font-bold text-sm text-charcoal">4-Step Active Study</h5>
+                <ul class="text-[11px] text-mutedgray mt-1.5 space-y-1 leading-snug">
+                  <li><b>① Visualize:</b> Watch 10m video/atlas</li>
+                  <li><b>② Read:</b> Core book & highlight</li>
+                  <li><b>③ Draw:</b> Sketch simple diagram</li>
+                  <li><b>④ Test:</b> Solve 10 MCQs / Viva</li>
+                </ul>
               </div>
+              <span class="mt-3 pt-2 border-t border-rose-50 text-[10px] text-rosebud-dark font-medium">
+                Active recall > passive reading
+              </span>
             </div>
 
-            <div class="flex items-start gap-3.5 p-4 rounded-2xl bg-white border border-rose-100 shadow-sm">
-              <div class="w-10 h-10 rounded-xl bg-rosebud-light text-rosebud font-bold font-serif text-xl flex items-center justify-center shrink-0">I</div>
-              <div>
-                <h4 class="font-medium text-sm text-charcoal">Inspire Yourself Daily</h4>
-                <p class="text-xs text-mutedgray mt-0.5">Remember why you started. You have the heart and kindness needed to be an exceptional doctor.</p>
-              </div>
+            <!-- Arrow 3 -> 4 -->
+            <div class="lg:col-span-1 flex items-center justify-center text-rosebud font-bold text-xl py-1">
+              <span class="hidden lg:inline">➔</span>
+              <span class="lg:hidden">⬇</span>
             </div>
-          </div>
-        </div>
 
-        <!-- Weekly Balanced Rhythm -->
-        <div class="glass-card p-6 rounded-3xl border border-[#fad4e3]">
-          <h4 class="font-serif text-lg font-bold text-rosebud-dark mb-1">Your Stress-Free Weekly Flow</h4>
-          <p class="text-xs text-mutedgray mb-4">A gentle distribution of high-yield subjects throughout the week.</p>
-          
-          <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-2.5 text-center text-xs">
-            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
-              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Mon</div>
-              <div class="font-medium text-charcoal mt-1">Anatomy</div>
-              <div class="text-[10px] text-mutedgray mt-0.5">Dissection & Bones</div>
+            <!-- Stage 4 -->
+            <div class="lg:col-span-2 bg-gradient-to-b from-[#fff2f7] to-white p-4 rounded-2xl border border-rose-200 shadow-xs flex flex-col justify-between relative group hover:border-rosebud transition">
+              <div>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="w-7 h-7 rounded-full bg-rosebud-dark text-white text-xs font-bold flex items-center justify-center">4</span>
+                  <span class="text-[10px] font-bold uppercase tracking-wider text-rosebud-dark bg-white px-2 py-0.5 rounded-full border border-rose-200">Revise</span>
+                </div>
+                <h5 class="font-serif font-bold text-sm text-rosebud-dark">1–3–7–21 Rule & Tick</h5>
+                <p class="text-[11px] text-mutedgray mt-1.5 leading-relaxed">
+                  Review your diagram on <b>Day 1, 3, 7 & 21</b>. Tick the topic in your Syllabus Tracker and celebrate your progress! 🌸
+                </p>
+              </div>
+              <button onclick="switchTab('syllabus')" class="mt-3 pt-2 border-t border-rose-100 text-[11px] font-semibold text-rosebud-dark hover:underline text-left flex items-center justify-between">
+                <span>Tick Completed ✓</span> <span>↗</span>
+              </button>
             </div>
-            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
-              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Tue</div>
-              <div class="font-medium text-charcoal mt-1">Physiology</div>
-              <div class="text-[10px] text-mutedgray mt-0.5">CVS & Respiration</div>
-            </div>
-            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
-              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Wed</div>
-              <div class="font-medium text-charcoal mt-1">Biochemistry</div>
-              <div class="text-[10px] text-mutedgray mt-0.5">Metabolic Pathways</div>
-            </div>
-            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
-              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Thu</div>
-              <div class="font-medium text-charcoal mt-1">Histology</div>
-              <div class="text-[10px] text-mutedgray mt-0.5">Slides & Embryo</div>
-            </div>
-            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
-              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Fri</div>
-              <div class="font-medium text-charcoal mt-1">Physio Practicals</div>
-              <div class="text-[10px] text-mutedgray mt-0.5">Clinical exams & labs</div>
-            </div>
-            <div class="bg-white p-3 rounded-2xl border border-rose-100 shadow-xs">
-              <div class="font-bold text-rosebud text-[11px] tracking-wider uppercase">Sat</div>
-              <div class="font-medium text-charcoal mt-1">High-Yield MCQs</div>
-              <div class="text-[10px] text-mutedgray mt-0.5">Quick active recall</div>
-            </div>
-            <div class="bg-gradient-to-b from-[#fff2f7] to-[#ffe5f0] p-3 rounded-2xl border border-rose-200 shadow-xs">
-              <div class="font-bold text-rosebud-dark text-[11px] tracking-wider uppercase">Sun</div>
-              <div class="font-medium text-rosebud-dark mt-1">Rest & Recharge</div>
-              <div class="text-[10px] text-rosebud mt-0.5">Relax, you earned it!</div>
-            </div>
+
           </div>
         </div>
 
-        <!-- Essential External Medical References -->
-        <div class="glass-card p-6 rounded-3xl border border-[#fad4e3]">
-          <h4 class="font-serif text-lg font-bold text-rosebud-dark mb-1">Recommended Quick Links</h4>
-          <p class="text-xs text-mutedgray mb-4">Bookmarked websites for when you need quick conceptual clarity.</p>
+        <!-- 2. INTERACTIVE SUBJECT-SPECIFIC "WHERE & HOW" BLUEPRINT -->
+        <div id="subjectBlueprintSection" class="glass-card p-6 sm:p-8 rounded-3xl border border-[#fad4e3] space-y-6">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+            <div>
+              <span class="text-xs font-semibold uppercase tracking-widest text-rosebud">Direct Mapping To Your 43 Drive Books</span>
+              <h4 class="font-serif text-xl sm:text-2xl font-bold text-rosebud-dark mt-0.5">Subject-Specific Study Blueprint</h4>
+              <p class="text-xs text-mutedgray mt-1">Tap a subject to see exactly which books from your Drive to open and in what order.</p>
+            </div>
 
-          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
-            <a href="https://teachmeanatomy.info/" target="_blank" rel="noopener" class="p-3 bg-white rounded-2xl border border-rose-100 hover:border-rosebud/50 transition flex items-center justify-between text-xs group">
-              <div>
-                <p class="font-semibold text-charcoal group-hover:text-rosebud">TeachMeAnatomy</p>
-                <p class="text-[11px] text-mutedgray">Crisp anatomy diagrams</p>
+            <!-- Subject Selector Pills -->
+            <div class="flex flex-wrap gap-2">
+              <button onclick="selectFlowchartSubject('anatomy')" id="flow-btn-anatomy" class="flow-sub-btn px-4 py-2 rounded-full text-xs font-semibold bg-rosebud text-white shadow-sm transition">
+                🦴 Anatomy
+              </button>
+              <button onclick="selectFlowchartSubject('physiology')" id="flow-btn-physiology" class="flow-sub-btn px-4 py-2 rounded-full text-xs font-medium bg-[#fff1f6] text-charcoal hover:bg-rosebud-light transition">
+                ❤️ Physiology
+              </button>
+              <button onclick="selectFlowchartSubject('biochemistry')" id="flow-btn-biochemistry" class="flow-sub-btn px-4 py-2 rounded-full text-xs font-medium bg-[#fff1f6] text-charcoal hover:bg-rosebud-light transition">
+                🧬 Biochemistry
+              </button>
+            </div>
+          </div>
+
+          <!-- Dynamic Subject Blueprint Content -->
+          <div id="flowchartSubjectContent" class="space-y-5">
+            <!-- Populated via JS -->
+          </div>
+        </div>
+
+        <!-- 3. CALM DAILY 3-HOUR POST-COLLEGE STUDY BLOCK -->
+        <div class="glass-card p-6 sm:p-8 rounded-3xl border border-[#fad4e3] space-y-5">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+            <div>
+              <span class="text-xs font-semibold uppercase tracking-widest text-rosebud">No Burnout · Sustainable Routine</span>
+              <h4 class="font-serif text-xl sm:text-2xl font-bold text-rosebud-dark mt-0.5">Simple 3-Hour Post-College Study Block 🌷</h4>
+              <p class="text-xs text-mutedgray mt-1">After long college lectures and dissection halls, 3 focused hours is plenty. Here is how to split them gently:</p>
+            </div>
+            <span class="text-xs font-semibold bg-rosebud-light text-rosebud px-3.5 py-1.5 rounded-full border border-rose-200 self-start">
+              Total: 3 Hours + Breaks
+            </span>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <!-- Block 1 -->
+            <div class="bg-white p-5 rounded-2xl border border-rose-100 shadow-xs space-y-2">
+              <div class="flex items-center justify-between">
+                <span class="text-xs font-bold text-rosebud bg-rosebud-light px-2.5 py-1 rounded-full">Block 1 · 60 Mins</span>
+                <span class="text-lg">🌅</span>
               </div>
-              <span class="text-rosebud">↗</span>
-            </a>
-            <a href="https://www.ninjanerd.org/" target="_blank" rel="noopener" class="p-3 bg-white rounded-2xl border border-rose-100 hover:border-rosebud/50 transition flex items-center justify-between text-xs group">
-              <div>
-                <p class="font-semibold text-charcoal group-hover:text-rosebud">Ninja Nerd Science</p>
-                <p class="text-[11px] text-mutedgray">Best physio & biochem videos</p>
+              <h5 class="font-serif font-bold text-base text-charcoal">Today's College Lecture Recap</h5>
+              <p class="text-xs text-mutedgray leading-relaxed">
+                Quickly review whatever was taught in class today before it fades. Look at the diagrams in <b>Netter's</b> or <b>Ninja Nerd</b> and highlight key headings in your core book.
+              </p>
+              <div class="pt-2 text-[11px] font-medium text-rosebud-dark">
+                ☕ Take a 15-min tea/snack break after!
               </div>
-              <span class="text-rosebud">↗</span>
-            </a>
-            <a href="https://www.kenhub.com/en/library/anatomy" target="_blank" rel="noopener" class="p-3 bg-white rounded-2xl border border-rose-100 hover:border-rosebud/50 transition flex items-center justify-between text-xs group">
-              <div>
-                <p class="font-semibold text-charcoal group-hover:text-rosebud">Kenhub Anatomy</p>
-                <p class="text-[11px] text-mutedgray">Histology & atlases</p>
+            </div>
+
+            <!-- Block 2 -->
+            <div class="bg-white p-5 rounded-2xl border border-rose-100 shadow-xs space-y-2">
+              <div class="flex items-center justify-between">
+                <span class="text-xs font-bold text-rosebud bg-rosebud-light px-2.5 py-1 rounded-full">Block 2 · 75 Mins</span>
+                <span class="text-lg">✍️</span>
               </div>
-              <span class="text-rosebud">↗</span>
-            </a>
+              <h5 class="font-serif font-bold text-base text-charcoal">Deep Study + Diagrams</h5>
+              <p class="text-xs text-mutedgray leading-relaxed">
+                Pick 1 main subject for the day (Anatomy, Physio, or Biochem). Read thoroughly, draw 2–3 neat flowcharts or labeled diagrams in your notebook, and write clinical points.
+              </p>
+              <div class="pt-2 text-[11px] font-medium text-rosebud-dark">
+                💧 Stretch, drink water & rest eyes for 10 mins!
+              </div>
+            </div>
+
+            <!-- Block 3 -->
+            <div class="bg-white p-5 rounded-2xl border border-rose-100 shadow-xs space-y-2">
+              <div class="flex items-center justify-between">
+                <span class="text-xs font-bold text-rosebud bg-rosebud-light px-2.5 py-1 rounded-full">Block 3 · 45 Mins</span>
+                <span class="text-lg">🧠</span>
+              </div>
+              <h5 class="font-serif font-bold text-base text-charcoal">Active Recall, Viva & MCQs</h5>
+              <p class="text-xs text-mutedgray leading-relaxed">
+                Close your textbook! Solve 10–15 MCQs from your Drive MCQ banks, read 2 viva questions (<b>SN Kazi</b> / <b>BAP Viva</b>), and tick your completed topic in the tracker.
+              </p>
+              <div class="pt-2 text-[11px] font-medium text-rosebud-dark">
+                😴 Done for the day! Sleep peacefully, Puchu.
+              </div>
+            </div>
           </div>
         </div>
 
@@ -1429,6 +1475,234 @@
         activeTabBtn.classList.remove("text-charcoal", "hover:text-rosebud", "hover:bg-rosebud-light");
         activeTabBtn.classList.add("tab-active");
       }
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+
+
+    // -------------------------------------------------------------
+    // D2. STUDY FLOWCHART SUBJECT BLUEPRINTS (MAPPED TO 43 BOOKS)
+    // -------------------------------------------------------------
+    const FLOWCHART_BLUEPRINTS = {
+      anatomy: {
+        title: "Anatomy Study Blueprint",
+        icon: "🦴",
+        goldenRule: "Never read Anatomy without looking at a picture! See the structure first, learn its relations, draw a simple box diagram, and note the clinical nerve/vessel injury.",
+        steps: [
+          {
+            step: "Step 1 · Core Textbook (Read & Understand)",
+            desc: "Use B.D. Chaurasia (10th Ed) OR Vishram Singh as your main book—stick to one! Use Selective Anatomy before exams.",
+            bookTitles: [
+              "BDC volume 1 latest Edition 10",
+              "BDC volume 2 latest Edition 10",
+              "BDC volume 3,4 latest Edition 10",
+              "Vishram Singh Vol 1",
+              "Selective Anatomy Vishram Singh vol 1"
+            ]
+          },
+          {
+            step: "Step 2 · Visual & Cadaveric Atlas (See It Real)",
+            desc: "Keep Netter's Atlas open side-by-side while reading, and check Dr. Ashwani Kumar's Cadaveric Images before dissection hall.",
+            bookTitles: [
+              "Netter's Atlas of Human Anatomy 7th edition",
+              "Upper Limb Cadeveric Images -Dr. Ashwani Kumar",
+              "Lower Limb Cadeveric Images -Dr. Ashwani Kumar",
+              "Neuroanatomy Cadeveric Images -Dr.Ashwani Kumar",
+              "Anatomy Cadaveric Atlas"
+            ]
+          },
+          {
+            step: "Step 3 · Quick Tables, Embryo & Viva/MCQs",
+            desc: "Memorize muscle attachments using tabular sheets, read Langman for embryology, and practice viva questions.",
+            bookTitles: [
+              "Muscles in Tabular Form",
+              "Langman Embryology",
+              "SN Kazi Vol 1",
+              "BAP Viva",
+              "16- Lang's FULL anatomy MCQs"
+            ]
+          }
+        ],
+        onlineTools: [
+          { name: "TeachMeAnatomy", url: "https://teachmeanatomy.info/", note: "Best simplified 3D-style explanations" },
+          { name: "Kenhub Anatomy", url: "https://www.kenhub.com/en/library/anatomy", note: "Great for quick quizzes & labeling" }
+        ]
+      },
+      physiology: {
+        title: "Physiology Study Blueprint",
+        icon: "❤️",
+        goldenRule: "Physiology is all about cause-and-effect flowcharts! Understand the normal mechanism first, then ask: 'What happens if this increases or decreases?'",
+        steps: [
+          {
+            step: "Step 1 · Concept Building (Core Textbooks)",
+            desc: "Read Guyton & Hall for crystal-clear concepts, and use Sembulingam or AK Jain to structure crisp, exam-ready answers and flowcharts.",
+            bookTitles: [
+              "Guyton & Hall Physiology",
+              "Sembulingum Physio",
+              "AK Jain Physiology"
+            ]
+          },
+          {
+            step: "Step 2 · Visual Diagrams & Deep Reference",
+            desc: "Use Netter's Atlas of Physiology for visual pathways and Ganong's when you want extra clarity on tough neuro/endocrine concepts.",
+            bookTitles: [
+              "Netter atlas of physiology",
+              "Ganongs Review of Medical Physiology_ 25th Edition"
+            ]
+          },
+          {
+            step: "Step 3 · Rapid High-Yield Revision",
+            desc: "Before class tests or viva, revise entire units in 30 minutes using BRS Physiology.",
+            bookTitles: [
+              "BRS Physiology"
+            ]
+          }
+        ],
+        onlineTools: [
+          { name: "Ninja Nerd Lectures", url: "https://www.ninjanerd.org/", note: "Watch his whiteboard drawings for CVS, Renal & Neuro!" },
+          { name: "OpenStax A&P", url: "https://openstax.org/subjects/anatomy-and-physiology", note: "Clean, beginner-friendly summaries" }
+        ]
+      },
+      biochemistry: {
+        title: "Biochemistry Study Blueprint",
+        icon: "🧬",
+        goldenRule: "Don't memorize every single chemical structure! Focus on: Rate-limiting enzymes, ATP yield, regulation (insulin/glucagon), and deficiency diseases.",
+        steps: [
+          {
+            step: "Step 1 · Core Textbook & Easy Cycles",
+            desc: "Start with Vasudevan or U. Satyanarayana—both have super neat cycle diagrams and clinical boxes perfect for 1st-year MBBS.",
+            bookTitles: [
+              "Vasudevan biochemistry",
+              "Biochemistry by U Satyanarayan 4th Edition",
+              "biochemistry Dinesh puri3rd"
+            ]
+          },
+          {
+            step: "Step 2 · Visual Summaries & Clinical Cases",
+            desc: "Use Lippincott / Harper's for visual charts, and read Biochemistry Case Studies to connect pathways to real hospital patients.",
+            bookTitles: [
+              "Harper Lipincott Biochemistry",
+              "harpers-illustrated-biochemistry-28th-edition",
+              "Biochemistry Case",
+              "Case Study Biochemistry"
+            ]
+          },
+          {
+            step: "Step 3 · One-Page Glance & Practical Manual",
+            desc: "Use Biochemistry at a Glance the night before exams, and V.K. Malhotra for practical lab tests.",
+            bookTitles: [
+              "Biochemistry_at_a_Glance",
+              "biochemistry v k Malhotra12th",
+              "Unique Biochemistry"
+            ]
+          }
+        ],
+        onlineTools: [
+          { name: "Ninja Nerd Biochemistry", url: "https://www.ninjanerd.org/", note: "Makes Glycolysis, TCA & ETC effortless" },
+          { name: "MedlinePlus Lab Tests", url: "https://medlineplus.gov/lab-tests/", note: "Understand LFT, KFT & blood reports easily" }
+        ]
+      }
+    };
+
+    function findBookByTitle(title) {
+      return BOOKS_DATA.find(b => b.title.toLowerCase() === title.toLowerCase());
+    }
+
+    function jumpToBookInLibrary(title) {
+      switchTab('library');
+      filterBooks('all');
+      const searchInput = document.getElementById("bookSearchInput");
+      searchInput.value = title;
+      handleBookSearch();
+    }
+
+    function selectFlowchartSubject(subjectKey) {
+      // Update pill styles
+      document.querySelectorAll(".flow-sub-btn").forEach(btn => {
+        btn.className = "flow-sub-btn px-4 py-2 rounded-full text-xs font-medium bg-[#fff1f6] text-charcoal hover:bg-rosebud-light transition";
+      });
+      const activeBtn = document.getElementById(`flow-btn-${subjectKey}`);
+      if (activeBtn) {
+        activeBtn.className = "flow-sub-btn px-4 py-2 rounded-full text-xs font-semibold bg-rosebud text-white shadow-sm transition";
+      }
+
+      const data = FLOWCHART_BLUEPRINTS[subjectKey];
+      const container = document.getElementById("flowchartSubjectContent");
+      if (!data || !container) return;
+
+      let stepsHtml = "";
+      data.steps.forEach((st, idx) => {
+        let bookChipsHtml = "";
+        st.bookTitles.forEach(bTitle => {
+          const bookObj = findBookByTitle(bTitle);
+          if (bookObj) {
+            bookChipsHtml += `
+              <div class="flex flex-wrap items-center justify-between gap-2 bg-[#fff9fb] border border-rose-100 hover:border-rosebud/50 px-3 py-2 rounded-xl text-xs transition">
+                <div class="flex items-center gap-2 min-w-0">
+                  <span class="text-[10px] font-bold text-rosebud bg-rosebud-light px-1.5 py-0.5 rounded">#${bookObj.order}</span>
+                  <span class="font-medium text-charcoal truncate">${bookObj.title}</span>
+                </div>
+                <div class="flex items-center gap-1.5 shrink-0">
+                  <button onclick="openPdfModal('${escapeJsString(bookObj.title)}', '${bookObj.driveUrl}')" class="px-2.5 py-1 bg-rosebud-light hover:bg-[#fadce7] text-rosebud-dark rounded-lg text-[11px] font-semibold transition">
+                    👁️ Preview
+                  </button>
+                  <a href="${bookObj.driveUrl}" target="_blank" rel="noopener" class="px-2.5 py-1 bg-rosebud hover:bg-rosebud-dark text-white rounded-lg text-[11px] font-semibold transition">
+                    Drive ↗
+                  </a>
+                </div>
+              </div>
+            `;
+          }
+        });
+
+        stepsHtml += `
+          <div class="bg-white p-5 rounded-2xl border border-rose-100 shadow-xs space-y-3">
+            <div class="flex items-start justify-between gap-2">
+              <div>
+                <h5 class="font-serif font-bold text-base text-rosebud-dark">${st.step}</h5>
+                <p class="text-xs text-mutedgray mt-0.5 leading-relaxed">${st.desc}</p>
+              </div>
+              <span class="text-xs font-bold text-rosebud bg-rosebud-light px-2.5 py-1 rounded-full shrink-0">0${idx + 1}</span>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-2 pt-1">
+              ${bookChipsHtml}
+            </div>
+          </div>
+        `;
+      });
+
+      let onlineHtml = data.onlineTools.map(tool => `
+        <a href="${tool.url}" target="_blank" rel="noopener" class="flex items-center justify-between p-3 bg-white rounded-xl border border-rose-100 hover:border-rosebud transition text-xs group">
+          <div>
+            <span class="font-semibold text-charcoal group-hover:text-rosebud">${tool.name}</span>
+            <p class="text-[11px] text-mutedgray">${tool.note}</p>
+          </div>
+          <span class="text-rosebud font-bold">↗</span>
+        </a>
+      `).join("");
+
+      container.innerHTML = `
+        <!-- Golden Rule Callout -->
+        <div class="bg-gradient-to-r from-[#fff0f5] to-[#ffe6ef] border border-[#f8c9d9] p-4 rounded-2xl flex items-start gap-3">
+          <span class="text-2xl">${data.icon}</span>
+          <div>
+            <h5 class="font-serif font-bold text-sm text-rosebud-dark">${data.title} — Golden Rule</h5>
+            <p class="text-xs text-charcoal/90 mt-1 leading-relaxed">${data.goldenRule}</p>
+          </div>
+        </div>
+
+        <!-- Step-by-step Book Cards -->
+        <div class="space-y-3">
+          ${stepsHtml}
+        </div>
+
+        <!-- Helpful Free Web/Video Companions -->
+        <div class="bg-[#fff9fb] p-4 rounded-2xl border border-rose-100 space-y-2.5">
+          <p class="text-[11px] font-bold uppercase tracking-wider text-rosebud">Best Free Online Visual Companions for ${data.title.split(' ')[0]}</p>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+            ${onlineHtml}
+          </div>
+        </div>
+      `;
     }
 
 
@@ -1466,6 +1740,7 @@
     // -------------------------------------------------------------
     window.onload = function() {
       renderBooks();
+      selectFlowchartSubject('anatomy');
       updateOverallProgress();
       renderSubjectCards();
       renderActiveSubjectUnits();
