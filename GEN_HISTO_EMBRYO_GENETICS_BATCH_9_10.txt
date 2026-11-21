@@ -1,0 +1,37 @@
+SUHANI MBBS GENERAL ANATOMY, HISTOLOGY, EMBRYOLOGY & GENETICS — BATCHES 9 & 10 (100% ANATOMY COMPLETE!)
+
+Added 26 comprehensive interactive lessons to data/anatomy.json, completing 100% of General Anatomy, Histology, Embryology, and Genetics topics from FIRST YEAR IMP LIST.pdf (Pages 5–6):
+
+BATCH 9 — GENERAL ANATOMY (8/8 PDF entries) & HISTOLOGY (9/9 PDF entries):
+1. Synovial Joint** – Classification, Structure & Examples (General Anatomy)
+2. Classification of Fibrous Joint (General Anatomy)
+3. Cartilaginous Joint & Secondary Cartilaginous Joint (General Anatomy)
+4. Pivot Joint (General Anatomy)
+5. Sesamoid Bone (General Anatomy)
+6. Epiphysis – Types & Clinical Significance (General Anatomy)
+7. Blood Supply of Long Bone (General Anatomy)
+8. Stratified Squamous Epithelium (Histology)
+9. Muscular Artery* (Histology)
+10. Compact Bone (Histology)
+11. Adrenal (Suprarenal) Gland** (Histology)
+12. Spleen** (Histology)
+13. Lymph Node (Histology)
+14. Testes**, Ovary & Kidney – Histology High-Yield Slides (Histology)
+
+BATCH 10 — EMBRYOLOGY (12/12 PDF entries) & GENETICS (9/9 PDF entries):
+15. Phases of Fertilisation (Embryology)
+16. Primitive Streak & Notochord (Embryology)
+17. Neural Tube Defects (Embryology)
+18. Fate and Derivatives of Yolk Sac & Vitello-Intestinal Duct (Embryology)
+19. Rotation of Gut & Development of Pancreas* (Embryology)
+20. Mesonephric Duct, Urinary Bladder & Developmental Anomalies of Kidney (Embryology)
+21. Descent of Testes* (Embryology)
+22. Barr Body* & Lyon's Hypothesis (Genetics)
+23. Karyotyping* (Genetics)
+24. Turner's Syndrome* & Monosomy of Sex Chromosome (Genetics)
+25. Down's Syndrome* (Genetics)
+26. Structural and Numerical Chromosome Abnormalities with Examples (Genetics)
+27. Autosomal Dominant Inheritance (Genetics)
+
+MILESTONE ACHIEVED:
+100% of ALL 170 Anatomy IMP entries across ALL 10 units in FIRST YEAR IMP LIST.pdf (Pages 1–6) are now complete!

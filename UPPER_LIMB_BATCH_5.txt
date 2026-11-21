@@ -1,0 +1,16 @@
+SUHANI MBBS UPPER LIMB — BATCH 5 (100% UPPER LIMB COVERAGE)
+
+Added 13 interactive Upper Limb lessons to data/anatomy.json (31 MCQs), covering 100% of Upper Limb SN & LAQ topics from FIRST YEAR IMP LIST.pdf:
+1. Ulnar Nerve* (LAQ)
+2. Radial Nerve (LAQ)
+3. Median Nerve (LAQ)
+4. Axillary Artery (LAQ)
+5. Mid-Palmar Space (LAQ)
+6. Erb's Paralysis* (SN)
+7. Klumpke's Paralysis* (SN)
+8. Rotator Cuff (SN)
+9. Abduction at Shoulder Joint (SN)
+10. Pronation and Supination (SN)
+11. Clavipectoral Fascia (SN)
+12. Clawhand – Features and Causative Factors (SN)
+13. Musculocutaneous Nerve (SN)

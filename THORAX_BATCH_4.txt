@@ -1,0 +1,20 @@
+SUHANI MBBS THORAX — BATCH 4 (100% THORAX COVERAGE)
+
+This update adds 9 comprehensive interactive Thorax lessons to data/anatomy.json
+and upgrades anatomy.html to render structured bullet breakdowns cleanly while
+preserving all existing Batch 1, Batch 2, and Batch 3 (Neuroanatomy) content and localStorage trackers.
+
+New Thorax Lessons Added (9 Unique Lessons · 27 MCQs, covering 100% of Thorax in FIRST YEAR IMP LIST.pdf):
+1. Arch of Aorta (LAQ ** & SN)
+2. Bronchopulmonary Segments (LAQ & SN * — covers Right & Left Lung segments + Applied Anatomy)
+3. Superior Mediastinum (LAQ)
+4. Left Coronary Artery* (SN)
+5. Thoracic Duct (SN)
+6. Root of Right Lung (SN)
+7. Azygos Vein (SN)
+8. Coronary Sinus (SN)
+9. Typical Intercostal Nerve (SN)
+(Combined with Right Atrium** from Batch 1, all 13 Thorax entries in FIRST YEAR IMP LIST.pdf are now 100% covered!)
+
+DEPLOY (GitHub Pages / Netlify):
+Upload the entire project root folder (preserving index.html, anatomy.html, neuroanatomy.html, classroom.html, tests.html, and the data/ directory).

@@ -1,0 +1,14 @@
+SUHANI MBBS LOWER LIMB — BATCH 7 (100% LOWER LIMB COVERAGE)
+
+Added 10 comprehensive interactive Lower Limb lessons to data/anatomy.json, completing 100% of Lower Limb SN & LAQ topics from FIRST YEAR IMP LIST.pdf:
+1. Sciatic Nerve (LAQ)
+2. Femoral Triangle (LAQ)
+3. Venous Drainage of Lower Limb & Great Saphenous Vein (LAQ & SN)
+4. Longitudinal Arches of Foot – Medial Longitudinal Arch & Lateral Longitudinal Arch (LAQ & SN*)
+5. Femoral Sheath, Femoral Canal* & Femoral Hernia (SN)
+6. Foot Drop – Anatomical Basis* (SN)
+7. Inversion and Eversion – Inverters and Everters with Nerve Supply* (SN)
+8. Gluteus Maximus & Structures Under Gluteus Maximus (LAQ & SN)
+9. Sartorius*, Popliteus**, Gastrocnemius & Intra-Articular Structures of Knee Joint* (LAQ & SN)
+10. Superficial Inguinal Lymph Nodes (SN)
+(Combined with Hip Joint*, Knee Joint**, and Popliteal Fossa* from Batch 2, all 23 Lower Limb entries in FIRST YEAR IMP LIST.pdf are 100% covered!)

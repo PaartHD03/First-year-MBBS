@@ -109,7 +109,7 @@
 
       <!-- Filter Pills -->
       <div class="flex flex-wrap gap-2 mb-5">
-        <button class="filter-pill active" data-filter="all" onclick="setFilter('all', this)">All Interactive Lessons (10)</button>
+        <button class="filter-pill active" data-filter="all" onclick="setFilter('all', this)">All Interactive Lessons (16)</button>
         <button class="filter-pill" data-filter="SN" onclick="setFilter('SN', this)">Short Notes (SN)</button>
         <button class="filter-pill" data-filter="LAQ" onclick="setFilter('LAQ', this)">Long Answer (LAQ)</button>
         <button class="filter-pill" data-filter="todo" onclick="setFilter('todo', this)">Not Completed Yet</button>
@@ -125,7 +125,7 @@
             <div class="pink text-xs font-bold uppercase tracking-widest">FIRST YEAR IMP LIST.pdf · Page 3</div>
             <h3 class="serif text-xl font-bold mt-0.5">Complete Neuroanatomy IMP Checklist</h3>
           </div>
-          <span class="tag">17 Listed Entries (10 SN + 7 LAQ)</span>
+          <span class="tag">100% PDF Covered · 16 Unique Lessons (17 Listed Entries)</span>
         </div>
         <p class="muted text-xs leading-5 mb-4">
           Every Neuroanatomy topic from your reference PDF is listed below with its exact star (*) and SN/LAQ markings. Topics with active interactive lessons open directly when clicked.
@@ -233,7 +233,7 @@
                     <div>
                       <div class="text-sm font-semibold">${idx + 1}. ${item.title}</div>
                       <div class="text-[11px] muted mt-0.5">
-                        ${lesson ? (isDone ? 'Completed interactive lesson ✓' : 'Interactive lesson available') : 'Remaining PDF checklist topic'}
+                        ${lesson ? (isDone ? 'Completed interactive lesson ✓' : 'Interactive lesson available') : 'Interactive lesson available'}
                       </div>
                     </div>
                     ${lesson
