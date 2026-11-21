@@ -1,0 +1,35 @@
+SUHANI MBBS NEUROANATOMY — BATCH 3
+
+This update adds a dedicated interactive Neuroanatomy classroom (neuroanatomy.html)
+and structured lesson dataset (data/neuroanatomy.json) verified against FIRST YEAR IMP LIST.pdf (Page 3).
+All existing Batch 1 & Batch 2 pages, lessons, branding, and localStorage progress trackers are preserved.
+
+Completed Interactive Neuroanatomy Lessons (10):
+1. Floor of Fourth Ventricle** (SN)
+2. Corpus Callosum** (SN)
+3. Internal Capsule* (SN & LAQ)
+4. Circle of Willis (SN)
+5. Medial Medullary Syndrome (SN)
+6. Brown-Séquard Syndrome (SN)
+7. T.S. Midbrain – Superior Colliculus Level* (SN)
+8. Glossopharyngeal Nerve* (LAQ)
+9. Oculomotor Nerve (LAQ)
+10. Functional Areas in Frontal Lobe (LAQ)
+
+Remaining Neuroanatomy Topics Listed in FIRST YEAR IMP LIST.pdf (7):
+Short Notes (SN):
+- T.S. Medulla Oblongata – Pyramidal Decussation
+- Inferior Cerebellar Peduncle*
+- T.S. Spinal Cord – Cervical Level
+Long Answer Questions (LAQ):
+- Superolateral Surface of Cerebrum**
+- Pons
+- Midbrain
+(Note: Internal Capsule appears under both SN and LAQ* in the PDF and is fully covered.)
+
+SOURCE NOTE:
+Topic labels and star/LAQ/SN priority markings follow FIRST YEAR IMP LIST.pdf.
+Explanatory teaching notes are supplementary study support and not a replacement for prescribed textbooks, dissection teaching, or faculty guidance.
+
+DEPLOY (GitHub Pages / Netlify):
+Upload the entire project root folder (preserving index.html, neuroanatomy.html, anatomy.html, classroom.html, tests.html, and the data/ directory).

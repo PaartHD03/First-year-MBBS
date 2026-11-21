@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Neuroanatomy Classroom | For Suhani</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { font-family: 'Plus Jakarta Sans', sans-serif; background: #fffaf6; color: #43343d; }
+    .serif { font-family: 'Playfair Display', serif; }
+    .card { background: #fff; border: 1px solid #f6dce6; border-radius: 22px; box-shadow: 0 8px 28px #a64f7310; }
+    .pink { color: #a64f73; }
+    .btn { border-radius: 14px; padding: 11px 16px; font-weight: 700; transition: all .18s ease; cursor: pointer; }
+    .btn:disabled { opacity: .45; cursor: not-allowed; }
+    .primary { background: #a64f73; color: white; }
+    .primary:hover:not(:disabled) { background: #8e3e60; }
+    .option { display: block; width: 100%; text-align: left; padding: 13px 15px; border: 1px solid #f0d8e2; border-radius: 13px; margin-top: 8px; background: #fff; transition: all .15s ease; }
+    .option:hover:not(:disabled) { border-color: #b66a8a; background: #fff6f9; }
+    .correct { background: #eaf8ef !important; border-color: #74bd8a !important; color: #1f5c35; }
+    .wrong { background: #fff0f0 !important; border-color: #e49a9a !important; color: #8c2b2b; }
+    .hide { display: none !important; }
+    .tag { font-size: 11px; background: #fff0f5; color: #934765; padding: 5px 10px; border-radius: 999px; font-weight: 800; display: inline-flex; align-items: center; gap: 4px; }
+    .tag-done { background: #eaf8ef; color: #276749; }
+    .muted { color: #897984; }
+    .memory { background: #fff4f8; border: 1px solid #f7d8e5; padding: 15px 17px; border-radius: 15px; margin: 18px 0; }
+    .revision-box { background: #fdf8fb; border: 1px solid #f3d7e4; border-radius: 16px; padding: 16px 18px; }
+    .progress { height: 7px; background: #f8e7ee; border-radius: 9px; overflow: hidden; }
+    .progress span { display: block; height: 100%; background: #a64f73; transition: width .25s ease; }
+    .filter-pill { border: 1px solid #f2d4e1; background: #fff; color: #7e5266; border-radius: 999px; padding: 6px 13px; font-size: 12px; font-weight: 700; cursor: pointer; }
+    .filter-pill.active { background: #a64f73; color: #fff; border-color: #a64f73; }
+  </style>
+</head>
+<body>
+  <header class="sticky top-0 z-20 bg-white/90 backdrop-blur border-b border-pink-100">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex flex-wrap items-center justify-between gap-2">
+      <a href="index.html" class="font-bold pink text-base sm:text-lg">🩺 For Suhani ♡</a>
+      <nav class="flex flex-wrap gap-2 text-xs sm:text-sm">
+        <a class="btn bg-pink-50 pink" href="index.html">Home</a>
+        <a class="btn bg-pink-50 pink" href="anatomy.html">🦴 Anatomy IMP</a>
+        <a class="btn primary" href="neuroanatomy.html">🧠 Neuroanatomy</a>
+        <a class="btn bg-pink-50 pink" href="classroom.html">Learn & Practice</a>
+        <a class="btn bg-pink-50 pink" href="tests.html">Tests</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto p-4 sm:p-6">
+    <!-- Hero Banner -->
+    <section class="rounded-3xl p-7 sm:p-9 text-white mb-7" style="background:linear-gradient(120deg,#9c4569,#d487a6)">
+      <div class="text-xs uppercase tracking-widest opacity-85 font-bold">First MBBS · Batch 3 · Neuroanatomy</div>
+      <h1 class="serif text-3xl sm:text-4xl font-bold mt-2">Master Neuroanatomy gently, Suhani 🧠🌸</h1>
+      <p class="mt-3 max-w-2xl text-sm leading-6 opacity-95">
+        Every high-yield Neuroanatomy topic from your IMP list broken down into calm, step-by-step concepts—with memory tricks, clinical correlations, instant MCQs, and university exam answer frameworks.
+      </p>
+      <div class="flex flex-wrap gap-3 mt-6">
+        <div class="bg-white/15 rounded-xl px-4 py-3">
+          <b id="totalChecklist">—</b>
+          <div class="text-xs opacity-85">PDF Neuroanatomy IMPs</div>
+        </div>
+        <div class="bg-white/15 rounded-xl px-4 py-3">
+          <b id="lessonCount">—</b>
+          <div class="text-xs opacity-85">interactive lessons ready</div>
+        </div>
+        <div class="bg-white/15 rounded-xl px-4 py-3">
+          <b id="completedCount">0</b>
+          <div class="text-xs opacity-85">completed by you</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Interactive Lesson Player -->
+    <div id="lesson" class="card p-5 sm:p-7 mb-7 hide">
+      <div class="flex flex-wrap justify-between items-center gap-3">
+        <button class="btn bg-pink-50 pink text-sm" onclick="closeLesson()">← All Neuroanatomy topics</button>
+        <div class="flex items-center gap-2">
+          <span class="tag" id="lessonTag"></span>
+          <span class="tag" id="lessonTime"></span>
+        </div>
+      </div>
+
+      <div class="progress mt-5"><span id="lessonProgress" style="width:0%"></span></div>
+      <div class="flex justify-between items-center mt-2">
+        <div class="muted text-xs font-semibold" id="slideCount"></div>
+        <div class="muted text-xs" id="stepHint">Step-by-step guided session</div>
+      </div>
+
+      <div id="slideArea" class="mt-5"></div>
+
+      <div class="flex justify-between items-center mt-7 pt-4 border-t border-pink-100">
+        <button id="prev" class="btn bg-pink-50 pink text-sm" onclick="move(-1)">← Previous</button>
+        <button id="next" class="btn primary text-sm" onclick="move(1)">Next Step →</button>
+      </div>
+    </div>
+
+    <!-- Topic Catalog & Checklist -->
+    <section id="catalog">
+      <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-5">
+        <div>
+          <div class="pink text-xs font-bold uppercase tracking-widest">Batch 3 · Neuroanatomy Hub</div>
+          <h2 class="serif text-2xl font-bold mt-1">Interactive Neuroanatomy Lessons</h2>
+          <p class="muted text-sm mt-1">Tap any lesson card to start a step-by-step teaching session with instant MCQs and exam tips.</p>
+        </div>
+        <div class="flex flex-col sm:flex-row gap-2 w-full md:w-auto">
+          <input id="search" class="border border-pink-200 rounded-xl px-4 py-2.5 text-sm w-full sm:w-64 outline-none focus:ring-2 focus:ring-pink-200 bg-white" placeholder="Search Neuroanatomy topic…">
+        </div>
+      </div>
+
+      <!-- Filter Pills -->
+      <div class="flex flex-wrap gap-2 mb-5">
+        <button class="filter-pill active" data-filter="all" onclick="setFilter('all', this)">All Interactive Lessons (10)</button>
+        <button class="filter-pill" data-filter="SN" onclick="setFilter('SN', this)">Short Notes (SN)</button>
+        <button class="filter-pill" data-filter="LAQ" onclick="setFilter('LAQ', this)">Long Answer (LAQ)</button>
+        <button class="filter-pill" data-filter="todo" onclick="setFilter('todo', this)">Not Completed Yet</button>
+      </div>
+
+      <!-- Interactive Lessons Grid -->
+      <div id="lessonsGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-8"></div>
+
+      <!-- Complete PDF Neuroanatomy IMP Checklist -->
+      <article class="card p-5 sm:p-6">
+        <div class="flex flex-wrap items-center justify-between gap-2 mb-3">
+          <div>
+            <div class="pink text-xs font-bold uppercase tracking-widest">FIRST YEAR IMP LIST.pdf · Page 3</div>
+            <h3 class="serif text-xl font-bold mt-0.5">Complete Neuroanatomy IMP Checklist</h3>
+          </div>
+          <span class="tag">17 Listed Entries (10 SN + 7 LAQ)</span>
+        </div>
+        <p class="muted text-xs leading-5 mb-4">
+          Every Neuroanatomy topic from your reference PDF is listed below with its exact star (*) and SN/LAQ markings. Topics with active interactive lessons open directly when clicked.
+        </p>
+        <div id="checklistArea" class="grid md:grid-cols-2 gap-5"></div>
+      </article>
+    </section>
+
+    <footer class="text-center muted text-xs py-10">
+      Made with endless love by Paarth 💗 · Learning notes are supplementary; follow your prescribed textbook and faculty guidance.
+    </footer>
+  </main>
+
+  <script>
+    let DATA = null;
+    let current = null;
+    let step = 0;
+    let answered = {};
+    let activeFilter = 'all';
+    const doneKey = 'suhani_neuroanatomy_batch3_done';
+    let done = JSON.parse(localStorage.getItem(doneKey) || '[]');
+
+    fetch('data/neuroanatomy.json')
+      .then(r => {
+        if (!r.ok) throw new Error('Failed to load');
+        return r.json();
+      })
+      .then(d => {
+        DATA = d;
+        renderCatalog();
+      })
+      .catch(() => {
+        document.getElementById('lessonsGrid').innerHTML =
+          '<div class="card p-5 col-span-full text-sm">Could not load <code>data/neuroanatomy.json</code>. Make sure the <code>data/</code> folder is uploaded alongside <code>neuroanatomy.html</code>.</div>';
+      });
+
+    function setFilter(f, btn) {
+      activeFilter = f;
+      document.querySelectorAll('.filter-pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderCatalog();
+    }
+
+    function renderCatalog() {
+      if (!DATA) return;
+      const totalPdfItems = DATA.checklist.SN.length + DATA.checklist.LAQ.length;
+      document.getElementById('totalChecklist').textContent = totalPdfItems;
+      document.getElementById('lessonCount').textContent = DATA.lessons.length;
+      document.getElementById('completedCount').textContent = done.length;
+
+      const q = document.getElementById('search').value.trim().toLowerCase();
+
+      const filteredLessons = DATA.lessons.filter(l => {
+        const matchesQuery = !q || l.title.toLowerCase().includes(q) || l.pdfLabel.toLowerCase().includes(q) || l.tag.toLowerCase().includes(q);
+        if (!matchesQuery) return false;
+        if (activeFilter === 'SN') return l.examType.includes('SN');
+        if (activeFilter === 'LAQ') return l.examType.includes('LAQ');
+        if (activeFilter === 'todo') return !done.includes(l.id);
+        return true;
+      });
+
+      const grid = document.getElementById('lessonsGrid');
+      if (!filteredLessons.length) {
+        grid.innerHTML = '<div class="card p-5 col-span-full text-sm muted">No matching Neuroanatomy lessons found. Try clearing your search or filter.</div>';
+      } else {
+        grid.innerHTML = filteredLessons.map(l => {
+          const isDone = done.includes(l.id);
+          return `
+            <div class="card p-5 flex flex-col justify-between hover:border-pink-300 transition">
+              <div>
+                <div class="flex items-center justify-between gap-2 flex-wrap">
+                  <span class="tag">${l.tag}</span>
+                  ${isDone ? '<span class="tag tag-done">✓ Completed</span>' : `<span class="text-xs muted">~${l.minutes} min</span>`}
+                </div>
+                <h3 class="serif text-lg font-bold mt-3 text-[#43343d]">${l.title}</h3>
+                <p class="text-xs muted mt-1">PDF entry: ${l.pdfLabel}</p>
+                <p class="text-xs text-[#695762] mt-3 leading-5">${l.quickRevision[0]}</p>
+              </div>
+              <div class="mt-4 pt-3 border-t border-pink-50 flex items-center justify-between">
+                <span class="text-xs muted">${l.slides.length} interactive steps</span>
+                <button class="btn primary text-xs py-2 px-3.5" onclick="openLesson('${l.id}')">
+                  ${isDone ? 'Revise Again →' : 'Start Lesson →'}
+                </button>
+              </div>
+            </div>
+          `;
+        }).join('');
+      }
+
+      // Render PDF Checklist
+      const checklistArea = document.getElementById('checklistArea');
+      checklistArea.innerHTML = ['SN', 'LAQ'].map(kind => {
+        const items = DATA.checklist[kind];
+        return `
+          <div class="rounded-2xl border border-pink-100 p-4 bg-[#fffcfd]">
+            <div class="text-xs font-extrabold pink uppercase tracking-wider mb-3">
+              ${kind === 'SN' ? 'Short Notes (SN) · 10 Topics' : 'Long Answer Questions (LAQ) · 7 Topics'}
+            </div>
+            <div class="space-y-2">
+              ${items.map((item, idx) => {
+                const lesson = DATA.lessons.find(l => l.id === item.id);
+                const isDone = lesson && done.includes(lesson.id);
+                return `
+                  <div class="rounded-xl bg-white border border-pink-100 px-3.5 py-2.5 flex items-center justify-between gap-2">
+                    <div>
+                      <div class="text-sm font-semibold">${idx + 1}. ${item.title}</div>
+                      <div class="text-[11px] muted mt-0.5">
+                        ${lesson ? (isDone ? 'Completed interactive lesson ✓' : 'Interactive lesson available') : 'Remaining PDF checklist topic'}
+                      </div>
+                    </div>
+                    ${lesson
+                      ? `<button class="tag shrink-0 cursor-pointer hover:bg-pink-100" onclick="openLesson('${lesson.id}')">${isDone ? 'Revise →' : 'Learn →'}</button>`
+                      : '<span class="text-xs muted px-2">Planned</span>'}
+                  </div>
+                `;
+              }).join('')}
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    document.getElementById('search').addEventListener('input', renderCatalog);
+
+    function openLesson(id) {
+      current = DATA.lessons.find(x => x.id === id);
+      if (!current) return;
+      step = 0;
+      answered = {};
+      document.getElementById('catalog').classList.add('hide');
+      document.getElementById('lesson').classList.remove('hide');
+      document.getElementById('lessonTag').textContent = current.tag;
+      document.getElementById('lessonTime').textContent = `~${current.minutes} mins`;
+      renderSlide();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function closeLesson() {
+      document.getElementById('lesson').classList.add('hide');
+      document.getElementById('catalog').classList.remove('hide');
+      renderCatalog();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function renderSlide() {
+      const s = current.slides[step];
+      const key = current.id + '_' + step;
+      const wasAnswered = answered[key] !== undefined;
+      const totalSteps = current.slides.length;
+
+      document.getElementById('lessonProgress').style.width = (((step + 1) / totalSteps) * 100) + '%';
+      document.getElementById('slideCount').textContent = `${current.title} · Step ${step + 1} of ${totalSteps}`;
+      document.getElementById('prev').disabled = step === 0;
+      document.getElementById('next').disabled = false;
+      document.getElementById('next').textContent = step === totalSteps - 1 ? 'Finish & View Exam Framework ✓' : 'Next Step →';
+
+      const bulletsHtml = s.bullets && s.bullets.length
+        ? `<ul class="mt-4 space-y-2 text-sm leading-6 bg-[#fffcfd] border border-pink-100 rounded-2xl p-4">
+            ${s.bullets.map(b => `<li class="flex items-start gap-2"><span class="pink font-bold mt-0.5">•</span><span>${b}</span></li>`).join('')}
+           </ul>`
+        : '';
+
+      document.getElementById('slideArea').innerHTML = `
+        <div class="tag">NEUROANATOMY · ${current.pdfLabel}</div>
+        <h2 class="serif text-2xl font-bold mt-3 text-[#43343d]">${s.h}</h2>
+        <p class="leading-7 mt-3 text-[15px]">${s.p}</p>
+        ${bulletsHtml}
+        <div class="memory">
+          <div class="text-xs font-extrabold uppercase tracking-wider pink mb-1">🌷 Memory Trick & Recall Cue</div>
+          <div class="text-sm leading-6">${s.remember}</div>
+        </div>
+        <div class="rounded-2xl bg-[#fffafc] border border-pink-100 p-4 sm:p-5">
+          <div class="pink text-xs font-extrabold uppercase tracking-wider">Quick Concept Check · Answer before moving on</div>
+          <h3 class="font-bold mt-2 text-base">${s.q}</h3>
+          <div class="mt-3">
+            ${s.opts.map((o, i) => `
+              <button class="option text-sm ${wasAnswered ? (i === s.a ? 'correct' : answered[key] === i ? 'wrong' : '') : ''}"
+                ${wasAnswered ? 'disabled' : ''}
+                onclick="answer(${i})">
+                <b>${String.fromCharCode(65 + i)}.</b> ${o}
+              </button>
+            `).join('')}
+          </div>
+          <div id="feedback" class="${wasAnswered ? '' : 'hide'} mt-4 p-3.5 rounded-xl bg-white border border-pink-100 text-sm leading-6">
+            ${wasAnswered
+              ? `<div class="font-bold mb-1 ${answered[key] === s.a ? 'text-green-700' : 'text-rose-700'}">
+                  ${answered[key] === s.a ? 'Correct! Great job, Suhani 🌸' : 'Not quite — let’s review why 💗'}
+                 </div>
+                 <div>${s.why}</div>`
+              : ''}
+          </div>
+        </div>
+      `;
+    }
+
+    function answer(i) {
+      const key = current.id + '_' + step;
+      if (answered[key] !== undefined) return;
+      answered[key] = i;
+      renderSlide();
+    }
+
+    function move(n) {
+      const key = current.id + '_' + step;
+      if (n > 0 && answered[key] === undefined) {
+        alert('Answer the quick question first so we lock this concept in, Suhani 🌸');
+        return;
+      }
+      if (step + n < current.slides.length) {
+        step += n;
+        renderSlide();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      } else {
+        if (!done.includes(current.id)) {
+          done.push(current.id);
+          localStorage.setItem(doneKey, JSON.stringify(done));
+        }
+        document.getElementById('completedCount').textContent = done.length;
+        document.getElementById('slideArea').innerHTML = `
+          <div class="py-4">
+            <div class="text-center">
+              <div class="text-5xl">🧠🌸</div>
+              <h2 class="serif text-2xl sm:text-3xl font-bold mt-3">Wonderful work, Suhani!</h2>
+              <p class="mt-2 text-sm">You completed <b>${current.title}</b> (${current.pdfLabel}).</p>
+            </div>
+
+            <div class="revision-box mt-6">
+              <div class="pink text-xs font-extrabold uppercase tracking-wider mb-2">📝 University Exam Answer Framework</div>
+              <p class="text-sm leading-6">${current.examFramework}</p>
+            </div>
+
+            <div class="revision-box mt-4">
+              <div class="pink text-xs font-extrabold uppercase tracking-wider mb-2">⚡ Quick Last-Minute Revision Points</div>
+              <ul class="space-y-1.5 text-sm leading-6">
+                ${current.quickRevision.map(pt => `<li class="flex items-start gap-2"><span class="pink font-bold">✓</span><span>${pt}</span></li>`).join('')}
+              </ul>
+            </div>
+
+            <div class="text-center mt-7 flex flex-wrap justify-center gap-3">
+              <button class="btn bg-pink-50 pink text-sm" onclick="openLesson('${current.id}')">↺ Practice Again</button>
+              <button class="btn primary text-sm" onclick="closeLesson()">Back to Neuroanatomy Topics →</button>
+            </div>
+          </div>
+        `;
+        document.getElementById('next').disabled = true;
+        document.getElementById('prev').disabled = true;
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+SUHANI MBBS ANATOMY — BATCH 2
+
+This update adds 10 interactive lessons to the existing anatomy.json catalogue.
+The existing site, branding, first batch, classroom engine and tests page are preserved.
+
+New lessons:
+1. Pancreas (Abdomen & Pelvis) — LAQ **
+2. Prostate (Abdomen & Pelvis) — LAQ **
+3. Stomach (Abdomen & Pelvis) — LAQ **
+4. Kidney (Abdomen & Pelvis) — LAQ
+5. Urinary Bladder (Abdomen & Pelvis) — LAQ *
+6. Inguinal Canal (Abdomen & Pelvis) — SN * / LAQ *
+7. Anal Canal (Abdomen & Pelvis) — LAQ * / SN
+8. Hip Joint (Lower Limb) — LAQ *
+9. Knee Joint (Lower Limb) — LAQ **
+10. Popliteal Fossa (Lower Limb) — LAQ *
+
+Each lesson has short teaching sections, a memory cue, one immediate MCQ per section,
+feedback/explanation, and an exam-answer framework. Progress uses the same local
+browser storage key as the previous anatomy batch, so the existing completion tracker
+continues to work.
+
+SOURCE NOTE:
+Topic labels and star/LAQ/SN priority markings follow FIRST YEAR IMP LIST.pdf.
+The explanatory teaching content is supplementary study support, not a replacement
+for the prescribed textbook, dissection teaching or faculty notes. Check exact
+classroom wording and diagrams with the faculty.
+
+DEPLOY:
+Replace the existing project files with the updated files in this ZIP (or merge them,
+keeping the folder structure). Upload the project root to Netlify. Do not upload
+anatomy.html by itself: it needs data/anatomy.json.
