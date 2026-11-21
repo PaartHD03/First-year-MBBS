@@ -864,6 +864,459 @@
           "why": "Damage to Broca's area (Areas 44 and 45) produces expressive (motor) aphasia, characterized by non-fluent, effortful speech with preserved comprehension."
         }
       ]
+    },
+    {
+      "id": "superolateral-surface-cerebrum",
+      "title": "Superolateral Surface of Cerebrum",
+      "pdfLabel": "Superolateral Surface of Cerebrum**",
+      "examType": "LAQ",
+      "tag": "LAQ \u00b7 ** (High Priority)",
+      "minutes": 14,
+      "quickRevision": [
+        "3 poles (Frontal, Occipital, Temporal) and 3 borders (Superomedial, Inferolateral, Medial orbital/occipital).",
+        "3 main sulci divide the surface into 4 lobes: Central sulcus (of Rolando), Lateral sulcus (of Sylvius \u2014 stem + anterior horizontal, anterior ascending, posterior rami), and Parieto-occipital sulcus (cuts superomedial border ~5 cm in front of occipital pole).",
+        "Frontal lobe: Precentral gyrus (Area 4), Superior/Middle/Inferior frontal gyri (Broca's area 44, 45 in inferior frontal gyrus).",
+        "Parietal lobe: Postcentral gyrus (Areas 3, 1, 2 \u2014 primary sensory), Superior & Inferior parietal lobules (Supramarginal & Angular gyri).",
+        "Temporal lobe: Superior/Middle/Inferior temporal gyri; Heschl's gyrus (Areas 41, 42 \u2014 primary auditory) & Wernicke's area (Area 22 \u2014 sensory speech).",
+        "Blood supply: Almost the entire superolateral surface is supplied by the Middle Cerebral Artery (MCA), EXCEPT a 1-inch strip along superomedial border (ACA) and occipital pole/lower temporal border (PCA)."
+      ],
+      "examFramework": "Write under: 1. Poles & Borders \u2192 2. Main Sulci Dividing Lobes (Central, Lateral with its 3 rami, Parieto-occipital + Pre-occipital notch imaginary lines) \u2192 3. Sulci & Gyri of Each Lobe (Frontal, Parietal, Temporal, Occipital + Insula) \u2192 4. Key Functional Areas (Motor, Sensory, Broca's, Wernicke's, Auditory, Visual) \u2192 5. Arterial Supply (MCA territory + ACA/PCA strips) \u2192 6. Applied Anatomy (MCA stroke, Aphasias) + Large labelled diagram of superolateral surface.",
+      "slides": [
+        {
+          "h": "1. Poles, Borders & The Boundary Sulci",
+          "p": "The <b>superolateral surface</b> of each cerebral hemisphere is convex and lies beneath the cranial vault. It has <b>three poles</b> (frontal, occipital, temporal) and is divided into <b>four major lobes</b> (frontal, parietal, temporal, occipital) by three key sulci and two imaginary lines:",
+          "bullets": [
+            "<b>Central Sulcus (of Rolando):</b> Starts at the superomedial border slightly behind the midpoint between frontal and occipital poles, and runs downward and forward toward the posterior ramus of the lateral sulcus (stops just short of it).",
+            "<b>Lateral Sulcus (of Sylvius):</b> Deep cleft on the inferior/lateral aspect; its stem divides at the Sylvian point into <b>anterior horizontal</b>, <b>anterior ascending</b>, and <b>posterior rami</b>. Deep inside its floor lies the hidden 5th lobe: the <b>Insula</b>.",
+            "<b>Parieto-occipital Sulcus & Pre-occipital Notch:</b> Parieto-occipital sulcus cuts the superomedial border ~5 cm in front of the occipital pole. An imaginary line from it to the <b>pre-occipital notch</b> separates the occipital lobe, and a second line from the posterior ramus of lateral sulcus to the first line separates parietal from temporal lobes."
+          ],
+          "remember": "Lateral sulcus has 3 rami: Anterior Horizontal, Anterior Ascending, and Posterior. Hidden inside = Insula!",
+          "q": "Which lobe of the cerebral hemisphere lies hidden deep in the floor of the lateral sulcus?",
+          "opts": [
+            "Limbic lobe",
+            "Insula (Island of Reil)",
+            "Cuneus",
+            "Paracentral lobule"
+          ],
+          "a": 1,
+          "why": "The insula is submerged deep within the lateral sulcus and is covered by opercula of the frontal, parietal, and temporal lobes."
+        },
+        {
+          "h": "2. Sulci, Gyri & Functional Areas of Each Lobe",
+          "p": "Organize the sulci and gyri lobe-by-lobe so you can draw and label them cleanly in your LAQ:",
+          "bullets": [
+            "<b>Frontal Lobe:</b> Precentral sulcus outlines the <b>precentral gyrus (Primary Motor Area 4)</b>. Superior & inferior frontal sulci divide the rest into <b>superior, middle, and inferior frontal gyri</b>. The anterior horizontal and ascending rami of lateral sulcus divide the inferior frontal gyrus into pars orbitalis, pars triangularis (Area 45), and pars opercularis (Area 44) = <b>Broca's motor speech area</b>.",
+            "<b>Parietal Lobe:</b> Postcentral sulcus outlines the <b>postcentral gyrus (Primary Somatosensory Areas 3, 1, 2)</b>. Intraparietal sulcus divides the rest into <b>superior and inferior parietal lobules</b> (containing supramarginal gyrus around posterior ramus and angular gyrus around superior temporal sulcus).",
+            "<b>Temporal Lobe:</b> Superior & inferior temporal sulci create <b>superior, middle, and inferior temporal gyri</b>. Upper surface of superior temporal gyrus bears <b>transverse temporal gyri of Heschl (Primary Auditory Areas 41, 42)</b>; posterior part is <b>Wernicke's sensory speech area (Area 22)</b>.",
+            "<b>Occipital Lobe:</b> Lateral occipital sulcus and lunate sulcus; receives extensions of primary and association visual cortex (Areas 17, 18, 19) near the occipital pole."
+          ],
+          "remember": "Precentral gyrus = Motor (4). Postcentral gyrus = Sensory (3, 1, 2). Inferior frontal = Broca (44, 45). Superior temporal = Auditory (41, 42) + Wernicke (22).",
+          "q": "Where is Wernicke's sensory speech area (Area 22) located?",
+          "opts": [
+            "Inferior frontal gyrus",
+            "Posterior part of superior temporal gyrus",
+            "Postcentral gyrus",
+            "Superior parietal lobule"
+          ],
+          "a": 1,
+          "why": "Wernicke's area (Brodmann area 22) is situated in the posterior portion of the superior temporal gyrus of the dominant hemisphere."
+        },
+        {
+          "h": "3. Arterial Supply & Applied Anatomy",
+          "p": "Blood supply of the superolateral surface is a favorite viva and MCQ question:",
+          "bullets": [
+            "<b>Middle Cerebral Artery (MCA):</b> Supplies <b>most of the superolateral surface</b> (including face & upper limb motor/sensory areas, Broca's area, Wernicke's area, and auditory cortex).",
+            "<b>Anterior Cerebral Artery (ACA):</b> Supplies a narrow <b>1-inch (2.5 cm) strip along the superomedial border</b> down to the parieto-occipital sulcus (lower limb motor/sensory strip).",
+            "<b>Posterior Cerebral Artery (PCA):</b> Supplies the <b>occipital pole / visual cortex</b> and the inferior temporal gyrus along the inferolateral border.",
+            "<b>Clinical \u2014 MCA Occlusion:</b> Causes contralateral paralysis and sensory loss predominantly affecting the <b>face and upper limb</b> (sparing the lower limb), plus <b>aphasia</b> if the dominant (left) hemisphere is affected."
+          ],
+          "remember": "MCA = Main superolateral surface (Face + Arm + Speech). ACA = Top 1-inch strip (Leg). PCA = Back tip (Occipital/Vision).",
+          "q": "Which artery supplies the narrow 1-inch strip along the superomedial border on the superolateral surface of the cerebrum?",
+          "opts": [
+            "Middle cerebral artery (MCA)",
+            "Anterior cerebral artery (ACA)",
+            "Posterior cerebral artery (PCA)",
+            "Anterior choroidal artery"
+          ],
+          "a": 1,
+          "why": "Branches of the anterior cerebral artery curve over the superomedial border to supply a 1-inch strip of cortex on the superolateral surface."
+        }
+      ]
+    },
+    {
+      "id": "pons",
+      "title": "Pons",
+      "pdfLabel": "Pons",
+      "examType": "LAQ",
+      "tag": "LAQ \u00b7 Brainstem",
+      "minutes": 14,
+      "quickRevision": [
+        "Middle part of brainstem (~2.5 cm long) between midbrain above and medulla below; connected to cerebellum by Middle Cerebellar Peduncles.",
+        "External features: Ventral surface has midline Basilar Sulcus (basilar artery) and CN V attachment laterally; Pontomedullary junction gives attachment to CN VI, VII, VIII (medial to lateral).",
+        "Internal division by Trapezoid Body into: 1. Ventral (Basilar) part (pontine nuclei, corticospinal/corticonuclear tracts, transverse pontocerebellar fibres) and 2. Dorsal (Tegmental) part (cranial nerve nuclei V, VI, VII, VIII + lemnisci + MLF).",
+        "Clinical: Millard-Gubler syndrome (CN VI + CN VII + corticospinal tract) and Pontine hemorrhage (pinpoint pupils, hyperpyrexia, coma)."
+      ],
+      "examFramework": "Write under: 1. Situation & Dimensions \u2192 2. External Features (Anterior/Ventral surface, Posterior/Dorsal surface forming upper floor of 4th ventricle, Cranial nerve attachments) \u2192 3. Internal Structure (Basilar part vs Tegmental part at Lower Pons [Facial colliculus level] & Upper Pons [Trigeminal level]) \u2192 4. Blood Supply (Pontine branches of Basilar artery) \u2192 5. Applied Anatomy (Millard-Gubler syndrome, Pontine hemorrhage) + Two labelled T.S. diagrams.",
+      "slides": [
+        {
+          "h": "1. External Features & Cranial Nerve Attachments",
+          "p": "The <b>pons</b> ('bridge') is the middle segment of the brainstem (~2.5 cm long), lying on the clivus between the midbrain above and the medulla oblongata below. Its prominent transverse fibres bundle together on each side as the <b>middle cerebellar peduncle (brachium pontis)</b>, linking the cerebrum to the opposite cerebellar hemisphere.",
+          "bullets": [
+            "<b>Anterior (Ventral) Surface:</b> Convex from side to side; shows a vertical midline groove\u2014the <b>basilar sulcus</b>\u2014lodging the <b>basilar artery</b>. Lateral to this, the large <b>trigeminal nerve (CN V)</b> emerges (large sensory root + small motor root).",
+            "<b>Pontomedullary Sulcus (Inferior Border):</b> Three cranial nerves emerge from medial to lateral: <b>Abducens (CN VI)</b> above pyramid, <b>Facial (CN VII)</b>, and <b>Vestibulocochlear (CN VIII)</b> at the cerebellopontine angle.",
+            "<b>Posterior (Dorsal) Surface:</b> Hidden by the cerebellum; forms the <b>upper triangular half of the floor of the fourth ventricle</b>."
+          ],
+          "remember": "Pontomedullary junction (medial to lateral): 6, 7, 8 (CN VI, VII, VIII). Mid-pons laterally: 5 (CN V).",
+          "q": "Which cranial nerves emerge from medial to lateral at the pontomedullary junction?",
+          "opts": [
+            "CN III, IV, V",
+            "CN VI, VII, VIII",
+            "CN IX, X, XI",
+            "CN V, VII, IX"
+          ],
+          "a": 1,
+          "why": "At the inferior border of the pons (pontomedullary groove), CN VI, CN VII, and CN VIII emerge in order from medial to lateral."
+        },
+        {
+          "h": "2. Internal Structure: Basilar Part vs Tegmentum",
+          "p": "A transverse section of the pons is divided by the transverse auditory fibres of the <b>trapezoid body</b> into an anterior <b>basilar (ventral) part</b> and a posterior <b>tegmental (dorsal) part</b>:",
+          "bullets": [
+            "<b>Basilar (Ventral) Part (same at all levels):</b> Contains scattered <b>pontine nuclei</b> (relaying corticopontine impulses), vertical bundles of <b>corticospinal and corticonuclear fibres</b>, and <b>transverse pontocerebellar fibres</b> that cross the midline to enter the opposite middle cerebellar peduncle.",
+            "<b>Tegmentum \u2014 Lower Pons (Facial Colliculus Level):</b> Contains <b>abducens nucleus (CN VI)</b>, <b>facial motor nucleus (CN VII)</b> whose fibres loop around CN VI to form the facial colliculus, spinal nucleus of CN V, vestibular & cochlear nuclei, MLF, and the 4 lemnisci (Medial, Trigeminal, Spinal, Lateral from medial to lateral).",
+            "<b>Tegmentum \u2014 Upper Pons (Trigeminal Level):</b> Contains the <b>motor nucleus</b> and <b>principal (chief) sensory nucleus of CN V</b>, plus the superior cerebellar peduncles."
+          ],
+          "remember": "Ventral pons = Motor highway + Pontocerebellar bridge. Dorsal tegmentum = Nuclei of CN V, VI, VII, VIII + Trapezoid body + 4 Lemnisci.",
+          "q": "Which structure divides the pons internally into a ventral basilar part and a dorsal tegmental part?",
+          "opts": [
+            "Substantia nigra",
+            "Trapezoid body",
+            "Striae medullares",
+            "Anterior white commissure"
+          ],
+          "a": 1,
+          "why": "The trapezoid body (decussating auditory fibres) lies at the boundary between the ventral basilar pons and the dorsal pontine tegmentum."
+        },
+        {
+          "h": "3. Blood Supply & Clinical Syndromes",
+          "p": "The pons is supplied by <b>paramedian and circumferential pontine branches of the basilar artery</b>. Vascular lesions produce very distinct clinical presentations:",
+          "bullets": [
+            "<b>Millard-Gubler Syndrome (Ventral Caudal Pons):</b> Damages emerging <b>CN VI + CN VII + corticospinal tract</b> \u2192 Ipsilateral lateral rectus palsy (medial squint), ipsilateral LMN facial paralysis, and contralateral hemiplegia.",
+            "<b>Pontine Hemorrhage:</b> Bilateral destruction of descending sympathetic fibres + reticular activating system causes classic <b>pinpoint pupils</b> (unopposed parasympathetic tone), <b>hyperpyrexia</b> (high fever), quadriplegia, and deep coma.",
+            "<b>Locked-in Syndrome:</b> Ventral pontine infarction spares consciousness and vertical eye movements/blinking, but paralyzes all four limbs and speech."
+          ],
+          "remember": "Pontine hemorrhage triad = Pinpoint pupils + Hyperpyrexia + Deep coma. Millard-Gubler = CN 6 + CN 7 + Opposite body weak.",
+          "q": "A massive pontine hemorrhage classically produces which characteristic pupillary sign?",
+          "opts": [
+            "Widely dilated fixed pupils",
+            "Pinpoint (constricted) pupils",
+            "Unilateral dilated pupil only",
+            "Normal reactive pupils"
+          ],
+          "a": 1,
+          "why": "Pontine hemorrhage interrupts descending sympathetic pupillodilator fibres bilaterally while sparing the midbrain Edinger-Westphal parasympathetic nuclei, causing pinpoint pupils."
+        }
+      ]
+    },
+    {
+      "id": "midbrain",
+      "title": "Midbrain (Mesencephalon)",
+      "pdfLabel": "Midbrain",
+      "examType": "LAQ",
+      "tag": "LAQ \u00b7 Brainstem",
+      "minutes": 14,
+      "quickRevision": [
+        "Shortest, uppermost part of brainstem (~2 cm) connecting pons/cerebellum below to forebrain above; traversed by Cerebral Aqueduct (of Sylvius).",
+        "External features: Ventrally = Cerebral peduncles + Interpeduncular fossa (CN III exit); Dorsally = Tectum with 4 colliculi (Corpora quadrigemina) + CN IV exit below inferior colliculus (only CN exiting dorsally!).",
+        "Lower Midbrain (Inferior Colliculus level): Inferior colliculus (auditory), Trochlear nucleus (CN IV), Decussation of Superior Cerebellar Peduncles, all 4 lemnisci.",
+        "Upper Midbrain (Superior Colliculus level): Superior colliculus (visual reflexes), Pretectal nucleus, Oculomotor complex (CN III + Edinger-Westphal), Red nucleus, Rubrospinal decussation."
+      ],
+      "examFramework": "Write under: 1. Situation & Dimensions \u2192 2. External Features (Ventral: crus cerebri & interpeduncular fossa; Dorsal: tectum, superior & inferior colliculi, brachia, CN IV exit) \u2192 3. Internal Subdivisions (Tectum, Tegmentum, Substantia Nigra, Crus Cerebri) \u2192 4. T.S. at Inferior Colliculus Level \u2192 5. T.S. at Superior Colliculus Level \u2192 6. Blood Supply & Clinical Syndromes (Weber's, Benedikt's, Parinaud's) + Both T.S. diagrams.",
+      "slides": [
+        {
+          "h": "1. External Features & Subdivisions",
+          "p": "The <b>midbrain (mesencephalon)</b> is the shortest segment of the brainstem (~2 cm long), passing through the tentorial notch to connect the hindbrain with the diencephalon. It is traversed by the narrow <b>cerebral aqueduct (of Sylvius)</b> connecting the 3rd and 4th ventricles.",
+          "bullets": [
+            "<b>Dorsal Surface (Tectum):</b> Shows four rounded swellings\u2014the <b>corpora quadrigemina</b>: two <b>superior colliculi</b> (visual reflexes) and two <b>inferior colliculi</b> (auditory relay). Immediately below the inferior colliculus emerges the <b>trochlear nerve (CN IV)</b>\u2014the ONLY cranial nerve to exit from the dorsal aspect of the brainstem!",
+            "<b>Ventral Surface:</b> Presents two massive diverging fibre bundles\u2014the <b>crus cerebri</b>\u2014separated by the <b>interpeduncular fossa</b>, from whose medial sulcus emerges the <b>oculomotor nerve (CN III)</b>.",
+            "<b>Internal Zones:</b> Tectum (behind aqueduct) + Cerebral peduncles (in front), each divided by the pigmented <b>substantia nigra</b> into posterior <b>tegmentum</b> and anterior <b>crus cerebri</b>."
+          ],
+          "remember": "Superior colliculus = Sight (visual). Inferior colliculus = Sound (auditory). CN IV exits dorsally below inferior colliculus!",
+          "q": "Which cranial nerve is the ONLY one to emerge from the dorsal (posterior) surface of the brainstem?",
+          "opts": [
+            "Oculomotor nerve (CN III)",
+            "Trochlear nerve (CN IV)",
+            "Abducens nerve (CN VI)",
+            "Trigeminal nerve (CN V)"
+          ],
+          "a": 1,
+          "why": "The trochlear nerve (CN IV) decussates inside the superior medullary velum and emerges on the dorsal surface of the midbrain just below the inferior colliculus."
+        },
+        {
+          "h": "2. Transverse Sections: Inferior vs Superior Colliculus Levels",
+          "p": "In an LAQ on Midbrain, comparing the <b>two classic transverse section levels</b> earns full marks:",
+          "bullets": [
+            "<b>Level 1 \u2014 Inferior Colliculus (Lower Midbrain):</b> Contains <b>Inferior colliculus</b> (auditory), <b>Trochlear nucleus (CN IV)</b> in ventral periaqueductal grey, <b>Mesencephalic nucleus of CN V</b> (proprioception from face/muscles of mastication), <b>Decussation of Superior Cerebellar Peduncles</b> in central tegmentum, and all 4 lemnisci (Medial, Trigeminal, Spinal, Lateral).",
+            "<b>Level 2 \u2014 Superior Colliculus (Upper Midbrain):</b> Contains <b>Superior colliculus</b>, <b>Pretectal nucleus</b> (light reflex), <b>Oculomotor nucleus (CN III) + Edinger-Westphal nucleus</b>, prominent <b>Red nucleus</b>, ventral & dorsal tegmental decussations, and 3 lemnisci (Lateral lemniscus has already ended below).",
+            "<b>Substantia Nigra (Both Levels):</b> Dark melanin-rich dopaminergic neurons projecting to striatum; degeneration causes <b>Parkinson's disease</b>."
+          ],
+          "remember": "Lower Midbrain = CN IV + Superior Cerebellar Peduncle Decussation + 4 Lemnisci. Upper Midbrain = CN III + Red Nucleus + 3 Lemnisci.",
+          "q": "Which prominent decussation occupies the central tegmentum of the midbrain at the level of the inferior colliculus?",
+          "opts": [
+            "Pyramidal decussation",
+            "Sensory (lemniscal) decussation",
+            "Decussation of superior cerebellar peduncles",
+            "Optic chiasma"
+          ],
+          "a": 2,
+          "why": "Fibres of the superior cerebellar peduncles cross the midline in the central tegmentum at the inferior colliculus level on their way to the red nucleus and thalamus."
+        },
+        {
+          "h": "3. Blood Supply & Clinical Correlations",
+          "p": "The midbrain is supplied chiefly by branches of the <b>Posterior Cerebral Artery (PCA)</b> and <b>Superior Cerebellar Artery (SCA)</b>:",
+          "bullets": [
+            "<b>Parinaud's Syndrome (Dorsal Midbrain):</b> Compression of the superior colliculi/pretectal area (e.g., by a pineal gland tumor) causes <b>paralysis of upward gaze</b> and loss of pupillary light reflex with preserved accommodation (light-near dissociation).",
+            "<b>Weber's Syndrome:</b> Ventral midbrain lesion (crus cerebri + CN III) \u2192 ipsilateral CN III palsy + contralateral hemiplegia.",
+            "<b>Benedikt's Syndrome:</b> Tegmental lesion (red nucleus + medial lemniscus + CN III) \u2192 ipsilateral CN III palsy + contralateral tremor/ataxia + loss of proprioception."
+          ],
+          "remember": "Pineal tumor presses Superior Colliculus \u2192 Parinaud's syndrome (cannot look UP!).",
+          "q": "Compression of the dorsal midbrain (superior colliculus area) by a pineal tumor characteristically impairs which eye movement?",
+          "opts": [
+            "Abduction of the eye",
+            "Vertical upward gaze",
+            "Intorsion of the eye",
+            "Lateral conjugate gaze"
+          ],
+          "a": 1,
+          "why": "Lesions of the superior colliculus and pretectal region (Parinaud's syndrome) classically cause paralysis of conjugate upward gaze."
+        }
+      ]
+    },
+    {
+      "id": "ts-medulla-pyramidal-decussation",
+      "title": "T.S. Medulla Oblongata \u2013 Pyramidal Decussation",
+      "pdfLabel": "T.S. Medulla Oblongata \u2013 Pyramidal Decussation",
+      "examType": "SN",
+      "tag": "SN \u00b7 Brainstem Cross-Section",
+      "minutes": 9,
+      "quickRevision": [
+        "Lowest level of closed medulla oblongata (motor decussation level), closely resembling the cervical spinal cord.",
+        "75\u201390% of corticospinal (pyramidal) fibres cross the midline in the anterior median fissure as bundles, severing the anterior grey horn from central grey matter to form the Lateral Corticospinal Tract.",
+        "Remaining 10\u201325% uncrossed fibres continue down as the Anterior Corticospinal Tract.",
+        "Posteriorly: Fasciculus gracilis & fasciculus cuneatus with the lower ends of nucleus gracilis & nucleus cuneatus; laterally: Spinal nucleus & tract of trigeminal nerve (CN V)."
+      ],
+      "examFramework": "Write under: 1. Level & General Appearance (closed medulla, central canal present) \u2192 2. Great Motor (Pyramidal) Decussation (75\u201390% crossing to lateral corticospinal tract, detachment of anterior grey horn) \u2192 3. Grey Matter Features (central grey matter, nucleus gracilis/cuneatus, spinal nucleus of CN V, detached anterior horn = supraspinal/spinal accessory nucleus) \u2192 4. White Matter Tracts (dorsal columns, spinocerebellar, spinothalamic) \u2192 5. Neat labelled transverse section diagram.",
+      "slides": [
+        {
+          "h": "1. Level & The Great Motor (Pyramidal) Decussation",
+          "p": "A transverse section through the lower part of the <b>closed medulla oblongata</b> passes through the <b>pyramidal (motor) decussation</b>. At first glance it looks almost like the upper cervical spinal cord, with a small central canal surrounded by central grey matter\u2014except for one dramatic feature in front:",
+          "bullets": [
+            "<b>Pyramidal Decussation:</b> In the anterior pyramids, <b>75% to 90% of corticospinal fibres</b> sweep backward and across the midline in interdigitating bundles, obliterating the anterior median fissure.",
+            "<b>Formation of Lateral Corticospinal Tract:</b> After crossing, these fibres descend in the lateral white column of the spinal cord as the <b>lateral corticospinal tract</b>.",
+            "<b>Anterior Corticospinal Tract:</b> The remaining 10% to 25% of uncrossed fibres continue straight down near the anterior median fissure as the <b>anterior corticospinal tract</b>."
+          ],
+          "remember": "75\u201390% cross here \u2192 Lateral Corticospinal Tract. 10\u201325% stay uncrossed \u2192 Anterior Corticospinal Tract.",
+          "q": "Approximately what percentage of corticospinal fibres cross the midline at the pyramidal decussation in the lower medulla?",
+          "opts": [
+            "10\u201315%",
+            "25\u201330%",
+            "50%",
+            "75\u201390%"
+          ],
+          "a": 3,
+          "why": "About 75\u201390% of corticospinal fibres decussate in the lower medulla to form the lateral corticospinal tract, while the remaining 10\u201325% descend ipsilaterally in the anterior corticospinal tract."
+        },
+        {
+          "h": "2. Grey Matter Changes Caused by the Crossing Fibres",
+          "p": "As the thick bundles of crossing pyramidal fibres slice backward and laterally, they physically cut through the anterior grey column:",
+          "bullets": [
+            "<b>Detached Anterior Grey Horn:</b> Separated from the central grey matter; its medial part becomes the <b>supraspinal nucleus</b> (for C1) and its lateral part becomes the <b>spinal nucleus of the accessory nerve (CN XI)</b>.",
+            "<b>Nucleus Gracilis & Nucleus Cuneatus:</b> Appear as slender projections extending backward from the central grey matter into the fasciculus gracilis and fasciculus cuneatus.",
+            "<b>Spinal Nucleus & Tract of Trigeminal Nerve (CN V):</b> Lie on the posterolateral aspect (continuous below with the substantia gelatinosa of the spinal cord)."
+          ],
+          "remember": "Crossing pyramid fibres slice off the anterior grey horn \u2192 forms Spinal Accessory (CN XI) & Supraspinal nuclei!",
+          "q": "Which nucleus in the posterolateral closed medulla is directly continuous below with the substantia gelatinosa of the spinal cord?",
+          "opts": [
+            "Nucleus ambiguus",
+            "Spinal nucleus of trigeminal nerve (CN V)",
+            "Hypoglossal nucleus",
+            "Inferior olivary nucleus"
+          ],
+          "a": 1,
+          "why": "The spinal nucleus of the trigeminal nerve (carrying pain and temperature from the face) continues inferiorly into the substantia gelatinosa of the cervical spinal cord."
+        },
+        {
+          "h": "3. Surrounding White Matter & Clinical Note",
+          "p": "Around the periphery of the section sit the ascending sensory tracts travelling up from the spinal cord, plus a classic clinical lesion pattern:",
+          "bullets": [
+            "<b>Posteriorly:</b> Fasciculus gracilis (medial, lower limb) and fasciculus cuneatus (lateral, upper limb).",
+            "<b>Laterally:</b> Posterior spinocerebellar tract, anterior spinocerebellar tract, and lateral spinothalamic tract (spinal lemniscus).",
+            "<b>Clinical \u2014 Cruciate Hemiplegia:</b> Because arm fibres cross slightly higher in the pyramidal decussation than leg fibres, a selective midline lesion at the decussation can injure crossed arm fibres and uncrossed leg fibres, causing <b>paralysis of one arm and the opposite leg</b> (cruciate paralysis)."
+          ],
+          "remember": "Cruciate paralysis = lesion right at the pyramidal decussation \u2192 one arm + opposite leg paralyzed!",
+          "q": "A selective lesion at the pyramidal decussation affecting crossed upper-limb fibres and uncrossed lower-limb fibres causes:",
+          "opts": [
+            "Ipsilateral hemiplegia",
+            "Cruciate hemiplegia (one arm and opposite leg)",
+            "Pure sensory loss of the face",
+            "Bilateral facial paralysis"
+          ],
+          "a": 1,
+          "why": "Because upper-limb corticospinal fibres decussate superiorly to lower-limb fibres, a localized lesion here can produce cruciate paralysis affecting one upper limb and the contralateral lower limb."
+        }
+      ]
+    },
+    {
+      "id": "inferior-cerebellar-peduncle",
+      "title": "Inferior Cerebellar Peduncle (Restiform Body)",
+      "pdfLabel": "Inferior Cerebellar Peduncle*",
+      "examType": "SN",
+      "tag": "SN \u00b7 * (Starred)",
+      "minutes": 9,
+      "quickRevision": [
+        "Thick rope-like white matter bundle (Restiform body) on the posterolateral aspect of the upper medulla connecting medulla & spinal cord to the cerebellum.",
+        "Carries predominantly AFFERENT (incoming) tracts to cerebellum (unlike Superior Cerebellar Peduncle which is mainly efferent).",
+        "Major Afferents (5): Posterior spinocerebellar tract, Olivocerebellar tract (climbing fibres from opposite inferior olivary nucleus), Cuneocerebellar tract (posterior external arcuate fibres), Parolivocerebellar, Reticulocerebellar & Vestibulocerebellar fibres (via juxtarestiform body).",
+        "Major Efferents (2): Cerebellovestibular and Cerebelloreticular fibres (running in the medial Juxtarestiform body)."
+      ],
+      "examFramework": "Write under: 1. Definition & Location (restiform body, inferolateral boundary of 4th ventricle) \u2192 2. Two Functional Parts (Restiform body vs Juxtarestiform body) \u2192 3. Afferent Fibres Entering Cerebellum (list all 5\u20136 with origins!) \u2192 4. Efferent Fibres Leaving Cerebellum \u2192 5. Applied Anatomy (Lateral medullary / PICA syndrome lesion \u2192 ipsilateral cerebellar ataxia) + Schematic diagram.",
+      "slides": [
+        {
+          "h": "1. What is it, Location & Two Parts?",
+          "p": "The <b>inferior cerebellar peduncle</b> (also called the <b>restiform body</b>) is a thick, rope-like bundle of nerve fibres located on the posterolateral aspect of the upper (open) medulla oblongata. It forms the <b>inferolateral boundary of the fourth ventricle</b> and curves upward into the cerebellum.",
+          "bullets": [
+            "<b>1. Restiform Body (Main Lateral Part):</b> Purely <b>afferent</b>\u2014carries sensory and motor-planning signals from the spinal cord and medulla INTO the cerebellum.",
+            "<b>2. Juxtarestiform Body (Small Medial Part):</b> Lies close to the vestibular nuclei and carries <b>two-way (afferent & efferent) vestibulocerebellar fibres</b>.",
+            "<b>Key Contrast with Other Peduncles:</b> Inferior & Middle peduncles are mainly <b>afferent</b> to the cerebellum, whereas the Superior cerebellar peduncle is mainly <b>efferent</b>."
+          ],
+          "remember": "Inferior & Middle peduncles bring info IN to cerebellum; Superior peduncle sends commands OUT!",
+          "q": "Which part of the inferior cerebellar peduncle carries reciprocal connections between the vestibular nuclei and the cerebellum?",
+          "opts": [
+            "Restiform body",
+            "Juxtarestiform body",
+            "Brachium pontis",
+            "Crus cerebri"
+          ],
+          "a": 1,
+          "why": "The medial juxtarestiform body carries both afferent vestibulocerebellar and efferent cerebellovestibular fibres."
+        },
+        {
+          "h": "2. Constituent Tracts (Afferents vs Efferents)",
+          "p": "Memorizing the exact list of tracts passing through the inferior cerebellar peduncle is the heart of this starred Short Note:",
+          "bullets": [
+            "<b>1. Posterior Spinocerebellar Tract:</b> Uncrossed unconscious proprioception from lower limb & trunk (Clarke's column) \u2192 ipsilateral cerebellum.",
+            "<b>2. Cuneocerebellar Tract (Posterior External Arcuate Fibres):</b> Uncrossed proprioception from upper limb & neck (accessory cuneate nucleus).",
+            "<b>3. Olivocerebellar Tract:</b> Largest component! Arises from the <b>contralateral inferior olivary nucleus</b>, crosses the midline, and ends as <b>climbing fibres</b> in cerebellar cortex.",
+            "<b>4. Reticulocerebellar & Arcuatocerebellar Fibres:</b> From medullary reticular formation and arcuate nuclei (via striae medullares).",
+            "<b>5. Vestibulocerebellar Fibres (Juxtarestiform):</b> From vestibular nerve and vestibular nuclei to flocculonodular lobe.",
+            "<b>Efferent Fibres (Juxtarestiform):</b> <b>Cerebellovestibular</b> and <b>cerebelloreticular</b> fibres projecting out from fastigial nucleus/flocculonodular lobe."
+          ],
+          "remember": "Remember 'P-O-C-R-V' entering: Posterior spinocerebellar, Olivocerebellar (climbing fibres!), Cuneocerebellar, Reticulocerebellar, Vestibulocerebellar.",
+          "q": "Which tract passing through the inferior cerebellar peduncle originates from the contralateral inferior olivary nucleus and terminates as climbing fibres?",
+          "opts": [
+            "Posterior spinocerebellar tract",
+            "Olivocerebellar tract",
+            "Cuneocerebellar tract",
+            "Rubrospinal tract"
+          ],
+          "a": 1,
+          "why": "Olivocerebellar fibres arise from the opposite inferior olivary nucleus, cross the midline, enter the inferior cerebellar peduncle, and terminate as climbing fibres on Purkinje cells."
+        },
+        {
+          "h": "3. Applied Anatomy",
+          "p": "How does a lesion of the inferior cerebellar peduncle show up clinically?",
+          "bullets": [
+            "<b>Lateral Medullary (Wallenberg) Syndrome:</b> Occlusion of the <b>Posterior Inferior Cerebellar Artery (PICA)</b> damages the inferior cerebellar peduncle along with spinocerebellar tracts.",
+            "<b>Result \u2014 Ipsilateral Cerebellar Ataxia:</b> Because cerebellar connections are predominantly ipsilateral, damage to the right inferior cerebellar peduncle causes <b>clumsiness, loss of balance, dysmetria (past-pointing), and intention tremor on the SAME (right) side</b>."
+          ],
+          "remember": "Cerebellar signs are ALWAYS IPSILATERAL (same side as lesion)! PICA stroke damages Inferior Cerebellar Peduncle \u2192 same-side ataxia.",
+          "q": "Damage to the right inferior cerebellar peduncle (as in PICA thrombosis) produces cerebellar ataxia on which side of the body?",
+          "opts": [
+            "Left (contralateral) side",
+            "Right (ipsilateral) side",
+            "Both sides equally",
+            "Only in the lower face"
+          ],
+          "a": 1,
+          "why": "Each cerebellar hemisphere controls coordination on the same side of the body, so damage to the right inferior cerebellar peduncle causes ipsilateral (right-sided) ataxia."
+        }
+      ]
+    },
+    {
+      "id": "ts-spinal-cord-cervical",
+      "title": "T.S. Spinal Cord \u2013 Cervical Level",
+      "pdfLabel": "T.S. Spinal Cord \u2013 Cervical Level",
+      "examType": "SN",
+      "tag": "SN \u00b7 Spinal Cord Anatomy",
+      "minutes": 10,
+      "quickRevision": [
+        "Large oval cross-section (cervical enlargement C5\u2013T1 for brachial plexus) with abundant white matter (contains tracts for ALL body levels).",
+        "H-shaped central grey matter: Large, broad anterior grey horn (numerous motor neurons for upper limb muscles) and slender posterior grey horn; NO lateral horn in lower cervical segments.",
+        "Posterior funiculus is clearly divided by the posterior intermediate septum into medial Fasciculus Gracilis (leg) and lateral Fasciculus Cuneatus (arm).",
+        "Major tracts: Ascending (Fasciculus gracilis & cuneatus, Lateral & Anterior spinothalamic, Posterior & Anterior spinocerebellar) + Descending (Lateral & Anterior corticospinal, Rubrospinal, Vestibulospinal)."
+      ],
+      "examFramework": "Write under: 1. Distinguishing Features of Cervical Level (large oval shape, huge white matter, broad anterior horn, presence of BOTH fasciculus gracilis & cuneatus, absence of lateral horn) \u2192 2. Grey Matter Organization (Anterior horn nuclei, Posterior horn laminae/substantia gelatinosa) \u2192 3. White Matter Funiculi & Tracts (Posterior, Lateral, Anterior columns \u2014 list ascending & descending tracts) \u2192 4. Blood Supply (1 Anterior + 2 Posterior spinal arteries) + Large labelled T.S. diagram.",
+      "slides": [
+        {
+          "h": "1. How to Identify Cervical Level Immediately (Histology & Gross)",
+          "p": "In both theory exams and histology/neuroanatomy spotting, examiners love asking how you recognize a <b>transverse section of the cervical spinal cord</b>:",
+          "bullets": [
+            "<b>1. Large & Oval Shape:</b> Horizontally oval (transverse diameter > anteroposterior diameter), especially large at C5\u2013T1 due to the <b>cervical enlargement</b> supplying the upper limbs.",
+            "<b>2. Abundant White Matter:</b> Has the <b>largest amount of white matter</b> of any spinal level because ALL ascending tracts from below and ALL descending tracts from the brain pass through it.",
+            "<b>3. Broad Anterior Grey Horn:</b> Thick and well-developed (housing medial & lateral motor neuron groups for neck and upper limb muscles).",
+            "<b>4. Posterior Funiculus Split in Two:</b> Shows BOTH <b>fasciculus gracilis (medially)</b> and <b>fasciculus cuneatus (laterally)</b> separated by a posterior intermediate septum. (Below T6, fasciculus cuneatus is absent!)",
+            "<b>5. No Lateral Grey Horn:</b> Lateral horn is a feature of T1\u2013L2 (sympathetic), not cervical segments."
+          ],
+          "remember": "Cervical T.S. spotting clues = Oval + Huge white matter + Fat anterior horn + BOTH Gracilis & Cuneatus + NO lateral horn!",
+          "q": "Which ascending tract in the posterior white column is present in cervical and upper thoracic segments (above T6) but ABSENT in lumbar segments?",
+          "opts": [
+            "Fasciculus gracilis",
+            "Fasciculus cuneatus",
+            "Lateral spinothalamic tract",
+            "Anterior corticospinal tract"
+          ],
+          "a": 1,
+          "why": "Fasciculus cuneatus carries proprioception and fine touch from the upper limb and upper thorax (above T6), so it is present in cervical sections but absent in lower thoracic and lumbar sections."
+        },
+        {
+          "h": "2. Grey Matter Nuclei & White Matter Tracts",
+          "p": "Organize the internal structures neatly into <b>Grey Matter</b> and the <b>Three White Funiculi</b>:",
+          "bullets": [
+            "<b>Grey Matter:</b> Anterior horn contains medial group (neck/axial muscles) and lateral group (upper limb muscles; plus phrenic nucleus in C3\u2013C5). Posterior horn contains substantia gelatinosa (pain gate), nucleus proprius, and marginal zone.",
+            "<b>Posterior Funiculus (Ascending):</b> <b>Fasciculus gracilis</b> (medial) & <b>Fasciculus cuneatus</b> (lateral) \u2014 conscious proprioception, vibration, and two-point discrimination.",
+            "<b>Lateral Funiculus:</b> Ascending = <b>Posterior & anterior spinocerebellar tracts</b> (peripherally), <b>Lateral spinothalamic tract</b> (pain & temperature). Descending = <b>Lateral corticospinal tract</b> (medial to posterior spinocerebellar), rubrospinal tract.",
+            "<b>Anterior Funiculus:</b> Ascending = <b>Anterior spinothalamic tract</b> (crude touch & pressure). Descending = <b>Anterior corticospinal tract</b> (next to anterior median fissure), vestibulospinal & tectospinal tracts."
+          ],
+          "remember": "Posterior column = Conscious proprioception/vibration. Lateral column = Lateral corticospinal (motor) + Lateral spinothalamic (pain/temp) + Spinocerebellar.",
+          "q": "Where is the lateral corticospinal tract located in a transverse section of the cervical spinal cord?",
+          "opts": [
+            "In the posterior funiculus medial to fasciculus gracilis",
+            "In the lateral funiculus, medial to the posterior spinocerebellar tract",
+            "Adjacent to the anterior median fissure",
+            "Inside the central grey commissure"
+          ],
+          "a": 1,
+          "why": "The lateral corticospinal tract descends in the posterior part of the lateral funiculus, just medial to the posterior spinocerebellar tract and lateral to the posterior grey horn."
+        },
+        {
+          "h": "3. Blood Supply & Applied Anatomy",
+          "p": "Wrap up your short note with arterial supply and two high-yield cervical cord clinical correlations:",
+          "bullets": [
+            "<b>Arterial Supply:</b> Single <b>Anterior Spinal Artery</b> (in anterior median fissure; supplies anterior 2/3 of cord including corticospinal & spinothalamic tracts) + paired <b>Posterior Spinal Arteries</b> (supply posterior 1/3 including dorsal columns).",
+            "<b>Syringomyelia (Cervical Cord):</b> Central canal cavitation damages decussating spinothalamic fibres in the anterior white commissure \u2192 bilateral <b>dissociated sensory loss</b> (loss of pain & temperature in a 'cape-like' distribution across shoulders and arms, with preserved touch/vibration).",
+            "<b>High Cervical Injury (Above C3):</b> Interrupts descending pathways to the <b>phrenic nerve (C3, C4, C5)</b> \u2192 diaphragmatic paralysis and respiratory arrest ('C3, 4, 5 keep the diaphragm alive')."
+          ],
+          "remember": "C3, 4, 5 keep the diaphragm alive! Cervical syringomyelia = 'Cape-like' loss of pain & temperature with preserved touch.",
+          "q": "Cystic cavitation around the central canal in the cervical spinal cord (syringomyelia) characteristically causes bilateral loss of:",
+          "opts": [
+            "Vibration and joint position sense",
+            "Pain and temperature in a cape-like distribution across shoulders and upper limbs",
+            "Voluntary movement of the lower limbs only",
+            "Hearing and balance"
+          ],
+          "a": 1,
+          "why": "Syringomyelia interrupts pain and temperature fibres decussating in the anterior white commissure at cervical segments, producing bilateral dissociated anesthesia over the shoulders and upper limbs."
+        }
+      ]
     }
   ]
 }

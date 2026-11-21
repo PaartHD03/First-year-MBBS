@@ -1,0 +1,1351 @@
+{
+  "source": "FIRST YEAR IMP LIST.pdf (Pages 7–14 - Physiology)",
+  "source_note": "Topic labels and star/LAQ/SN priority markings follow FIRST YEAR IMP LIST.pdf. Explanatory notes are supplementary study support; check exact wording and diagrams with your prescribed textbook and faculty.",
+  "groups": {
+    "Paper 1 · Cardiovascular System (CVS)": {
+      "SN": [
+        "Circulatory Shock - define, classify, stages, physiological principles of management",
+        "Connections of Unipolar and Bipolar Limb Leads while regarding ECG",
+        "ECG Trace in Lead II* - draw, label, mark intervals",
+        "CNS Ischemic Response",
+        "Baroreceptor Reflex Mechanism",
+        "Ventricular Diastole - events",
+        "Properties of Cardiac Muscle*, Ionic Basis of Autorhythmicity in SA Node, Why Heart Muscle Cannot be Tetanized",
+        "Role of JGA in Regulation of Blood Pressure",
+        "Coronary Circulation - peculiarities, Angina Pectoris",
+        "Renin-Angiotensin Mechanism",
+        "Heart Block - enlist types, explain AV Nodal Block",
+        "Heart Rate - explain increase in heart rate in muscular exercise",
+        "Fick Principle",
+        "ECG - diagram, Bipolar Limb Leads",
+        "Venous Return",
+        "Factors Affecting Stroke Volume",
+        "Effect of Isotonic Exercise on Blood Pressure"
+      ],
+      "LAQ": [
+        "Cardiac Cycle** - define, pressure and volume changes in left ventricle*, diagram; Third and Fourth Heart Sound*",
+        "Coronary Circulation - physiologic anatomy, factors affecting, special features; Angina Pectoris",
+        "Blood Pressure - define, long-term regulation",
+        "Circulatory Shock** - define, classify; Compensatory Stage of Circulatory Shock, Progressive Stage, Hemorrhagic Shock Physiological Basis of its Management",
+        "ECG - define; Explain ECG in Lead II - diagram; Heart Block",
+        "Mean Arterial Blood Pressure - define, enumerate mechanisms regulating; Baroreceptor Mechanism - describe",
+        "Regulation of BP - classify mechanism; Short Term Regulation",
+        "Define - Stroke Volume, Cardiac Output, Cardiac Index, Stroke Volume Index; Factors Affecting Cardiac Output",
+        "Heart Rate - define, factors affecting and regulating"
+      ]
+    },
+    "Paper 1 · Gastrointestinal Tract (GIT)": {
+      "SN": [
+        "Functions of Bile Salts**, Composition",
+        "Peptic Ulcer*** - etiology, physiological basis of treatment",
+        "Regulation of Gastric Emptying*",
+        "Phases of Deglutition - enlist, Pharyngeal Phase** - explain",
+        "Mechanism of Secretion of HCl by Parietal Cells, Gastric Glands",
+        "Movement of Small Intestine, Peristaltic Rush",
+        "Mechanism of Secretion of HCl*",
+        "Importance of Deglutition Reflex",
+        "Movement of Large Intestine, Defecation Reflex*",
+        "Enumerate GIT Hormones, Note on Gastrin, CCK",
+        "Regulation of Gastric Motility",
+        "Absorption of Fat"
+      ],
+      "LAQ": [
+        "Deglutition, Achalasia Cardia",
+        "Pancreatic Juice - composition, function, regulation of secretion",
+        "Gastric Glands - enumerate, secretion, function; Treatment of Peptic Ulcer*",
+        "Gastric Juice - composition; HCl Secretion - mechanism, factors regulating***"
+      ]
+    },
+    "Paper 1 · Endocrine System": {
+      "SN": [
+        "Functions of Insulin",
+        "Diabetes Mellitus and Insipidus* - compare and contrast",
+        "Parathyroid hormone - functions, regulation",
+        "Growth Hormone* - metabolic action",
+        "Insulin Secretion - factors increasing, effect in promoting growth",
+        "Diabetes Insipidus, Cushing Syndrome",
+        "Tetany, Signs of Tetany, Treatment",
+        "Cushing Syndrome*, Clinical Features"
+      ],
+      "LAQ": [
+        "Glucocorticoids - regulation of secretion, mechanism of action, function, effect of deficiency",
+        "Thyroid Hormone Synthesis and Release - enumerate steps, diagram; Anti-Thyroid Drugs - action",
+        "Hormonal Regulation of Growth*, Dwarfism, Pituitary & Thyroid Dwarf Differences",
+        "Thyroid* - synthesis, mechanism of action, regulation of secretion, function; Endemic Goitre, Hypothyroidism",
+        "Calcium* - importance, regulation; Tetany, Osteoporosis",
+        "Adrenal Cortex - enumerate hormones; Factors Regulating Secretion of Aldosterone",
+        "Anterior Pituitary - enumerate hormones secreted; Physiological Actions of Growth Hormone*, Dwarfism"
+      ]
+    },
+    "Paper 1 · Reproductive System": {
+      "SN": [
+        "Indicators of Ovulation, Clinical Significance",
+        "Methods of Contraception*** - temporary, Physiological Basis of Oral Contraceptives, Safe Period",
+        "Spermatogenesis* - describe stages, enlist factors affecting it",
+        "Physiological Changes in Pregnancy",
+        "Maternal Changes in Last Trimester of Pregnancy",
+        "Mechanism of Ovulation, Contraception - rhythm method",
+        "Menstrual Cycle - phases",
+        "Circulatory Changes at Birth",
+        "Menstrual Cycle - hormonal and uterine changes, diagram",
+        "Parturition - explain, role of oxytocin"
+      ],
+      "LAQ": [
+        "Menstrual Cycle - phases, hormonal control",
+        "Cyclical Changes in Uterus during Reproductive Life, Its Hormonal Regulation"
+      ]
+    },
+    "Paper 1 · Respiratory System (RS)": {
+      "SN": [
+        "Oxygen-Hemoglobin Dissociation Curve** - draw, label, factors affecting, Bohr's Effect, factors shifting curve to right, what is P50, role of 2,3-BPG",
+        "Characteristics of Pulmonary Circulation",
+        "Acclimatization to High Altitude - enumerate physiological changes, significance of changes",
+        "Heat Stroke",
+        "Heat Loss*** - enumerate methods, mechanism, mechanism of sweating",
+        "Peripheral Chemoreceptors - characteristics, functions",
+        "Factors Affecting Composition of Alveolar Air",
+        "Oxygen Debt*",
+        "Hypoxia*** - define, classify, describe Hypoxic Hypoxia",
+        "Ways of Heat Loss, Heat Stroke",
+        "Surfactant* - functions, note on RDS",
+        "Transport of Carbon dioxide, Haldane Effect",
+        "Response of Body when exposed to Extreme Cold**, Hypothermia, Use of Induced Hypothermia",
+        "Effect of Exercise on Respiration, what is VO2 max",
+        "Explain Work of Breathing*, Applied Importance, Enumerate Muscles of Respiration",
+        "Functional Residual Capacity - physiological significance",
+        "Acclimatization to High Altitude - various changes, Acute Mountain Sickness",
+        "Haldane Effect",
+        "Role of Hypothalamus in Temperature Regulation"
+      ],
+      "LAQ": [
+        "Neural Regulation of Breathing**, Periodic Breathing, Ondine's Curse*",
+        "Transport of CO2, Haldane Effect, Its Significance",
+        "Lung Compliance* - describe, factors affecting; Hyaline Membrane Disease",
+        "Respiratory Membrane* - describe,  factors affecting gaseous exchange; Principle of CO Method",
+        "Pulmonary Ventilation - mechanism; Positive Pressure Breathing",
+        "Oxygen Transport - describe method",
+        "Chemical Control of Respiration"
+      ]
+    },
+    "Paper 2 · Central Nervous System (CNS)": {
+      "SN": [
+        "Receptor** - enumerate properties, any two properties in detail",
+        "Referred Pain*, Enumerate Different Types of Pain",
+        "Lesions of Upper and Lower Motor Neuron",
+        "Functions of Basal Ganglia*",
+        "Middle Ear - functions",
+        "Parkinsonism**",
+        "i. Pathway of Proprioceptive Sensations from Periphery to Cortex ii. Sensory Ataxia - define, difference from Cerebellar Ataxia",
+        "REM Sleep**, Narcolepsy",
+        "Muscle Spindle* - diagram, function",
+        "Speech",
+        "Descending Pain Inhibiting System",
+        "Aphasia - define, different types",
+        "Different types of Pain, Transmission of Pain through Neospinothalamic Pathway",
+        "Ascending Tracts - name; Labelled Diagram of Pain Pathway",
+        "Lower Motor Neuron - define, features of LMN paralysis",
+        "Important Areas of Frontal Lobe - diagram, Functions of Prefrontal Lobe",
+        "Sensory Receptors, Adaptation and Intensity Discrimination",
+        "Fast and Slow Pain",
+        "Memory - define, types; Alzheimer's"
+      ],
+      "LAQ": [
+        "Ascending Tracts** - enumerate; i. Dorsal Column System - origin, course, termination; Phantom Limb ii. Pathway for Touch Sensation - describe iii. Pathway for Line Touch Sensation, Law of Projection",
+        "Muscle Spindle - diagram; Role of Stretch Reflex in Controlling Muscle of Tone",
+        "Functions of Hypothalamus** - enumerate, explain any three in detail",
+        "Basal Ganglia* - connections, functions; Parkinsonism - clinical features",
+        "Cerebellum** - functions, connections, applied importance",
+        "Complete Transaction of Spinal Cord - effects",
+        "Pyramidal Tracts* - origin, course, termination, function, applied",
+        "Lobes of Neocortex – functions"
+      ]
+    },
+    "Paper 2 · Renal Physiology": {
+      "SN": [
+        "JGA - diagram, functions**",
+        "Countercurrent Multiplier Mechanism",
+        "Role of Kidney in Acid-Base Balance",
+        "i. Transport Maximum - define ii. Mechanism of Glucose Reabsorption in Renal Tubules",
+        "GFR - define, factors***; Tubular Glomerular Feedback, Glomerular Tubular Balance",
+        "Cystometrography",
+        "PCT - functions",
+        "Countercurrent Mechanism",
+        "Innervation of Urinary Bladder, Micturition Reflex"
+      ],
+      "LAQ": [
+        "GFR** - define, enumerate factors affecting, methods of measurement, regulation",
+        "Physiology of Micturition*; Cystometrogram",
+        "DCT - functions",
+        "Milleu Interior - define; Role of Kidney in Maintaining Osmolarity of Body Fluid"
+      ]
+    },
+    "Paper 2 · Special Senses": {
+      "SN": [
+        "Visual Pathway* - diagram, lesions, heteronymous hemianopia",
+        "Dark Adaptation** - define, significance",
+        "Organ of Corti",
+        "Accommodation of Eye*, Accommodation Reflex* - describe, significance; Presbyopia",
+        "Place Principle, Explain Role of Basilar Membrane in Perception of Sound*",
+        "Colour Vision",
+        "Impedance Matching, Causes of Conductive Deafness",
+        "Olfactory Pathway",
+        "Errors of Refraction; Myopia, Astigmatism - features, correction",
+        "Taste Sensation Pathway, Basic Modalities of Taste, Types of Papillae"
+      ],
+      "LAQ": [
+        "Mechanism of Hearing - describe; Pitch Discrimination",
+        "Colour Vision - mechanism; Colour Blindness",
+        "Accommodation - define, mechanism, neural pathway; Presbyopia",
+        "Photochemistry of Vision*, Dark Adaptation",
+        "Middle Ear - role; Organ of Corti"
+      ]
+    },
+    "Paper 2 · Nerve-Muscle Physiology": {
+      "SN": [
+        "Excitation-Contraction Coupling",
+        "Action Potential - define, compare ionic basis of large myelinated nerve fibre and SAN**",
+        "NMJ - diagram*, Myasthenia Gravis, End Plate Potential - define, generation",
+        "Properties of Never Fibres",
+        "Factors Regulating Force of Skeletal Muscle Contraction, Motor Unit - define",
+        "Refractory Period",
+        "Sarcotubular System",
+        "Red Muscle and Pale Muscle, Isotonic and Isometric Contraction",
+        "Saltatory Conductions, Factors Affecting Conduction Velocity",
+        "Compare, Contrast AP and Excitatory Post Synaptic Potential Neurons",
+        "RMP - define, explain ionic basis of RMP in nerve fibre",
+        "Molecular Basis of Muscle Contraction",
+        "Neuron - diagram, Nerve Impulse - define"
+      ],
+      "LAQ": [
+        "Genesis of Action Potential - describe; Properties of AP - enumerate",
+        "Sarcomere* - define, diagram; Sliding Filament Theory - explain",
+        "RMP - define, factors contributing; Phases of AP",
+        "NMJ* - diagram; Describe Neuromuscular Transmission; Myasthenia Gravis*",
+        "Synaptic Transmission - mechanism; Synapse - two properties",
+        "Molecular Basis of Skeletal Muscle Contraction*",
+        "Muscle Tone - define, regulation",
+        "i. RMP - define ii. Ionic Basis for Development of RMP and AP"
+      ]
+    },
+    "Paper 2 · Blood": {
+      "SN": [
+        "Intrinsic Pathway of Coagulation",
+        "Role of B Lymphocytes",
+        "Blood Group - classify, Erythroblastosis Foetalis",
+        "Mismatched Blood Transfusion",
+        "Functions of Plasma Proteins*",
+        "Immunity* - define, primary and secondary immune response and its role in vaccination, role of T cells",
+        "Landsteiner's Law, Importance of Rh Blood Group*",
+        "CD4 Cells",
+        "Platelets - normal count, functions",
+        "Erythroblastosis foetalis - features, treatment",
+        "Bleeding Time, Clotting Time - define, Intrinsic Pathway - describe"
+      ],
+      "LAQ": [
+        "Coagulation - define, flowchart; Bleeding and Clotting Disorders - differences, examples",
+        "Immunity* - define, classify; Cell Mediated Immunity; Humoral Immunity, Vaccination",
+        "Clotting - define; Mechanism of Blood Coagulation - flowchart; Anticoagulants - name",
+        "WBC - classify, morphology, function"
+      ]
+    },
+    "Paper 2 · General Physiology": {
+      "SN": [
+        "Homeostasis** - define, compare between feedback systems",
+        "Transport Mechanism Across Cell Membrane, Secondary Active Transport*",
+        "Osmosis"
+      ],
+      "LAQ": [
+        "Transport Mechanism - describe, examples"
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "id": "cardiac-cycle-b11",
+      "title": "Cardiac Cycle**, Left Ventricular Pressure-Volume Changes* & Heart Sounds*",
+      "region": "Paper 1 · Cardiovascular System (CVS)",
+      "tag": "LAQ · ** (Double Starred)",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "1. Definition, Duration & Phases of Cardiac Cycle",
+          "p": "The <b>cardiac cycle</b> is the sequence of coordinated mechanical and electrical events occurring in the heart during one heartbeat. At a resting heart rate of <b>75 beats/min</b>, one cycle lasts <b>0.8 seconds</b> (Atrial systole = 0.1 s, Atrial diastole = 0.7 s; Ventricular systole = 0.3 s, Ventricular diastole = 0.5 s):",
+          "bullets": [
+            "<b>1. Atrial Systole (0.1 s):</b> Atria contract, adding the final ~20–30% ('atrial kick') to ventricular filling; AV valves open, semilunar valves closed; produces <b>a-wave</b> in JVP and <b>4th heart sound (S4)</b>.",
+            "<b>2. Isovolumetric Ventricular Contraction (0.05 s):</b> Begins with <b>closure of AV valves (S1)</b>; all 4 valves closed; ventricular pressure rises steeply while volume remains constant at EDV (~120–130 mL).",
+            "<b>3. Ventricular Ejection (0.25 s):</b> Opens when LV pressure >80 mmHg (RV >8 mmHg); <b>Rapid ejection (0.1 s)</b> ejects ~2/3 of stroke volume (peak LV pressure = 120 mmHg); <b>Reduced ejection (0.15 s)</b>.",
+            "<b>4. Protodiastole (0.04 s) & Isovolumetric Relaxation (0.08 s):</b> Semilunar valves snap shut (<b>S2</b>); all 4 valves closed; LV pressure falls precipitously while volume stays constant at ESV (~50 mL).",
+            "<b>5. Ventricular Filling Phases (0.38 s):</b> AV valves open → <b>First rapid filling (0.11 s)</b> (produces <b>S3</b>) → <b>Diastasis / Slow filling (0.19 s)</b> → followed by next atrial systole."
+          ],
+          "remember": "At 75 bpm = 0.8 s! EDV = 120 mL, ESV = 50 mL, Stroke Volume = 70 mL (Ejection Fraction ~58–60%)!",
+          "q": "During which phase of the cardiac cycle does left ventricular pressure rise steeply while ventricular volume remains constant?",
+          "opts": [
+            "Atrial systole",
+            "Isovolumetric ventricular contraction",
+            "Rapid ventricular ejection",
+            "Protodiastole"
+          ],
+          "a": 1,
+          "why": "During isovolumetric contraction (0.05 s), both AV and semilunar valves are closed, so LV pressure surges from ~5 mmHg to >80 mmHg with no change in blood volume."
+        },
+        {
+          "h": "2. Left Ventricular Pressure-Volume Loop* & Four Heart Sounds*",
+          "p": "On the <b>LV Pressure-Volume (Wiggers / P-V) Loop</b>, four corners mark valve events, and four heart sounds correspond to specific mechanical vibrations:",
+          "bullets": [
+            "<b>P-V Loop Corners:</b> <b>A (Mitral valve closes)</b> → AB = Isovolumetric contraction → <b>B (Aortic valve opens at ~80 mmHg)</b> → BC = Ejection (peaks at 120 mmHg) → <b>C (Aortic valve closes)</b> → CD = Isovolumetric relaxation → <b>D (Mitral valve opens)</b> → DA = Diastolic filling. Area inside loop = <b>External Stroke Work</b>.",
+            "<b>1st Heart Sound (S1 — 'Lubb'):</b> Closure of AV (mitral & tricuspid) valves at onset of ventricular systole; low-pitched, prolonged (0.15 s), 25–45 Hz.",
+            "<b>2nd Heart Sound (S2 — 'Dupp'):</b> Closure of semilunar (aortic & pulmonary) valves at onset of diastole; high-pitched, sharp (0.12 s), 50 Hz; physiological splitting on inspiration (A2 before P2).",
+            "<b>3rd Heart Sound (S3):</b> Rapid rush of blood hitting ventricular walls during <b>first rapid filling phase</b> (normal in children/athletes; gallop rhythm in heart failure).",
+            "<b>4th Heart Sound (S4):</b> Atrial contraction pushing blood into a stiff, non-compliant ventricle (always pathological in adults, e.g., LV hypertrophy)."
+          ],
+          "remember": "S1 = AV close ('Lubb'). S2 = Semilunar close ('Dupp'). S3 = Rapid filling rush. S4 = Atrial kick into stiff ventricle!",
+          "q": "Which phase of the cardiac cycle is directly responsible for generating the third heart sound (S3)?",
+          "opts": [
+            "Isovolumetric relaxation",
+            "First rapid ventricular filling phase",
+            "Atrial systole",
+            "Reduced ventricular ejection"
+          ],
+          "a": 1,
+          "why": "S3 is produced by oscillations of blood and ventricular walls during the rapid inflow of blood in the first rapid filling phase of ventricular diastole."
+        }
+      ],
+      "exam": "LAQ order: Definition & normal duration (0.8 s at 75 bpm) → Table/timeline of atrial & ventricular phases (duration, valve status, pressure & volume changes) → Left ventricular Pressure-Volume loop diagram → Heart sounds (S1, S2, S3, S4) + Wiggers diagram.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "properties-cardiac-muscle-autorhythmicity-b11",
+      "title": "Properties of Cardiac Muscle*, SA Node Autorhythmicity & Non-Tetanizability",
+      "region": "Paper 1 · Cardiovascular System (CVS)",
+      "tag": "SN · * (Starred)",
+      "minutes": 10,
+      "slides": [
+        {
+          "h": "1. Five Cardinal Properties & Ionic Basis of SA Node Pacemaker Potential",
+          "p": "Cardiac muscle exhibits five key physiological properties: <b>Excitability, Rhythmicity (Autorhythmicity), Conductivity, Contractility, and All-or-None Law / Staircase phenomenon</b>:",
+          "bullets": [
+            "<b>SA Node Pacemaker Potential (Prepotential):</b> SA node has an unstable resting potential (~−55 to −60 mV) that drifts slowly upward to firing threshold (−40 mV) via three ion currents: <b>1. Funny Na⁺ channels (If)</b> open on hyperpolarization (slow inward Na⁺ leak), <b>2. Decay of K⁺ efflux</b>, and <b>3. Transient T-type Ca²⁺ channels</b> opening just before threshold.",
+            "<b>Action Potential Upstroke & Repolarization in SA Node:</b> Depolarization is caused by <b>L-type Ca²⁺ influx</b> (NOT fast Na⁺ channels!); repolarization is caused by <b>K⁺ efflux</b>.",
+            "<b>Conduction Velocities:</b> <b>Purkinje fibers = fastest (~4 m/s)</b>; <b>AV node = slowest (~0.05 m/s, 0.1 s delay</b> allowing complete atrial emptying before ventricular contraction)."
+          ],
+          "remember": "SA node prepotential = Funny Na⁺ (If) + ↓K⁺ efflux + T-type Ca²⁺! Upstroke = L-type Ca²⁺! AV node = Slowest (0.1 s delay)!",
+          "q": "Which ion channel initiates the slow diastolic depolarization (prepotential) in the SA node?",
+          "opts": [
+            "Fast voltage-gated Na⁺ channels",
+            "Funny Na⁺ channels (If) activated by hyperpolarization",
+            "ATP-sensitive K⁺ channels",
+            "Chloride leak channels"
+          ],
+          "a": 1,
+          "why": "Hyperpolarization at the end of repolarization opens hyperpolarization-activated cyclic nucleotide-gated 'funny' (If) Na⁺ channels, initiating the pacemaker prepotential."
+        },
+        {
+          "h": "2. Why Cardiac Muscle Cannot Be Tetanized",
+          "p": "A classic short-note and viva question asks why skeletal muscle can undergo sustained tetanic contraction whereas cardiac muscle cannot:",
+          "bullets": [
+            "<b>Long Plateau Phase (Phase 2):</b> Ventricular action potential lasts <b>250–300 ms</b> due to slow <b>L-type Ca²⁺ influx</b> balancing K⁺ efflux.",
+            "<b>Prolonged Absolute Refractory Period (ARP):</b> Because the ARP (~200–250 ms) spans almost the <b>entire duration of mechanical contraction and early relaxation</b>, a second stimulus cannot re-excite the myocardium until it has already relaxed.",
+            "<b>Physiological Significance:</b> Prevents sustained spasm (tetanus) of the heart, guaranteeing adequate diastolic filling time between beats."
+          ],
+          "remember": "Long Plateau (Ca²⁺ influx) → Long Absolute Refractory Period lasting throughout contraction → Heart CANNOT be tetanized!",
+          "q": "Why is it impossible to tetanize cardiac muscle even with high-frequency electrical stimulation?",
+          "opts": [
+            "Cardiac muscle lacks sarcoplasmic reticulum",
+            "Its prolonged absolute refractory period lasts almost throughout the entire contraction phase",
+            "It lacks troponin C",
+            "Vagal tone blocks high-frequency impulses"
+          ],
+          "a": 1,
+          "why": "The plateau phase (L-type Ca²⁺ influx) prolongs the absolute refractory period across nearly the entire twitch contraction, preventing summation or tetanus."
+        }
+      ],
+      "exam": "SN order: List 5 properties → SA node pacemaker potential (If, ↓K⁺, T-type Ca²⁺) & L-type Ca²⁺ upstroke + diagram → Ventricular AP plateau & long ARP explaining why heart muscle cannot be tetanized.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "ecg-limb-leads-lead-ii-heart-block-b11",
+      "title": "ECG (Limb Leads, Lead II Trace* & Heart Block)",
+      "region": "Paper 1 · Cardiovascular System (CVS)",
+      "tag": "LAQ & SN · * (Starred)",
+      "minutes": 13,
+      "slides": [
+        {
+          "h": "1. Bipolar & Unipolar Limb Leads (Einthoven's Triangle)",
+          "p": "An <b>electrocardiogram (ECG)</b> records the algebraic sum of cardiac action potentials from the body surface using 12 standard leads (6 limb + 6 chest):",
+          "bullets": [
+            "<b>Bipolar Limb Leads (Einthoven):</b> <b>Lead I:</b> Left Arm (+) vs Right Arm (−); <b>Lead II:</b> Left Leg (+) vs Right Arm (−) (largest upright R wave, parallel to mean cardiac vector!); <b>Lead III:</b> Left Leg (+) vs Left Arm (−). <b>Einthoven's Law:</b> Lead II = Lead I + Lead III.",
+            "<b>Augmented Unipolar Limb Leads:</b> <b>aVR</b> (+ on Right Arm), <b>aVL</b> (+ on Left Arm), <b>aVF</b> (+ on Left Foot) — indifferent electrode connects the other two limbs through 5000-ohm resistors."
+          ],
+          "remember": "Einthoven's Law: Lead II = Lead I + Lead III! Lead II has Left Leg (+) and Right Arm (−)!",
+          "q": "According to Einthoven's law, which mathematical relationship holds true for the standard bipolar limb leads?",
+          "opts": [
+            "Lead I = Lead II + Lead III",
+            "Lead II = Lead I + Lead III",
+            "Lead III = Lead I + Lead II",
+            "Lead I + Lead II + Lead III = 1"
+          ],
+          "a": 1,
+          "why": "Einthoven's law states that the potential in Lead II equals the sum of potentials in Lead I and Lead III (II = I + III)."
+        },
+        {
+          "h": "2. Normal ECG Trace in Lead II* (Waves, Intervals & Segments)",
+          "p": "Draw and label every wave, interval, and segment of a normal Lead II ECG:",
+          "bullets": [
+            "<b>P Wave:</b> Atrial depolarization (0.08–0.10 s, <2.5 mm).",
+            "<b>PR Interval (0.12–0.20 s / 3–5 small squares):</b> Onset of P to onset of QRS; represents atrial depolarization + <b>AV nodal delay</b>.",
+            "<b>QRS Complex (0.08–0.10 s):</b> Ventricular depolarization (masks atrial repolarization).",
+            "<b>ST Segment (Isoelectric):</b> Ventricular plateau phase (elevation = acute MI; depression = ischemia).",
+            "<b>T Wave:</b> Ventricular repolarization (upright in Lead II because epicardium repolarizes before endocardium).",
+            "<b>QT Interval (~0.35–0.43 s):</b> Total ventricular depolarization + repolarization."
+          ],
+          "remember": "PR interval = 0.12–0.20 s (AV nodal delay)! QRS = <0.10 s! ST elevation = Acute MI!",
+          "q": "What is the normal duration of the PR interval in a standard Lead II ECG?",
+          "opts": [
+            "0.04–0.08 seconds",
+            "0.12–0.20 seconds",
+            "0.35–0.45 seconds",
+            "0.60–0.80 seconds"
+          ],
+          "a": 1,
+          "why": "A normal PR interval lasts 0.12 to 0.20 seconds (3 to 5 small squares at 25 mm/s) and reflects AV nodal conduction delay."
+        },
+        {
+          "h": "3. Heart Block — Classification & AV Nodal Block",
+          "p": "<b>Heart block</b> is impaired or interrupted impulse conduction anywhere from the SA node to the Purkinje system:",
+          "bullets": [
+            "<b>Types:</b> Sinoatrial (SA) block, <b>Atrioventricular (AV) nodal block</b>, and Bundle branch block (RBBB / LBBB).",
+            "<b>1st-Degree AV Block:</b> Prolonged PR interval (>0.20 s), every P wave followed by QRS.",
+            "<b>2nd-Degree AV Block:</b> <b>Mobitz Type I (Wenckebach)</b> — progressive PR lengthening until a QRS drops; <b>Mobitz Type II</b> — fixed PR with sudden dropped QRS beats (e.g., 2:1 or 3:1 block).",
+            "<b>3rd-Degree (Complete) AV Block:</b> Complete AV dissociation — atria beat at SA rate (~75/min), ventricles beat independently via slow <b>idioventricular rhythm (~30–40/min)</b>; sudden cerebral hypoxia causes <b>Stokes-Adams syncopal attacks</b>."
+          ],
+          "remember": "1st° = PR >0.20 s. 2nd° Wenckebach = PR gets longer, longer, drops! 3rd° Complete = P and QRS completely divorced + Stokes-Adams attacks!",
+          "q": "Progressive prolongation of the PR interval followed by a dropped QRS complex is characteristic of:",
+          "opts": [
+            "First-degree AV block",
+            "Mobitz Type I (Wenckebach) second-degree AV block",
+            "Third-degree complete heart block",
+            "Right bundle branch block"
+          ],
+          "a": 1,
+          "why": "Wenckebach (Mobitz Type I) AV nodal block shows progressive lengthening of the PR interval on successive beats until one atrial impulse fails to conduct."
+        }
+      ],
+      "exam": "LAQ / SN order: Definition → Bipolar & Unipolar limb lead connections (Einthoven's triangle) → Labelled Lead II ECG diagram (P, QRS, T waves + PR, ST, QT intervals with normal values) → Heart block classification & 1st/2nd/3rd degree AV block + Stokes-Adams syndrome.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "cardiac-output-stroke-volume-venous-return-fick-b11",
+      "title": "Cardiac Output, Stroke Volume, Venous Return & Fick Principle",
+      "region": "Paper 1 · Cardiovascular System (CVS)",
+      "tag": "LAQ & SN · Hemodynamics",
+      "minutes": 13,
+      "slides": [
+        {
+          "h": "1. Definitions, Normal Values & Fick Principle",
+          "p": "Memorize the exact definitions, formulas, and normal resting adult values:",
+          "bullets": [
+            "<b>Stroke Volume (SV):</b> Volume of blood pumped by each ventricle per beat = <b>EDV − ESV = 120 − 50 = 70 mL/beat</b>.",
+            "<b>Cardiac Output (CO):</b> Volume pumped by each ventricle per minute = <b>SV × HR = 70 mL × 72/min ≈ 5 L/min</b>.",
+            "<b>Cardiac Index (CI):</b> CO per square meter of body surface area (1.7 m²) = <b>5 / 1.7 ≈ 3.0–3.2 L/min/m²</b>; <b>Stroke Volume Index</b> = SV / BSA ≈ 41 mL/beat/m².",
+            "<b>Fick Principle:</b> Blood flow to an organ equals amount of substance taken up (or released) per minute divided by its arteriovenous concentration difference: <b>CO = O₂ consumption (250 mL/min) / [Arterial O₂ (200 mL/L) − Mixed Venous O₂ (150 mL/L)] = 250 / 50 = 5 L/min</b>."
+          ],
+          "remember": "CO = SV × HR (70 × 72 ≈ 5 L/min)! Cardiac Index ≈ 3.2 L/min/m²! Fick = O₂ uptake (250) / A-V O₂ diff (50) = 5 L/min!",
+          "q": "Using the Fick principle, if whole-body O₂ consumption is 250 mL/min, arterial O₂ content is 200 mL/L, and mixed venous O₂ content is 150 mL/L, what is the cardiac output?",
+          "opts": [
+            "2.5 L/min",
+            "4.0 L/min",
+            "5.0 L/min",
+            "6.5 L/min"
+          ],
+          "a": 2,
+          "why": "CO = 250 mL/min ÷ (200 − 150 mL/L) = 250 ÷ 50 = 5.0 L/min."
+        },
+        {
+          "h": "2. Factors Affecting Stroke Volume, Venous Return & Cardiac Output",
+          "p": "Cardiac output is regulated by <b>Heart Rate</b> and <b>Stroke Volume</b> (Preload, Contractility, Afterload):",
+          "bullets": [
+            "<b>1. Preload (Venous Return — Frank-Starling Law):</b> Force of contraction is directly proportional to initial length of myocardial fibers (EDV) within physiological limits.",
+            "<b>2. Factors Promoting Venous Return (6):</b> <b>Skeletal muscle pump</b> (calf veins + valves), <b>Respiratory pump</b> (negative intrathoracic pressure during inspiration), <b>Cardiac suction</b> (ventricular systole pulling AV ring down), <b>Venomotor tone</b> (sympathetic venoconstriction), <b>Blood volume</b>, and <b>Gravity/Posture</b>.",
+            "<b>3. Myocardial Contractility (Inotropy):</b> Increased by sympathetic stimulation (β₁), circulating catecholamines, Ca²⁺, digitalis; decreased by hypoxia, acidosis, β-blockers.",
+            "<b>4. Afterload:</b> Aortic diastolic pressure / total peripheral resistance opposing LV ejection (Anrep effect)."
+          ],
+          "remember": "SV determinants = Preload (Frank-Starling / Venous return) + Contractility (Inotropy) + Afterload (TPR)!",
+          "q": "According to the Frank-Starling law of the heart, within physiological limits, the force of ventricular contraction is directly proportional to:",
+          "opts": [
+            "Heart rate",
+            "End-diastolic volume (initial muscle fiber length)",
+            "Aortic diastolic pressure",
+            "Coronary sinus pressure"
+          ],
+          "a": 1,
+          "why": "Increased venous return stretches ventricular muscle fibers (higher EDV), optimizing actin-myosin overlap and increasing stroke volume."
+        }
+      ],
+      "exam": "LAQ / SN order: Definitions & normal values (SV, CO, CI, SVI) → Factors affecting CO (Preload/Frank-Starling, Venous return factors, Contractility, Afterload, Heart Rate) → Fick principle formula & calculation.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "bp-regulation-baroreceptor-cns-ischemic-raas-jga-b11",
+      "title": "Blood Pressure Regulation (Baroreceptor Reflex, CNS Ischemic Response, RAAS & JGA)",
+      "region": "Paper 1 · Cardiovascular System (CVS)",
+      "tag": "LAQ & SN · BP Control",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "1. Short-Term Neural Control: Baroreceptor Reflex & CNS Ischemic Response",
+          "p": "<b>Mean Arterial Pressure (MAP) = Diastolic BP + 1/3 Pulse Pressure</b> (~93 mmHg) = <b>CO × Total Peripheral Resistance (TPR)</b>. Rapid second-to-second regulation is neural:",
+          "bullets": [
+            "<b>Baroreceptor (Sinoaortic) Reflex (Active at MAP 60–180 mmHg):</b> High-pressure stretch receptors in <b>Carotid Sinus</b> (via <b>Hering's nerve → CN IX</b>) and <b>Aortic Arch</b> (via <b>Aortic depressor nerve → CN X</b>) project to <b>Nucleus Tractus Solitarius (NTS)</b>. When BP rises → NTS stimulates <b>Nucleus Ambiguus (Vagus → ↓HR)</b> and inhibits <b>RVLM vasomotor center (↓Sympathetic → vasodilation & ↓TPR)</b> → restores BP!",
+            "<b>Chemoreceptor Reflex (MAP <80 mmHg):</b> Carotid & aortic bodies respond to hypoxia/hypercapnia/H⁺ by stimulating RVLM to raise BP.",
+            "<b>CNS Ischemic Response ('Last-Ditch Stand' — MAP <60 mmHg, maximal at 15–20 mmHg):</b> Severe brainstem ischemia accumulates CO₂/lactic acid in vasomotor center → massive sympathetic discharge raising MAP up to 250 mmHg (<b>Cushing reflex</b> when raised ICP compresses medullary vessels: hypertension + reflex bradycardia!)."
+          ],
+          "remember": "Baroreceptor = Buffer nerves (CN IX from carotid sinus, CN X from aortic arch) → NTS! CNS Ischemic Response = Last-ditch stand at MAP <60 mmHg!",
+          "q": "Which cranial nerves carry afferent impulses from the carotid sinus and aortic arch baroreceptors to the nucleus tractus solitarius (NTS)?",
+          "opts": [
+            "CN V and CN VII",
+            "CN IX (glossopharyngeal) and CN X (vagus)",
+            "CN XI and CN XII",
+            "CN III and CN VI"
+          ],
+          "a": 1,
+          "why": "Carotid sinus baroreceptors signal via Hering's branch of CN IX, and aortic arch baroreceptors signal via the aortic branch of CN X to the medullary NTS."
+        },
+        {
+          "h": "2. Long-Term Renal-Body Fluid Control: JGA & Renin-Angiotensin-Aldosterone System (RAAS)",
+          "p": "Long-term BP is governed by kidney fluid volume and the <b>Juxtaglomerular Apparatus (JGA)</b>:",
+          "bullets": [
+            "<b>Three Stimuli for Renin Release from JG Cells:</b> <b>1. ↓Renal perfusion pressure</b> (afferent arteriolar baroreceptors), <b>2. ↓NaCl delivery to Macula Densa</b>, and <b>3. ↑Sympathetic β₁ stimulation</b>.",
+            "<b>RAAS Cascade:</b> <b>Renin</b> converts <b>Angiotensinogen</b> (liver) → <b>Angiotensin I</b> → converted in pulmonary capillaries by <b>ACE</b> → <b>Angiotensin II</b>.",
+            "<b>Actions of Angiotensin II:</b> Potent arteriolar vasoconstrictor (↑TPR), stimulates <b>Aldosterone</b> from zona glomerulosa (↑Na⁺ & water reabsorption in principal cells of collecting duct), stimulates <b>ADH</b> & thirst, and enhances proximal Na⁺ reabsorption."
+          ],
+          "remember": "Renin (JGA) → Angiotensin I → ACE → Angiotensin II (Vasoconstriction + Aldosterone + ADH + Thirst) → Long-term BP rise!",
+          "q": "Which enzyme converts inactive Angiotensin I into active Angiotensin II primarily in the pulmonary capillary endothelium?",
+          "opts": [
+            "Renin",
+            "Angiotensin-converting enzyme (ACE)",
+            "Aldosterone synthase",
+            "Carbonic anhydrase"
+          ],
+          "a": 1,
+          "why": "Angiotensin-converting enzyme (ACE), abundant on pulmonary vascular endothelium, cleaves Angiotensin I to form the potent vasoconstrictor Angiotensin II."
+        }
+      ],
+      "exam": "LAQ / SN order: Definition of BP & MAP → Classification (Short-term neural: Baroreceptors, Chemoreceptors, CNS ischemic response; Intermediate: Capillary fluid shift, stress relaxation; Long-term renal: Pressure diuresis/natriuresis & RAAS/JGA flowchart) + Reflex arc diagram.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "circulatory-shock-b11",
+      "title": "Circulatory Shock** (Classification, Stages & Physiological Management)",
+      "region": "Paper 1 · Cardiovascular System (CVS)",
+      "tag": "LAQ & SN · ** (Double Starred)",
+      "minutes": 13,
+      "slides": [
+        {
+          "h": "1. Definition, Classification & Three Stages of Shock",
+          "p": "<b>Circulatory shock</b> is a life-threatening clinical syndrome of <b>generalized inadequate tissue perfusion</b> leading to cellular hypoxia and organ dysfunction:",
+          "bullets": [
+            "<b>Classification (4 Types):</b> <b>1. Hypovolemic shock</b> (hemorrhage, severe burns, vomiting/diarrhea), <b>2. Cardiogenic shock</b> (massive MI, arrhythmias, tamponade), <b>3. Distributive / Vasogenic shock</b> (Septic/endotoxic shock, Anaphylactic shock [IgE histamine], Neurogenic shock [loss of sympathetic tone]), and <b>4. Obstructive shock</b> (massive pulmonary embolism, tension pneumothorax).",
+            "<b>Stage 1 — Non-Progressive (Compensated) Stage (<10–15% blood loss):</b> Negative-feedback reflexes restore CO & BP: <b>Baroreceptor reflex</b> (tachycardia, arteriolar & venous constriction), <b>RAAS & ADH</b> (fluid conservation), and <b>Capillary fluid shift</b> (absorption of interstitial fluid into plasma).",
+            "<b>Stage 2 — Progressive Stage:</b> Positive-feedback vicious cycles take over — myocardial ischemia depresses CO, vasomotor failure, capillary endothelial hypoxia increases permeability (fluid leaks out), sludging/DIC, and metabolic lactic acidosis.",
+            "<b>Stage 3 — Irreversible Stage:</b> Severe cellular ATP depletion, lysosomal enzyme release, and multiorgan failure refractory even to full blood transfusion."
+          ],
+          "remember": "3 Stages: Compensated (Negative feedback wins) → Progressive (Positive feedback vicious cycles) → Irreversible (ATP depletion refractory to transfusion)!",
+          "q": "Which physiological mechanism in the compensated stage of hemorrhagic shock shifts interstitial fluid into the intravascular capillary compartment?",
+          "opts": [
+            "Increased capillary hydrostatic pressure",
+            "Decreased capillary hydrostatic pressure due to arteriolar vasoconstriction",
+            "Increased plasma albumin synthesis within 5 minutes",
+            "Lymphatic obstruction"
+          ],
+          "a": 1,
+          "why": "Sympathetic arteriolar vasoconstriction lowers capillary hydrostatic pressure below plasma colloid osmotic pressure, drawing interstitial fluid into capillaries ('autotransfusion')."
+        },
+        {
+          "h": "2. Physiological Principles of Management of Hemorrhagic Shock",
+          "p": "Every treatment step directly targets the underlying physiological derangement:",
+          "bullets": [
+            "<b>1. Posture (Trendelenburg / Leg Elevation):</b> Foot-end elevation (~15–20°) promotes venous return by gravity without impairing diaphragmatic breathing.",
+            "<b>2. Volume Replacement (Restoring Preload):</b> Whole blood / packed RBCs for hemorrhagic shock; crystalloids (normal saline / Ringer's lactate) or plasma expanders (dextran/albumin) to restore EDV and CO.",
+            "<b>3. Oxygenation & Acidosis Correction:</b> 100% O₂ inhalation + sodium bicarbonate if severe lactic acidosis depresses myocardial contractility.",
+            "<b>4. Judicious Vasopressors / Inotropes & Steroids:</b> Dopamine/norepinephrine (only after volume replacement) and glucocorticoids (stabilize lysosomal & capillary membranes in septic/anaphylactic shock)."
+          ],
+          "remember": "Management pillars = Leg elevation + Restore blood/fluid volume + O₂ + Correct acidosis!",
+          "q": "Why should potent vasoconstrictors (like norepinephrine) NOT be given alone before fluid resuscitation in hypovolemic shock?",
+          "opts": [
+            "They cause severe bradycardia",
+            "They worsen tissue ischemia by constricting arterioles when intravascular volume is still depleted",
+            "They destroy red blood cells",
+            "They block renal filtration permanently"
+          ],
+          "a": 1,
+          "why": "In hypovolemic shock, sympathetic vasoconstriction is already maximal; adding vasopressors without restoring blood volume further reduces tissue perfusion."
+        }
+      ],
+      "exam": "LAQ / SN order: Definition → Classification (4 types with examples) → Three stages (Compensated negative-feedback vs Progressive positive-feedback vicious cycle diagram vs Irreversible) → Physiological principles of management.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "coronary-circulation-angina-b11",
+      "title": "Coronary Circulation & Angina Pectoris",
+      "region": "Paper 1 · Cardiovascular System (CVS)",
+      "tag": "LAQ & SN · Special Circulation",
+      "minutes": 11,
+      "slides": [
+        {
+          "h": "1. Physiological Anatomy & Five Special Features of Coronary Circulation",
+          "p": "At rest, the heart receives <b>~250 mL/min (~5% of cardiac output)</b> via the right and left coronary arteries and exhibits five hallmark physiological features:",
+          "bullets": [
+            "<b>1. Phasic Flow — Predominantly Diastolic in Left Ventricle:</b> During LV systole, intense intramyocardial pressure (~120+ mmHg) compresses subendocardial vessels, briefly arresting or reversing LV coronary flow; <b>~80% of LV coronary blood flow occurs during diastole</b>! (Tachycardia shortens diastole and compromises LV perfusion!).",
+            "<b>2. High Basal O₂ Extraction (~70–80%):</b> Coronary venous blood is already heavily desaturated (O₂ content ~5 mL/100 mL), so increased myocardial O₂ demand during exercise MUST be met by <b>coronary vasodilation</b> (increasing flow 4–5 fold).",
+            "<b>3. Metabolic Autoregulation (Primary Controller):</b> Local vasodilator metabolites—especially <b>Adenosine</b>, K⁺, H⁺, CO₂, and hypoxia—directly dilate coronary arterioles.",
+            "<b>4. Functional End-Arteries:</b> Sudden coronary occlusion causes myocardial infarction (subendocardial region is most vulnerable!).",
+            "<b>5. Sympathetic Paradox:</b> Direct α-receptors constrict, while β₂-receptors & metabolic vasodilators produced by β₁-mediated ↑HR/contractility cause net <b>coronary vasodilation</b>."
+          ],
+          "remember": "LV gets 80% of its blood during DIASTOLE! Adenosine = #1 metabolic coronary vasodilator! High O₂ extraction (75%)!",
+          "q": "During which phase of the cardiac cycle does the left ventricular myocardium receive the vast majority (~80%) of its coronary blood flow?",
+          "opts": [
+            "Isovolumetric contraction",
+            "Rapid ventricular ejection",
+            "Ventricular diastole",
+            "Atrial systole only"
+          ],
+          "a": 2,
+          "why": "Strong systolic contraction of the thick left ventricle compresses intramural vessels; therefore, LV coronary perfusion occurs predominantly during diastole."
+        },
+        {
+          "h": "2. Angina Pectoris & Physiological Basis of Nitrate Therapy",
+          "p": "<b>Angina pectoris</b> is paroxysmal retrosternal squeezing chest pain caused by transient myocardial ischemia (O₂ demand > O₂ supply):",
+          "bullets": [
+            "<b>Mechanism of Pain & Radiation:</b> Anaerobic glycolysis accumulates <b>adenosine, bradykinin, lactate, and Substance P</b>, stimulating cardiac sympathetic afferents (T1–T4) → referred pain to precordium and inner border of left arm (dermatomal rule).",
+            "<b>Physiological Action of Sublingual Nitroglycerin (GTN):</b> Releases <b>Nitric Oxide (NO)</b> → primarily causes <b>venodilation</b> (reduces venous return/preload and ventricular wall tension = ↓myocardial O₂ demand) + dilates epicardial collateral coronary arteries."
+          ],
+          "remember": "Nitroglycerin relieves angina primarily by VENODILATION (reducing Preload & LV wall tension), thereby lowering myocardial O₂ demand!",
+          "q": "What is the primary physiological mechanism by which sublingual nitroglycerin relieves an acute attack of angina pectoris?",
+          "opts": [
+            "Increasing heart rate and contractility",
+            "Venodilation reducing venous return (preload) and myocardial O₂ demand",
+            "Constricting systemic arterioles",
+            "Blocking cardiac parasympathetic nerves"
+          ],
+          "a": 1,
+          "why": "Nitrates predominantly dilate systemic capacitance veins, reducing venous return (preload), ventricular end-diastolic volume, and myocardial oxygen consumption."
+        }
+      ],
+      "exam": "LAQ / SN order: Physiologic anatomy & normal flow (250 mL/min) → Five special features (phasic diastolic flow diagram, high O₂ extraction, metabolic autoregulation via adenosine, functional end-arteries) → Angina pectoris (pathophysiology, referred pain T1–T4, nitrate mechanism).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "heart-rate-exercise-bp-effects-b11",
+      "title": "Regulation of Heart Rate & Cardiovascular Effects of Muscular Exercise",
+      "region": "Paper 1 · Cardiovascular System (CVS)",
+      "tag": "LAQ & SN · Exercise & HR",
+      "minutes": 11,
+      "slides": [
+        {
+          "h": "1. Regulation of Heart Rate & Bainbridge Reflex",
+          "p": "Normal resting heart rate is <b>60–100 bpm</b> (average 72 bpm), governed by dominant resting <b>vagal (parasympathetic) tone</b>:",
+          "bullets": [
+            "<b>Vagal Tone (Right Vagus → SA Node):</b> Acetylcholine opens M₂ K⁺ channels (hyperpolarizes SA node) → ↓HR. Cutting both vagi raises HR to ~100–110 bpm (intrinsic SA rate).",
+            "<b>Sympathetic Drive (T1–T4 → β₁ receptors):</b> Increases If & Ca²⁺ currents → steepens prepotential slope → ↑HR.",
+            "<b>Reflexes:</b> <b>Marey's Law</b> (HR is inversely proportional to BP via baroreceptors); <b>Bainbridge Reflex</b> (rapid IV infusion stretches right atrial stretch receptors → vagal afferents inhibit cardiac vagal center → ↑HR); <b>Respiratory Sinus Arrhythmia</b> (HR increases on inspiration, decreases on expiration)."
+          ],
+          "remember": "Marey's Law = ↑BP → ↓HR! Bainbridge Reflex = ↑Right atrial stretch → ↑HR! Inspiration = ↑HR!",
+          "q": "Which reflex explains the increase in heart rate following rapid intravenous saline infusion that stretches the right atrium?",
+          "opts": [
+            "Baroreceptor reflex",
+            "Bainbridge reflex",
+            "Cushing reflex",
+            "Bezold-Jarisch reflex"
+          ],
+          "a": 1,
+          "why": "Stretch of right atrial volume receptors by increased venous return triggers the Bainbridge reflex, increasing heart rate."
+        },
+        {
+          "h": "2. Why Heart Rate Increases & How BP Changes in Isotonic Exercise",
+          "p": "Muscular exercise triggers immediate, integrated cardiovascular adjustments:",
+          "bullets": [
+            "<b>4 Mechanisms Increasing HR in Exercise:</b> <b>1. Central command</b> (cortical impulses to medullary cardiovascular centers even before exercise starts!), <b>2. Withdrawal of vagal tone</b> (responsible for initial rapid rise up to ~100 bpm) followed by <b>sympathetic stimulation</b>, <b>3. Muscle mechanoreceptors & metaboreceptors (ergoreceptors)</b>, and <b>4. Bainbridge reflex + ↑body temperature</b>.",
+            "<b>Effect of Isotonic (Dynamic) Exercise on BP:</b> <b>Systolic BP rises markedly</b> (up to 160–180 mmHg due to ↑CO up to 20–25 L/min); <b>Diastolic BP remains unchanged or falls slightly</b> (due to massive metabolic vasodilation in active skeletal muscles lowering TPR!); hence <b>Pulse Pressure widens</b>!"
+          ],
+          "remember": "Isotonic exercise: Systolic BP ↑↑, Diastolic BP ↔ or ↓ (muscle vasodilation lowers TPR), Pulse Pressure widens!",
+          "q": "During moderate isotonic (dynamic) exercise such as running, what happens to systolic and diastolic blood pressure?",
+          "opts": [
+            "Both systolic and diastolic BP fall sharply",
+            "Systolic BP increases markedly while diastolic BP stays unchanged or falls slightly",
+            "Diastolic BP rises markedly while systolic BP falls",
+            "Neither systolic nor diastolic BP changes"
+          ],
+          "a": 1,
+          "why": "In isotonic exercise, increased cardiac output raises systolic BP, while metabolic vasodilation in active skeletal muscle reduces total peripheral resistance, keeping diastolic BP unchanged or slightly lower."
+        }
+      ],
+      "exam": "LAQ / SN order: Definition of HR & vagal tone → Factors regulating HR (neural, medullary centers, baroreceptor/Marey's, Bainbridge, chemical/hormonal) → Mechanisms of exercise tachycardia → Effect of isotonic vs isometric exercise on SBP, DBP, MAP & Pulse Pressure.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "deglutition-achalasia-cardia-b11",
+      "title": "Deglutition (Pharyngeal Phase**) & Achalasia Cardia",
+      "region": "Paper 1 · Gastrointestinal Tract (GIT)",
+      "tag": "LAQ & SN · ** (Double Starred)",
+      "minutes": 12,
+      "slides": [
+        {
+          "h": "1. Three Phases of Deglutition & Pharyngeal Phase** Events",
+          "p": "<b>Deglutition (swallowing)</b> is a coordinated reflex transporting food from the mouth to the stomach in three phases:",
+          "bullets": [
+            "<b>1. Oral (Buccal) Phase (Voluntary):</b> Tongue presses upward and backward against hard palate, pushing bolus into oropharynx.",
+            "<b>2. Pharyngeal Phase** (Involuntary Reflex — <1–2 s):</b> Bolus stimulates tactile receptors on tonsillar pillars → afferents via <b>CN V, IX, X</b> to <b>medullary swallowing center</b> → efferents via <b>CN V, IX, X, XII</b> trigger 4 simultaneous protective closures: <b>(a) Soft palate elevates</b> (closes nasopharynx), <b>(b) Vocal cords adduct + epiglottis swings backward + larynx elevates</b> (closes airway), <b>(c) Deglutition apnea</b> (brief inhibition of respiration for 1–2 s), and <b>(d) Upper esophageal sphincter (UES) relaxes</b> while pharyngeal constrictors propel bolus into esophagus.",
+            "<b>3. Esophageal Phase (Involuntary):</b> <b>Primary peristalsis</b> (continuation of pharyngeal wave, 8–10 s) and <b>Secondary peristalsis</b> (triggered by local esophageal distension) + receptive relaxation of <b>Lower Esophageal Sphincter (LES)</b> via VIP & Nitric Oxide."
+          ],
+          "remember": "Pharyngeal Phase** closes ALL 3 wrong exits (nose, mouth, larynx) + causes Deglutition Apnea + relaxes UES!",
+          "q": "Which two neurotransmitters mediate receptive relaxation of the lower esophageal sphincter (LES) during swallowing?",
+          "opts": [
+            "Acetylcholine and norepinephrine",
+            "Vasoactive intestinal polypeptide (VIP) and Nitric Oxide (NO)",
+            "Histamine and gastrin",
+            "Serotonin and substance P"
+          ],
+          "a": 1,
+          "why": "Inhibitory myenteric neurons release VIP and nitric oxide (NO) to relax the smooth muscle of the lower esophageal sphincter."
+        },
+        {
+          "h": "2. Importance of Deglutition Reflex & Achalasia Cardia",
+          "p": "Complete your answer with the protective significance of the reflex and its classic motility disorder:",
+          "bullets": [
+            "<b>Importance of Deglutition Reflex:</b> Prevents nasal regurgitation and life-threatening <b>aspiration pneumonia</b> during swallowing (loss in bulbar palsy or deep coma risks aspiration).",
+            "<b>Achalasia Cardia:</b> Neuromuscular disorder caused by degeneration/absence of <b>inhibitory VIP/NO neurons in the myenteric (Auerbach's) plexus</b> of the lower esophagus → <b>LES fails to relax</b> during swallowing + aperistalsis of esophageal body → progressive dysphagia (for both solids and liquids), regurgitation, and classic <b>'bird-beak' tapering</b> on barium swallow."
+          ],
+          "remember": "Achalasia Cardia = Loss of inhibitory VIP/NO myenteric neurons → LES stays tightly closed ('bird-beak' on barium swallow)!",
+          "q": "Achalasia cardia is primarily caused by degeneration of inhibitory neurons releasing which mediators in the esophageal myenteric plexus?",
+          "opts": [
+            "Acetylcholine and gastrin",
+            "Nitric oxide (NO) and VIP",
+            "Somatostatin and secretin",
+            "CCK and motilin"
+          ],
+          "a": 1,
+          "why": "Loss of VIP- and nitric oxide-producing inhibitory myenteric ganglion cells prevents lower esophageal sphincter relaxation in achalasia cardia."
+        }
+      ],
+      "exam": "LAQ / SN order: Definition → Three phases → Detailed Pharyngeal Phase** (afferents, swallowing center, 4 protective airway/nasal closures, deglutition apnea) → Esophageal peristalsis & LES → Importance of reflex → Achalasia cardia (pathophysiology, features, barium 'bird-beak', treatment).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "gastric-juice-hcl-secretion-peptic-ulcer-b11",
+      "title": "Gastric Juice, HCl Secretion*** & Peptic Ulcer***",
+      "region": "Paper 1 · Gastrointestinal Tract (GIT)",
+      "tag": "LAQ & SN · *** (Triple Starred)",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "1. Gastric Glands & Mechanism of HCl Secretion*** by Parietal Cells",
+          "p": "The stomach secretes <b>1.5–2.5 L/day of gastric juice (pH 1.0–2.0)</b> from tubular gastric glands containing <b>Mucous neck cells</b> (mucus/HCO₃⁻), <b>Chief/Peptic cells</b> (pepsinogen & gastric lipase), <b>Parietal/Oxyntic cells</b> (HCl & Castle's Intrinsic Factor), and <b>G-cells / ECL cells</b>:",
+          "bullets": [
+            "<b>Step-by-Step HCl Secretion in Parietal Cells:</b> <b>1.</b> Inside parietal cell, <b>Carbonic Anhydrase</b> hydrates CO₂ + H₂O → H₂CO₃ → <b>H⁺ + HCO₃⁻</b>. <b>2.</b> Apical <b>H⁺–K⁺ ATPase (Proton Pump)</b> actively pumps <b>H⁺ into canaliculus</b> in exchange for K⁺. <b>3.</b> Basolateral <b>Cl⁻–HCO₃⁻ exchanger</b> exports HCO₃⁻ into venous blood (causing postprandial <b>'alkaline tide'</b>) and imports Cl⁻, which exits apically via cAMP-gated Cl⁻ channels to form <b>HCl</b>!",
+            "<b>Three Receptors Stimulating Parietal Cell:</b> <b>1. Acetylcholine (M₃ — vagus)</b> via IP₃/Ca²⁺, <b>2. Gastrin (CCK-B)</b> via IP₃/Ca²⁺, and <b>3. Histamine from ECL cells (H₂)</b> via <b>cAMP</b> (potentiates ACh & Gastrin!)."
+          ],
+          "remember": "Apical Proton Pump = H⁺–K⁺ ATPase! Basolateral HCO₃⁻ exit = Postprandial Alkaline Tide! 3 parietal stimulators = ACh (M₃), Gastrin (CCK-B), Histamine (H₂)!",
+          "q": "Which apical transport protein directly secretes H⁺ ions into the gastric lumen from parietal cells?",
+          "opts": [
+            "Na⁺–K⁺ ATPase",
+            "H⁺–K⁺ ATPase (Proton pump)",
+            "Na⁺–H⁺ antiporter",
+            "CFTR Cl⁻ channel"
+          ],
+          "a": 1,
+          "why": "The apical H⁺–K⁺ ATPase actively pumps H⁺ into the secretory canaliculus in exchange for K⁺, generating gastric pH ~1."
+        },
+        {
+          "h": "2. Three Phases of Regulation & Peptic Ulcer*** Management",
+          "p": "Gastric acid secretion is regulated in three phases, and imbalance between aggressive and protective factors causes <b>peptic ulcer***</b>:",
+          "bullets": [
+            "<b>Three Phases:</b> <b>1. Cephalic Phase (~30%):</b> Sight/smell/taste/chewing → vagus (blocked by vagotomy). <b>2. Gastric Phase (~60%):</b> Distension (vagovagal reflex) + peptides/amino acids (stimulate G-cells → Gastrin). <b>3. Intestinal Phase (~10%):</b> Early duodenal distension stimulates; acid/fat in duodenum triggers <b>enterogastric reflex & enterogastrones (Secretin, CCK, GIP)</b> to inhibit acid.",
+            "<b>Peptic Ulcer*** Etiology:</b> Imbalance between <b>aggressive factors</b> (HCl, pepsin, <i>Helicobacter pylori</i> infection, NSAIDs blocking protective prostaglandins, smoking) and <b>mucosal barrier</b> (mucus-bicarbonate layer, tight junctions, mucosal blood flow).",
+            "<b>Physiological Basis of Treatment:</b> <b>1. Proton Pump Inhibitors (Omeprazole)</b> — irreversibly block H⁺–K⁺ ATPase; <b>2. H₂-Receptor Blockers (Ranitidine/Famotidine)</b> — block histamine potentiation; <b>3. Antacids & Sucralfate / Misoprostol</b> (PGE₁ analog); <b>4. Triple therapy antibiotics</b> for <i>H. pylori</i>; <b>5. Highly selective vagotomy</b>."
+          ],
+          "remember": "Cephalic (30%) + Gastric (60%) + Intestinal (10%)! Ulcer treatment = PPIs (H⁺–K⁺ ATPase) + H₂ blockers + H. pylori eradication!",
+          "q": "Which phase accounts for the largest proportion (~60%) of daily gastric acid secretion?",
+          "opts": [
+            "Cephalic phase",
+            "Gastric phase",
+            "Intestinal phase",
+            "Interdigestive phase"
+          ],
+          "a": 1,
+          "why": "The gastric phase—driven by stomach distension and protein digestion products stimulating gastrin release—accounts for ~60% of gastric secretion."
+        }
+      ],
+      "exam": "LAQ / SN order: Gastric glands & cell types → Gastric juice composition → Mechanism of HCl secretion (with parietal cell diagram) → Three phases of regulation → Peptic ulcer*** (mucosal barrier vs aggressive factors, H. pylori/NSAIDs, physiological basis of drugs & surgery).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "gastric-motility-emptying-b11",
+      "title": "Regulation of Gastric Motility & Gastric Emptying*",
+      "region": "Paper 1 · Gastrointestinal Tract (GIT)",
+      "tag": "SN · * (Starred)",
+      "minutes": 10,
+      "slides": [
+        {
+          "h": "1. Gastric Motility Patterns & Factors Regulating Gastric Emptying*",
+          "p": "The stomach stores food via <b>receptive relaxation</b> (vagally mediated), mixes it into chyme via <b>peristaltic waves (3/min)</b> driven by interstitial cells of Cajal, and empties it steadily through the pyloric pump:",
+          "bullets": [
+            "<b>Factors Promoting Gastric Emptying (Gastric Factors):</b> <b>1. Gastric volume / distension</b> (activates myenteric & vagovagal reflexes) and <b>2. Gastrin hormone</b> (enhances pyloric pump activity). Liquids empty fastest (~1–2 h), followed by carbohydrates, proteins, and fats (slowest, 4–6 h).",
+            "<b>Factors Inhibiting Gastric Emptying (Duodenal Enterogastric Reflex & Enterogastrones):</b> Presence of <b>1. Fats</b> (strongest inhibitor — releases <b>CCK & GIP</b>), <b>2. Acidic chyme (pH <3.5–4)</b> (releases <b>Secretin</b> & triggers neural enterogastric reflex), <b>3. Hypertonic / hypotonic chyme</b> (duodenal osmoreceptors), and <b>4. Duodenal distension / protein breakdown products</b>."
+          ],
+          "remember": "Emptying order: Liquids > Carbs > Proteins > Fats! Fats in duodenum = Strongest brake via CCK & Enterogastric reflex!",
+          "q": "Which nutrient component in the duodenum is the most potent physiological inhibitor of gastric emptying?",
+          "opts": [
+            "Isotonic glucose solution",
+            "Fats (triglycerides/fatty acids)",
+            "Water",
+            "Dietary cellulose"
+          ],
+          "a": 1,
+          "why": "Fats entering the duodenum strongly stimulate CCK release and the enterogastric inhibitory reflex, slowing gastric emptying to allow adequate time for lipid digestion."
+        }
+      ],
+      "exam": "SN order: Types of gastric motility (receptive relaxation, peristalsis, hunger contractions) → Gastric factors promoting emptying (volume, gastrin, food consistency) → Duodenal factors inhibiting emptying (enterogastric reflex + enterogastrones: CCK, secretin, GIP).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "pancreatic-juice-git-hormones-b11",
+      "title": "Pancreatic Juice & GIT Hormones (Gastrin, CCK, Secretin)",
+      "region": "Paper 1 · Gastrointestinal Tract (GIT)",
+      "tag": "LAQ & SN · Digestive Secretions",
+      "minutes": 12,
+      "slides": [
+        {
+          "h": "1. Composition, Functions & Regulation of Pancreatic Juice",
+          "p": "Exocrine pancreas secretes <b>1.2–1.5 L/day</b> of alkaline pancreatic juice (<b>pH 8.0–8.3</b>) consisting of two distinct components:",
+          "bullets": [
+            "<b>1. Aqueous HCO₃⁻-Rich Component (from Centroacinar & Ductal Cells — stimulated by SECRETIN):</b> Neutralizes acidic gastric chyme in duodenum (protecting mucosa & providing optimal alkaline pH for pancreatic enzymes).",
+            "<b>2. Enzyme-Rich Component (from Acinar Cells — stimulated by CCK & Vagus):</b> <b>Proteolytic</b> (Trypsinogen [activated by brush-border <b>enterokinase</b> → trypsin, which activates all others!], Chymotrypsinogen, Procarboxypeptidase, Proelastase — protected inside acini by <b>trypsin inhibitor</b>!), <b>Amylolytic</b> (Pancreatic α-amylase), and <b>Lipolytic</b> (Pancreatic lipase, colipase, cholesterol esterase, phospholipase A₂).",
+            "<b>Phases of Regulation:</b> Cephalic (20%, vagal), Gastric (5–10%, gastrin/vagovagal), and <b>Intestinal Phase (70–80%)</b> via <b>Secretin</b> (acid → watery HCO₃⁻) and <b>CCK</b> (fat/peptides → enzyme-rich)."
+          ],
+          "remember": "Secretin = Watery HCO₃⁻ (from duct cells in response to Acid). CCK = Enzyme-rich juice (from acinar cells in response to Fat/Protein)!",
+          "q": "Which brush-border enzyme in the duodenal mucosa converts inactive trypsinogen into active trypsin?",
+          "opts": [
+            "Pepsin",
+            "Enterokinase (enteropeptidase)",
+            "Pancreatic lipase",
+            "Chymotrypsin"
+          ],
+          "a": 1,
+          "why": "Enterokinase on the duodenal brush border cleaves trypsinogen to active trypsin, which then autocatalytically activates the remaining pancreatic zymogens."
+        },
+        {
+          "h": "2. Major Gastrointestinal Hormones (Gastrin, CCK, Secretin, GIP, Motilin)",
+          "p": "Summarize the site of secretion, stimulus, and actions of key GIT hormones:",
+          "bullets": [
+            "<b>Gastrin (G-cells of gastric antrum):</b> Stimulated by peptides/amino acids, gastric distension, vagal GRP; inhibited by antral pH <2 & somatostatin. Actions: ↑HCl & pepsinogen secretion, ↑gastric motility, trophic to gastric mucosa.",
+            "<b>Cholecystokinin / CCK (I-cells of duodenum/jejunum):</b> Stimulated by fatty acids & peptides. Actions: <b>Contracts gallbladder</b>, <b>relaxes sphincter of Oddi</b>, stimulates <b>enzyme-rich pancreatic juice</b>, and inhibits gastric emptying.",
+            "<b>Secretin (S-cells of duodenum — first hormone discovered!):</b> Stimulated by duodenal acid (pH <4.5). Actions: Stimulates <b>HCO₃⁻-rich pancreatic & biliary secretion</b>, inhibits gastric acid & motility.",
+            "<b>GIP (K-cells) & Motilin (M-cells):</b> GIP stimulates insulin release (incretin effect); Motilin initiates interdigestive <b>Migrating Motor Complex (MMC)</b> every 90 min."
+          ],
+          "remember": "Gastrin (G-cells) = Acid & motility. CCK (I-cells) = Gallbladder contraction + Pancreatic enzymes. Secretin (S-cells) = HCO₃⁻!",
+          "q": "Which gastrointestinal hormone causes gallbladder contraction, relaxation of the sphincter of Oddi, and secretion of enzyme-rich pancreatic juice?",
+          "opts": [
+            "Secretin",
+            "Cholecystokinin (CCK)",
+            "Gastrin",
+            "Motilin"
+          ],
+          "a": 1,
+          "why": "CCK secreted by duodenal I-cells in response to dietary fat and peptides coordinates gallbladder contraction, sphincter of Oddi relaxation, and pancreatic enzyme release."
+        }
+      ],
+      "exam": "LAQ / SN order: Pancreatic juice (volume, pH, composition table, enterokinase activation & trypsin inhibitor, Cephalic/Gastric/Intestinal regulation via Secretin & CCK, steatorrhea in deficiency) → GIT hormones table (Gastrin, CCK, Secretin, GIP, Motilin).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "bile-salts-fat-absorption-b11",
+      "title": "Functions of Bile Salts** & Absorption of Fat",
+      "region": "Paper 1 · Gastrointestinal Tract (GIT)",
+      "tag": "SN · ** (Double Starred)",
+      "minutes": 11,
+      "slides": [
+        {
+          "h": "1. Composition of Bile & Six Functions of Bile Salts**",
+          "p": "Hepatocytes secrete <b>500–1000 mL/day of bile</b> (concentrated ~10-fold in gallbladder), containing water, electrolytes, <b>bile salts</b> (sodium & potassium glycocholate and taurocholate — derived from cholesterol), bile pigments (bilirubin), phospholipids (lecithin), and cholesterol:",
+          "bullets": [
+            "<b>1. Emulsification of Fats:</b> Detergent action lowers surface tension, breaking large fat globules into tiny droplets (<1 µm) to increase surface area for pancreatic lipase.",
+            "<b>2. Micelle Formation (Hydrotropic Action):</b> Amphipathic bile salts form water-soluble <b>mixed micelles</b> (3–6 nm) carrying monoglycerides, free fatty acids, cholesterol, and <b>fat-soluble vitamins (A, D, E, K)</b> across the unstirred water layer to enterocyte brush border.",
+            "<b>3. Activation of Lipases:</b> Activates bile-salt-stimulated lipase and works with colipase.",
+            "<b>4. Choleretic Action:</b> Reabsorbed bile salts stimulate hepatocytes to secrete more bile.",
+            "<b>5. Keeps Cholesterol in Solution:</b> Prevents cholesterol gallstone precipitation (aided by lecithin).",
+            "<b>6. Enterohepatic Circulation:</b> ~95% of bile salts are actively reabsorbed in the <b>terminal ileum</b> via portal vein back to liver (recirculates 6–8 times/day!)."
+          ],
+          "remember": "Bile salts = Emulsification + Micelle formation (A, D, E, K absorption) + Choleretic + Keeps cholesterol soluble + Reabsorbed in Terminal Ileum!",
+          "q": "Where in the gastrointestinal tract are ~95% of conjugated bile salts actively reabsorbed into the enterohepatic circulation?",
+          "opts": [
+            "Stomach",
+            "Duodenum",
+            "Terminal ileum",
+            "Descending colon"
+          ],
+          "a": 2,
+          "why": "Apical Na⁺-dependent bile acid transporters in the terminal ileum actively reabsorb ~95% of bile salts for return to the liver via the portal vein."
+        },
+        {
+          "h": "2. Digestion & Absorption of Fat (Chylomicron Pathway)",
+          "p": "Trace dietary triglycerides from the intestinal lumen into the lacteals:",
+          "bullets": [
+            "<b>1. Luminal Hydrolysis & Micelles:</b> Emulsified triglycerides are hydrolyzed by pancreatic lipase + colipase into <b>2-monoglycerides + 2 free fatty acids</b>, packaged into <b>bile salt micelles</b>.",
+            "<b>2. Enterocyte Uptake & Re-esterification:</b> Lipids diffuse across apical membrane (bile salts stay behind in lumen); inside smooth ER, long-chain fatty acids (>10–12 C) & monoglycerides are <b>re-esterified into triglycerides</b>.",
+            "<b>3. Chylomicron Exocytosis into Lacteals:</b> Triglycerides + cholesterol esters + phospholipids + <b>ApoB-48</b> form <b>chylomicrons</b>, which exit basolaterally by exocytosis into central <b>lymphatic lacteals → thoracic duct</b>! (Short/medium-chain fatty acids <10 C pass directly into portal blood!)."
+          ],
+          "remember": "Long-chain fats → Re-esterified in enterocyte → Chylomicrons (ApoB-48) → Lymphatic Lacteals → Thoracic Duct!",
+          "q": "In which lipoprotein form are long-chain triglycerides exported from intestinal enterocytes into lymphatic lacteals?",
+          "opts": [
+            "HDL",
+            "LDL",
+            "Chylomicrons",
+            "Albumin-bound complexes"
+          ],
+          "a": 2,
+          "why": "Long-chain fatty acids are re-esterified into triglycerides inside enterocytes, packaged with ApoB-48 into chylomicrons, and secreted into intestinal lacteals."
+        }
+      ],
+      "exam": "SN order: Bile composition (liver vs gallbladder bile) → Six functions of bile salts** & enterohepatic circulation → Steps of fat absorption (emulsification, pancreatic lipase, micelles, re-esterification, chylomicron exocytosis into lacteals, steatorrhea note).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "small-large-intestine-motility-defecation-b11",
+      "title": "Movements of Small & Large Intestine, Peristaltic Rush & Defecation Reflex*",
+      "region": "Paper 1 · Gastrointestinal Tract (GIT)",
+      "tag": "SN · * (Starred)",
+      "minutes": 10,
+      "slides": [
+        {
+          "h": "1. Small Intestine Movements & Peristaltic Rush",
+          "p": "Small intestinal motility mixes chyme with digestive secretions and propels it aborally:",
+          "bullets": [
+            "<b>1. Segmentation Contractions (Mixing):</b> Ring-like contractions of circular smooth muscle dividing chyme into segments and re-dividing it (paced by BER: 12/min in duodenum, 8/min in ileum) — maximizes mucosal contact for absorption.",
+            "<b>2. Peristalsis (Propulsive — Law of Gut):</b> Orad contraction (ACh, Substance P) + caudad receptive relaxation (VIP, NO) mediated by myenteric plexus.",
+            "<b>3. Peristaltic Rush:</b> Intense, rapid peristaltic waves sweeping the entire small intestine within minutes to flush out irritants, toxins, or infectious agents (seen in acute infectious diarrhea).",
+            "<b>4. Migrating Motor Complex (MMC):</b> Interdigestive housekeeping waves every ~90 min (driven by <b>motilin</b>)."
+          ],
+          "remember": "Segmentation = Mixing. Peristalsis = Propulsion. Peristaltic rush = Rapid flushing of irritants! MMC = Fasting housekeeping (Motilin)!",
+          "q": "Which gastrointestinal hormone initiates the interdigestive Migrating Motor Complex (MMC) during fasting?",
+          "opts": [
+            "Secretin",
+            "Motilin",
+            "CCK",
+            "Somatostatin"
+          ],
+          "a": 1,
+          "why": "Motilin released during fasting initiates cyclical Migrating Motor Complex (MMC) waves that clear residual debris from the stomach and small intestine."
+        },
+        {
+          "h": "2. Large Intestine Movements & Defecation Reflex*",
+          "p": "The colon absorbs water/electrolytes and stores feces until coordinated elimination:",
+          "bullets": [
+            "<b>Colon Movements:</b> <b>Haustrations</b> (sacculated mixing contractions) and <b>Mass Movements</b> (1–3 times/day, especially after breakfast via <b>gastrocolic reflex</b>, propelling feces into rectum).",
+            "<b>Defecation Reflex*:</b> Rectal distension (~25% capacity) activates: <b>1. Intrinsic myenteric reflex</b> (weak peristalsis in descending/sigmoid colon & rectum + relaxation of <b>internal anal sphincter</b>) reinforced by <b>2. Parasympathetic spinal defecation reflex (S2, S3, S4 — pelvic splanchnic nerves)</b> (strong colonic contraction + internal sphincter relaxation). Voluntary relaxation of <b>external anal sphincter</b> (pudendal nerve, S2–S4) + Valsalva maneuver completes defecation."
+          ],
+          "remember": "Mass movements = Gastrocolic reflex after meals! Spinal defecation center = S2, S3, S4 (Pelvic splanchnic nerves)!",
+          "q": "Which spinal cord segments house the parasympathetic defecation center innervating the distal colon, rectum, and internal anal sphincter?",
+          "opts": [
+            "T1–T4",
+            "T10–L2",
+            "S2, S3, S4",
+            "C3–C5"
+          ],
+          "a": 2,
+          "why": "Pelvic splanchnic nerves arising from sacral segments S2, S3, and S4 mediate the parasympathetic spinal defecation reflex."
+        }
+      ],
+      "exam": "SN order: Small intestine movements (segmentation, peristalsis, peristaltic rush, MMC) → Large intestine movements (haustrations, mass movements/gastrocolic reflex) → Defecation reflex* (intrinsic myenteric + S2–S4 parasympathetic reflex + voluntary external sphincter control).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "pituitary-growth-hormone-diabetes-insipidus-b12",
+      "title": "Anterior Pituitary, Growth Hormone*, Dwarfism & Diabetes Insipidus*",
+      "region": "Paper 1 · Endocrine System",
+      "tag": "LAQ & SN · * (Endocrine)",
+      "minutes": 13,
+      "slides": [
+        {
+          "h": "1. Anterior Pituitary Hormones & Metabolic/Growth Actions of Growth Hormone*",
+          "p": "The <b>adenohypophysis (anterior pituitary)</b> secretes six major tropic/peptide hormones from distinct cell types (acidophils: somatotrophs & lactotrophs; basophils: corticotrophs, thyrotrophs, gonadotrophs): <b>GH, TSH, ACTH, FSH, LH, and Prolactin</b>:",
+          "bullets": [
+            "<b>Growth Hormone* (Somatotropin) — Growth & Somatomedins:</b> Stimulates linear bone growth before epiphyseal fusion via hepatic/local <b>Insulin-like Growth Factor-1 (IGF-1 / somatomedin C)</b> acting on chondrocytes.",
+            "<b>Metabolic Actions of GH*:</b> <b>1. Protein:</b> Anabolic — increases amino acid transport into cells, stimulates ribosomal protein synthesis, decreases protein catabolism (positive nitrogen balance). <b>2. Fat:</b> Lipolytic — mobilizes free fatty acids from adipose tissue for energy. <b>3. Carbohydrate:</b> <b>Diabetogenic / anti-insulin</b> — decreases peripheral glucose uptake and increases hepatic gluconeogenesis (raising blood glucose).",
+            "<b>Insulin's Role in Growth:</b> Permissive/anabolic — required alongside GH for protein synthesis and normal somatic growth."
+          ],
+          "remember": "GH = Protein anabolic + Fat lipolytic + Blood glucose UP (anti-insulin/diabetogenic) via IGF-1!",
+          "q": "What is the primary metabolic effect of Growth Hormone on adipose tissue and blood glucose?",
+          "opts": [
+            "Stimulates lipogenesis and lowers blood glucose",
+            "Promotes lipolysis (free fatty acid release) and raises blood glucose (anti-insulin effect)",
+            "Inhibits protein synthesis and lowers blood glucose",
+            "Stimulates glycogen synthesis in skeletal muscle only"
+          ],
+          "a": 1,
+          "why": "Growth hormone mobilizes fat stores (lipolysis) and antagonizes insulin action in peripheral tissues while promoting gluconeogenesis, tending to elevate blood glucose."
+        },
+        {
+          "h": "2. Dwarfism (Pituitary vs Thyroid) & Diabetes Insipidus vs Diabetes Mellitus*",
+          "p": "Compare these classic endocrine clinical pairs clearly for LAQs and Short Notes:",
+          "bullets": [
+            "<b>Pituitary Dwarfism vs Thyroid Dwarfism (Cretinism):</b> <b>Pituitary dwarfism</b> (GH deficiency) has <b>proportionate</b> body build, <b>normal intelligence</b>, and delayed bone age. <b>Thyroid dwarfism / cretinism</b> (congenital T₃/T₄ deficiency) has <b>disproportionate</b> build (short limbs relative to trunk, large head), <b>severe mental retardation</b>, coarse features, macroglossia, and umbilical hernia.",
+            "<b>Diabetes Insipidus vs Diabetes Mellitus*:</b> <b>Diabetes insipidus</b> = ADH (vasopressin) deficiency/resistance → huge volume of <b>dilute, low-specific-gravity urine (polyuria + polydipsia)</b> with <b>NO glycosuria</b> and normal blood glucose. <b>Diabetes mellitus</b> = insulin deficiency/resistance → <b>hyperglycemia + glycosuria</b> + osmotic diuresis."
+          ],
+          "remember": "Pituitary dwarf = Proportionate + Smart! Thyroid dwarf (Cretin) = Disproportionate + Mentally retarded! Diabetes insipidus = Dilute urine, NO sugar in urine!",
+          "q": "Which feature distinguishes pituitary dwarfism from congenital hypothyroidism (cretinism)?",
+          "opts": [
+            "Presence of severe mental retardation",
+            "Proportionate body proportions and normal intelligence",
+            "Coarse facial features and macroglossia",
+            "Absence of growth hormone receptors"
+          ],
+          "a": 1,
+          "why": "Pituitary dwarfs have proportionate limb-to-trunk growth and normal intelligence, whereas cretins have disproportionate growth and intellectual impairment."
+        }
+      ],
+      "exam": "LAQ / SN order: Anterior pituitary hormones → GH* growth (IGF-1) & metabolic actions (protein, lipid, carbohydrate) → Pituitary vs Thyroid dwarfism table → Diabetes insipidus vs Diabetes mellitus* comparison.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "thyroid-hormone-synthesis-goitre-hypothyroidism-b12",
+      "title": "Thyroid Hormone Synthesis*, Mechanism, Goitre, Hypothyroidism & Antithyroid Drugs",
+      "region": "Paper 1 · Endocrine System",
+      "tag": "LAQ · * (Starred)",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "1. Seven Steps of Thyroid Hormone Synthesis & Release (Diagram)",
+          "p": "Follicular cells of the thyroid synthesize <b>thyroxine (T₄)</b> and <b>triiodothyronine (T₃ — 3–4× more potent and faster-acting)</b> on <b>thyroglobulin</b> in seven steps:",
+          "bullets": [
+            "<b>1. Iodide Trapping:</b> Active secondary transport via basolateral <b>Na⁺/I⁻ symporter (NIS)</b> (stimulated by TSH; inhibited by thiocyanate/perchlorate).",
+            "<b>2. Oxidation of Iodide:</b> <b>Thyroid peroxidase (TPO)</b> oxidizes I⁻ to reactive iodine/hypoiodous species using H₂O₂.",
+            "<b>3. Organification (Iodination of Tyrosine):</b> TPO attaches iodine to tyrosine residues on thyroglobulin → <b>MIT</b> (monoiodotyrosine) and <b>DIT</b> (diiodotyrosine).",
+            "<b>4. Coupling:</b> TPO couples <b>DIT + DIT → T₄</b> and <b>MIT + DIT → T₃</b> (stored in colloid).",
+            "<b>5. Endocytosis & Proteolysis:</b> TSH stimulates colloid endocytosis; lysosomal proteases cleave T₃ and T₄ from thyroglobulin (unneeded MIT & DIT are deiodinated by <b>iodotyrosine deiodinase</b> to recycle iodide).",
+            "<b>6–7. Secretion & Peripheral Conversion:</b> T₃/T₄ enter blood (bound mostly to Thyroxine-Binding Globulin / TBG); peripheral deiodinases convert T₄ → T₃."
+          ],
+          "remember": "NIS traps I⁻ → TPO oxidizes, organifies (MIT/DIT) & couples (DIT+DIT = T₄; MIT+DIT = T₃) → TSH triggers release!",
+          "q": "Which enzyme catalyzes oxidation of iodide, iodination of tyrosine residues, and coupling of iodotyrosines in the thyroid gland?",
+          "opts": [
+            "Adenylyl cyclase",
+            "Thyroid peroxidase (TPO)",
+            "5'-Deiodinase",
+            "Carbonic anhydrase"
+          ],
+          "a": 1,
+          "why": "Thyroid peroxidase (TPO) mediates iodide oxidation, organification (forming MIT and DIT), and coupling to form T₃ and T₄."
+        },
+        {
+          "h": "2. Mechanism of Action, Hypothyroidism, Goitre & Antithyroid Drugs",
+          "p": "Lipophilic T₃/T₄ enter target cells and bind <b>intranuclear thyroid hormone receptors (TR)</b> to regulate gene transcription (↑Na⁺–K⁺ ATPase, ↑BMR, ↑calorigenesis, ↑β-adrenergic sensitivity, CNS/skeletal maturation):",
+          "bullets": [
+            "<b>Hypothyroidism (Myxedema in Adults):</b> Low BMR, cold intolerance, weight gain, bradycardia, constipation, dry coarse skin, periorbital puffiness, delayed relaxation of ankle jerk, and elevated serum <b>TSH</b> (in primary hypothyroidism).",
+            "<b>Endemic Goitre:</b> Dietary iodine deficiency lowers T₃/T₄ → removes negative feedback → chronic <b>TSH hypersecretion</b> causes thyroid follicular hyperplasia and enlargement.",
+            "<b>Antithyroid Drugs:</b> <b>Propylthiouracil (PTU)</b> and <b>Methimazole/Carbimazole</b> inhibit <b>TPO</b> (blocking organification & coupling); PTU also inhibits peripheral T₄ → T₃ conversion."
+          ],
+          "remember": "Low iodine → Low T₃/T₄ → High TSH → Goitre! PTU & Carbimazole inhibit TPO; PTU also blocks T₄ → T₃ conversion!",
+          "q": "Why does dietary iodine deficiency lead to enlargement of the thyroid gland (endemic goitre)?",
+          "opts": [
+            "Direct stimulation of thyroid growth by iodine",
+            "Reduced thyroid hormone negative feedback causing increased pituitary TSH secretion",
+            "Excessive secretion of calcitonin",
+            "Autoimmune destruction of thyroglobulin"
+          ],
+          "a": 1,
+          "why": "Insufficient iodine impairs T₃ and T₄ synthesis; lowered circulating thyroid hormones stimulate excess TSH release, driving follicular hypertrophy and goitre."
+        }
+      ],
+      "exam": "LAQ order: Thyroid anatomy/follicles → 7 steps of T₃/T₄ synthesis & release (labelled diagram) → Nuclear receptor mechanism & physiological actions → Hypothyroidism & endemic goitre → Action of antithyroid drugs (PTU/methimazole).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "adrenal-cortex-glucocorticoids-aldosterone-cushing-b12",
+      "title": "Adrenal Cortex, Glucocorticoids, Aldosterone Regulation & Cushing Syndrome*",
+      "region": "Paper 1 · Endocrine System",
+      "tag": "LAQ & SN · * (Adrenal Cortex)",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "1. Adrenal Cortex Zones, Glucocorticoid Actions & Deficiency",
+          "p": "The adrenal cortex has three zones: <b>Zona glomerulosa</b> (mineralocorticoids — aldosterone), <b>Zona fasciculata</b> (glucocorticoids — cortisol), and <b>Zona reticularis</b> (adrenal androgens — DHEA):",
+          "bullets": [
+            "<b>Regulation of Cortisol:</b> Hypothalamic <b>CRH</b> → anterior pituitary <b>ACTH</b> → cortisol (circadian peak early morning ~6–8 AM; negative feedback on CRH & ACTH).",
+            "<b>Cortisol Actions (Intracellular/Nuclear Receptor):</b> <b>1. Metabolic:</b> ↑Hepatic gluconeogenesis & glycogen deposition, ↓peripheral glucose uptake (anti-insulin), ↑protein breakdown in muscle/lymphoid/bone, ↑lipolysis/fat redistribution. <b>2. Anti-inflammatory & Immunosuppressive:</b> Induces <b>lipocortin-1 (annexin A1)</b> inhibiting phospholipase A₂ (↓prostaglandins & leukotrienes), stabilizes lysosomes, inhibits histamine/cytokines. <b>3. Permissive & Vascular:</b> Maintains vascular responsiveness to catecholamines & GFR.",
+            "<b>Deficiency (Addison's Disease):</b> Hypotension, hypoglycemia, weakness, hyperpigmentation (high ACTH acting on MC₁ receptors)."
+          ],
+          "remember": "Cortisol = Stress hormone + Gluconeogenesis + Lipocortin-1 (anti-inflammatory) + Permissive for catecholamines!",
+          "q": "Which protein induced by glucocorticoids inhibits phospholipase A₂ to exert anti-inflammatory effects?",
+          "opts": [
+            "Calmodulin",
+            "Lipocortin-1 (Annexin A1)",
+            "Ceruloplasmin",
+            "Troponin I"
+          ],
+          "a": 1,
+          "why": "Glucocorticoids induce synthesis of lipocortin-1 (annexin A1), which inhibits phospholipase A₂ and decreases prostaglandin and leukotriene formation."
+        },
+        {
+          "h": "2. Factors Regulating Aldosterone & Cushing Syndrome* Features",
+          "p": "Contrast how aldosterone is regulated vs cortisol, and recognize Cushing syndrome:",
+          "bullets": [
+            "<b>Four Factors Regulating Aldosterone Secretion:</b> <b>1. Angiotensin II</b> (via RAAS — major stimulus), <b>2. Elevated extracellular K⁺ (hyperkalemia)</b> (direct depolarizing stimulus on zona glomerulosa), <b>3. ACTH</b> (modest acute permissive/stimulatory effect), and <b>4. ANP (Atrial Natriuretic Peptide)</b> (inhibits aldosterone).",
+            "<b>Cushing Syndrome* (Chronic Excess Glucocorticoids):</b> <b>Moon face</b>, <b>buffalo hump</b>, central truncal obesity with thin wasted limbs, purplish abdominal striae, hyperglycemia/steroid diabetes, hypertension, muscle weakness, and osteoporosis."
+          ],
+          "remember": "Aldosterone stimulators = Angiotensin II + High K⁺ + ACTH; Inhibitor = ANP! Cushing = Moon face + Buffalo hump + Central obesity + Hyperglycemia!",
+          "q": "Which of the following is a direct stimulator of aldosterone secretion from the zona glomerulosa?",
+          "opts": [
+            "Atrial natriuretic peptide (ANP)",
+            "Elevated plasma K⁺ concentration (hyperkalemia)",
+            "Hypokalemia",
+            "Somatostatin"
+          ],
+          "a": 1,
+          "why": "Elevated extracellular K⁺ directly depolarizes zona glomerulosa cells and stimulates aldosterone synthesis/secretion to promote K⁺ excretion."
+        }
+      ],
+      "exam": "LAQ / SN order: Cortical zones & hormones → Glucocorticoid regulation (CRH–ACTH) & actions → Deficiency → Factors regulating aldosterone → Cushing syndrome* clinical features.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "calcium-regulation-pth-insulin-tetany-b12",
+      "title": "Calcium Regulation*, Parathyroid Hormone, Tetany & Insulin",
+      "region": "Paper 1 · Endocrine System",
+      "tag": "LAQ & SN · * (Calcium & Insulin)",
+      "minutes": 13,
+      "slides": [
+        {
+          "h": "1. Calcium Homeostasis, PTH, Calcitriol, Calcitonin & Tetany",
+          "p": "Normal total plasma calcium is <b>9–11 mg/dL (~2.2–2.7 mmol/L)</b>, with <b>ionized Ca²⁺ (~50%)</b> being the physiologically active fraction essential for neuromuscular excitability, muscle contraction, coagulation, and second-messenger signaling:",
+          "bullets": [
+            "<b>Parathyroid Hormone (PTH — 84 aa, CaSR-regulated):</b> Raises plasma Ca²⁺ and lowers plasma PO₄³⁻ by: <b>(a) Bone:</b> Stimulates osteoclastic bone resorption (via RANKL on osteoblasts); <b>(b) Kidney:</b> Increases Ca²⁺ reabsorption in DCT, decreases PO₄³⁻ reabsorption in PCT (phosphaturic), and stimulates <b>1α-hydroxylase</b> to form active <b>Calcitriol (1,25-(OH)₂D₃)</b>; <b>(c) Gut (indirect via Calcitriol):</b> Increases intestinal Ca²⁺ & PO₄³⁻ absorption.",
+            "<b>Calcitonin (Parafollicular C-cells):</b> Lowers plasma Ca²⁺ (inhibits osteoclasts; minor role in adult humans).",
+            "<b>Hypocalcemic Tetany (Signs & Treatment):</b> Low ionized Ca²⁺ increases neuronal Na⁺ channel excitability → neuromuscular hyperexcitability: <b>carpopedal spasm</b>, laryngospasm, <b>Chvostek's sign</b> (facial twitch on tapping facial nerve), and <b>Trousseau's sign</b> (carpal spasm on inflating BP cuff above systolic BP for 3 min). Treated with <b>IV calcium gluconate</b> + vitamin D/PTH correction."
+          ],
+          "remember": "PTH = ↑Plasma Ca²⁺, ↓Plasma PO₄³⁻, ↑1,25-(OH)₂D₃! Tetany = Low Ca²⁺ → Chvostek's & Trousseau's signs → Treat with IV Calcium!",
+          "q": "Spasm of the hand/wrist (carpopedal spasm) induced by inflating a blood pressure cuff above systolic pressure for up to 3 minutes is known as:",
+          "opts": [
+            "Chvostek's sign",
+            "Trousseau's sign",
+            "Babinski's sign",
+            "Murphy's sign"
+          ],
+          "a": 1,
+          "why": "Trousseau's sign is a classic clinical sign of latent hypocalcemic tetany elicited by cuff-induced ischemia/compression."
+        },
+        {
+          "h": "2. Functions & Secretion of Insulin",
+          "p": "<b>Insulin</b> (β-cells of islets of Langerhans) is the principal anabolic hormone lowering blood glucose:",
+          "bullets": [
+            "<b>Secretion Stimuli:</b> <b>Glucose</b> (enters β-cell via GLUT2 → glucokinase → ↑ATP/ADP ratio → closes ATP-sensitive K⁺ channels → depolarization → Ca²⁺ influx → insulin exocytosis!), amino acids, vagal ACh, GIP/GLP-1.",
+            "<b>Key Functions:</b> <b>1. Glucose:</b> Inserts <b>GLUT4</b> in skeletal muscle & adipose tissue to lower blood glucose; stimulates glycogenesis & inhibits gluconeogenesis/glycogenolysis; <b>2. Lipid:</b> Stimulates lipogenesis & inhibits lipolysis; <b>3. Protein:</b> Stimulates amino acid uptake & protein synthesis (anabolic growth)."
+          ],
+          "remember": "β-cell glucose sensing: ↑Glucose → ↑ATP → Closes K_ATP channel → Depolarization → Ca²⁺ influx → Insulin release! GLUT4 = Insulin-dependent!",
+          "q": "In pancreatic β-cells, how does an increase in extracellular glucose trigger insulin secretion?",
+          "opts": [
+            "Opening ATP-sensitive K⁺ channels to hyperpolarize the membrane",
+            "Increasing intracellular ATP/ADP ratio, closing K_ATP channels, depolarizing the membrane, and opening voltage-gated Ca²⁺ channels",
+            "Blocking GLUT2 glucose transporters",
+            "Activating α₂-adrenergic receptors"
+          ],
+          "a": 1,
+          "why": "Glucose metabolism elevates ATP, closing ATP-sensitive K⁺ channels, depolarizing the β-cell membrane, and triggering Ca²⁺-dependent insulin exocytosis."
+        }
+      ],
+      "exam": "LAQ / SN order: Plasma Ca²⁺ levels & roles → PTH & Calcitriol regulation of Ca²⁺/PO₄³⁻ → Tetany (Chvostek's, Trousseau's, treatment) & Osteoporosis → Insulin secretion & metabolic functions.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "menstrual-cycle-ovulation-pregnancy-parturition-b12",
+      "title": "Menstrual Cycle, Ovulation, Contraception***, Spermatogenesis*, Pregnancy & Parturition",
+      "region": "Paper 1 · Reproductive System",
+      "tag": "LAQ & SN · *** (Reproductive)",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "1. Menstrual Cycle, Ovulation & Contraception***",
+          "p": "A typical 28-day <b>menstrual cycle</b> coordinates ovarian and endometrial events under hypothalamic GnRH and pituitary FSH/LH control:",
+          "bullets": [
+            "<b>Ovarian & Endometrial Phases:</b> <b>1. Menstrual phase (Days 1–5):</b> Shedding of functional endometrium as estrogen & progesterone fall. <b>2. Follicular / Proliferative phase (Days 6–14):</b> FSH matures Graafian follicle; rising <b>estrogen</b> repairs/proliferates endometrium (and exerts positive feedback on LH just before ovulation). <b>3. Ovulation (Day 14 in 28-day cycle):</b> Triggered by <b>LH surge</b> (~24–36 h before ovum release). <b>4. Luteal / Secretory phase (Days 15–28):</b> Corpus luteum secretes <b>progesterone</b> + estrogen → secretory glands & spiral arteries develop; if no fertilization, corpus luteum regresses into <b>corpus albicans</b>.",
+            "<b>Indicators of Ovulation:</b> Mid-cycle <b>LH surge</b>, rise in <b>basal body temperature (BBT ~0.3–0.5°C due to progesterone)</b>, thin watery ferning cervical mucus, and secretory endometrium.",
+            "<b>Contraception***:</b> Combined oral contraceptive pills (estrogen + progestin) suppress GnRH/FSH/LH to <b>inhibit ovulation</b>, thicken cervical mucus, and alter endometrium; barrier/IUCD/rhythm methods."
+          ],
+          "remember": "LH surge triggers Ovulation (Day 14)! Progesterone dominates Luteal phase & raises Basal Body Temperature! OCPs inhibit ovulation!",
+          "q": "Which hormonal event directly precedes and triggers ovulation around Day 14 of a 28-day menstrual cycle?",
+          "opts": [
+            "Sudden surge of luteinizing hormone (LH)",
+            "Sharp drop in both estrogen and progesterone",
+            "Peak in prolactin secretion",
+            "Surge of oxytocin"
+          ],
+          "a": 0,
+          "why": "Sustained high estrogen prior to mid-cycle triggers a surge of LH (and a smaller FSH surge), inducing ovulation."
+        },
+        {
+          "h": "2. Spermatogenesis*, Pregnancy Changes, Circulatory Changes at Birth & Parturition",
+          "p": "Cover the remaining Reproductive System short-note essentials cleanly:",
+          "bullets": [
+            "<b>Spermatogenesis* (~64–74 days in seminiferous tubules):</b> Spermatogonia (2n) → Primary spermatocytes (2n) → Meiosis I → Secondary spermatocytes (n) → Meiosis II → Spermatids (n) → <b>Spermiogenesis</b> (maturation into spermatozoa supported by Sertoli cells; requires ~32–34°C scrotal temperature, FSH, and intratesticular testosterone).",
+            "<b>Pregnancy & Last Trimester:</b> ↑Blood volume (+30–40%), ↑CO (+30–50%), ↑GFR (+40–50%), ↑ventilation, lordosis, breast enlargement, hCG/estrogen/progesterone.",
+            "<b>Circulatory Changes at Birth:</b> First breath expands lungs → ↓pulmonary vascular resistance & ↑systemic resistance → <b>foramen ovale closes</b> (flap pushed against septum secundum), <b>ductus arteriosus constricts</b> (↑PO₂ & ↓prostaglandins → ligamentum arteriosum), and <b>ductus venosus closes</b> (ligamentum venosum).",
+            "<b>Parturition (Ferguson Reflex):</b> Fetal head stretches cervix → afferent signals to hypothalamus → posterior pituitary releases <b>Oxytocin</b> → uterine contractions + cervical stretch (positive feedback loop) until delivery."
+          ],
+          "remember": "Birth: First breath → Foramen ovale & Ductus arteriosus close! Ferguson reflex = Cervical stretch → Oxytocin → Uterine contractions!",
+          "q": "Which circulatory change occurs shortly after birth when pulmonary vascular resistance drops and left atrial pressure exceeds right atrial pressure?",
+          "opts": [
+            "Opening of the ductus venosus",
+            "Functional closure of the foramen ovale",
+            "Reversal of flow through the umbilical arteries",
+            "Closure of the aortic valve"
+          ],
+          "a": 1,
+          "why": "Lung inflation lowers pulmonary resistance and increases pulmonary venous return to the left atrium, pressing the septum primum against the septum secundum to close the foramen ovale."
+        }
+      ],
+      "exam": "LAQ / SN order: Menstrual cycle phases & hormones (diagram) → Ovulation indicators & contraception*** → Spermatogenesis* → Pregnancy/last trimester & birth circulatory changes → Parturition & oxytocin.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "respiratory-mechanics-compliance-surfactant-frc-b12",
+      "title": "Pulmonary Ventilation, Work of Breathing*, Lung Compliance*, Surfactant* & FRC",
+      "region": "Paper 1 · Respiratory System (RS)",
+      "tag": "LAQ & SN · * (Mechanics & Surfactant)",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "1. Mechanism of Breathing, Work of Breathing* & Functional Residual Capacity (FRC)",
+          "p": "During quiet inspiration, contraction of the <b>diaphragm</b> (descends ~1.5 cm, accounting for ~75% of resting tidal volume) and <b>external intercostals</b> expands thoracic volume, making <b>alveolar (intrapulmonary) pressure slightly subatmospheric (−1 cmH₂O)</b> so air flows inward; quiet expiration is passive via elastic recoil:",
+          "bullets": [
+            "<b>Work of Breathing* (~3–5% of resting energy expenditure):</b> Three components — <b>1. Compliance work</b> (stretching elastic lungs & chest wall), <b>2. Tissue resistance work</b> (viscous drag of lung tissue), and <b>3. Airway resistance work</b> (airflow friction through bronchi; rises sharply in asthma/bronchoconstriction).",
+            "<b>Functional Residual Capacity (FRC ≈ 2.2–2.4 L = ERV + RV):</b> Volume of air remaining in lungs at end of normal quiet expiration; acts as a <b>'buffer reservoir'</b> that smooths arterial PO₂/PCO₂ between breaths and keeps small airways/alveoli open."
+          ],
+          "remember": "FRC = ERV + RV (~2.3 L) = Air buffer smoothing blood gases between breaths! Work of breathing = Elastic + Tissue + Airway resistance work!",
+          "q": "What is the primary physiological role of Functional Residual Capacity (FRC) in the lungs?",
+          "opts": [
+            "To maximize dead space ventilation",
+            "To act as an air reservoir buffering blood gas (O₂/CO₂) levels continuously between breaths",
+            "To force residual air out during quiet expiration",
+            "To prevent surfactant production"
+          ],
+          "a": 1,
+          "why": "FRC maintains a steady volume of alveolar gas throughout the respiratory cycle, preventing wide swings in alveolar PO₂ and PCO₂ between breaths."
+        },
+        {
+          "h": "2. Lung Compliance*, Surfactant* & Respiratory Distress Syndrome (RDS)",
+          "p": "<b>Lung compliance (C = ΔV / ΔP ≈ 200 mL/cmH₂O)</b> measures distensibility of the lungs and is governed heavily by alveolar surface tension:",
+          "bullets": [
+            "<b>Pulmonary Surfactant* (Synthesized by Type II Alveolar Pneumocytes from ~24–28 weeks gestation):</b> Composed mainly of <b>dipalmitoylphosphatidylcholine (DPPC)</b> phospholipid + surfactant proteins (SP-A, B, C, D). Lowers alveolar surface tension (<b>Law of Laplace: P = 2T / r</b>), prevents collapse of small alveoli into large ones, increases compliance, and keeps alveoli dry.",
+            "<b>Neonatal RDS / Hyaline Membrane Disease:</b> Surfactant deficiency in premature infants causes high surface tension, <b>alveolar collapse (atelectasis)</b>, low compliance, stiff lungs, and severe hypoxemia/work of breathing."
+          ],
+          "remember": "Type II pneumocytes make Surfactant (DPPC) → lowers surface tension (Law of Laplace: P = 2T/r) → prevents alveolar collapse!",
+          "q": "According to Laplace's law (P = 2T / r), how does pulmonary surfactant prevent collapse of smaller alveoli?",
+          "opts": [
+            "By increasing surface tension (T) selectively in small alveoli",
+            "By lowering surface tension (T) more strongly in smaller alveoli where surfactant molecules are more concentrated",
+            "By increasing alveolar radius (r) during expiration",
+            "By increasing intrapleural pressure above atmospheric pressure"
+          ],
+          "a": 1,
+          "why": "Because surfactant molecules pack closer together when a small alveolus deflates, surface tension (T) drops further, stabilizing smaller alveoli against collapse."
+        }
+      ],
+      "exam": "LAQ / SN order: Mechanism of inspiration & expiration → Work of breathing* (3 components) → FRC (ERV + RV, physiological role) → Lung compliance* & Surfactant* (Type II cells, DPPC, Laplace law, RDS/hyaline membrane disease).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "gas-exchange-o2-co2-transport-bohr-haldane-b12",
+      "title": "Respiratory Membrane*, O₂–Hb Dissociation Curve**, Bohr & Haldane Effects",
+      "region": "Paper 1 · Respiratory System (RS)",
+      "tag": "LAQ & SN · ** (Gas Exchange & Transport)",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "1. Respiratory Membrane*, O₂ Transport & O₂–Hb Dissociation Curve**",
+          "p": "Gaseous exchange occurs across the ultra-thin <b>respiratory membrane (~0.2–0.6 µm thick)</b> via passive diffusion (<b>Fick's law of diffusion</b>: proportional to surface area & partial pressure gradient, inversely proportional to thickness):",
+          "bullets": [
+            "<b>O₂ Transport:</b> ~98.5% bound to <b>hemoglobin (oxyhemoglobin)</b> (~20 mL O₂/100 mL blood at PO₂ ~100 mmHg) and ~1.5% dissolved in plasma.",
+            "<b>Sigmoidal O₂–Hb Curve** & P₅₀:</b> Sigmoidal shape reflects cooperative binding of 4 O₂ molecules to heme. <b>P₅₀</b> is the PO₂ at which hemoglobin is <b>50% saturated (~26–27 mmHg)</b>.",
+            "<b>Right Shift (Decreased O₂ Affinity — Unloads O₂ to Tissues):</b> Caused by <b>↑CO₂ / ↓pH (Bohr effect)</b>, <b>↑Temperature</b>, and <b>↑2,3-BPG (2,3-DPG)</b> (e.g., high altitude, anemia, exercising muscle)."
+          ],
+          "remember": "Bohr effect = High CO₂ / Low pH (active tissues) shifts O₂–Hb curve to RIGHT to unload O₂! Normal P₅₀ ≈ 27 mmHg!",
+          "q": "Which change in active exercising skeletal muscle shifts the oxygen–hemoglobin dissociation curve to the RIGHT and facilitates O₂ unloading?",
+          "opts": [
+            "Decreased temperature and decreased CO₂",
+            "Increased PCO₂, decreased pH (Bohr effect), increased temperature, and increased 2,3-BPG",
+            "Increased pH (alkalosis) and hypothermia",
+            "Decreased 2,3-BPG"
+          ],
+          "a": 1,
+          "why": "Higher PCO₂, lower pH (lactic acid/CO₂), higher temperature, and elevated 2,3-BPG reduce hemoglobin's O₂ affinity (right shift), releasing more O₂ to working tissues."
+        },
+        {
+          "h": "2. CO₂ Transport, Haldane Effect & Pulmonary Circulation",
+          "p": "CO₂ is transported in blood in three forms: <b>~70% as Bicarbonate (HCO₃⁻)</b> (via carbonic anhydrase in RBCs + <b>chloride shift / Hamburger phenomenon</b>), <b>~20–25% as carbamino compounds (carbaminohemoglobin)</b>, and <b>~5–10% dissolved</b>:",
+          "bullets": [
+            "<b>Haldane Effect:</b> <b>Deoxygenation of hemoglobin increases its ability to carry CO₂</b> (and buffer H⁺) in systemic tissues, whereas oxygenation of Hb in the lungs promotes <b>CO₂ release</b>! (Deoxyhemoglobin is a weaker acid than oxyhemoglobin).",
+            "<b>Pulmonary Circulation:</b> Low-pressure (~25/8 mmHg, mean ~15 mmHg), low-resistance circuit; <b>hypoxia causes VASOCONSTRICTION</b> in pulmonary arterioles (diverting blood away from poorly ventilated alveoli to better-ventilated ones — opposite of systemic vessels!)."
+          ],
+          "remember": "Bohr = O₂ unloading aided by CO₂/H⁺. Haldane = CO₂ unloading in lungs aided by O₂ binding to Hb! Hypoxia CONSTRICTS pulmonary vessels!",
+          "q": "How does oxygenation of hemoglobin in the pulmonary capillaries affect carbon dioxide transport (the Haldane effect)?",
+          "opts": [
+            "It increases hemoglobin's affinity for CO₂",
+            "It reduces hemoglobin's affinity for CO₂ and H⁺, promoting CO₂ release into the alveoli",
+            "It stops carbonic anhydrase activity",
+            "It reverses the chloride shift into RBCs"
+          ],
+          "a": 1,
+          "why": "Oxyhemoglobin is a stronger acid than deoxyhemoglobin, driving H⁺ off Hb to combine with HCO₃⁻ and releasing CO₂ from the blood into the alveoli."
+        }
+      ],
+      "exam": "LAQ / SN order: Respiratory membrane* layers & diffusion → O₂ transport & sigmoidal O₂–Hb curve** (label axes, P₅₀, Bohr effect & right-shift factors) → CO₂ transport (HCO₃⁻ & chloride shift) & Haldane effect → Pulmonary circulation features.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "respiratory-regulation-hypoxia-high-altitude-temperature-b12",
+      "title": "Neural & Chemical Control of Respiration, Hypoxia***, High Altitude & Thermoregulation***",
+      "region": "Paper 1 · Respiratory System (RS)",
+      "tag": "LAQ & SN · *** (Control, Hypoxia & Heat)",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "1. Neural & Chemical Control of Breathing & Periodic Breathing",
+          "p": "Automatic breathing rhythm is generated by the <b>pre-Bötzinger complex / medullary respiratory centers (DRG & VRG)</b>, modulated by the <b>pontine pneumotaxic center</b> (limits inspiration / sets rate) and <b>apneustic center</b>:",
+          "bullets": [
+            "<b>Chemical Control:</b> <b>Central chemoreceptors</b> (ventral medulla) respond primarily to <b>↑H⁺ in CSF</b> generated by <b>↑PaCO₂</b> crossing the blood-brain barrier (most powerful day-to-day drive!). <b>Peripheral chemoreceptors</b> (carotid & aortic bodies) respond mainly when <b>PaO₂ falls below ~60 mmHg</b> (also to ↑PaCO₂ & ↓pH).",
+            "<b>Periodic Breathing & Ondine's Curse:</b> <b>Cheyne-Stokes breathing</b> (waxing-and-waning tidal volume alternating with apnea, seen in heart failure/brain lesions); <b>Ondine's curse</b> (failure of automatic respiratory drive during sleep)."
+          ],
+          "remember": "Central chemoreceptors sense ↑CSF H⁺ (from ↑PaCO₂)! Peripheral chemoreceptors kick in strongly when PaO₂ <60 mmHg!",
+          "q": "What is the primary chemical stimulus detected by central chemoreceptors on the ventral surface of the medulla?",
+          "opts": [
+            "Low arterial PO₂ directly",
+            "Increased H⁺ concentration in cerebrospinal fluid (driven by elevated PaCO₂)",
+            "High arterial sodium",
+            "Decreased blood glucose"
+          ],
+          "a": 1,
+          "why": "CO₂ diffuses readily across the blood-brain barrier into CSF, forming H₂CO₃ → H⁺ + HCO₃⁻, which stimulates central chemoreceptors."
+        },
+        {
+          "h": "2. Hypoxia***, High Altitude Acclimatization & Temperature Regulation (Heat Loss*** & Cold**)",
+          "p": "Master these high-yield environmental/clinical respiratory & thermoregulatory topics:",
+          "bullets": [
+            "<b>Hypoxia*** (4 Types):</b> <b>1. Hypoxic hypoxia</b> (low PaO₂ — high altitude, hypoventilation, V/Q mismatch, shunt), <b>2. Anemic hypoxia</b> (low Hb or CO poisoning; PaO₂ is normal!), <b>3. Stagnant/ischemic hypoxia</b> (low blood flow / heart failure / shock), <b>4. Histotoxic hypoxia</b> (cyanide blocks cytochrome oxidase; cells cannot use O₂).",
+            "<b>High Altitude Acclimatization:</b> Hypoxic hyperventilation → <b>↑RBC count & Hb (via Erythropoietin / HIF-1α)</b>, ↑2,3-BPG, ↑capillary density & mitochondria (Acute Mountain Sickness causes headache, nausea, insomnia, pulmonary/cerebral edema).",
+            "<b>Thermoregulation (Hypothalamus — Preoptic anterior = heat loss; Posterior = heat conservation/shivering):</b> <b>Heat loss***</b> occurs via radiation (~60%), conduction, convection, and <b>evaporation of sweat</b> (only mechanism when ambient temp > body temp!). <b>Extreme cold**</b> causes vasoconstriction, shivering, and non-shivering thermogenesis (brown fat); severe <b>hypothermia</b> (<35°C) depresses metabolism & cardiac conduction."
+          ],
+          "remember": "Hypoxia = Hypoxic, Anemic, Stagnant, Histotoxic! Above body temp, ONLY sweating (evaporation) loses heat! Hypothalamus = Body thermostat!",
+          "q": "In which type of hypoxia is arterial PO₂ (PaO₂) normal while oxygen delivery to tissues is reduced due to a decreased oxygen-carrying capacity of blood?",
+          "opts": [
+            "Hypoxic hypoxia",
+            "Anemic hypoxia",
+            "Stagnant hypoxia",
+            "High-altitude hypoxia"
+          ],
+          "a": 1,
+          "why": "In anemic hypoxia (or carbon monoxide poisoning), alveolar gas exchange and PaO₂ are normal, but reduced functional hemoglobin lowers total arterial O₂ content."
+        }
+      ],
+      "exam": "LAQ / SN order: Neural & chemical respiratory control (DRG/VRG/pneumotaxic, central CSF H⁺, peripheral O₂ <60 mmHg) → Hypoxia*** (4 types) & high-altitude acclimatization → Thermoregulation (hypothalamus, heat loss*** methods, cold** & hypothermia).",
+      "subject": "Physiology"
+    }
+  ]
+}
