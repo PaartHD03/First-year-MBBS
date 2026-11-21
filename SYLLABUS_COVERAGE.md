@@ -2,14 +2,14 @@
 
 ## 1. Overall First Year MBBS Syllabus Progress Summary
 
-> **Scope Clarification:** **Anatomy is 100% complete (170 / 170 listed Anatomy IMP entries)**. Across the entire First Year MBBS IMP syllabus (`FIRST YEAR IMP LIST.pdf`, Pages 1–24, **500 total listed IMP entries**), **170 / 500 entries (34.0%)** are complete, with **Physiology (190 entries)** and **Biochemistry (140 entries)** scheduled next.
+> **Scope Clarification:** **Anatomy is 100% complete (170 / 170 listed Anatomy IMP entries)**. Across the entire First Year MBBS IMP syllabus (`FIRST YEAR IMP LIST.pdf`, Pages 1–24, **500 total listed IMP entries**), **265 / 500 entries (53.0%)** are complete (**Anatomy 170/170 [100%]** + **Physiology Paper 1 95/95 [100% of Paper 1 / 50.0% of Physiology]**), with Physiology Paper 2 (95 entries) and Biochemistry (140 entries) scheduled next.
 
 | Subject | PDF Pages | Listed IMP Entries (SN / LAQ / IMP) | Entries Covered | Unique Interactive Lessons | Subject Status |
 |---|---|---|---|---|---|
 | **Anatomy** | Pages 1–6 | **170** (80 SN + 52 LAQ + 38 IMP) | **170 / 170 (100%)** | **123 unique Anatomy lessons** (`107` in `data/anatomy.json` + `16` in `data/neuroanatomy.json`) | **100% Complete** |
-| **Physiology** | Pages 7–14 | **190** (131 SN + 59 LAQ) | **0 / 190 (0%)** *(+1 starter lesson in `lessons.json`)* | Next Milestone (Batches 11–16) | **Pending (Next)** |
+| **Physiology** | Pages 7–14 | **190** (131 SN + 59 LAQ) | **95 / 190 (50.0%)** *(Paper 1: 95/95 100%)* | **22 lessons** in `data/physiology.json` *(+1 starter in `lessons.json`)* | **Paper 1 Complete (100%); Paper 2 Pending** |
 | **Biochemistry** | Pages 15–24 | **140** (90 SN + 50 LAQ) | **0 / 140 (0%)** | Planned (Batches 17–22) | **Pending** |
-| **FIRST YEAR MBBS TOTAL** | **Pages 1–24** | **500 Listed IMP Entries** | **170 / 500 (34.0%)** | **123 Anatomy + 1 Starter Physiology** | **Anatomy Complete; Physio & Biochem Pending** |
+| **FIRST YEAR MBBS TOTAL** | **Pages 1–24** | **500 Listed IMP Entries** | **265 / 500 (53.0%)** | **123 Anatomy + 22 Physiology IMP (+1 starter)** | **Anatomy 100%; Physio Paper 1 100%** |
 
 ---
 
@@ -45,7 +45,7 @@
 
 ## 3. Pending Syllabus Checklist — Physiology (Pages 7–14 | 190 Entries: 131 SN + 59 LAQ)
 
-### Paper 1 — CVS (Pages 7–8 | 17 SN, 9 LAQ)
+### Paper 1 — CVS (Pages 7–8 | 17 SN, 9 LAQ) — ✅ 100% Covered in Batch 11 (`data/physiology.json`)
 **Short Notes (SN):**
 - [ ] 1. Circulatory Shock - define, classify, stages, physiological principles of management
 - [ ] 2. Connections of Unipolar and Bipolar Limb Leads while regarding ECG
@@ -74,7 +74,7 @@
 - [ ] 7. Regulation of BP - classify mechanism; Short Term Regulation
 - [ ] 8. Define - Stroke Volume, Cardiac Output, Cardiac Index, Stroke Volume Index; Factors Affecting Cardiac Output
 - [ ] 9. Heart Rate - define, factors affecting and regulating
-### Paper 1 — GIT (Page 8 | 12 SN, 4 LAQ)
+### Paper 1 — GIT (Page 8 | 12 SN, 4 LAQ) — ✅ 100% Covered in Batch 11 (`data/physiology.json`)
 **Short Notes (SN):**
 - [ ] 1. Functions of Bile Salts**, Composition
 - [ ] 2. Peptic Ulcer*** - etiology, physiological basis of treatment
@@ -93,7 +93,7 @@
 - [ ] 2. Pancreatic Juice - composition, function, regulation of secretion
 - [ ] 3. Gastric Glands - enumerate, secretion, function; Treatment of Peptic Ulcer*
 - [ ] 4. Gastric Juice - composition; HCl Secretion - mechanism, factors regulating***
-### Paper 1 — Endocrine System (Pages 8–9 | 8 SN, 7 LAQ)
+### Paper 1 — Endocrine System (Pages 8–9 | 8 SN, 7 LAQ) — ✅ 100% Covered in Batch 12 (`data/physiology.json`)
 **Short Notes (SN):**
 - [ ] 1. Functions of Insulin
 - [ ] 2. Diabetes Mellitus and Insipidus* - compare and contrast
@@ -111,7 +111,7 @@
 - [ ] 5. Calcium* - importance, regulation; Tetany, Osteoporosis
 - [ ] 6. Adrenal Cortex - enumerate hormones; Factors Regulating Secretion of Aldosterone
 - [ ] 7. Anterior Pituitary - enumerate hormones secreted; Physiological Actions of Growth Hormone*, Dwarfism
-### Paper 1 — Reproductive System (Page 9 | 10 SN, 2 LAQ)
+### Paper 1 — Reproductive System (Page 9 | 10 SN, 2 LAQ) — ✅ 100% Covered in Batch 12 (`data/physiology.json`)
 **Short Notes (SN):**
 - [ ] 1. Indicators of Ovulation, Clinical Significance
 - [ ] 2. Methods of Contraception*** - temporary, Physiological Basis of Oral Contraceptives, Safe Period
@@ -126,7 +126,7 @@
 **Long Answer Questions (LAQ):**
 - [ ] 1. Menstrual Cycle - phases, hormonal control
 - [ ] 2. Cyclical Changes in Uterus during Reproductive Life, Its Hormonal Regulation
-### Paper 1 — RS (Page 10 | 19 SN, 7 LAQ)
+### Paper 1 — RS (Page 10 | 19 SN, 7 LAQ) — ✅ 100% Covered in Batch 12 (`data/physiology.json`)
 **Short Notes (SN):**
 - [ ] 1. Oxygen-Hemoglobin Dissociation Curve** - draw, label, factors affecting, Bohr's Effect, factors shifting curve to right, what is P50, role of 2,3-BPG
 - [ ] 2. Characteristics of Pulmonary Circulation

@@ -1,0 +1,26 @@
+SUHANI MBBS PHYSIOLOGY — BATCH 11 (100% PAPER 1 CVS & GIT COVERAGE)
+
+Created physiology.html and data/physiology.json with all 190 Physiology IMP entries (Pages 7–14 of FIRST YEAR IMP LIST.pdf) and 14 comprehensive interactive lessons (28 MCQs), covering 100% of Cardiovascular System (26/26 PDF entries) and Gastrointestinal Tract (16/16 PDF entries):
+
+CVS Lessons (8 lessons covering 17 SN + 9 LAQ = 26/26 PDF entries):
+1. Cardiac Cycle**, Left Ventricular Pressure-Volume Changes* & Heart Sounds* (LAQ & SN)
+2. Properties of Cardiac Muscle*, SA Node Autorhythmicity & Non-Tetanizability (SN)
+3. ECG (Limb Leads, Lead II Trace* & Heart Block) (LAQ & SN)
+4. Cardiac Output, Stroke Volume, Venous Return & Fick Principle (LAQ & SN)
+5. Blood Pressure Regulation (Baroreceptor Reflex, CNS Ischemic Response, RAAS & JGA) (LAQ & SN)
+6. Circulatory Shock** (Classification, Stages & Physiological Management) (LAQ & SN)
+7. Coronary Circulation & Angina Pectoris (LAQ & SN)
+8. Regulation of Heart Rate & Cardiovascular Effects of Muscular Exercise (LAQ & SN)
+
+GIT Lessons (6 lessons covering 12 SN + 4 LAQ = 16/16 PDF entries):
+9. Deglutition (Pharyngeal Phase**) & Achalasia Cardia (LAQ & SN)
+10. Gastric Juice, HCl Secretion*** & Peptic Ulcer*** (LAQ & SN)
+11. Regulation of Gastric Motility & Gastric Emptying* (SN)
+12. Pancreatic Juice & GIT Hormones (Gastrin, CCK, Secretin) (LAQ & SN)
+13. Functions of Bile Salts** & Absorption of Fat (SN)
+14. Movements of Small & Large Intestine, Peristaltic Rush & Defecation Reflex* (SN)
+
+CUMULATIVE PROJECT TOTALS:
+- Anatomy: 170 / 170 entries complete (100% — 123 unique lessons)
+- Physiology: 42 / 190 entries complete (22.1% — 14 interactive lessons in data/physiology.json + 1 starter in data/lessons.json)
+- Overall First Year MBBS IMP List: 212 / 500 entries complete (42.4%)

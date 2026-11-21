@@ -1,0 +1,22 @@
+SUHANI MBBS PHYSIOLOGY — BATCH 12 (100% PHYSIOLOGY PAPER 1 COMPLETE)
+
+Added 8 comprehensive interactive lessons (16 MCQs) to data/physiology.json and updated physiology.html, completing 100% of Physiology Paper 1 (95 / 95 entries across CVS, GIT, Endocrine System, Reproductive System & Respiratory System):
+
+Endocrine System (15/15 PDF entries covered across 4 lessons):
+1. Anterior Pituitary, Growth Hormone*, Dwarfism & Diabetes Insipidus*
+2. Thyroid Hormone Synthesis*, Mechanism, Goitre, Hypothyroidism & Antithyroid Drugs
+3. Adrenal Cortex, Glucocorticoids, Aldosterone Regulation & Cushing Syndrome*
+4. Calcium Regulation*, Parathyroid Hormone, Tetany & Insulin
+
+Reproductive System (12/12 PDF entries covered in 1 comprehensive lesson):
+5. Menstrual Cycle, Ovulation, Contraception***, Spermatogenesis*, Pregnancy & Parturition
+
+Respiratory System (26/26 PDF entries covered across 3 lessons):
+6. Pulmonary Ventilation, Work of Breathing*, Lung Compliance*, Surfactant* & FRC
+7. Respiratory Membrane*, O2–Hb Dissociation Curve**, Bohr & Haldane Effects
+8. Neural & Chemical Control of Respiration, Hypoxia***, High Altitude & Thermoregulation***
+
+CUMULATIVE PROJECT TOTALS:
+- Anatomy: 170 / 170 entries complete (100% — 123 unique lessons)
+- Physiology: 95 / 190 entries complete (50.0% — 100% of Paper 1 [95/95] across 22 interactive lessons in data/physiology.json + 1 starter in data/lessons.json; Paper 2 [95 entries] next)
+- Overall First Year MBBS IMP List: 265 / 500 entries complete (53.0%)
