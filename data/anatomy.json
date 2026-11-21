@@ -1,0 +1,1364 @@
+{
+  "source": "FIRST YEAR IMP LIST.pdf",
+  "source_note": "Topic names and SN/LAQ labels transcribed from the uploaded list. Teaching explanations are supplementary learning notes and should be checked against prescribed texts and faculty teaching.",
+  "groups": {
+    "Head, Neck & Face": {
+      "SN": [
+        "Digastric Triangle",
+        "Nasal Septum*",
+        "Thyroid Gland – Blood Supply*, Applied Anatomy",
+        "Carotid Sheath",
+        "Muscles of Mastication",
+        "Cavernous Sinus*",
+        "Carotid Triangle",
+        "Little’s Area of Nose – Clinical Significance",
+        "Lateral Rectus Muscle of Eyeball",
+        "Hyoid Bone",
+        "Palatine Tonsil – Applied Anatomy*",
+        "Dangerous Area of Face",
+        "Nasal Meatus",
+        "Tongue – Applied Anatomy",
+        "Ansa Cervicalis",
+        "Falx Cerebri"
+      ],
+      "LAQ": [
+        "Parotid Gland****",
+        "Tongue**",
+        "Scalp",
+        "Thyroid Gland**",
+        "Middle Ear"
+      ]
+    },
+    "Upper Limb": {
+      "SN": [
+        "Cubital Fossa**",
+        "Klumpke’s Paralysis*",
+        "Abduction at Shoulder Joint",
+        "Rotator Cuff",
+        "Carpal Tunnel Syndrome**",
+        "Mammary Gland – Lymphatic Drainage****, Applied Anatomy",
+        "Erb’s Paralysis*",
+        "Pronation and Supination",
+        "Clavipectoral Fascia",
+        "Clawhand – Features and Causative Factors",
+        "Musculocutaneous Nerve"
+      ],
+      "LAQ": [
+        "Shoulder Joint***",
+        "Ulnar Nerve*",
+        "Brachial Plexus",
+        "Cubital Fossa",
+        "Axillary Artery",
+        "Mid-Palmar Space",
+        "Radial Nerve",
+        "Median Nerve"
+      ]
+    },
+    "Thorax": {
+      "SN": [
+        "Thoracic Duct",
+        "Root of Right Lung",
+        "Azygous Vein",
+        "Arch of Aorta",
+        "Typical Intercostal Nerve",
+        "Bronchopulmonary Segments of Left Lung",
+        "Left Coronary Artery*",
+        "Bronchopulmonary Segments – Applied Anatomy*",
+        "Coronary Sinus"
+      ],
+      "LAQ": [
+        "Bronchopulmonary Segments",
+        "Right Atrium**",
+        "Arch of Aorta**",
+        "Superior Mediastinum"
+      ]
+    },
+    "Neuroanatomy": {
+      "SN": [
+        "Medial Medullary Syndrome",
+        "Floor of Fourth Ventricle**",
+        "Circle of Willis",
+        "T.S. Medulla Oblongata – Pyramidal Decussation",
+        "T.S. Midbrain – Superior Colliculus Level*",
+        "Corpus Callosum**",
+        "Brown Sequard Syndrome",
+        "Inferior Cerebellar Peduncle*",
+        "T.S. Spinal Cord – Cervical Level",
+        "Internal Capsule"
+      ],
+      "LAQ": [
+        "Glossopharyngeal Nerve*",
+        "Superolateral Surface of Cerebrum**",
+        "Internal Capsule*",
+        "Pons",
+        "Oculomotor Nerve",
+        "Midbrain",
+        "Functional Areas in Frontal Lobe"
+      ]
+    },
+    "Abdomen & Pelvis": {
+      "SN": [
+        "Anal Canal – Applied Aspect",
+        "Portacaval Anastomosis* – Applied Anatomy",
+        "Inguinal Hernia* – Direct, Indirect",
+        "Male Urethra",
+        "Caput Medusae",
+        "Uterus – Supports*, Applied Anatomy",
+        "Stomach Bed*",
+        "Meckel’s Diverticulum*",
+        "Inguinal Canal",
+        "Ischiorectal Fossa*",
+        "Lesser Omentum*",
+        "Rectus Sheath",
+        "Inferior Vena Cava",
+        "Superficial Perineal Pouch",
+        "McBurney’s Point",
+        "Interior of Urinary Bladder",
+        "Umbilicus - Anatomical and Clinical Importance",
+        "Perineal Body",
+        "Contraception – Anatomical Basis",
+        "Anterior Relations of Right Kidney – diagram",
+        "Hysterosalpingography"
+      ],
+      "LAQ": [
+        "Pancreas**",
+        "Ischiorectal Fossa",
+        "Kidney",
+        "Uterine Tube",
+        "Testes",
+        "Extra-Hepatic Biliary Apparatus*",
+        "Rectus Sheath",
+        "Urinary Bladder*",
+        "Prostate**",
+        "Suprarenal Gland*",
+        "Uterus",
+        "Stomach**",
+        "Ovary*",
+        "Duodenum – 2nd Part",
+        "Anal Canal*",
+        "Diaphragm",
+        "Inguinal Canal*",
+        "Internal Iliac Artery"
+      ]
+    },
+    "Lower Limb": {
+      "SN": [
+        "Sartorius*",
+        "Medial Longitudinal Arch* – Factors Maintaining",
+        "Gluteus Maximus",
+        "Foot Drop* - Anatomical Basis",
+        "Femoral Sheath",
+        "Femoral Canal*",
+        "Popliteus**",
+        "Inversion and Eversion* - Inverters and Everters with Nerve Supply",
+        "Superficial Inguinal Lymph Nodes",
+        "Femoral Hernia",
+        "Longitudinal Arches of Foot",
+        "Gastrocnemius",
+        "Great Saphenous Vein"
+      ],
+      "LAQ": [
+        "Hip Joint*",
+        "Venous Drainage of Lower Limb",
+        "Intra-Articular Structures of Knee Joint*",
+        "Sciatic Nerve",
+        "Femoral Triangle",
+        "Knee Joint**",
+        "Popliteal Fossa*",
+        "Lateral Longitudinal Arch of Foot",
+        "Veins of Inferior Extremity",
+        "Structures Under Gluteus Maximus – diagram"
+      ]
+    },
+    "General Anatomy": {
+      "IMP": [
+        "Synovial Joint** - diagram, classification, examples",
+        "Classification of Fibrous Joint",
+        "Sesamoid Bone",
+        "Cartilaginous Joint - classification, example",
+        "Epiphysis",
+        "Secondary Cartilaginous Joint",
+        "Pivot Joint",
+        "Blood Supply of Long bone"
+      ]
+    },
+    "Histology": {
+      "IMP": [
+        "Adrenal**",
+        "Muscular Artery*",
+        "Stratified Squamous Epithelium",
+        "Testes**",
+        "Ovary",
+        "Compact Bone",
+        "Spleen**",
+        "Kidney",
+        "Lymph Node"
+      ]
+    },
+    "Embryology": {
+      "IMP": [
+        "Notocord",
+        "Mesonephric Duct",
+        "Primitive Streak",
+        "Phases of Fertilisation",
+        "Pancreas*",
+        "Neural Tube Defects",
+        "Vitello-intestinal Duct",
+        "Urinary Bladder",
+        "Descent of Testes*",
+        "Developmental Anomalies of Kidney",
+        "Rotation of Gut",
+        "Fate and Derivatives of Yolk Sac"
+      ]
+    },
+    "Genetics": {
+      "IMP": [
+        "Barr Body*",
+        "Lyons Hypothesis",
+        "Turner’s Syndrome*",
+        "Karyotyping*",
+        "Monosomy of Sex Chromosome",
+        "Down’s Syndrome*",
+        "Structural Chromosome Abnormalities",
+        "Autosomal Dominant Inheritance",
+        "Structural and Numerical Chromosome Abnormalities with example"
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "id": "parotid",
+      "title": "Parotid Gland",
+      "region": "Head, Neck & Face",
+      "tag": "LAQ · ****",
+      "minutes": 12,
+      "slides": [
+        {
+          "h": "Overview",
+          "p": "The parotid is the largest salivary gland. It lies in the parotid bed, anteroinferior to the external ear, between the ramus of mandible and mastoid region. Its capsule is derived from the investing layer of deep cervical fascia.",
+          "remember": "Think: gland, bed, capsule, contents, duct.",
+          "q": "Which salivary gland is the largest?",
+          "opts": [
+            "Parotid",
+            "Submandibular",
+            "Sublingual",
+            "Minor salivary glands"
+          ],
+          "a": 0,
+          "why": "The parotid is the largest of the major salivary glands."
+        },
+        {
+          "h": "Important relations and contents",
+          "p": "Within the gland, from superficial to deep, remember the facial nerve, retromandibular vein and external carotid artery. The facial nerve forms its parotid plexus and divides into terminal branches in the gland, but does not provide its secretomotor supply.",
+          "remember": "Superficial to deep: nerve → vein → artery.",
+          "q": "Which structure is most superficial among the three major structures within the gland?",
+          "opts": [
+            "External carotid artery",
+            "Retromandibular vein",
+            "Facial nerve",
+            "Maxillary artery"
+          ],
+          "a": 2,
+          "why": "The facial nerve lies most superficially, followed by the retromandibular vein and external carotid artery."
+        },
+        {
+          "h": "Parotid duct",
+          "p": "The parotid duct emerges from the anterior border, crosses the masseter, turns medially at its anterior edge, pierces buccinator and opens into the vestibule opposite the upper second molar tooth.",
+          "remember": "Masseter → buccinator → vestibule opposite upper second molar.",
+          "q": "The parotid duct opens opposite which tooth?",
+          "opts": [
+            "Upper first molar",
+            "Upper second molar",
+            "Lower second molar",
+            "Upper canine"
+          ],
+          "a": 1,
+          "why": "The duct opens into the oral vestibule opposite the maxillary second molar."
+        },
+        {
+          "h": "Nerve supply and applied anatomy",
+          "p": "Parasympathetic secretomotor fibres originate from the glossopharyngeal nerve, pass through the tympanic branch and lesser petrosal nerve, relay in the otic ganglion, and reach the gland through the auriculotemporal nerve. Parotidectomy requires care to protect facial nerve branches.",
+          "remember": "IX → tympanic plexus → lesser petrosal → otic ganglion → auriculotemporal nerve.",
+          "q": "Which nerve carries postganglionic secretomotor fibres to the parotid?",
+          "opts": [
+            "Facial nerve",
+            "Auriculotemporal nerve",
+            "Greater auricular nerve",
+            "Hypoglossal nerve"
+          ],
+          "a": 1,
+          "why": "Postganglionic fibres from the otic ganglion reach the parotid through the auriculotemporal nerve."
+        }
+      ],
+      "exam": "LAQ order: situation, capsule, relations, structures within gland, blood supply, lymphatic drainage, nerve supply, parotid duct and applied anatomy. Add a labelled diagram.",
+      "subject": "Anatomy"
+    },
+    {
+      "id": "thyroid",
+      "title": "Thyroid Gland – Blood Supply & Applied Anatomy",
+      "region": "Head, Neck & Face",
+      "tag": "SN · Starred",
+      "minutes": 10,
+      "slides": [
+        {
+          "h": "Situation and parts",
+          "p": "The thyroid lies in the lower anterior neck, deep to the infrahyoid muscles. It has right and left lobes connected by an isthmus, usually lying across the second to fourth tracheal rings. A pyramidal lobe may be present.",
+          "remember": "Two lobes + isthmus; remember the possible pyramidal lobe.",
+          "q": "The thyroid isthmus usually crosses which tracheal rings?",
+          "opts": [
+            "1st–2nd",
+            "2nd–4th",
+            "5th–7th",
+            "7th–9th"
+          ],
+          "a": 1,
+          "why": "The isthmus commonly overlies the second, third and fourth tracheal rings."
+        },
+        {
+          "h": "Arterial supply",
+          "p": "The superior thyroid artery usually arises from the external carotid artery. The inferior thyroid artery arises from the thyrocervical trunk. A thyroid ima artery may be present as an additional vessel.",
+          "remember": "Superior = external carotid; inferior = thyrocervical trunk.",
+          "q": "The inferior thyroid artery usually arises from the:",
+          "opts": [
+            "Subclavian artery directly",
+            "Thyrocervical trunk",
+            "External carotid artery",
+            "Internal carotid artery"
+          ],
+          "a": 1,
+          "why": "The inferior thyroid artery is typically a branch of the thyrocervical trunk."
+        },
+        {
+          "h": "Venous drainage",
+          "p": "The superior and middle thyroid veins drain into the internal jugular vein. The inferior thyroid veins form a plexus and usually drain into the brachiocephalic veins.",
+          "remember": "Superior + middle → IJV; inferior → brachiocephalic veins.",
+          "q": "The inferior thyroid veins usually drain into the:",
+          "opts": [
+            "External jugular vein",
+            "Brachiocephalic veins",
+            "Azygos vein",
+            "Portal vein"
+          ],
+          "a": 1,
+          "why": "The inferior thyroid venous plexus drains into the brachiocephalic veins."
+        },
+        {
+          "h": "Applied anatomy",
+          "p": "Thyroid enlargement may produce a goitre and compress nearby structures. During thyroid surgery, the recurrent laryngeal nerve and external branch of the superior laryngeal nerve are important structures to protect. The close relation of the inferior thyroid artery to the recurrent laryngeal nerve is variable.",
+          "remember": "Thyroidectomy: protect laryngeal nerves and identify vessels carefully.",
+          "q": "Which nerve is particularly at risk near the inferior thyroid artery during thyroid surgery?",
+          "opts": [
+            "Recurrent laryngeal nerve",
+            "Phrenic nerve",
+            "Vagus nerve in the carotid sheath only",
+            "Hypoglossal nerve"
+          ],
+          "a": 0,
+          "why": "The recurrent laryngeal nerve has a close and variable relationship with the inferior thyroid artery."
+        }
+      ],
+      "exam": "For this SN, write arterial supply, venous drainage and applied anatomy. Include a simple labelled vascular diagram.",
+      "subject": "Anatomy"
+    },
+    {
+      "id": "cavernous",
+      "title": "Cavernous Sinus",
+      "region": "Head, Neck & Face",
+      "tag": "SN · Starred",
+      "minutes": 10,
+      "slides": [
+        {
+          "h": "Location and extent",
+          "p": "The cavernous sinus is a paired dural venous sinus situated on either side of the body of the sphenoid, in the middle cranial fossa. It extends from the superior orbital fissure anteriorly towards the apex of the petrous temporal bone posteriorly.",
+          "remember": "Paired sinus, either side of sphenoid body.",
+          "q": "The cavernous sinus is located in which cranial fossa?",
+          "opts": [
+            "Anterior",
+            "Middle",
+            "Posterior",
+            "It is outside the cranial cavity"
+          ],
+          "a": 1,
+          "why": "The cavernous sinus is a dural venous sinus of the middle cranial fossa."
+        },
+        {
+          "h": "Contents within the sinus",
+          "p": "The internal carotid artery and abducens nerve (CN VI) pass through the venous blood within the sinus.",
+          "remember": "Inside the sinus: ICA + VI.",
+          "q": "Which cranial nerve runs within the cavernous sinus alongside the internal carotid artery?",
+          "opts": [
+            "III",
+            "IV",
+            "V1",
+            "VI"
+          ],
+          "a": 3,
+          "why": "The abducens nerve (CN VI) runs within the sinus beside the internal carotid artery."
+        },
+        {
+          "h": "Lateral wall",
+          "p": "The lateral wall contains, from superior to inferior, the oculomotor nerve (III), trochlear nerve (IV), ophthalmic division (V1) and maxillary division (V2) of the trigeminal nerve.",
+          "remember": "Lateral wall: III, IV, V1, V2.",
+          "q": "Which nerve is the lowest of these in the lateral wall?",
+          "opts": [
+            "Oculomotor",
+            "Trochlear",
+            "Ophthalmic division",
+            "Maxillary division"
+          ],
+          "a": 3,
+          "why": "V2 is the lowest of the listed nerves in the lateral wall."
+        },
+        {
+          "h": "Clinical importance",
+          "p": "Infection from the face can spread through venous communications to the cavernous sinus. Cavernous sinus thrombosis can affect ocular movements and facial sensation in the territories of V1 and V2.",
+          "remember": "Dangerous facial venous connections; multiple cranial nerves at risk.",
+          "q": "Which nerve is especially vulnerable because it travels within the sinus rather than in its lateral wall?",
+          "opts": [
+            "Abducens nerve",
+            "Oculomotor nerve",
+            "Trochlear nerve",
+            "Maxillary nerve"
+          ],
+          "a": 0,
+          "why": "The abducens nerve runs within the sinus and is vulnerable in cavernous sinus pathology."
+        }
+      ],
+      "exam": "Describe location, extent, relations, contents in the lateral wall and within the sinus, communications and applied anatomy. Draw a coronal section.",
+      "subject": "Anatomy"
+    },
+    {
+      "id": "cubital",
+      "title": "Cubital Fossa",
+      "region": "Upper Limb",
+      "tag": "SN + LAQ · Starred",
+      "minutes": 10,
+      "slides": [
+        {
+          "h": "Shape and boundaries",
+          "p": "The cubital fossa is a triangular depression in front of the elbow. Its medial boundary is pronator teres; its lateral boundary is brachioradialis; its base is an imaginary line joining the humeral epicondyles.",
+          "remember": "Medial PT, lateral BR, base between epicondyles.",
+          "q": "The medial boundary of the cubital fossa is formed by:",
+          "opts": [
+            "Brachioradialis",
+            "Pronator teres",
+            "Biceps brachii",
+            "Supinator"
+          ],
+          "a": 1,
+          "why": "Pronator teres forms the medial boundary."
+        },
+        {
+          "h": "Roof and floor",
+          "p": "The roof includes skin, superficial fascia with veins and cutaneous nerves, and deep fascia reinforced by the bicipital aponeurosis. The floor is formed mainly by brachialis medially and supinator laterally.",
+          "remember": "Roof: superficial structures + bicipital aponeurosis; floor: brachialis and supinator.",
+          "q": "Which structure reinforces the roof of the cubital fossa?",
+          "opts": [
+            "Palmar aponeurosis",
+            "Bicipital aponeurosis",
+            "Flexor retinaculum",
+            "Interosseous membrane"
+          ],
+          "a": 1,
+          "why": "The bicipital aponeurosis reinforces the deep fascia forming the roof."
+        },
+        {
+          "h": "Contents",
+          "p": "From lateral to medial, the main contents are biceps tendon, brachial artery and median nerve. The radial nerve lies more laterally, near the lateral boundary, before dividing.",
+          "remember": "TAN from lateral to medial: tendon, artery, nerve.",
+          "q": "What is the order of the three classic contents from lateral to medial?",
+          "opts": [
+            "Nerve–artery–tendon",
+            "Tendon–artery–nerve",
+            "Artery–nerve–tendon",
+            "Tendon–nerve–artery"
+          ],
+          "a": 1,
+          "why": "The classic arrangement is biceps tendon, brachial artery and median nerve."
+        },
+        {
+          "h": "Clinical importance",
+          "p": "The median cubital vein is commonly used for venepuncture. The bicipital aponeurosis provides a protective layer over the brachial artery and median nerve. The brachial pulse can be palpated in the fossa.",
+          "remember": "Venepuncture: median cubital vein; deep protection: bicipital aponeurosis.",
+          "q": "Which superficial vein is commonly used for venepuncture?",
+          "opts": [
+            "Cephalic vein",
+            "Median cubital vein",
+            "Basilic vein only",
+            "Axillary vein"
+          ],
+          "a": 1,
+          "why": "The median cubital vein is a common accessible site for venepuncture."
+        }
+      ],
+      "exam": "LAQ: boundaries, roof, floor, contents and arrangement, applied anatomy. Draw a labelled triangular diagram.",
+      "subject": "Anatomy"
+    },
+    {
+      "id": "brachial",
+      "title": "Brachial Plexus",
+      "region": "Upper Limb",
+      "tag": "LAQ",
+      "minutes": 12,
+      "slides": [
+        {
+          "h": "Formation",
+          "p": "The brachial plexus is formed by the anterior rami of spinal nerves C5, C6, C7, C8 and T1. It supplies most of the upper limb.",
+          "remember": "Roots: C5–T1.",
+          "q": "The usual roots of the brachial plexus are:",
+          "opts": [
+            "C1–C5",
+            "C5–T1",
+            "T1–T5",
+            "C3–C8"
+          ],
+          "a": 1,
+          "why": "The typical brachial plexus is formed by anterior rami C5 to T1."
+        },
+        {
+          "h": "Trunks and divisions",
+          "p": "The roots form three trunks: upper (C5–C6), middle (C7) and lower (C8–T1). Each trunk divides into anterior and posterior divisions behind the clavicle.",
+          "remember": "Upper C5–6; middle C7; lower C8–T1.",
+          "q": "Which roots form the lower trunk?",
+          "opts": [
+            "C5–C6",
+            "C6–C7",
+            "C7–C8",
+            "C8–T1"
+          ],
+          "a": 3,
+          "why": "The lower trunk is formed by C8 and T1."
+        },
+        {
+          "h": "Cords and branches",
+          "p": "The divisions reorganise into lateral, medial and posterior cords around the second part of the axillary artery. The five major terminal branches are musculocutaneous, axillary, radial, median and ulnar nerves.",
+          "remember": "Roots → Trunks → Divisions → Cords → Branches.",
+          "q": "The cords are named according to their relation to the:",
+          "opts": [
+            "Clavicle",
+            "First rib",
+            "Second part of axillary artery",
+            "Head of humerus"
+          ],
+          "a": 2,
+          "why": "The cords are named lateral, medial and posterior according to their relation to the second part of the axillary artery."
+        },
+        {
+          "h": "Applied anatomy",
+          "p": "Upper trunk injury (Erb palsy) classically affects C5–C6 contributions. Lower trunk injury (Klumpke palsy) affects C8–T1 contributions and may cause intrinsic hand muscle weakness.",
+          "remember": "Erb = upper trunk; Klumpke = lower trunk.",
+          "q": "Klumpke paralysis classically involves which part?",
+          "opts": [
+            "Upper trunk",
+            "Middle trunk",
+            "Lower trunk",
+            "Posterior cord only"
+          ],
+          "a": 2,
+          "why": "Klumpke paralysis is associated with lower trunk C8–T1 injury."
+        }
+      ],
+      "exam": "LAQ: formation, roots, trunks, divisions, cords, branches, relations and applied anatomy. Draw the complete flowchart.",
+      "subject": "Anatomy"
+    },
+    {
+      "id": "mammary",
+      "title": "Mammary Gland – Lymphatic Drainage",
+      "region": "Upper Limb",
+      "tag": "SN · ****",
+      "minutes": 9,
+      "slides": [
+        {
+          "h": "Main drainage pattern",
+          "p": "Most lymph from the breast, especially the lateral quadrants, drains to the axillary lymph nodes, particularly the anterior (pectoral) group. A substantial portion from the medial quadrants drains to parasternal nodes.",
+          "remember": "Most → axillary; medial part → parasternal.",
+          "q": "Most lymph from the breast drains primarily to which group?",
+          "opts": [
+            "Axillary nodes",
+            "Deep cervical nodes",
+            "Popliteal nodes",
+            "Inguinal nodes"
+          ],
+          "a": 0,
+          "why": "Most breast lymph drains to axillary nodes."
+        },
+        {
+          "h": "Other pathways",
+          "p": "Some lymph may pass to posterior intercostal nodes. Lymph from the lower part may communicate with subdiaphragmatic and abdominal pathways. The two breasts can have cross-midline lymphatic connections.",
+          "remember": "Remember axillary, parasternal, posterior intercostal and inferior pathways.",
+          "q": "Medial breast lymph commonly drains to:",
+          "opts": [
+            "Parasternal nodes",
+            "Submental nodes",
+            "Epitrochlear nodes",
+            "Superficial inguinal nodes"
+          ],
+          "a": 0,
+          "why": "Medial quadrants commonly drain to parasternal (internal thoracic) nodes."
+        },
+        {
+          "h": "Clinical significance",
+          "p": "Breast carcinoma may spread through lymphatics to regional nodes. Axillary node involvement is clinically important in staging and surgical planning. Lymphatic drainage is variable, so assessment considers more than one nodal group.",
+          "remember": "Clinical link: lymphatic spread and nodal assessment.",
+          "q": "Why is axillary lymph node assessment important in breast carcinoma?",
+          "opts": [
+            "It assesses a common route of lymphatic spread",
+            "It measures cardiac output",
+            "It tests thyroid function",
+            "It identifies the origin of the thoracic duct"
+          ],
+          "a": 0,
+          "why": "Axillary nodes receive much of the breast lymph and are important in regional spread assessment."
+        }
+      ],
+      "exam": "SN: describe lymphatic drainage by quadrant and add applied anatomy of carcinoma spread. Draw arrows from breast quadrants to nodal groups.",
+      "subject": "Anatomy"
+    },
+    {
+      "id": "shoulder",
+      "title": "Shoulder Joint",
+      "region": "Upper Limb",
+      "tag": "LAQ · ***",
+      "minutes": 10,
+      "slides": [
+        {
+          "h": "Type and articular surfaces",
+          "p": "The shoulder (glenohumeral) joint is a synovial ball-and-socket joint. The head of the humerus articulates with the glenoid cavity of the scapula; the glenoid labrum deepens the cavity.",
+          "remember": "Ball-and-socket: humeral head + glenoid cavity.",
+          "q": "The shoulder joint is which type of synovial joint?",
+          "opts": [
+            "Hinge",
+            "Pivot",
+            "Ball-and-socket",
+            "Plane"
+          ],
+          "a": 2,
+          "why": "The glenohumeral joint is a ball-and-socket synovial joint."
+        },
+        {
+          "h": "Capsule and stability",
+          "p": "The capsule is relatively loose to permit a wide range of movement. Stability is provided by the rotator cuff muscles, glenoid labrum, joint capsule and ligaments, and the long head of biceps tendon.",
+          "remember": "Mobility is high; dynamic stability depends strongly on rotator cuff.",
+          "q": "Which group provides major dynamic support to the shoulder joint?",
+          "opts": [
+            "Hamstrings",
+            "Rotator cuff",
+            "Quadriceps",
+            "Thenar muscles"
+          ],
+          "a": 1,
+          "why": "The rotator cuff muscles dynamically stabilize the humeral head."
+        },
+        {
+          "h": "Movements and muscles",
+          "p": "The joint permits flexion, extension, abduction, adduction, medial and lateral rotation, and circumduction. Deltoid is a major abductor after initiation; supraspinatus initiates abduction.",
+          "remember": "Supraspinatus initiates; deltoid continues abduction.",
+          "q": "Which muscle initiates the first part of shoulder abduction?",
+          "opts": [
+            "Deltoid",
+            "Supraspinatus",
+            "Teres major",
+            "Latissimus dorsi"
+          ],
+          "a": 1,
+          "why": "Supraspinatus initiates abduction; deltoid is a major abductor thereafter."
+        },
+        {
+          "h": "Applied anatomy",
+          "p": "The joint is commonly dislocated anteriorly or anteroinferiorly. The axillary nerve and posterior circumflex humeral vessels may be at risk in dislocation or fracture around the surgical neck.",
+          "remember": "Anterior dislocation: remember axillary nerve.",
+          "q": "Which nerve is particularly at risk in shoulder dislocation?",
+          "opts": [
+            "Radial",
+            "Axillary",
+            "Ulnar",
+            "Median"
+          ],
+          "a": 1,
+          "why": "The axillary nerve winds around the surgical neck and may be injured."
+        }
+      ],
+      "exam": "LAQ: type, articular surfaces, capsule, ligaments, relations, blood and nerve supply, movements, muscles and applied anatomy.",
+      "subject": "Anatomy"
+    },
+    {
+      "id": "carpal",
+      "title": "Carpal Tunnel Syndrome",
+      "region": "Upper Limb",
+      "tag": "SN · **",
+      "minutes": 8,
+      "slides": [
+        {
+          "h": "Tunnel boundaries",
+          "p": "The carpal tunnel is an osteofibrous passage at the wrist. Its floor and sides are formed by the carpal arch; the flexor retinaculum forms its roof.",
+          "remember": "Carpal arch + flexor retinaculum.",
+          "q": "What forms the roof of the carpal tunnel?",
+          "opts": [
+            "Extensor retinaculum",
+            "Flexor retinaculum",
+            "Palmar aponeurosis",
+            "Bicipital aponeurosis"
+          ],
+          "a": 1,
+          "why": "The flexor retinaculum forms the roof of the carpal tunnel."
+        },
+        {
+          "h": "Contents",
+          "p": "The tunnel contains the median nerve and nine flexor tendons: four flexor digitorum superficialis, four flexor digitorum profundus and one flexor pollicis longus.",
+          "remember": "Median nerve + 9 tendons.",
+          "q": "How many flexor tendons pass through the carpal tunnel?",
+          "opts": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "a": 2,
+          "why": "There are nine flexor tendons: four FDS, four FDP and one FPL."
+        },
+        {
+          "h": "Clinical features",
+          "p": "Compression of the median nerve causes pain, tingling or numbness in its sensory distribution in the lateral three and a half digits, often worse at night. Thenar weakness and wasting can occur in advanced cases.",
+          "remember": "Median nerve compression; lateral 3½ digits; thenar weakness.",
+          "q": "Which nerve is compressed in carpal tunnel syndrome?",
+          "opts": [
+            "Ulnar",
+            "Radial",
+            "Median",
+            "Musculocutaneous"
+          ],
+          "a": 2,
+          "why": "Carpal tunnel syndrome is caused by compression of the median nerve."
+        }
+      ],
+      "exam": "SN: boundaries, contents and applied anatomy. Mention median nerve sensory symptoms and thenar muscle weakness.",
+      "subject": "Anatomy"
+    },
+    {
+      "id": "nasal-septum",
+      "title": "Nasal Septum",
+      "region": "Head, Neck & Face",
+      "tag": "SN · Starred",
+      "minutes": 8,
+      "slides": [
+        {
+          "h": "Framework",
+          "p": "The nasal septum has bony and cartilaginous parts. The main components include septal cartilage, perpendicular plate of ethmoid, vomer and contributions from the maxillary and palatine crests.",
+          "remember": "Cartilage + ethmoid + vomer + crests.",
+          "q": "Which bone forms the posterosuperior part of the bony nasal septum?",
+          "opts": [
+            "Vomer",
+            "Perpendicular plate of ethmoid",
+            "Zygomatic",
+            "Lacrimal"
+          ],
+          "a": 1,
+          "why": "The perpendicular plate of the ethmoid forms the posterosuperior bony part."
+        },
+        {
+          "h": "Mucosal lining and vessels",
+          "p": "The septum is lined by nasal mucosa. Its anterior-inferior region contains an arterial anastomosis commonly called Kiesselbach’s area or Little’s area, a frequent site of epistaxis.",
+          "remember": "Little’s area = common anterior epistaxis site.",
+          "q": "Little’s area is clinically important because it is a common site of:",
+          "opts": [
+            "Posterior nasal obstruction",
+            "Anterior epistaxis",
+            "CSF production",
+            "Olfactory nerve origin"
+          ],
+          "a": 1,
+          "why": "The vascular area on the anterior-inferior septum is a common source of anterior nosebleeds."
+        },
+        {
+          "h": "Applied anatomy",
+          "p": "Deviation of the nasal septum may narrow a nasal passage and contribute to obstruction. Epistaxis from the anterior septum is often accessible to local examination and treatment.",
+          "remember": "Link structure to obstruction and epistaxis.",
+          "q": "A deviated nasal septum may directly cause:",
+          "opts": [
+            "Nasal airway narrowing",
+            "Loss of hearing in all cases",
+            "Paralysis of tongue",
+            "Loss of taste in posterior third"
+          ],
+          "a": 0,
+          "why": "Septal deviation can narrow the nasal airway."
+        }
+      ],
+      "exam": "SN: components of the septum, mucosal lining, blood supply and clinical significance.",
+      "subject": "Anatomy"
+    },
+    {
+      "id": "right-atrium",
+      "title": "Right Atrium",
+      "region": "Thorax",
+      "tag": "LAQ · **",
+      "minutes": 9,
+      "slides": [
+        {
+          "h": "External and internal features",
+          "p": "The right atrium receives systemic venous blood. Its posterior smooth part (sinus venarum) is separated from the anterior rough part by the crista terminalis internally; pectinate muscles are prominent in the anterior part and auricle.",
+          "remember": "Smooth sinus venarum; rough pectinate part.",
+          "q": "Which ridge separates the smooth and rough parts internally?",
+          "opts": [
+            "Crista terminalis",
+            "Moderator band",
+            "Septomarginal trabecula",
+            "Fossa ovalis"
+          ],
+          "a": 0,
+          "why": "The crista terminalis separates the smooth sinus venarum from the rough pectinate part."
+        },
+        {
+          "h": "Openings",
+          "p": "The right atrium receives the superior vena cava, inferior vena cava and coronary sinus. It communicates with the right ventricle through the right atrioventricular (tricuspid) orifice.",
+          "remember": "SVC + IVC + coronary sinus.",
+          "q": "Which venous structure opens into the right atrium to return blood from the myocardium?",
+          "opts": [
+            "Pulmonary vein",
+            "Coronary sinus",
+            "Azygos vein directly in all cases",
+            "Portal vein"
+          ],
+          "a": 1,
+          "why": "The coronary sinus drains most venous blood from the myocardium into the right atrium."
+        },
+        {
+          "h": "Interatrial septum and clinical link",
+          "p": "The interatrial septum shows the fossa ovalis, the remnant of the fetal foramen ovale. The limbus surrounds the fossa. Developmental persistence can result in an atrial septal communication.",
+          "remember": "Fossa ovalis = remnant of foramen ovale.",
+          "q": "The fossa ovalis is a remnant of the fetal:",
+          "opts": [
+            "Ductus arteriosus",
+            "Foramen ovale",
+            "Ductus venosus",
+            "Umbilical artery"
+          ],
+          "a": 1,
+          "why": "The fossa ovalis marks the site of the fetal foramen ovale."
+        }
+      ],
+      "exam": "LAQ: location, interior features, openings, interatrial septum, blood supply and applied anatomy. Draw an opened right atrium.",
+      "subject": "Anatomy"
+    },
+    {
+      "id": "pancreas-b2",
+      "title": "Pancreas",
+      "region": "Abdomen & Pelvis",
+      "tag": "LAQ · **",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "Parts and position",
+          "p": "The pancreas is a soft, lobulated, mostly retroperitoneal gland lying across the posterior abdominal wall. It extends from the C-shaped curve of the duodenum towards the spleen. It is divided into head, uncinate process, neck, body and tail. The tail reaches the splenic hilum within the splenorenal ligament.",
+          "remember": "Head in the duodenal curve; tail towards the spleen.",
+          "q": "Which part of the pancreas reaches the splenic hilum?",
+          "opts": [
+            "Head",
+            "Neck",
+            "Body",
+            "Tail"
+          ],
+          "a": 3,
+          "why": "The tail extends towards the spleen and lies in the splenorenal ligament."
+        },
+        {
+          "h": "Important relations",
+          "p": "The head is embraced by the duodenum. The uncinate process passes posterior to the superior mesenteric vessels. The portal vein is formed behind the neck by the union of the superior mesenteric and splenic veins. The body lies anterior to major posterior wall structures including the aorta and left kidney region.",
+          "remember": "Portal vein forms behind the neck of pancreas.",
+          "q": "The portal vein is formed posterior to which part?",
+          "opts": [
+            "Head",
+            "Neck",
+            "Body",
+            "Tail"
+          ],
+          "a": 1,
+          "why": "The splenic vein and superior mesenteric vein unite behind the neck of the pancreas."
+        },
+        {
+          "h": "Ducts, blood supply and applied anatomy",
+          "p": "The main pancreatic duct usually joins the common bile duct to form the hepatopancreatic ampulla, opening at the major duodenal papilla. The accessory duct, when present and patent, opens at the minor papilla. Blood supply comes mainly from superior and inferior pancreaticoduodenal arteries and branches of the splenic artery. Inflammation may cause severe epigastric pain radiating to the back; a tumour in the head may obstruct the bile duct and cause jaundice.",
+          "remember": "Main duct → major papilla; head mass → obstructive jaundice.",
+          "q": "A tumour in the head of pancreas may cause jaundice by compressing which structure?",
+          "opts": [
+            "Cystic duct",
+            "Common bile duct",
+            "Left hepatic vein",
+            "Splenic artery"
+          ],
+          "a": 1,
+          "why": "The common bile duct passes close to the head of the pancreas and may be compressed by a head-of-pancreas mass."
+        }
+      ],
+      "exam": "LAQ framework: introduction and situation; parts; relations of head, neck, body and tail; pancreatic ducts; blood supply; development if prescribed; applied anatomy. Draw a labelled pancreas with duodenum, bile duct and major vessels."
+    },
+    {
+      "id": "prostate-b2",
+      "title": "Prostate",
+      "region": "Abdomen & Pelvis",
+      "tag": "LAQ · **",
+      "minutes": 13,
+      "slides": [
+        {
+          "h": "Situation and shape",
+          "p": "The prostate is a fibromusculoglandular organ situated in the lesser pelvis, below the urinary bladder and around the proximal prostatic urethra. Its base is related to the bladder neck and its apex rests on the superior fascia of the urogenital diaphragm. It is anterior to the rectum, making it palpable on digital rectal examination.",
+          "remember": "Below bladder, around urethra, anterior to rectum.",
+          "q": "Which structure passes through the prostate?",
+          "opts": [
+            "Spongy urethra",
+            "Prostatic urethra",
+            "Membranous urethra only",
+            "Ureter"
+          ],
+          "a": 1,
+          "why": "The prostatic urethra traverses the prostate."
+        },
+        {
+          "h": "Capsule, relations and lobes/zones",
+          "p": "The prostate has a true fibrous capsule and a surrounding prostatic sheath derived from pelvic fascia. Anteriorly it is related to the pubic symphysis through the retropubic space; posteriorly it is related to the rectum; inferolaterally it is supported by levator ani. Traditional anatomy describes lobes; clinical imaging commonly uses zones, with the peripheral zone being a frequent site of carcinoma and the transition zone commonly involved in benign prostatic hyperplasia.",
+          "remember": "Posterior surface can be examined per rectum.",
+          "q": "Which enlargement commonly compresses the prostatic urethra in older men?",
+          "opts": [
+            "Benign prostatic hyperplasia",
+            "Splenic enlargement",
+            "Hydrocele",
+            "Varicocele"
+          ],
+          "a": 0,
+          "why": "Benign prostatic hyperplasia commonly arises in the transition zone and can obstruct urinary flow."
+        },
+        {
+          "h": "Blood supply, venous drainage and clinical points",
+          "p": "Arterial supply is mainly from branches of the inferior vesical artery, with contributions that can vary. The prostatic venous plexus communicates with the vesical plexus and the internal vertebral venous plexus. This communication is clinically relevant in the spread of prostate carcinoma to vertebral bones. The prostate also receives autonomic fibres through the prostatic plexus.",
+          "remember": "Prostatic venous plexus communicates with vertebral venous plexus.",
+          "q": "The venous communication helps explain spread of prostate carcinoma to which site?",
+          "opts": [
+            "Vertebral column",
+            "Thyroid gland",
+            "Spleen",
+            "Lung apex only"
+          ],
+          "a": 0,
+          "why": "Connections with the internal vertebral venous plexus provide a route for vertebral metastases."
+        }
+      ],
+      "exam": "LAQ framework: situation, shape, capsule, relations, lobes/zones, blood supply, venous and lymphatic drainage, nerve supply and applied anatomy. Add a sagittal pelvic diagram."
+    },
+    {
+      "id": "stomach-b2",
+      "title": "Stomach",
+      "region": "Abdomen & Pelvis",
+      "tag": "LAQ · **",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "Parts and external features",
+          "p": "The stomach is a J-shaped dilated part of the alimentary canal between the oesophagus and duodenum. It has cardia, fundus, body and pyloric part. It presents anterior and posterior surfaces, lesser and greater curvatures, and cardiac and pyloric openings. The pylorus is usually near the transpyloric plane in the supine adult, though its position varies.",
+          "remember": "Four parts: cardia, fundus, body, pyloric part.",
+          "q": "Which part of the stomach lies superior to the cardiac opening?",
+          "opts": [
+            "Fundus",
+            "Pylorus",
+            "Antrum",
+            "Body of pancreas"
+          ],
+          "a": 0,
+          "why": "The fundus is the dome-shaped part above and to the left of the cardiac opening."
+        },
+        {
+          "h": "Peritoneal attachments and relations",
+          "p": "The lesser omentum attaches the lesser curvature to the liver, while the greater omentum hangs from the greater curvature. The stomach bed is the group of structures related to the posterior surface through the lesser sac; it includes the pancreas, spleen, left kidney and suprarenal gland, transverse mesocolon and related vessels. The exact list should be written as taught in the prescribed text.",
+          "remember": "Posterior stomach + lesser sac = stomach bed.",
+          "q": "The pancreas is related to the stomach through which space?",
+          "opts": [
+            "Greater sac only",
+            "Lesser sac",
+            "Pleural cavity",
+            "Pericardial cavity"
+          ],
+          "a": 1,
+          "why": "The posterior surface of the stomach is separated from much of its bed by the lesser sac."
+        },
+        {
+          "h": "Blood supply and applied anatomy",
+          "p": "The lesser curvature is supplied by right and left gastric arteries; the greater curvature by right and left gastro-omental arteries. Short gastric arteries supply the fundus. These vessels arise from the coeliac trunk system. Lymph follows the arteries towards gastric and coeliac nodes. Clinical topics include peptic ulceration, gastric carcinoma and vagotomy; relate symptoms and spread to the anatomy taught in class.",
+          "remember": "Lesser curve: gastric; greater curve: gastro-omental; fundus: short gastric.",
+          "q": "Which arteries chiefly supply the fundus?",
+          "opts": [
+            "Short gastric arteries",
+            "Right colic artery",
+            "Inferior mesenteric artery",
+            "Renal arteries"
+          ],
+          "a": 0,
+          "why": "Short gastric arteries, usually from the splenic artery, supply the fundus."
+        }
+      ],
+      "exam": "LAQ framework: situation, parts, external features, peritoneal attachments, relations and stomach bed, blood supply, venous drainage, lymphatics, nerve supply and applied anatomy. Practise a labelled stomach diagram."
+    },
+    {
+      "id": "kidney-b2",
+      "title": "Kidney",
+      "region": "Abdomen & Pelvis",
+      "tag": "LAQ",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "Situation and external features",
+          "p": "The kidneys are paired, bean-shaped retroperitoneal organs on the posterior abdominal wall. The right kidney is usually slightly lower than the left because of the liver. Each kidney has anterior and posterior surfaces, medial and lateral borders, and upper and lower poles. The medial border bears the hilum, which opens into the renal sinus.",
+          "remember": "Right kidney usually lies lower than left.",
+          "q": "Why is the right kidney usually lower?",
+          "opts": [
+            "Because of the liver",
+            "Because of the spleen",
+            "Because of the stomach",
+            "Because of the pancreas tail"
+          ],
+          "a": 0,
+          "why": "The large right lobe of the liver occupies space superior to the right kidney."
+        },
+        {
+          "h": "Hilum and coverings",
+          "p": "At the hilum, the usual anterior-to-posterior arrangement is renal vein, renal artery and renal pelvis/ureter (V-A-P). The kidney is covered by a fibrous capsule, perirenal fat, renal fascia and pararenal fat. The renal pelvis continues as the ureter.",
+          "remember": "Hilum from anterior to posterior: V-A-P.",
+          "q": "What is the usual anterior-to-posterior order at the renal hilum?",
+          "opts": [
+            "Artery–vein–pelvis",
+            "Vein–artery–pelvis",
+            "Pelvis–artery–vein",
+            "Vein–pelvis–artery"
+          ],
+          "a": 1,
+          "why": "The commonly taught order is renal vein, renal artery and renal pelvis from anterior to posterior."
+        },
+        {
+          "h": "Relations and clinical anatomy",
+          "p": "Posterior relations include the diaphragm and posterior abdominal wall muscles, with the subcostal, iliohypogastric and ilioinguinal nerves nearby. Anterior relations differ on the two sides; the right kidney is related to the liver, second part of duodenum and right colic region, among other structures. Renal angle tenderness is a clinical examination point. Stones may cause colicky pain radiating along the ureter.",
+          "remember": "Learn right and left anterior relations separately; they are not identical.",
+          "q": "Which kidney is commonly related anteriorly to the second part of the duodenum?",
+          "opts": [
+            "Right kidney",
+            "Left kidney",
+            "Both equally",
+            "Neither"
+          ],
+          "a": 0,
+          "why": "The descending (second) part of the duodenum is an anterior relation of the right kidney."
+        }
+      ],
+      "exam": "LAQ framework: situation, size/shape, external features, hilum, coverings, relations (right and left separately), blood supply, lymphatics, nerve supply and applied anatomy. Draw a section showing cortex, medulla, pyramids and renal pelvis."
+    },
+    {
+      "id": "urinary-bladder-b2",
+      "title": "Urinary Bladder",
+      "region": "Abdomen & Pelvis",
+      "tag": "LAQ · *",
+      "minutes": 13,
+      "slides": [
+        {
+          "h": "Shape, position and parts",
+          "p": "The urinary bladder is a hollow muscular reservoir for urine in the lesser pelvis when empty. It has an apex, base (fundus), neck and surfaces. As it fills, it rises into the abdomen. The neck is the most fixed part and continues into the urethra.",
+          "remember": "Empty bladder = pelvis; distended bladder = rises above pubis.",
+          "q": "Which part of the bladder continues into the urethra?",
+          "opts": [
+            "Apex",
+            "Neck",
+            "Superior surface",
+            "Urachus"
+          ],
+          "a": 1,
+          "why": "The bladder neck is continuous with the urethra."
+        },
+        {
+          "h": "Interior and supports",
+          "p": "The mucosa is generally folded when empty, except for the smooth trigone. The trigone is bounded by the two ureteric openings and the internal urethral opening. The detrusor is the muscular wall. Support is provided by pelvic floor and fascial structures; in females, the relation to the cervix and anterior vaginal wall is important.",
+          "remember": "Trigone = two ureteric openings + internal urethral opening.",
+          "q": "Which part of the bladder is characteristically smooth even when the bladder is empty?",
+          "opts": [
+            "Trigone",
+            "Apex",
+            "Dome",
+            "All mucosa"
+          ],
+          "a": 0,
+          "why": "The trigone is firmly attached and remains smooth."
+        },
+        {
+          "h": "Blood supply and applied anatomy",
+          "p": "Arterial supply is chiefly from superior vesical arteries, with inferior vesical contribution in males and corresponding vaginal contributions in females. Venous drainage forms vesical plexuses. Parasympathetic pelvic splanchnic nerves (S2–S4) promote detrusor contraction and facilitate micturition; sympathetic pathways contribute to storage. A distended bladder may be approached suprapubically when clinically indicated.",
+          "remember": "S2–S4 parasympathetic: emptying response.",
+          "q": "Which spinal segments provide the parasympathetic supply important for bladder emptying?",
+          "opts": [
+            "T1–T4",
+            "T10–L1",
+            "S2–S4",
+            "C5–C8"
+          ],
+          "a": 2,
+          "why": "Pelvic splanchnic nerves from S2–S4 carry parasympathetic fibres to the bladder."
+        }
+      ],
+      "exam": "LAQ framework: situation, shape, parts, relations, interior (trigone), wall, supports, blood supply, nerve supply and applied anatomy. Draw the trigone and sagittal relations."
+    },
+    {
+      "id": "inguinal-canal-b2",
+      "title": "Inguinal Canal",
+      "region": "Abdomen & Pelvis",
+      "tag": "SN · * / LAQ · *",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "Extent and openings",
+          "p": "The inguinal canal is an oblique passage in the lower anterior abdominal wall, about 4 cm long, above the medial half of the inguinal ligament. It extends from the deep inguinal ring to the superficial inguinal ring. The deep ring is an opening in transversalis fascia; the superficial ring is a triangular gap in the external oblique aponeurosis.",
+          "remember": "Deep ring = transversalis fascia; superficial ring = external oblique aponeurosis.",
+          "q": "The deep inguinal ring is an opening in which layer?",
+          "opts": [
+            "External oblique aponeurosis",
+            "Internal oblique",
+            "Transversalis fascia",
+            "Rectus sheath"
+          ],
+          "a": 2,
+          "why": "The deep ring is a defect in the transversalis fascia."
+        },
+        {
+          "h": "Walls and contents",
+          "p": "The anterior wall is mainly external oblique aponeurosis, reinforced laterally by internal oblique. The posterior wall is mainly transversalis fascia, reinforced medially by the conjoint tendon. The roof is formed by arching fibres of internal oblique and transversus abdominis; the floor is the inguinal ligament, with lacunar ligament medially. The spermatic cord traverses it in males; the ilioinguinal nerve also passes through part of the canal. In females, the round ligament of uterus traverses it.",
+          "remember": "A-P-R-F: aponeurosis, transversalis fascia, arching muscles, inguinal ligament.",
+          "q": "Which structure forms the main floor of the inguinal canal?",
+          "opts": [
+            "Inguinal ligament",
+            "Transversalis fascia",
+            "External oblique",
+            "Conjoint tendon"
+          ],
+          "a": 0,
+          "why": "The inguinal ligament forms the floor, with medial reinforcement by the lacunar ligament."
+        },
+        {
+          "h": "Inguinal hernia",
+          "p": "An indirect inguinal hernia enters the deep ring, passes through the canal lateral to the inferior epigastric vessels, and may reach the scrotum. A direct inguinal hernia pushes through a weakness in the posterior wall in Hesselbach’s triangle, medial to the inferior epigastric vessels. This anatomical distinction is central to clinical examination and surgery.",
+          "remember": "Indirect = lateral to inferior epigastric vessels; direct = medial.",
+          "q": "A direct inguinal hernia lies on which side of the inferior epigastric vessels?",
+          "opts": [
+            "Lateral",
+            "Medial",
+            "Superior only",
+            "Posterior only"
+          ],
+          "a": 1,
+          "why": "Direct hernias protrude medial to the inferior epigastric vessels through the posterior wall."
+        }
+      ],
+      "exam": "LAQ framework: definition, extent, rings, four walls, contents in male and female, blood supply/nerve supply if required, and direct versus indirect inguinal hernia. Draw the canal and Hesselbach’s triangle."
+    },
+    {
+      "id": "anal-canal-b2",
+      "title": "Anal Canal",
+      "region": "Abdomen & Pelvis",
+      "tag": "LAQ · * / SN",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "Extent and pectinate line",
+          "p": "The anal canal is the terminal part of the large intestine, extending from the anorectal junction to the anus. The pectinate line is a major anatomical and clinical landmark. Above and below it, the canal differs in embryological origin, epithelium, arterial supply, venous drainage, lymphatic drainage and nerve supply. Learn these contrasts as a paired table.",
+          "remember": "Pectinate line divides two different anatomical territories.",
+          "q": "Which landmark is used to compare the upper and lower anal canal?",
+          "opts": [
+            "Linea alba",
+            "Pectinate line",
+            "Arcuate line",
+            "Dentate line of skin"
+          ],
+          "a": 1,
+          "why": "The pectinate line is the key landmark separating upper and lower parts."
+        },
+        {
+          "h": "Sphincters and supports",
+          "p": "The internal anal sphincter is a thickening of circular smooth muscle and is involuntary. The external anal sphincter is skeletal muscle and is voluntary, with subcutaneous, superficial and deep parts commonly described. Puborectalis forms a sling around the anorectal junction and helps maintain the anorectal angle.",
+          "remember": "Internal = smooth/involuntary; external = skeletal/voluntary.",
+          "q": "Which sphincter is composed of smooth muscle?",
+          "opts": [
+            "External anal sphincter",
+            "Internal anal sphincter",
+            "Puborectalis",
+            "Bulbospongiosus"
+          ],
+          "a": 1,
+          "why": "The internal sphincter is formed by thickened circular smooth muscle."
+        },
+        {
+          "h": "Clinical anatomy",
+          "p": "Internal haemorrhoids arise above the pectinate line and are classically less painful because the mucosa above the line has visceral innervation. External haemorrhoids occur below the line and can be painful due to somatic innervation. Anal fissures are commonly associated with severe pain during defecation. The exact arterial and venous territories should be revised using the standard above/below-line comparison.",
+          "remember": "Above line: visceral sensation; below line: somatic pain sensation.",
+          "q": "Why are external haemorrhoids often painful?",
+          "opts": [
+            "They are above the pectinate line",
+            "They are below the line with somatic innervation",
+            "They lack blood supply",
+            "They are inside the rectum"
+          ],
+          "a": 1,
+          "why": "The lower anal canal has somatic sensory innervation, making lesions there painful."
+        }
+      ],
+      "exam": "LAQ framework: extent, direction, features, pectinate line, sphincters, relations, blood supply, venous and lymphatic drainage, nerve supply and applied anatomy. Prepare a comparison table above and below the pectinate line."
+    },
+    {
+      "id": "hip-joint-b2",
+      "title": "Hip Joint",
+      "region": "Lower Limb",
+      "tag": "LAQ · *",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "Type, articular surfaces and capsule",
+          "p": "The hip is a synovial ball-and-socket joint between the head of femur and the acetabulum. The acetabular labrum deepens the socket. The capsule attaches around the acetabulum and to the femur; its fibres are reinforced by strong capsular ligaments. The joint is built for stability while allowing movement.",
+          "remember": "Ball = femoral head; socket = acetabulum.",
+          "q": "What type of synovial joint is the hip?",
+          "opts": [
+            "Hinge",
+            "Pivot",
+            "Ball-and-socket",
+            "Plane"
+          ],
+          "a": 2,
+          "why": "The hip is a multiaxial ball-and-socket synovial joint."
+        },
+        {
+          "h": "Ligaments and stability",
+          "p": "The iliofemoral, pubofemoral and ischiofemoral ligaments reinforce the capsule. The iliofemoral ligament is particularly strong and helps prevent hyperextension in standing. The ligament of the head of femur carries a small artery, which is more important in children than adults. Stability also depends on the depth of the acetabulum, labrum, muscles and surrounding capsule.",
+          "remember": "Three capsular ligaments: ilio-, pubo-, ischiofemoral.",
+          "q": "Which ligament is especially strong and resists hyperextension?",
+          "opts": [
+            "Iliofemoral",
+            "Transverse humeral",
+            "Patellar",
+            "Annular"
+          ],
+          "a": 0,
+          "why": "The iliofemoral ligament is a strong anterior reinforcement of the hip capsule."
+        },
+        {
+          "h": "Movements, blood supply and applied anatomy",
+          "p": "Movements include flexion, extension, abduction, adduction, medial and lateral rotation, and circumduction. Blood supply to the femoral head is mainly from retinacular branches of the medial circumflex femoral artery, with contributions from other vessels; the artery in the ligament of the head is variable. Fracture of the femoral neck can disrupt retinacular vessels and lead to avascular necrosis.",
+          "remember": "Femoral neck fracture → risk to retinacular vessels → avascular necrosis.",
+          "q": "Which artery is the major source for retinacular supply to the femoral head?",
+          "opts": [
+            "Medial circumflex femoral artery",
+            "Inferior epigastric artery",
+            "Dorsalis pedis artery",
+            "Obturator artery only"
+          ],
+          "a": 0,
+          "why": "Retinacular branches, particularly from the medial circumflex femoral artery, are crucial to femoral head blood supply."
+        }
+      ],
+      "exam": "LAQ framework: type, articular surfaces, capsule, ligaments, relations, blood supply, nerve supply, movements with muscles and applied anatomy. Draw the joint and its ligaments."
+    },
+    {
+      "id": "knee-joint-b2",
+      "title": "Knee Joint",
+      "region": "Lower Limb",
+      "tag": "LAQ · **",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "Type and articular surfaces",
+          "p": "The knee is a large synovial modified hinge joint. It includes femorotibial and patellofemoral articulations. The medial and lateral femoral condyles articulate with the tibial condyles; the patella articulates with the patellar surface of the femur. The menisci deepen the tibial surfaces and improve congruity.",
+          "remember": "Knee = femorotibial + patellofemoral components.",
+          "q": "The knee is best described as which type of joint?",
+          "opts": [
+            "Pivot",
+            "Modified hinge",
+            "Ball-and-socket",
+            "Saddle"
+          ],
+          "a": 1,
+          "why": "The knee is a modified hinge synovial joint."
+        },
+        {
+          "h": "Menisci and major ligaments",
+          "p": "The medial and lateral menisci are fibrocartilaginous wedges. The medial meniscus is less mobile and is attached to the medial collateral ligament, making it more vulnerable to injury. The anterior cruciate ligament limits anterior translation of the tibia relative to the femur and helps control rotation; the posterior cruciate ligament limits posterior translation. Collateral ligaments resist side-to-side stresses.",
+          "remember": "ACL checks anterior tibial displacement; PCL checks posterior displacement.",
+          "q": "Which ligament chiefly resists posterior displacement of the tibia?",
+          "opts": [
+            "ACL",
+            "PCL",
+            "Medial collateral ligament",
+            "Patellar ligament"
+          ],
+          "a": 1,
+          "why": "The posterior cruciate ligament limits posterior translation of the tibia relative to the femur."
+        },
+        {
+          "h": "Movements, locking and applied anatomy",
+          "p": "The main movements are flexion and extension, with a small amount of rotation when flexed. In terminal extension the knee undergoes a locking mechanism; popliteus helps unlock it at the start of flexion. The quadriceps mechanism stabilises the anterior aspect. Common clinical injuries include meniscal tears and cruciate ligament injuries; correlate examination tests with the structures they assess.",
+          "remember": "Popliteus unlocks the knee.",
+          "q": "Which muscle helps unlock the fully extended knee?",
+          "opts": [
+            "Popliteus",
+            "Sartorius",
+            "Gracilis",
+            "Tibialis anterior"
+          ],
+          "a": 0,
+          "why": "Popliteus initiates unlocking by reversing the rotation associated with terminal extension."
+        }
+      ],
+      "exam": "LAQ framework: type, articular surfaces, capsule, menisci, ligaments, relations, blood supply, nerve supply, movements, locking/unlocking and applied anatomy. Label the cruciate ligaments and menisci."
+    },
+    {
+      "id": "popliteal-fossa-b2",
+      "title": "Popliteal Fossa",
+      "region": "Lower Limb",
+      "tag": "LAQ · *",
+      "minutes": 13,
+      "slides": [
+        {
+          "h": "Boundaries and roof",
+          "p": "The popliteal fossa is a diamond-shaped intermuscular space behind the knee. Superolaterally it is bounded by biceps femoris; superomedially by semimembranosus and semitendinosus; inferolaterally by lateral head of gastrocnemius and plantaris; inferomedially by medial head of gastrocnemius. The roof includes skin, superficial fascia and deep fascia.",
+          "remember": "Upper: hamstrings; lower: gastrocnemius heads.",
+          "q": "Which muscle forms the superolateral boundary?",
+          "opts": [
+            "Biceps femoris",
+            "Semimembranosus",
+            "Medial gastrocnemius",
+            "Soleus"
+          ],
+          "a": 0,
+          "why": "Biceps femoris forms the superolateral boundary of the popliteal fossa."
+        },
+        {
+          "h": "Floor and contents",
+          "p": "The floor is formed from above downwards by the popliteal surface of femur, posterior capsule of the knee and popliteus fascia/muscle. Contents include the tibial nerve, common fibular nerve, popliteal vein, popliteal artery, lymph nodes and fat. From superficial to deep in the central neurovascular bundle, remember nerve, vein, artery.",
+          "remember": "Superficial to deep: N-V-A.",
+          "q": "What is the usual superficial-to-deep order of the central bundle?",
+          "opts": [
+            "Artery–vein–nerve",
+            "Nerve–vein–artery",
+            "Vein–artery–nerve",
+            "Nerve–artery–vein"
+          ],
+          "a": 1,
+          "why": "The tibial nerve is most superficial, then popliteal vein, then popliteal artery."
+        },
+        {
+          "h": "Clinical anatomy",
+          "p": "The popliteal artery is relatively deep and may be difficult to palpate. A popliteal aneurysm can compress nearby structures. The fossa provides a route for vessels and nerves between thigh and leg. A Baker cyst is a distension of a bursa or joint-related synovial space in the popliteal region and may present as swelling behind the knee.",
+          "remember": "Deepest major structure = popliteal artery.",
+          "q": "Which major artery is deepest in the popliteal fossa?",
+          "opts": [
+            "Femoral artery",
+            "Popliteal artery",
+            "Anterior tibial artery",
+            "Posterior tibial artery"
+          ],
+          "a": 1,
+          "why": "The popliteal artery lies deepest, close to the floor of the fossa."
+        }
+      ],
+      "exam": "LAQ framework: boundaries, roof, floor, contents (arrangement), genicular anastomosis if included, and applied anatomy. Draw a diamond with boundaries and N-V-A arrangement."
+    }
+  ]
+}

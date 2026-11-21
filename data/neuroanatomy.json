@@ -1,0 +1,869 @@
+{
+  "source": "FIRST YEAR IMP LIST.pdf (Page 3 - Neuroanatomy)",
+  "source_note": "Topic labels and star/LAQ/SN priority markings follow FIRST YEAR IMP LIST.pdf. Explanatory notes are supplementary study support; check exact wording and diagrams with your textbook and faculty.",
+  "checklist": {
+    "SN": [
+      {
+        "title": "Medial Medullary Syndrome",
+        "priority": "SN",
+        "stars": 0,
+        "id": "medial-medullary-syndrome"
+      },
+      {
+        "title": "Floor of Fourth Ventricle**",
+        "priority": "SN",
+        "stars": 2,
+        "id": "floor-of-fourth-ventricle"
+      },
+      {
+        "title": "Circle of Willis",
+        "priority": "SN",
+        "stars": 0,
+        "id": "circle-of-willis"
+      },
+      {
+        "title": "T.S. Medulla Oblongata \u2013 Pyramidal Decussation",
+        "priority": "SN",
+        "stars": 0,
+        "id": "ts-medulla-pyramidal-decussation"
+      },
+      {
+        "title": "T.S. Midbrain \u2013 Superior Colliculus Level*",
+        "priority": "SN",
+        "stars": 1,
+        "id": "ts-midbrain-superior-colliculus"
+      },
+      {
+        "title": "Corpus Callosum**",
+        "priority": "SN",
+        "stars": 2,
+        "id": "corpus-callosum"
+      },
+      {
+        "title": "Brown-S\u00e9quard Syndrome",
+        "priority": "SN",
+        "stars": 0,
+        "id": "brown-sequard-syndrome"
+      },
+      {
+        "title": "Inferior Cerebellar Peduncle*",
+        "priority": "SN",
+        "stars": 1,
+        "id": "inferior-cerebellar-peduncle"
+      },
+      {
+        "title": "T.S. Spinal Cord \u2013 Cervical Level",
+        "priority": "SN",
+        "stars": 0,
+        "id": "ts-spinal-cord-cervical"
+      },
+      {
+        "title": "Internal Capsule",
+        "priority": "SN / LAQ*",
+        "stars": 1,
+        "id": "internal-capsule"
+      }
+    ],
+    "LAQ": [
+      {
+        "title": "Glossopharyngeal Nerve*",
+        "priority": "LAQ",
+        "stars": 1,
+        "id": "glossopharyngeal-nerve"
+      },
+      {
+        "title": "Superolateral Surface of Cerebrum**",
+        "priority": "LAQ",
+        "stars": 2,
+        "id": "superolateral-surface-cerebrum"
+      },
+      {
+        "title": "Internal Capsule*",
+        "priority": "LAQ / SN",
+        "stars": 1,
+        "id": "internal-capsule"
+      },
+      {
+        "title": "Pons",
+        "priority": "LAQ",
+        "stars": 0,
+        "id": "pons"
+      },
+      {
+        "title": "Oculomotor Nerve",
+        "priority": "LAQ",
+        "stars": 0,
+        "id": "oculomotor-nerve"
+      },
+      {
+        "title": "Midbrain",
+        "priority": "LAQ",
+        "stars": 0,
+        "id": "midbrain"
+      },
+      {
+        "title": "Functional Areas in Frontal Lobe",
+        "priority": "LAQ",
+        "stars": 0,
+        "id": "functional-areas-frontal-lobe"
+      }
+    ]
+  },
+  "lessons": [
+    {
+      "id": "floor-of-fourth-ventricle",
+      "title": "Floor of Fourth Ventricle",
+      "pdfLabel": "Floor of Fourth Ventricle**",
+      "examType": "SN",
+      "tag": "SN \u00b7 ** (High Priority)",
+      "minutes": 10,
+      "quickRevision": [
+        "Diamond-shaped (rhomboid) fossa formed by posterior surface of pons (upper half) and open medulla (lower half).",
+        "Divided into right & left halves by median sulcus; horizontal striae medullares separate pontine and medullary parts.",
+        "Medial eminence shows facial colliculus (abducens nucleus + internal genu of facial nerve) in pons, and hypoglossal & vagal triangles in medulla.",
+        "Inferior angle has obex and area postrema (chemoreceptor trigger zone / vomiting center)."
+      ],
+      "examFramework": "Write under: 1. Introduction & Shape (rhomboid fossa) \u2192 2. Boundaries (superolateral & inferolateral) \u2192 3. Divisions (pontine, intermediate/striae medullares, medullary) \u2192 4. Features in Pontine Part (facial colliculus, locus coeruleus) \u2192 5. Features in Medullary Part (hypoglossal triangle, vagal triangle, vestibular area, calamus scriptorius, area postrema) \u2192 6. Neat labelled diagram (compulsory!).",
+      "slides": [
+        {
+          "h": "1. What is it & Where is it located?",
+          "p": "The floor of the fourth ventricle is also called the <b>rhomboid fossa</b> because it is shaped like a diamond (rhombus). It lies on the back (posterior surface) of the brainstem\u2014specifically, its upper triangular half is formed by the <b>posterior surface of the pons</b>, and its lower triangular half is formed by the <b>posterior surface of the open part of the medulla oblongata</b>.",
+          "bullets": [
+            "<b>Superolateral boundaries:</b> Superior cerebellar peduncles (on each side).",
+            "<b>Inferolateral boundaries:</b> Gracile tubercle, cuneate tubercle, and inferior cerebellar peduncle.",
+            "<b>Median sulcus:</b> Runs vertically down the center, dividing the floor into symmetrical right and left halves."
+          ],
+          "remember": "Diamond floor = Upper half Pons + Lower half Open Medulla, split vertically by the Median Sulcus.",
+          "q": "Which two parts of the brainstem form the floor of the fourth ventricle?",
+          "opts": [
+            "Midbrain and Pons",
+            "Posterior pons and open medulla oblongata",
+            "Closed medulla and spinal cord",
+            "Thalamus and hypothalamus"
+          ],
+          "a": 1,
+          "why": "The upper triangular half is formed by the posterior pons, and the lower triangular half is formed by the posterior surface of the open medulla."
+        },
+        {
+          "h": "2. Important Structures in the Pontine (Upper) Part",
+          "p": "Lateral to the median sulcus lies a vertical elevation called the <b>medial eminence</b>, bounded laterally by the <b>sulcus limitans</b>. In the pontine region, the lower end of the medial eminence swells to form the <b>facial colliculus</b>. At the upper end of the sulcus limitans is a bluish-grey area called the <b>locus coeruleus</b> (rich in noradrenergic neurons).",
+          "bullets": [
+            "<b>Facial colliculus:</b> Produced by motor fibres of the <b>facial nerve (CN VII)</b> looping around the <b>abducens nucleus (CN VI)</b>.",
+            "<b>Striae medullares:</b> Delicate white transverse fibres crossing the middle of the floor from lateral recesses to the median sulcus, marking the junction between pontine and medullary parts.",
+            "<b>Vestibular area:</b> Lies lateral to the sulcus limitans across both pontine and medullary parts."
+          ],
+          "remember": "Facial colliculus = CN VII fibres looping over CN VI nucleus (NOT the facial nucleus itself!).",
+          "q": "The facial colliculus in the floor of the fourth ventricle is formed by fibres of the facial nerve looping around which nucleus?",
+          "opts": [
+            "Facial nerve nucleus",
+            "Abducens nucleus (CN VI)",
+            "Hypoglossal nucleus (CN XII)",
+            "Trochlear nucleus (CN IV)"
+          ],
+          "a": 1,
+          "why": "The motor fibres of the facial nerve (CN VII) wind around the abducens nucleus (CN VI) internally, producing the surface bump called the facial colliculus."
+        },
+        {
+          "h": "3. Medullary (Lower) Part & Clinical Anatomy",
+          "p": "The lower tapered tip of the floor resembles the nib of a writing pen and is called the <b>calamus scriptorius</b>. In this medullary triangle, the sulcus limitans splits into two small depressions that outline three key triangles: the <b>hypoglossal triangle</b> (medially), the <b>vagal triangle</b> (between them), and the <b>vestibular area</b> (laterally). Just above the inferior angle (obex) lies the <b>area postrema</b>.",
+          "bullets": [
+            "<b>Hypoglossal triangle:</b> Overlies the hypoglossal nucleus (CN XII).",
+            "<b>Vagal triangle:</b> Overlies the dorsal nucleus of vagus (CN X).",
+            "<b>Clinical \u2014 Area Postrema:</b> Lacks a blood-brain barrier and acts as the <b>chemoreceptor trigger zone (CTZ)</b> for vomiting. Tumors in the 4th ventricle (like medulloblastoma or ependymoma) cause projectile vomiting and obstructive hydrocephalus."
+          ],
+          "remember": "From medial to lateral in lower floor: Hypoglossal (XII) \u2192 Vagal (X) \u2192 Vestibular (VIII). Tip = Calamus scriptorius + Area postrema (vomiting).",
+          "q": "Which structure at the inferior angle of the fourth ventricle acts as the chemoreceptor trigger zone (vomiting center)?",
+          "opts": [
+            "Locus coeruleus",
+            "Facial colliculus",
+            "Area postrema",
+            "Striae medullares"
+          ],
+          "a": 2,
+          "why": "The area postrema lies just rostral to the obex in the floor of the fourth ventricle and serves as the chemoreceptor trigger zone for emesis."
+        }
+      ]
+    },
+    {
+      "id": "corpus-callosum",
+      "title": "Corpus Callosum",
+      "pdfLabel": "Corpus Callosum**",
+      "examType": "SN",
+      "tag": "SN \u00b7 ** (High Priority)",
+      "minutes": 10,
+      "quickRevision": [
+        "Largest commissural fibre bundle (~10 cm long, >200 million axons) connecting matching areas of left & right cerebral hemispheres.",
+        "4 parts from anterior to posterior: Rostrum \u2192 Genu \u2192 Trunk (Body) \u2192 Splenium.",
+        "Genu forms Forceps Minor (frontal lobes); Splenium forms Forceps Major (occipital lobes) and Tapetum.",
+        "Blood supply: Pericallosal artery (branch of Anterior Cerebral Artery); Splenium also gets Posterior Cerebral Artery supply."
+      ],
+      "examFramework": "Write under: 1. Definition & Fibre Type (largest commissural bundle) \u2192 2. Location & Dimensions (floor of median longitudinal fissure, 10 cm) \u2192 3. Four Parts & Relations (Rostrum, Genu, Trunk, Splenium) \u2192 4. Fibre Projections (Forceps minor, Forceps major, Tapetum) \u2192 5. Blood Supply \u2192 6. Clinical Anatomy (Split-brain syndrome, Marchiafava-Bignami disease) + Sagittal/Horizontal diagram.",
+      "slides": [
+        {
+          "h": "1. What is it, Location & Four Parts?",
+          "p": "The <b>corpus callosum</b> is the largest bundle of <b>commissural fibres</b> in the brain. Commissural fibres connect corresponding (homotopic) areas of the left and right cerebral hemispheres so both sides of your brain can talk to each other. It lies at the bottom of the <b>median longitudinal fissure</b> and forms the roof of the lateral ventricles.",
+          "bullets": [
+            "<b>Rostrum:</b> Thin, beak-like anterior-inferior prolongation extending back to the lamina terminalis.",
+            "<b>Genu:</b> Anterior bent end ('knee'), lying ~4 cm behind the frontal pole.",
+            "<b>Trunk (Body):</b> Main arched middle portion extending backward; superior surface is covered by indusium griseum and cingulate gyrus.",
+            "<b>Splenium:</b> Thickest, rounded posterior end lying ~6 cm in front of the occipital pole, overhanging the pineal gland and midbrain tectum."
+          ],
+          "remember": "R-G-T-S from front to back: Rostrum (beak) \u2192 Genu (knee) \u2192 Trunk (body) \u2192 Splenium (thick tail).",
+          "q": "Which is the thickest and most posterior part of the corpus callosum?",
+          "opts": [
+            "Rostrum",
+            "Genu",
+            "Trunk",
+            "Splenium"
+          ],
+          "a": 3,
+          "why": "The splenium is the thickest, rounded posterior extremity of the corpus callosum, overhanging the pineal body and dorsal midbrain."
+        },
+        {
+          "h": "2. Fibre Radiations & Blood Supply",
+          "p": "As the fibres of the corpus callosum fan out into the white matter of both hemispheres, they form named bundles that are classic viva and MCQ favorites:",
+          "bullets": [
+            "<b>Forceps Minor:</b> Fibres from the <b>genu</b> curve forward like a fork to connect both <b>frontal lobes</b>.",
+            "<b>Forceps Major:</b> Fibres from the <b>splenium</b> curve backward to connect both <b>occipital lobes</b> (producing the bulb of the posterior horn).",
+            "<b>Tapetum:</b> Fibres from the posterior trunk and splenium sweep downward to form the roof and lateral wall of the posterior and inferior horns of the lateral ventricle.",
+            "<b>Blood Supply:</b> Mainly by the <b>pericallosal artery</b> (branch of Anterior Cerebral Artery). The splenium is additionally supplied by posterior pericallosal branches of the <b>Posterior Cerebral Artery</b>."
+          ],
+          "remember": "Genu = Forceps Minor (Frontal). Splenium = Forceps Major (Occipital) + Tapetum.",
+          "q": "Which bundle of callosal fibres curves backward from the splenium to connect the two occipital lobes?",
+          "opts": [
+            "Forceps minor",
+            "Forceps major",
+            "Anterior commissure",
+            "Cingulum"
+          ],
+          "a": 1,
+          "why": "Forceps major consists of fibres passing through the splenium that curve posteriorly into the occipital lobes."
+        },
+        {
+          "h": "3. Clinical Anatomy",
+          "p": "Understanding what happens when the corpus callosum is cut or damaged helps you score extra clinical marks in your short note:",
+          "bullets": [
+            "<b>Callosotomy (Split-Brain Syndrome):</b> Surgical sectioning of the corpus callosum is sometimes performed to control intractable generalized epilepsy. Patients cannot transfer learned information between hemispheres (e.g., an object held in the left hand\u2014processed by the right hemisphere\u2014cannot be named verbally because speech is in the left hemisphere).",
+            "<b>Agenesis of Corpus Callosum:</b> Congenital absence of the corpus callosum; MRI shows widely separated parallel lateral ventricles ('racing car sign').",
+            "<b>Marchiafava-Bignami Disease:</b> Rare demyelination and necrosis of the corpus callosum associated with chronic alcoholism."
+          ],
+          "remember": "Split-brain = Left hand feels object (Right brain), Right brain can't tell Left brain (speech) what it is!",
+          "q": "Which artery is the primary blood supply to the rostrum, genu, and trunk of the corpus callosum?",
+          "opts": [
+            "Middle cerebral artery",
+            "Pericallosal artery (branch of Anterior Cerebral Artery)",
+            "Anterior choroidal artery",
+            "Superior cerebellar artery"
+          ],
+          "a": 1,
+          "why": "The pericallosal artery, a continuation of the anterior cerebral artery, runs directly above the corpus callosum and supplies its rostrum, genu, and body."
+        }
+      ]
+    },
+    {
+      "id": "internal-capsule",
+      "title": "Internal Capsule",
+      "pdfLabel": "Internal Capsule* (SN & LAQ)",
+      "examType": "LAQ / SN",
+      "tag": "LAQ \u00b7 * & SN (Must Know)",
+      "minutes": 14,
+      "quickRevision": [
+        "Compact V-shaped band of projection fibres between thalamus/caudate medially and lentiform nucleus laterally.",
+        "5 parts: Anterior limb, Genu, Posterior limb, Retrolentiform part, Sublentiform part.",
+        "Genu carries Corticonuclear (corticobulbar) fibres; Posterior limb carries Corticospinal tract + Superior thalamic radiation.",
+        "Blood supply: Charcot's artery of cerebral hemorrhage (lateral striate branch of MCA) supplies posterior limb \u2192 thrombosis causes contralateral hemiplegia."
+      ],
+      "examFramework": "Write under: 1. Definition & Fibre Type (projection fibres) \u2192 2. Relations (medial & lateral in horizontal section) \u2192 3. Five Parts & Exact Fibre Composition (table format shines!) \u2192 4. Blood Supply (artery-by-artery for each part) \u2192 5. Applied Anatomy (capsular hemiplegia, Charcot's artery) + Horizontal section diagram.",
+      "slides": [
+        {
+          "h": "1. What is it & Relations in Horizontal Section?",
+          "p": "The <b>internal capsule</b> is a thick, compact V-shaped sheet of <b>projection fibres</b> (ascending sensory and descending motor tracts) connecting the cerebral cortex with the brainstem and spinal cord. Because so many vital fibres are packed into a narrow space, even a tiny stroke here causes widespread paralysis.",
+          "bullets": [
+            "<b>Medial relations:</b> Head of the <b>caudate nucleus</b> (anteriorly) and the <b>thalamus</b> (posteriorly).",
+            "<b>Lateral relation:</b> The lens-shaped <b>lentiform nucleus</b> (globus pallidus + putamen), which fits into the lateral concavity of the 'V'.",
+            "<b>Continuity:</b> Above, it fans out as the <b>corona radiata</b>; below, its motor fibres continue into the midbrain as the <b>crus cerebri</b>."
+          ],
+          "remember": "Think of a V-shaped highway: Caudate & Thalamus on the inside (medial), Lentiform nucleus on the outside (lateral).",
+          "q": "Which structures form the medial relations of the internal capsule in a horizontal section of the cerebrum?",
+          "opts": [
+            "Putamen and globus pallidus",
+            "Head of caudate nucleus and thalamus",
+            "Claustrum and insula",
+            "Amygdala and hippocampus"
+          ],
+          "a": 1,
+          "why": "Medially, the internal capsule is bounded by the head of the caudate nucleus in front and the dorsal thalamus behind."
+        },
+        {
+          "h": "2. Five Parts & Their Constituent Fibres",
+          "p": "The internal capsule is divided into <b>five parts</b> based on their relation to the lentiform nucleus. Memorizing which tract runs in each part is the core of any LAQ or viva:",
+          "bullets": [
+            "<b>1. Anterior Limb</b> (between caudate head & lentiform): Frontopontine fibres and Anterior thalamic radiation.",
+            "<b>2. Genu</b> (bend of the V): <b>Corticonuclear (corticobulbar) fibres</b> for head & neck muscles + Superior thalamic radiation.",
+            "<b>3. Posterior Limb</b> (between thalamus & lentiform): <b>Corticospinal tract</b> (upper limb in front, trunk, lower limb behind), Corticorubral fibres, and Superior thalamic radiation (somatosensory).",
+            "<b>4. Retrolentiform Part</b> (behind lentiform): <b>Optic radiation</b> (geniculocalcarine tract) and Parieto-/Occipitopontine fibres.",
+            "<b>5. Sublentiform Part</b> (below lentiform): <b>Auditory radiation</b> (from medial geniculate body to auditory cortex) and Temporopontine fibres."
+          ],
+          "remember": "Genu = Head/Neck (Corticonuclear). Posterior limb = Body motor (Corticospinal) + Sensory. Retro = Vision (Optic). Sub = Hearing (Auditory).",
+          "q": "Which part of the internal capsule contains the auditory radiation?",
+          "opts": [
+            "Anterior limb",
+            "Genu",
+            "Retrolentiform part",
+            "Sublentiform part"
+          ],
+          "a": 3,
+          "why": "The sublentiform part passes beneath the lentiform nucleus and carries the auditory radiation from the medial geniculate body to the temporal cortex."
+        },
+        {
+          "h": "3. Blood Supply & Applied Anatomy",
+          "p": "The internal capsule has a rich but vulnerable arterial supply from branches of the ICA, ACA, and MCA. Damage here produces classic upper motor neuron (UMN) syndromes:",
+          "bullets": [
+            "<b>Anterior limb:</b> Recurrent artery of Heubner (branch of ACA) + medial/lateral striate branches of MCA.",
+            "<b>Genu:</b> Direct branches from Internal Carotid Artery (ICA) and lateral striate branches of MCA.",
+            "<b>Posterior limb:</b> <b>Lateral striate branches of MCA</b> (especially <b>Charcot's artery of cerebral hemorrhage</b>) and <b>Anterior choroidal artery</b>.",
+            "<b>Retrolentiform & Sublentiform parts:</b> Anterior choroidal artery (branch of ICA).",
+            "<b>Clinical \u2014 Capsular Hemiplegia:</b> Hemorrhage or thrombosis of Charcot's artery damages the posterior limb, causing <b>contralateral spastic hemiplegia</b> (paralysis of opposite half of body), contralateral hemianesthesia, and contralateral homonymous hemianopia (if retrolentiform fibres are involved)."
+          ],
+          "remember": "Charcot's artery (branch of MCA) supplies the Posterior Limb \u2192 Stroke causes Contralateral Hemiplegia.",
+          "q": "Charcot's artery of cerebral hemorrhage is a branch of which major cerebral artery?",
+          "opts": [
+            "Anterior cerebral artery (ACA)",
+            "Middle cerebral artery (MCA)",
+            "Posterior cerebral artery (PCA)",
+            "Basilar artery"
+          ],
+          "a": 1,
+          "why": "Charcot's artery is the largest lateral lenticulostriate branch of the middle cerebral artery (MCA), frequently involved in hypertensive intracerebral hemorrhage."
+        }
+      ]
+    },
+    {
+      "id": "circle-of-willis",
+      "title": "Circle of Willis",
+      "pdfLabel": "Circle of Willis",
+      "examType": "SN",
+      "tag": "SN \u00b7 Important",
+      "minutes": 9,
+      "quickRevision": [
+        "Hexagonal arterial anastomosis in the interpeduncular cistern at the base of the brain.",
+        "Formed by 2 arterial systems: Internal Carotid (anterior) + Vertebrobasilar (posterior).",
+        "Branches: Cortical branches (ACA, MCA, PCA) and Central/Perforating branches (supply internal capsule, basal ganglia, thalamus).",
+        "Clinical: Berry aneurysms occur most commonly at arterial junctions (especially ACom\u2013ACA junction) \u2192 Subarachnoid hemorrhage."
+      ],
+      "examFramework": "Write under: 1. Definition & Location (interpeduncular fossa) \u2192 2. Formation (Anterior, Lateral, Posterior boundaries\u2014list exact arteries) \u2192 3. Functional Significance (equalizes pressure, collateral flow) \u2192 4. Types of Branches (Cortical vs Central) \u2192 5. Applied Anatomy (Berry aneurysm, Subarachnoid hemorrhage) + Neat hexagonal diagram.",
+      "slides": [
+        {
+          "h": "1. What is it & How is it Formed?",
+          "p": "The <b>Circle of Willis (circulus arteriosus)</b> is a polygonal (six-sided) arterial ring located at the base of the brain in the <b>interpeduncular cistern</b>, surrounding the optic chiasma, tuber cinereum, and mammillary bodies. It unites the anterior (internal carotid) and posterior (vertebrobasilar) circulations.",
+          "bullets": [
+            "<b>Anteriorly:</b> Two <b>Anterior Cerebral Arteries (ACA)</b> joined together by the single <b>Anterior Communicating Artery (ACom)</b>.",
+            "<b>Anterolaterally (on each side):</b> Terminal part of the <b>Internal Carotid Artery (ICA)</b>.",
+            "<b>Posterolaterally (on each side):</b> <b>Posterior Communicating Artery (PCom)</b> connecting ICA to PCA.",
+            "<b>Posteriorly:</b> Bifurcation of the <b>Basilar Artery</b> into right and left <b>Posterior Cerebral Arteries (PCA)</b>."
+          ],
+          "remember": "Note a classic trick: The Middle Cerebral Artery (MCA) is a branch of ICA, NOT part of the ring itself!",
+          "q": "Which of the following arteries does NOT form part of the arterial ring of the Circle of Willis?",
+          "opts": [
+            "Anterior communicating artery",
+            "Posterior communicating artery",
+            "Middle cerebral artery",
+            "Posterior cerebral artery"
+          ],
+          "a": 2,
+          "why": "The middle cerebral artery (MCA) arises from the internal carotid artery and runs laterally into the lateral sulcus; it is a major branch, not one of the arteries forming the polygon."
+        },
+        {
+          "h": "2. Functional Significance & Branches",
+          "p": "Why did nature design a ring of arteries at the base of the brain? Under normal conditions, blood from the right and left sides barely mixes because pressures are equal. However, if one main feeding artery (like one ICA) gets slowly narrowed or blocked, the Circle of Willis provides a <b>collateral pathway</b> so blood from the opposite side can perfuse the deprived brain region.",
+          "bullets": [
+            "<b>Cortical branches:</b> ACA, MCA, and PCA supply the cerebral cortex and have limited anastomoses on the brain surface.",
+            "<b>Central (perforating) branches:</b> Slender end-arteries arising directly from the circle (e.g., medial & lateral striate, thalamoperforating) that pierce the anterior and posterior perforated substances to supply deep structures (internal capsule, basal ganglia, thalamus)."
+          ],
+          "remember": "Cortical branches = surface of brain. Central branches = functional end-arteries to deep grey matter & internal capsule.",
+          "q": "What is the primary physiological role of the Circle of Willis?",
+          "opts": [
+            "Draining venous blood into the cavernous sinus",
+            "Providing collateral blood flow and equalizing arterial pressure between hemispheres",
+            "Secreting cerebrospinal fluid into the third ventricle",
+            "Supplying blood to the spinal cord"
+          ],
+          "a": 1,
+          "why": "The Circle of Willis equalizes blood pressure on both sides and acts as an emergency collateral bypass if one major feeding vessel is occluded."
+        },
+        {
+          "h": "3. Applied Anatomy \u2014 Berry Aneurysms",
+          "p": "At the sharp Y-junctions where arteries of the Circle of Willis meet, the tunica media (muscular wall) can have congenital weak spots. Over time, high arterial pressure causes balloon-like outpouchings called <b>saccular (berry) aneurysms</b>.",
+          "bullets": [
+            "<b>Most common site:</b> Junction of the <b>Anterior Communicating Artery (ACom) and Anterior Cerebral Artery (ACA)</b> (~30\u201335%), followed by the ICA\u2013PCom junction.",
+            "<b>Rupture consequence:</b> Causes sudden, severe <b>subarachnoid hemorrhage (SAH)</b>, classically described by patients as the 'worst headache of my life' (thunderclap headache) with neck stiffness.",
+            "<b>PCom aneurysm sign:</b> A posterior communicating artery aneurysm sits right next to the <b>oculomotor nerve (CN III)</b> and can compress it, causing ptosis, 'down-and-out' eye, and a dilated fixed pupil."
+          ],
+          "remember": "Berry aneurysm = Weak tunica media at junctions (ACom-ACA #1) \u2192 Rupture causes Subarachnoid Hemorrhage.",
+          "q": "Where do congenital saccular (berry) aneurysms occur most frequently in the Circle of Willis?",
+          "opts": [
+            "Junction of basilar and vertebral arteries",
+            "Junction of anterior communicating and anterior cerebral arteries",
+            "Within the middle meningeal artery",
+            "Inside the superior sagittal sinus"
+          ],
+          "a": 1,
+          "why": "The junction of the anterior communicating artery (ACom) with the anterior cerebral artery (ACA) is the single most common site for berry aneurysms."
+        }
+      ]
+    },
+    {
+      "id": "medial-medullary-syndrome",
+      "title": "Medial Medullary Syndrome",
+      "pdfLabel": "Medial Medullary Syndrome",
+      "examType": "SN",
+      "tag": "SN \u00b7 High-Yield Clinical",
+      "minutes": 9,
+      "quickRevision": [
+        "Also called Dejerine's Anterior Bulbar Syndrome.",
+        "Caused by occlusion of paramedian branches of Anterior Spinal Artery (or vertebral artery).",
+        "3 key structures damaged: 1. Pyramid (corticospinal) \u2192 Contralateral hemiplegia; 2. Medial lemniscus \u2192 Contralateral loss of vibration & proprioception; 3. Hypoglossal nerve (CN XII) \u2192 Ipsilateral tongue paralysis & deviation toward lesion.",
+        "Classic 'Alternating Hemiplegia': Contralateral body paralysis + Ipsilateral cranial nerve palsy."
+      ],
+      "examFramework": "Write under: 1. Definition & Synonym (Dejerine syndrome) \u2192 2. Artery Involved (paramedian branches of Anterior Spinal Artery) \u2192 3. Structures Damaged & Clinical Deficit Table (3 structures = 3 deficits!) \u2192 4. Why Tongue Deviates to Same Side (genioglossus action) \u2192 5. T.S. Medulla diagram shading the medial wedge.",
+      "slides": [
+        {
+          "h": "1. What is it & Which Artery is Blocked?",
+          "p": "<b>Medial medullary syndrome</b> (also known as <b>Dejerine's syndrome</b>) is a classic brainstem stroke syndrome caused by thrombosis or occlusion of the <b>paramedian branches of the anterior spinal artery</b> (or directly from the vertebral artery). These branches supply the medial wedge of the medulla oblongata right next to the midline.",
+          "bullets": [
+            "<b>Zone affected:</b> Paramedian (anteromedial) zone of the open medulla.",
+            "<b>Core clinical pattern:</b> It produces <b>crossed (alternating) hemiplegia</b>\u2014meaning motor/sensory loss on the <b>opposite (contralateral)</b> side of the body, combined with a cranial nerve palsy on the <b>same (ipsilateral)</b> side."
+          ],
+          "remember": "Medial Medulla = M for Medial, M for Motor (Pyramid), M for Medial Lemniscus, and CN XII (12) divides evenly into Medial!",
+          "q": "Occlusion of which artery causes Medial Medullary Syndrome?",
+          "opts": [
+            "Posterior inferior cerebellar artery (PICA)",
+            "Paramedian branches of the anterior spinal artery",
+            "Superior cerebellar artery (SCA)",
+            "Middle cerebral artery (MCA)"
+          ],
+          "a": 1,
+          "why": "Medial medullary syndrome results from occlusion of the paramedian branches of the anterior spinal artery (or vertebral artery)."
+        },
+        {
+          "h": "2. The Three Structures Damaged & Their Clinical Features",
+          "p": "Think of a neat triangle right next to the midline of the medulla. Three vital structures sit inside this paramedian territory, giving three unmistakable clinical signs:",
+          "bullets": [
+            "<b>1. Pyramid (Corticospinal tract):</b> Fibres have NOT crossed yet (they decussate lower down in the closed medulla). Result \u2192 <b>Contralateral spastic hemiplegia</b> (paralysis of arm and leg on the opposite side, sparing the face).",
+            "<b>2. Medial Lemniscus:</b> Fibres HAVE already crossed (internal arcuate fibres). Result \u2192 <b>Contralateral loss of proprioception (position sense), vibration, and discriminative touch</b>.",
+            "<b>3. Hypoglossal Nerve Fibres (CN XII):</b> Lower motor neuron fibres exiting between pyramid and olive. Result \u2192 <b>Ipsilateral paralysis and atrophy of tongue muscles</b>; on protrusion, the tongue <b>deviates toward the paralyzed (lesion) side</b>."
+          ],
+          "remember": "3 structures in the wedge: Pyramid (opposite body weak) + Medial Lemniscus (opposite vibration/joint sense lost) + CN XII (same-side tongue weakness).",
+          "q": "In a patient with right-sided medial medullary syndrome, which way does the tongue deviate when protruded?",
+          "opts": [
+            "To the left (contralateral side)",
+            "To the right (ipsilateral side)",
+            "Straight ahead without deviation",
+            "Upward toward the soft palate"
+          ],
+          "a": 1,
+          "why": "Lower motor neuron damage to the right hypoglossal nerve paralyzes the right genioglossus; the unopposed left genioglossus pushes the tongue toward the right (lesion) side."
+        },
+        {
+          "h": "3. Quick Comparison: Medial vs Lateral Medullary Syndrome",
+          "p": "Examiners love asking how to distinguish Medial Medullary Syndrome from Lateral Medullary (Wallenberg) Syndrome in viva and MCQs:",
+          "bullets": [
+            "<b>Artery:</b> Medial = Anterior spinal artery; Lateral = PICA (Posterior Inferior Cerebellar Artery) or vertebral artery.",
+            "<b>Limb weakness:</b> Present in Medial (pyramid damaged); ABSENT in Lateral (pyramid spared).",
+            "<b>Dysphagia & Hoarseness:</b> Absent in Medial; Present in Lateral (nucleus ambiguus \u2014 CN IX, X damaged).",
+            "<b>Tongue paralysis:</b> Present in Medial (CN XII); Absent in Lateral."
+          ],
+          "remember": "Rule of 4s: Midline nuclei are factors of 12 (3, 4, 6, 12). CN 12 is midline \u2192 Medial Medullary Syndrome!",
+          "q": "Which of the following is a classic feature of Medial Medullary Syndrome?",
+          "opts": [
+            "Loss of pain and temperature on the contralateral body",
+            "Contralateral loss of vibration and proprioception",
+            "Ipsilateral Horner's syndrome",
+            "Dysphagia and loss of gag reflex"
+          ],
+          "a": 1,
+          "why": "Damage to the medial lemniscus causes contralateral loss of dorsal-column sensations (proprioception, vibration, and fine touch). Pain/temperature, Horner's, and dysphagia belong to Lateral Medullary Syndrome."
+        }
+      ]
+    },
+    {
+      "id": "brown-sequard-syndrome",
+      "title": "Brown-S\u00e9quard Syndrome",
+      "pdfLabel": "Brown Sequard Syndrome",
+      "examType": "SN",
+      "tag": "SN \u00b7 Classic Neuroanatomy",
+      "minutes": 10,
+      "quickRevision": [
+        "Caused by hemisection (cutting one lateral half) of the spinal cord (e.g., stab injury, tumor compression).",
+        "At the level of lesion (Ipsilateral): LMN paralysis (anterior horn) + complete loss of all sensations (posterior horn/root).",
+        "Below the level of lesion (Ipsilateral): UMN spastic paralysis (lateral corticospinal tract) + loss of vibration & proprioception (dorsal columns).",
+        "Below the level of lesion (Contralateral): Loss of pain & temperature starting 1\u20132 segments below (lateral spinothalamic tract already crossed!)."
+      ],
+      "examFramework": "Write under: 1. Definition & Etiology (hemisection of spinal cord) \u2192 2. Anatomical Principle (decussation levels of the 3 major tracts) \u2192 3. Clinical Features AT the Level of Lesion \u2192 4. Clinical Features BELOW the Level (Ipsilateral vs Contralateral table) \u2192 5. Diagram showing spinal cord tracts & crossing levels.",
+      "slides": [
+        {
+          "h": "1. What is it & The Golden Rule of Tract Crossing?",
+          "p": "<b>Brown-S\u00e9quard syndrome</b> is the clinical picture produced by <b>hemisection</b> (damage to one lateral half, left or right) of the spinal cord, most commonly due to penetrating trauma (stab/gunshot) or extramedullary spinal tumors. You don't need to memorize the symptoms blindly\u2014just look at <b>where each tract crosses the midline</b>!",
+          "bullets": [
+            "<b>1. Lateral Corticospinal Tract (Motor):</b> Already crossed in the medulla \u2192 descends on the <b>same side</b>.",
+            "<b>2. Dorsal Columns \u2014 Fasciculus Gracilis & Cuneatus (Proprioception & Vibration):</b> Ascend on the <b>same side</b> and cross higher up in the medulla.",
+            "<b>3. Lateral Spinothalamic Tract (Pain & Temperature):</b> Enters spinal cord, ascends 1\u20132 segments in Lissauer's tract, and <b>crosses immediately to the opposite side</b> via the anterior white commissure!"
+          ],
+          "remember": "Motor & Dorsal Columns cross in the MEDULLA (same side in cord). Pain/Temp crosses in the SPINAL CORD (opposite side!).",
+          "q": "Why is pain and temperature lost on the contralateral (opposite) side below the lesion in Brown-S\u00e9quard syndrome?",
+          "opts": [
+            "Because the lateral spinothalamic tract crosses in the medulla",
+            "Because spinothalamic fibres decussate within the spinal cord 1\u20132 segments above entry",
+            "Because the dorsal columns carry pain fibres",
+            "Because anterior horn cells cross over"
+          ],
+          "a": 1,
+          "why": "Second-order neurons of the lateral spinothalamic tract decussate within the spinal cord (1\u20132 segments above entry), so a right hemisection interrupts pain/temperature fibres coming from the left side of the body."
+        },
+        {
+          "h": "2. Clinical Features BELOW the Level of Lesion",
+          "p": "Suppose a patient has a <b>right-sided hemisection at T10</b>. Below T10, the findings split neatly into ipsilateral (right) and contralateral (left):",
+          "bullets": [
+            "<b>Ipsilateral (Same Side) UMN Paralysis:</b> Damage to lateral corticospinal tract causes spastic paralysis, exaggerated deep tendon reflexes, and positive Babinski sign below the lesion.",
+            "<b>Ipsilateral (Same Side) Loss of Proprioception & Vibration:</b> Damage to dorsal columns causes loss of joint position sense, vibration, and two-point discrimination.",
+            "<b>Contralateral (Opposite Side) Loss of Pain & Temperature:</b> Damage to the already-crossed lateral spinothalamic tract causes analgesia and thermoanesthesia starting <b>1\u20132 segments below</b> the lesion level."
+          ],
+          "remember": "Same side = Spastic weakness + Vibration/Position gone. Opposite side = Pain/Temperature gone (1\u20132 segments below).",
+          "q": "In a left-sided hemisection of the spinal cord at T8, where will the patient lose vibration and joint position sense?",
+          "opts": [
+            "Right side below T8",
+            "Left side below T8",
+            "Both sides above T8",
+            "Right side starting at T10"
+          ],
+          "a": 1,
+          "why": "Dorsal column fibres ascend ipsilaterally in the spinal cord before crossing in the medulla, so a left cord hemisection causes ipsilateral (left-sided) loss of vibration and proprioception below T8."
+        },
+        {
+          "h": "3. Clinical Features AT the Level of Lesion",
+          "p": "Don't forget what happens right at the exact segment that is sliced! At the level of the hemisection, entering dorsal roots and local anterior horn cells on that single segment are destroyed:",
+          "bullets": [
+            "<b>Ipsilateral Lower Motor Neuron (LMN) Paralysis:</b> Destruction of anterior horn cells at that segment causes flaccid paralysis, muscle wasting, and loss of reflexes in the muscles supplied by that specific segment.",
+            "<b>Ipsilateral Band of Complete Anesthesia:</b> Destruction of entering dorsal root fibres causes total loss of ALL sensations (pain, temperature, touch, proprioception) in a narrow dermatome band on the same side at the lesion level."
+          ],
+          "remember": "AT the lesion (same side) = LMN flaccid band + Total sensory loss band in that exact dermatome.",
+          "q": "At the exact segmental level of a spinal cord hemisection, what type of motor paralysis occurs on the ipsilateral side?",
+          "opts": [
+            "Upper motor neuron (spastic) paralysis",
+            "Lower motor neuron (flaccid) paralysis",
+            "No motor paralysis occurs at the level of lesion",
+            "Contralateral spastic paralysis"
+          ],
+          "a": 1,
+          "why": "Direct destruction of anterior horn cells (lower motor neurons) at the level of the lesion produces ipsilateral segmental LMN (flaccid) paralysis."
+        }
+      ]
+    },
+    {
+      "id": "ts-midbrain-superior-colliculus",
+      "title": "T.S. Midbrain \u2013 Superior Colliculus Level",
+      "pdfLabel": "T.S. Midbrain \u2013 Superior Colliculus Level*",
+      "examType": "SN",
+      "tag": "SN \u00b7 * (Starred)",
+      "minutes": 10,
+      "quickRevision": [
+        "Divided into 3 parts from posterior to anterior: Tectum (superior colliculi), Tegmentum, and Basis Pedunculi (Crus cerebri + Substantia nigra).",
+        "Key grey matter: Superior colliculus, Pretectal nucleus (pupillary light reflex), Oculomotor nuclear complex (CN III) + Edinger-Westphal nucleus, Red nucleus, Substantia nigra.",
+        "Tracts in Crus Cerebri (medial to lateral): Frontopontine (1/6) \u2192 Pyramidal tracts (middle 2/3) \u2192 Temporopontine/Parietopontine (1/6).",
+        "Clinical: Weber's syndrome (crus cerebri + CN III) and Benedikt's syndrome (red nucleus + medial lemniscus + CN III)."
+      ],
+      "examFramework": "Write under: 1. Gross Divisions (Tectum, Cerebral Aqueduct, Tegmentum, Substantia Nigra, Crus Cerebri) \u2192 2. Grey Matter Nuclei (Superior colliculus, Pretectal, CN III + Edinger-Westphal, Red nucleus, Substantia nigra) \u2192 3. White Matter Tracts (Crus cerebri proportions, Lemniscus, MLF, Rubrospinal decussation) \u2192 4. Clinical Anatomy (Weber's & Benedikt's syndromes) + Transverse section diagram.",
+      "slides": [
+        {
+          "h": "1. Basic Architecture & Grey Matter Nuclei",
+          "p": "A transverse section of the midbrain at the level of the <b>superior colliculus</b> shows the narrow <b>cerebral aqueduct (of Sylvius)</b> surrounded by periaqueductal grey matter. Behind the aqueduct is the <b>tectum</b>; in front of it are the right and left <b>cerebral peduncles</b>, each split by the pigmented <b>substantia nigra</b> into an anterior <b>crus cerebri</b> and a posterior <b>tegmentum</b>.",
+          "bullets": [
+            "<b>Superior Colliculus:</b> Layered grey-and-white structure controlling visual reflexes and saccadic eye movements; connected to lateral geniculate body via superior brachium.",
+            "<b>Pretectal Nucleus:</b> Lies just rostral/lateral to superior colliculus; mediates the <b>pupillary light reflex</b>.",
+            "<b>Oculomotor Nucleus (CN III) & Edinger-Westphal Nucleus:</b> Situated in the ventral periaqueductal grey; CN III fibres pass anteriorly through the red nucleus to exit in the interpeduncular fossa.",
+            "<b>Red Nucleus:</b> Prominent rounded nucleus in tegmentum (rich in iron/vascularity); gives rise to the rubrospinal tract (crosses in ventral tegmental decussation)."
+          ],
+          "remember": "Superior colliculus = Vision/Eye reflexes + CN III (Oculomotor) + Red Nucleus + Substantia Nigra.",
+          "q": "Which nucleus at the superior colliculus level of the midbrain is the center for the pupillary light reflex?",
+          "opts": [
+            "Red nucleus",
+            "Pretectal nucleus",
+            "Trochlear nucleus",
+            "Substantia nigra"
+          ],
+          "a": 1,
+          "why": "The pretectal nucleus receives retinal afferents via the optic tract and projects bilaterally to the Edinger-Westphal nuclei to mediate the pupillary light reflex."
+        },
+        {
+          "h": "2. White Matter Tracts in Crus Cerebri & Tegmentum",
+          "p": "Every viva examiner loves asking what runs in the <b>crus cerebri</b> and where the lemnisci sit at this upper midbrain level:",
+          "bullets": [
+            "<b>Crus Cerebri (medial to lateral):</b> Medial 1/6 = <b>Frontopontine fibres</b>; Middle 2/3 = <b>Pyramidal tracts</b> (corticonuclear medially, corticospinal laterally); Lateral 1/6 = <b>Temporopontine & Parietopontine fibres</b>.",
+            "<b>Sensory Lemnisci (in lateral tegmentum):</b> From medial to lateral: <b>Medial lemniscus</b>, <b>Trigeminothalamic tract</b>, and <b>Spinal lemniscus</b>. (Note: Lateral lemniscus already ended in the inferior colliculus below!).",
+            "<b>Medial Longitudinal Fasciculus (MLF):</b> Lies just ventral to the oculomotor nucleus, coordinating conjugate eye movements."
+          ],
+          "remember": "Crus cerebri: 1/6 Frontopontine | 2/3 Pyramidal (Head medial, Leg lateral) | 1/6 Temporopontine. Lateral lemniscus is ABSENT here!",
+          "q": "Which lemniscus is NOT present in a transverse section of the midbrain at the level of the superior colliculus?",
+          "opts": [
+            "Medial lemniscus",
+            "Spinal lemniscus",
+            "Lateral lemniscus",
+            "Trigeminal lemniscus"
+          ],
+          "a": 2,
+          "why": "The lateral lemniscus (auditory pathway) terminates lower down in the inferior colliculus, so it is absent at the superior colliculus level."
+        },
+        {
+          "h": "3. Clinical Anatomy \u2014 Weber's & Benedikt's Syndromes",
+          "p": "Occlusion of paramedian/peduncular branches of the <b>posterior cerebral artery (PCA)</b> produces two classic midbrain syndromes at this level:",
+          "bullets": [
+            "<b>Weber's Syndrome (Ventral Midbrain):</b> Damages <b>crus cerebri + emerging CN III fibres</b> \u2192 <b>Ipsilateral CN III palsy</b> (ptosis, eye 'down & out', dilated fixed pupil) + <b>Contralateral hemiplegia</b> (including lower face).",
+            "<b>Benedikt's Syndrome (Tegmentum):</b> Damages <b>red nucleus + medial lemniscus + CN III fibres</b> \u2192 <b>Ipsilateral CN III palsy</b> + <b>Contralateral involuntary movements (ataxia/tremor/chorea)</b> + contralateral loss of proprioception/vibration."
+          ],
+          "remember": "Weber = Crus cerebri + CN III (Paralysis). Benedikt = Red nucleus + CN III (Tremor/Ataxia).",
+          "q": "A lesion involving the crus cerebri and emerging oculomotor nerve fibres at the superior colliculus level causes which syndrome?",
+          "opts": [
+            "Wallenberg syndrome",
+            "Weber's syndrome",
+            "Millard-Gubler syndrome",
+            "Horner's syndrome"
+          ],
+          "a": 1,
+          "why": "Weber's syndrome results from damage to the crus cerebri (causing contralateral hemiplegia) and exiting CN III fibres (causing ipsilateral oculomotor palsy)."
+        }
+      ]
+    },
+    {
+      "id": "glossopharyngeal-nerve",
+      "title": "Glossopharyngeal Nerve (CN IX)",
+      "pdfLabel": "Glossopharyngeal Nerve*",
+      "examType": "LAQ",
+      "tag": "LAQ \u00b7 * (Starred)",
+      "minutes": 13,
+      "quickRevision": [
+        "9th cranial nerve \u2014 mixed nerve of the 3rd pharyngeal arch (Motor, Parasympathetic, General Sensory, Taste, Visceral Sensory).",
+        "4 nuclei in medulla: Nucleus ambiguus (stylopharyngeus), Inferior salivatory nucleus (parotid), Nucleus of tractus solitarius (taste & carotid sinus/body), Spinal nucleus of trigeminal (general sensation).",
+        "Exits skull via Jugular Foramen (middle compartment) and passes between Internal & External Carotid Arteries.",
+        "Clinical: Loss of gag reflex (afferent limb) and Glossopharyngeal neuralgia."
+      ],
+      "examFramework": "Write under: 1. Introduction & Functional Components (5 components) \u2192 2. Deep Origin (4 nuclei in medulla) \u2192 3. Superficial Attachment & Intracranial Course \u2192 4. Exit through Jugular Foramen & Relations in Neck (superior & inferior ganglia) \u2192 5. Branches & Distribution (Tympanic/Lesser petrosal, Carotid, Pharyngeal, Tonsillar, Lingual, Muscular) \u2192 6. Applied Anatomy (Gag reflex, Glossopharyngeal neuralgia) + Diagram.",
+      "slides": [
+        {
+          "h": "1. Functional Components & Nuclei in Medulla",
+          "p": "The <b>glossopharyngeal nerve (CN IX)</b> is the nerve of the <b>third pharyngeal arch</b>. Even though it is a slender nerve, it carries <b>five distinct functional components</b> arising from four nuclei in the medulla oblongata:",
+          "bullets": [
+            "<b>1. Special Visceral Efferent (Branchial motor):</b> From upper part of <b>nucleus ambiguus</b> \u2192 supplies only ONE muscle: <b>stylopharyngeus</b>.",
+            "<b>2. General Visceral Efferent (Parasympathetic):</b> From <b>inferior salivatory nucleus</b> \u2192 secretomotor to the <b>parotid gland</b> (via tympanic nerve \u2192 lesser petrosal nerve \u2192 otic ganglion \u2192 auriculotemporal nerve).",
+            "<b>3. Special Visceral Afferent (Taste):</b> To <b>nucleus of tractus solitarius (NTS)</b> \u2192 carries taste from <b>posterior 1/3 of tongue</b> and circumvallate papillae.",
+            "<b>4. General Visceral Afferent:</b> To <b>NTS</b> \u2192 carries baroreceptor & chemoreceptor impulses from <b>carotid sinus and carotid body</b>.",
+            "<b>5. General Somatic Afferent:</b> To <b>spinal nucleus of trigeminal nerve</b> \u2192 general sensation from posterior 1/3 of tongue, palatine tonsil, pharynx, and middle ear."
+          ],
+          "remember": "CN IX supplies only ONE muscle (Stylopharyngeus) and ONE gland (Parotid), plus posterior 1/3 of tongue & carotid sinus/body!",
+          "q": "Which muscle is the ONLY skeletal muscle supplied by the glossopharyngeal nerve (CN IX)?",
+          "opts": [
+            "Palatopharyngeus",
+            "Stylopharyngeus",
+            "Salpingopharyngeus",
+            "Stylohyoid"
+          ],
+          "a": 1,
+          "why": "Stylopharyngeus is derived from the third pharyngeal arch and is the sole muscle innervated by the glossopharyngeal nerve."
+        },
+        {
+          "h": "2. Course, Jugular Foramen & Key Relations",
+          "p": "CN IX emerges from the upper part of the <b>postolivary sulcus</b> of the medulla as 3\u20134 rootlets (above CN X and CN XI). It passes laterally across the flocculus of the cerebellum to exit the skull through the <b>middle compartment of the jugular foramen</b>.",
+          "bullets": [
+            "<b>Ganglia:</b> Bears a small <b>superior ganglion</b> and a larger <b>inferior (petrosal) ganglion</b> in the jugular foramen.",
+            "<b>Course in neck:</b> Descends between the internal jugular vein and internal carotid artery, then curves forward around the posterior border of <b>stylopharyngeus</b>, passing <b>between the internal and external carotid arteries</b>.",
+            "<b>Entry to pharynx:</b> Passes deep to the hyoglossus muscle to reach the base of the tongue and tonsillar bed."
+          ],
+          "remember": "Exits Jugular Foramen \u2192 hugs Stylopharyngeus \u2192 passes BETWEEN Internal and External Carotid Arteries.",
+          "q": "Through which cranial foramen does the glossopharyngeal nerve exit the skull?",
+          "opts": [
+            "Foramen ovale",
+            "Foramen rotundum",
+            "Jugular foramen",
+            "Hypoglossal canal"
+          ],
+          "a": 2,
+          "why": "CN IX exits through the middle compartment of the jugular foramen along with the inferior petrosal sinus, CN X, and CN XI."
+        },
+        {
+          "h": "3. Branches & Applied Anatomy",
+          "p": "Memorize the six classic branches of CN IX and its clinical tests for your LAQ and viva:",
+          "bullets": [
+            "<b>1. Tympanic nerve (of Jacobson):</b> Enters middle ear \u2192 forms tympanic plexus \u2192 continues as <b>lesser petrosal nerve</b> to otic ganglion (parotid secretomotor).",
+            "<b>2. Carotid branch (Nerve of Hering):</b> Descends on ICA to carotid sinus (BP) and carotid body (O2/CO2).",
+            "<b>3. Pharyngeal branches:</b> Join vagus on middle constrictor to form pharyngeal plexus (sensory to pharynx).",
+            "<b>4. Muscular branch:</b> Supplies stylopharyngeus.",
+            "<b>5. Tonsillar branches:</b> Form circulus tonsillaris around palatine tonsil (referred ear pain in tonsillitis!).",
+            "<b>6. Lingual branches:</b> General sensation + taste from posterior 1/3 of tongue (including circumvallate papillae).",
+            "<b>Clinical \u2014 Gag Reflex & Neuralgia:</b> CN IX forms the <b>afferent (sensory) limb</b> of the gag reflex (CN X is efferent). Glossopharyngeal neuralgia causes severe stabbing pain in the throat/tonsil radiating to the ear on swallowing."
+          ],
+          "remember": "Gag reflex: Afferent = CN IX (9), Efferent = CN X (10). Tonsillitis causes referred earache via tympanic branch of CN IX!",
+          "q": "In the pharyngeal gag reflex, which cranial nerve forms the afferent (sensory) limb?",
+          "opts": [
+            "Vagus nerve (CN X)",
+            "Glossopharyngeal nerve (CN IX)",
+            "Hypoglossal nerve (CN XII)",
+            "Trigeminal nerve (CN V)"
+          ],
+          "a": 1,
+          "why": "The glossopharyngeal nerve (CN IX) carries the sensory (afferent) impulse from the posterior pharyngeal wall/tonsillar pillar, while the vagus nerve (CN X) mediates the motor (efferent) pharyngeal contraction."
+        }
+      ]
+    },
+    {
+      "id": "oculomotor-nerve",
+      "title": "Oculomotor Nerve (CN III)",
+      "pdfLabel": "Oculomotor Nerve",
+      "examType": "LAQ",
+      "tag": "LAQ \u00b7 Important",
+      "minutes": 12,
+      "quickRevision": [
+        "3rd cranial nerve \u2014 purely motor (Somatic motor to 5 extraocular muscles + Parasympathetic to sphincter pupillae & ciliary muscle).",
+        "Arises from Oculomotor nuclear complex & Edinger-Westphal nucleus at superior colliculus level of midbrain.",
+        "Passes between PCA & SCA \u2192 lateral wall of Cavernous Sinus \u2192 divides into Superior & Inferior divisions \u2192 enters orbit via Superior Orbital Fissure (within tendinous ring).",
+        "Complete CN III palsy: Ptosis, Eye 'Down & Out', Dilated fixed pupil (mydriasis), Loss of accommodation."
+      ],
+      "examFramework": "Write under: 1. Functional Components & Deep Origin (Oculomotor complex + Edinger-Westphal nucleus) \u2192 2. Intracranial Course & Relations (PCA/SCA, Cavernous sinus lateral wall) \u2192 3. Division & Entry into Orbit (Superior Orbital Fissure inside common tendinous ring) \u2192 4. Distribution (Superior & Inferior divisions + Ciliary ganglion pathway) \u2192 5. Applied Anatomy (Complete CN III palsy features & anatomical basis) + Diagram.",
+      "slides": [
+        {
+          "h": "1. Functional Components, Nuclei & Course",
+          "p": "The <b>oculomotor nerve (CN III)</b> is a purely motor cranial nerve with two components: <b>General Somatic Efferent (GSE)</b> for extraocular eye muscles, and <b>General Visceral Efferent (GVE \u2014 parasympathetic)</b> for intrinsic eye muscles.",
+          "bullets": [
+            "<b>Deep Origin:</b> Somatic motor nucleus (in ventral periaqueductal grey at superior colliculus level) + <b>Edinger-Westphal nucleus</b> (parasympathetic).",
+            "<b>Emergence:</b> Emerges from the <b>oculomotor sulcus</b> on the medial side of the crus cerebri into the interpeduncular fossa.",
+            "<b>Vascular Relation:</b> Passes forward <b>between the Posterior Cerebral Artery (above) and Superior Cerebellar Artery (below)</b>\u2014an important site for aneurysm compression!",
+            "<b>Cavernous Sinus:</b> Pierces dura to run forward in the upper part of the <b>lateral wall of the cavernous sinus</b> (above CN IV)."
+          ],
+          "remember": "CN III exits midbrain \u2192 sandwiched between PCA (top) & SCA (bottom) \u2192 lateral wall of Cavernous Sinus.",
+          "q": "The oculomotor nerve passes forward between which two arteries right after emerging from the midbrain?",
+          "opts": [
+            "Anterior cerebral and middle cerebral arteries",
+            "Posterior cerebral artery and superior cerebellar artery",
+            "Internal carotid and ophthalmic arteries",
+            "Anterior inferior and posterior inferior cerebellar arteries"
+          ],
+          "a": 1,
+          "why": "CN III passes between the posterior cerebral artery (above) and the superior cerebellar artery (below) as it runs forward from the interpeduncular fossa."
+        },
+        {
+          "h": "2. Orbital Entry & Branches (Superior vs Inferior Division)",
+          "p": "Just before entering the orbit, CN III splits into a smaller <b>superior division</b> and a larger <b>inferior division</b>. Both divisions pass through the <b>middle compartment of the superior orbital fissure</b>, inside the <b>common tendinous ring (annulus of Zinn)</b>, with the nasociliary nerve lying between them.",
+          "bullets": [
+            "<b>Superior Division supplies (2 muscles):</b> <b>Superior rectus</b> and <b>Levator palpebrae superioris</b>.",
+            "<b>Inferior Division supplies (3 extraocular muscles + parasympathetic):</b> <b>Medial rectus</b>, <b>Inferior rectus</b>, and <b>Inferior oblique</b>.",
+            "<b>Parasympathetic Pathway (Nerve to Inferior Oblique):</b> Preganglionic fibres travel in the nerve to inferior oblique \u2192 synapse in the <b>ciliary ganglion</b> \u2192 postganglionic <b>short ciliary nerves</b> supply <b>sphincter pupillae</b> (pupil constriction) and <b>ciliary muscle</b> (accommodation)."
+          ],
+          "remember": "All extraocular muscles are supplied by CN III EXCEPT SO4 (Superior Oblique = CN IV) and LR6 (Lateral Rectus = CN VI). Parasympathetic fibres hitchhike on the nerve to Inferior Oblique!",
+          "q": "Preganglionic parasympathetic fibres of the oculomotor nerve reach the ciliary ganglion via which branch?",
+          "opts": [
+            "Superior division",
+            "Nerve to medial rectus",
+            "Nerve to inferior oblique",
+            "Nasociliary nerve"
+          ],
+          "a": 2,
+          "why": "The parasympathetic root of the ciliary ganglion leaves the nerve to the inferior oblique muscle (from the inferior division of CN III)."
+        },
+        {
+          "h": "3. Applied Anatomy \u2014 Complete Oculomotor Nerve Palsy",
+          "p": "Every single clinical sign of a complete CN III lesion can be deduced directly from which muscles are paralyzed and which remain unopposed:",
+          "bullets": [
+            "<b>1. Severe Ptosis (drooping of upper eyelid):</b> Paralysis of levator palpebrae superioris.",
+            "<b>2. Eyeball turned 'Down and Out':</b> Unopposed action of <b>Lateral Rectus (CN VI)</b> pulls eye laterally ('out') and <b>Superior Oblique (CN IV)</b> pulls eye downward and laterally ('down').",
+            "<b>3. Dilated, Fixed Pupil (Mydriasis):</b> Paralysis of sphincter pupillae leaves dilator pupillae (sympathetic) unopposed; both direct and consensual light reflexes are lost on that side.",
+            "<b>4. Loss of Accommodation:</b> Paralysis of ciliary muscle causes blurred near vision.",
+            "<b>5. Diplopia (Double Vision):</b> Present once the drooping eyelid is lifted."
+          ],
+          "remember": "Complete CN III palsy = Ptosis + Eye 'Down & Out' (SO4 & LR6 win!) + Dilated fixed pupil + Loss of accommodation.",
+          "q": "Why does the eyeball point 'down and out' in complete oculomotor nerve (CN III) paralysis?",
+          "opts": [
+            "Overactivity of superior rectus and medial rectus",
+            "Unopposed action of lateral rectus (CN VI) and superior oblique (CN IV)",
+            "Paralysis of the optic nerve",
+            "Spasm of the inferior oblique muscle"
+          ],
+          "a": 1,
+          "why": "With CN III paralyzed, the only functioning extraocular muscles are the lateral rectus (abducts the eye 'out') and superior oblique (depresses and abducts the eye 'down')."
+        }
+      ]
+    },
+    {
+      "id": "functional-areas-frontal-lobe",
+      "title": "Functional Areas in Frontal Lobe",
+      "pdfLabel": "Functional Areas in Frontal Lobe",
+      "examType": "LAQ",
+      "tag": "LAQ \u00b7 High-Yield Cortex",
+      "minutes": 12,
+      "quickRevision": [
+        "Primary Motor Area (Area 4): Precentral gyrus; contralateral motor homunculus (head/hand huge, leg on paracentral lobule).",
+        "Premotor (Area 6) & Supplementary Motor Area (SMA): Planning and programming of skilled movements.",
+        "Frontal Eye Field (Area 8): Conjugate horizontal eye movements to the opposite side.",
+        "Broca's Motor Speech Area (Areas 44 & 45): Pars opercularis & pars triangularis of inferior frontal gyrus (dominant/left hemisphere) \u2192 lesion causes expressive/motor aphasia.",
+        "Prefrontal Cortex (Areas 9\u201312): Personality, judgment, executive planning, social behavior."
+      ],
+      "examFramework": "Write under: 1. Introduction & Boundaries of Frontal Lobe (Central sulcus, Lateral sulcus) \u2192 2. Sulci & Gyri of Frontal Lobe (briefly) \u2192 3. Detailed Functional Areas with Brodmann Numbers (Area 4, Area 6 & SMA, Area 8, Areas 44 & 45 Broca's, Prefrontal Cortex) \u2192 4. Blood Supply (ACA on medial/paracentral, MCA on superolateral) \u2192 5. Applied Anatomy (Motor aphasia, Frontal lobe syndrome, Gaze palsy) + Superolateral & Medial hemisphere diagrams.",
+      "slides": [
+        {
+          "h": "1. Primary Motor Area (Area 4) & Motor Homunculus",
+          "p": "The frontal lobe lies in front of the <b>central sulcus (of Rolando)</b> and above the <b>lateral sulcus (of Sylvius)</b>. Its primary motor cortex\u2014<b>Brodmann Area 4</b>\u2014occupies the <b>precentral gyrus</b> and the anterior part of the <b>paracentral lobule</b> on the medial surface.",
+          "bullets": [
+            "<b>Function:</b> Initiates voluntary skilled movements of the <b>opposite (contralateral) half of the body</b> via the corticospinal and corticonuclear tracts (contains giant pyramidal Betz cells).",
+            "<b>Motor Homunculus (Upside-Down Representation):</b> From inferior to superior along the precentral gyrus: <b>Pharynx/Tongue \u2192 Face \u2192 Hand/Fingers \u2192 Trunk</b>; and continuing onto the medial <b>paracentral lobule</b>: <b>Leg \u2192 Foot \u2192 Perineum</b>.",
+            "<b>Cortical Magnification:</b> Areas performing fine movements (lips, tongue, thumb, fingers) have disproportionately huge cortical representation."
+          ],
+          "remember": "Area 4 = Precentral gyrus. Face & Hand sit on lateral surface (MCA supply); Leg & Foot sit on medial paracentral lobule (ACA supply).",
+          "q": "Which part of the body is represented on the medial surface of the hemisphere in the paracentral lobule?",
+          "opts": [
+            "Face and tongue",
+            "Hand and fingers",
+            "Lower limb (leg, foot) and perineum",
+            "Larynx and pharynx"
+          ],
+          "a": 2,
+          "why": "The motor and sensory representations of the lower limb and perineum extend over the superomedial border onto the paracentral lobule, supplied by the anterior cerebral artery (ACA)."
+        },
+        {
+          "h": "2. Premotor (Area 6), Frontal Eye Field (Area 8) & Broca's Area (44, 45)",
+          "p": "Anterior to the primary motor cortex lie specialized association motor areas that plan movements, steer the eyes, and produce speech:",
+          "bullets": [
+            "<b>Premotor Cortex (Area 6) & Supplementary Motor Area (SMA):</b> Lies in front of Area 4; stores motor programs and coordinates complex learned movements (e.g., playing guitar or writing).",
+            "<b>Frontal Eye Field (Area 8):</b> Located in the posterior part of the middle frontal gyrus; controls voluntary <b>conjugate deviation of both eyes to the opposite side</b>.",
+            "<b>Broca's Motor Speech Area (Areas 44 & 45):</b> Located in the <b>pars opercularis (44) and pars triangularis (45)</b> of the inferior frontal gyrus, usually in the <b>left (dominant) hemisphere</b>. Coordinates muscles of larynx, pharynx, tongue, and lips for fluent speech."
+          ],
+          "remember": "Area 4 = Moves muscles. Area 6 = Plans movement. Area 8 = Moves eyes to opposite side. Areas 44, 45 = Broca's spoken words!",
+          "q": "Broca's motor speech area corresponds to which Brodmann areas in the inferior frontal gyrus?",
+          "opts": [
+            "Areas 17 and 18",
+            "Areas 41 and 42",
+            "Areas 44 and 45",
+            "Areas 1, 2, and 3"
+          ],
+          "a": 2,
+          "why": "Broca's area occupies Brodmann areas 44 (pars opercularis) and 45 (pars triangularis) of the dominant inferior frontal gyrus."
+        },
+        {
+          "h": "3. Prefrontal Cortex & Applied Anatomy",
+          "p": "The anterior pole of the frontal lobe (Areas 9, 10, 11, 12) is the <b>prefrontal cortex</b>\u2014the seat of human personality, foresight, judgment, emotional regulation, and social appropriateness. Let's review the clinical syndromes of frontal lobe lesions:",
+          "bullets": [
+            "<b>Broca's (Expressive / Motor) Aphasia:</b> Lesion of Areas 44 & 45 in dominant hemisphere \u2192 patient <b>understands spoken and written language well</b>, but speaks slowly with great effort, poor grammar, and telegraphic phrases.",
+            "<b>Frontal Eye Field (Area 8) Lesion:</b> Irritative lesion turns eyes to the <b>opposite</b> side; destructive stroke causes eyes to look <b>toward the side of the lesion</b> ('eyes look at the lesion').",
+            "<b>Prefrontal Lobe Syndrome:</b> Loss of social inhibition, apathy, poor judgment, personality changes, and reappearance of primitive reflexes (grasp/suck reflex)."
+          ],
+          "remember": "Broca's aphasia = Comprehension intact, speech broken ('broken words'). Area 8 stroke = 'Eyes look toward the healthy hemisphere? No\u2014eyes look AT the lesion!'",
+          "q": "A patient understands questions completely but speaks in slow, effortful, telegraphic phrases after a left inferior frontal gyrus stroke. Which area is damaged?",
+          "opts": [
+            "Wernicke's area (Area 22)",
+            "Broca's area (Areas 44 & 45)",
+            "Primary visual cortex (Area 17)",
+            "Primary auditory cortex (Area 41)"
+          ],
+          "a": 1,
+          "why": "Damage to Broca's area (Areas 44 and 45) produces expressive (motor) aphasia, characterized by non-fluent, effortful speech with preserved comprehension."
+        }
+      ]
+    }
+  ]
+}

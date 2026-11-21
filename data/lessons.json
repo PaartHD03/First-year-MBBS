@@ -1,0 +1,404 @@
+[
+  {
+    "id": "parotid",
+    "subject": "Anatomy",
+    "region": "Head, Neck & Face",
+    "title": "Parotid Gland",
+    "tag": "LAQ · Very important",
+    "minutes": 12,
+    "slides": [
+      {
+        "h": "First, understand the location",
+        "p": "The parotid gland is the largest salivary gland. It lies in the parotid bed, below and in front of the external acoustic meatus, between the ramus of the mandible and the mastoid process. Its shape is often described as an inverted pyramid.",
+        "remember": "Think: the gland sits just in front of the ear and wraps around the back of the mandibular ramus.",
+        "q": "Which is the largest salivary gland?",
+        "opts": [
+          "Submandibular",
+          "Parotid",
+          "Sublingual",
+          "Lacrimal"
+        ],
+        "a": 1,
+        "why": "The parotid is the largest of the three major paired salivary glands."
+      },
+      {
+        "h": "What passes through it?",
+        "p": "From superficial to deep, the important structures within the gland are the facial nerve and its branches, the retromandibular vein, and the external carotid artery with its terminal branches. The facial nerve divides the gland into superficial and deep parts, but does not provide its secretomotor supply.",
+        "remember": "Mnemonic from superficial to deep: Nerve → Vein → Artery (N-V-A).",
+        "q": "Which structure is most superficial within the parotid gland?",
+        "opts": [
+          "External carotid artery",
+          "Retromandibular vein",
+          "Facial nerve",
+          "Auriculotemporal nerve"
+        ],
+        "a": 2,
+        "why": "The facial nerve and its branches are superficial to the retromandibular vein and external carotid artery."
+      },
+      {
+        "h": "Duct and nerve supply",
+        "p": "The parotid duct (Stensen duct) crosses the masseter, turns medially, pierces the buccinator and opens into the oral vestibule opposite the upper second molar. Parasympathetic secretomotor fibres arise from the glossopharyngeal nerve, relay in the otic ganglion and reach the gland through the auriculotemporal nerve.",
+        "remember": "Opening of duct: opposite the upper second molar. Parasympathetic pathway: IX → otic ganglion → auriculotemporal nerve.",
+        "q": "The parotid duct opens opposite which tooth?",
+        "opts": [
+          "Upper first molar",
+          "Upper second molar",
+          "Lower second molar",
+          "Upper canine"
+        ],
+        "a": 1,
+        "why": "The parotid duct opens into the vestibule opposite the crown of the upper second molar."
+      },
+      {
+        "h": "Clinical connection",
+        "p": "Inflammation of the parotid gland (parotitis) can stretch its tough fascial capsule and cause pain. During parotid surgery, the facial nerve is at risk; injury may produce weakness or paralysis of muscles of facial expression on the affected side. A parotid tumour may therefore present with facial nerve dysfunction, an important warning sign.",
+        "remember": "Clinical answer structure: capsule-related pain + facial nerve risk in surgery.",
+        "q": "Which nerve is particularly at risk during parotidectomy?",
+        "opts": [
+          "Hypoglossal nerve",
+          "Facial nerve",
+          "Vagus nerve",
+          "Accessory nerve"
+        ],
+        "a": 1,
+        "why": "The facial nerve traverses the gland and must be identified and preserved during parotid surgery."
+      }
+    ],
+    "exam": "For an LAQ, organise the answer under: situation, parts/processes, relations, structures within the gland, duct, blood supply, lymphatic drainage, nerve supply and applied anatomy. Add a labelled diagram if required by the question."
+  },
+  {
+    "id": "thyroid",
+    "subject": "Anatomy",
+    "region": "Head, Neck & Face",
+    "title": "Thyroid Gland – Blood Supply & Applied Anatomy",
+    "tag": "SN · Starred in IMP list",
+    "minutes": 10,
+    "slides": [
+      {
+        "h": "Position and shape",
+        "p": "The thyroid gland lies in the lower anterior neck. It has right and left lobes connected by an isthmus, which usually lies in front of the second to fourth tracheal rings. A pyramidal lobe may be present as a developmental remnant.",
+        "remember": "Two lateral lobes + isthmus; the gland moves with swallowing because of its attachment to the larynx and trachea.",
+        "q": "The thyroid isthmus commonly lies anterior to which tracheal rings?",
+        "opts": [
+          "1st–2nd",
+          "2nd–4th",
+          "5th–7th",
+          "8th–10th"
+        ],
+        "a": 1,
+        "why": "The isthmus usually crosses the second, third and fourth tracheal rings."
+      },
+      {
+        "h": "Arterial supply",
+        "p": "The superior thyroid artery usually arises from the external carotid artery. The inferior thyroid artery usually arises from the thyrocervical trunk. A thyroid ima artery may be present and can arise from the brachiocephalic trunk or aortic arch; it is clinically relevant during tracheostomy.",
+        "remember": "Superior thyroid ← external carotid; inferior thyroid ← thyrocervical trunk.",
+        "q": "The inferior thyroid artery usually arises from the:",
+        "opts": [
+          "Internal carotid artery",
+          "Thyrocervical trunk",
+          "Facial artery",
+          "Axillary artery"
+        ],
+        "a": 1,
+        "why": "The inferior thyroid artery is typically a branch of the thyrocervical trunk of the subclavian artery."
+      },
+      {
+        "h": "Veins and nerves nearby",
+        "p": "The superior and middle thyroid veins drain into the internal jugular vein. The inferior thyroid veins usually drain into the brachiocephalic veins. The recurrent laryngeal nerves lie close to the posterior aspect of the gland, while the external branch of the superior laryngeal nerve is related to the superior thyroid vessels.",
+        "remember": "During thyroidectomy, protect the recurrent laryngeal nerve and the external branch of the superior laryngeal nerve.",
+        "q": "Injury to the recurrent laryngeal nerve may cause:",
+        "opts": [
+          "Loss of smell",
+          "Voice changes/hoarseness",
+          "Loss of taste from anterior tongue",
+          "Loss of shoulder shrug"
+        ],
+        "a": 1,
+        "why": "The recurrent laryngeal nerve supplies most intrinsic muscles of the larynx; injury can impair vocal fold movement and cause hoarseness."
+      },
+      {
+        "h": "Applied anatomy",
+        "p": "Thyroid enlargement is called goitre. Thyroidectomy requires careful control of thyroid vessels and protection of nearby nerves and parathyroid glands. Accidental damage or removal of parathyroid tissue can cause hypocalcaemia. A thyroid ima artery, when present, is important in procedures around the lower neck and trachea.",
+        "remember": "Three surgical concerns: bleeding, laryngeal nerve injury and parathyroid injury.",
+        "q": "Damage to the parathyroid glands during thyroid surgery can lead to:",
+        "opts": [
+          "Hypercalcaemia",
+          "Hypocalcaemia",
+          "Hypernatraemia",
+          "Hypoglycaemia"
+        ],
+        "a": 1,
+        "why": "Reduced parathyroid hormone can lower serum calcium, producing hypocalcaemia."
+      }
+    ],
+    "exam": "Short note: describe the lobes and isthmus, arterial supply, venous drainage, and applied anatomy. Include the relation of laryngeal nerves to thyroid vessels."
+  },
+  {
+    "id": "cavernous",
+    "subject": "Anatomy",
+    "region": "Neuroanatomy",
+    "title": "Cavernous Sinus",
+    "tag": "SN · Starred in IMP list",
+    "minutes": 10,
+    "slides": [
+      {
+        "h": "Where is it?",
+        "p": "The cavernous sinus is a paired dural venous sinus situated on either side of the body of the sphenoid, in the middle cranial fossa. It extends from the superior orbital fissure anteriorly towards the apex of the petrous temporal bone posteriorly.",
+        "remember": "It is a venous channel beside the body of the sphenoid, not a typical large open vein.",
+        "q": "The cavernous sinus is located in which cranial fossa?",
+        "opts": [
+          "Anterior",
+          "Middle",
+          "Posterior",
+          "All three"
+        ],
+        "a": 1,
+        "why": "The cavernous sinus lies in the middle cranial fossa."
+      },
+      {
+        "h": "Structures inside the sinus",
+        "p": "The internal carotid artery and abducens nerve (cranial nerve VI) pass through the sinus proper. The abducens nerve is especially vulnerable because it runs close to the internal carotid artery within the sinus.",
+        "remember": "Inside: ICA + CN VI.",
+        "q": "Which cranial nerve runs within the cavernous sinus proper?",
+        "opts": [
+          "III",
+          "IV",
+          "V1",
+          "VI"
+        ],
+        "a": 3,
+        "why": "The abducens nerve (VI) passes within the sinus proper alongside the internal carotid artery."
+      },
+      {
+        "h": "Structures in its lateral wall",
+        "p": "The lateral wall contains, from superior to inferior, the oculomotor nerve (III), trochlear nerve (IV), ophthalmic division of trigeminal (V1), and maxillary division (V2).",
+        "remember": "Lateral wall top to bottom: III, IV, V1, V2.",
+        "q": "Which sequence correctly lists the lateral-wall nerves from superior to inferior?",
+        "opts": [
+          "VI, III, IV, V1",
+          "III, IV, V1, V2",
+          "V2, V1, IV, III",
+          "III, V1, IV, VI"
+        ],
+        "a": 1,
+        "why": "The standard superior-to-inferior order is III, IV, V1 and V2."
+      },
+      {
+        "h": "Clinical importance",
+        "p": "Infection from the face, nose or orbit can spread to the cavernous sinus through communicating veins. Cavernous sinus thrombosis may cause fever, severe headache, proptosis, chemosis and ophthalmoplegia. Multiple cranial nerves may be affected.",
+        "remember": "Think: painful eye + ophthalmoplegia + systemic infection = urgent clinical concern.",
+        "q": "Which nerve is particularly vulnerable within the cavernous sinus itself?",
+        "opts": [
+          "Abducens (VI)",
+          "Optic (II)",
+          "Facial (VII)",
+          "Hypoglossal (XII)"
+        ],
+        "a": 0,
+        "why": "CN VI is within the sinus proper and is commonly affected."
+      }
+    ],
+    "exam": "Write situation, extent, relations, structures in the lateral wall, structures within the sinus, tributaries/drainage and clinical importance. Draw a cross-sectional diagram showing the lateral-wall nerves and ICA with VI."
+  },
+  {
+    "id": "cubital",
+    "subject": "Anatomy",
+    "region": "Upper Limb",
+    "title": "Cubital Fossa",
+    "tag": "SN + LAQ · Starred",
+    "minutes": 10,
+    "slides": [
+      {
+        "h": "A triangular space",
+        "p": "The cubital fossa is a triangular depression on the anterior aspect of the elbow. Its base is an imaginary line joining the medial and lateral epicondyles. The brachioradialis forms the lateral boundary and pronator teres forms the medial boundary.",
+        "remember": "Lateral = brachioradialis; medial = pronator teres; base = line between epicondyles.",
+        "q": "Which muscle forms the medial boundary of the cubital fossa?",
+        "opts": [
+          "Brachioradialis",
+          "Pronator teres",
+          "Biceps brachii",
+          "Supinator"
+        ],
+        "a": 1,
+        "why": "Pronator teres forms the medial boundary."
+      },
+      {
+        "h": "Roof and floor",
+        "p": "The roof includes skin, superficial fascia containing the median cubital vein and cutaneous nerves, and deep fascia reinforced by the bicipital aponeurosis. The floor is formed mainly by brachialis proximally and supinator distally.",
+        "remember": "The bicipital aponeurosis helps protect the brachial artery and median nerve during venepuncture.",
+        "q": "Which structure forms an important part of the roof and protects deeper structures?",
+        "opts": [
+          "Palmar aponeurosis",
+          "Bicipital aponeurosis",
+          "Flexor retinaculum",
+          "Interosseous membrane"
+        ],
+        "a": 1,
+        "why": "The bicipital aponeurosis is part of the roof and lies superficial to the brachial artery and median nerve."
+      },
+      {
+        "h": "Contents from medial to lateral",
+        "p": "The main contents are the median nerve, brachial artery (and its bifurcation), and tendon of biceps brachii. The radial nerve lies more laterally, near the lateral boundary, where it divides into superficial and deep branches.",
+        "remember": "Classic lateral-to-medial order: biceps tendon, brachial artery, median nerve (T-A-N).",
+        "q": "What is the correct lateral-to-medial order of the three classic central contents?",
+        "opts": [
+          "Nerve–artery–tendon",
+          "Tendon–artery–nerve",
+          "Artery–tendon–nerve",
+          "Tendon–nerve–artery"
+        ],
+        "a": 1,
+        "why": "From lateral to medial: biceps tendon, brachial artery, median nerve."
+      },
+      {
+        "h": "Clinical importance",
+        "p": "The median cubital vein is commonly used for venepuncture. The bicipital aponeurosis separates it from the brachial artery and median nerve. The brachial pulse can be palpated in the fossa, and the brachial artery is a site for blood-pressure measurement.",
+        "remember": "Before venepuncture, remember the nearby artery and nerves.",
+        "q": "Which superficial vein is commonly used for venepuncture at the elbow?",
+        "opts": [
+          "Cephalic vein only",
+          "Median cubital vein",
+          "Basilic vein only",
+          "Axillary vein"
+        ],
+        "a": 1,
+        "why": "The median cubital vein is a common and accessible site for venepuncture."
+      }
+    ],
+    "exam": "For LAQ: boundaries, roof, floor, contents (give their arrangement), and applied anatomy. Draw a labelled triangular diagram."
+  },
+  {
+    "id": "brachial",
+    "subject": "Anatomy",
+    "region": "Upper Limb",
+    "title": "Brachial Plexus",
+    "tag": "LAQ",
+    "minutes": 12,
+    "slides": [
+      {
+        "h": "The basic plan",
+        "p": "The brachial plexus is formed by the anterior rami of spinal nerves C5, C6, C7, C8 and T1. It supplies the upper limb. Its organisation is roots → trunks → divisions → cords → terminal branches.",
+        "remember": "R-T-D-C-B: Roots, Trunks, Divisions, Cords, Branches.",
+        "q": "The usual roots of the brachial plexus are:",
+        "opts": [
+          "C1–C5",
+          "C5–T1",
+          "T1–T5",
+          "C3–C8"
+        ],
+        "a": 1,
+        "why": "The typical brachial plexus is formed by C5 to T1 anterior rami."
+      },
+      {
+        "h": "Trunks and divisions",
+        "p": "The roots form three trunks: upper (C5–C6), middle (C7), and lower (C8–T1). Each trunk divides into anterior and posterior divisions behind the clavicle. The divisions reorganise to form the cords around the second part of the axillary artery.",
+        "remember": "Upper C5–6; middle C7; lower C8–T1.",
+        "q": "Which roots form the lower trunk?",
+        "opts": [
+          "C5–C6",
+          "C6–C7",
+          "C7–C8",
+          "C8–T1"
+        ],
+        "a": 3,
+        "why": "The lower trunk is formed by C8 and T1."
+      },
+      {
+        "h": "Cords and terminal branches",
+        "p": "The cords are named lateral, medial and posterior according to their relation to the second part of the axillary artery. The five major terminal branches are musculocutaneous, axillary, radial, median and ulnar nerves.",
+        "remember": "Terminal branches: M-A-R-M-U (musculocutaneous, axillary, radial, median, ulnar).",
+        "q": "The cords are named according to their relationship with the:",
+        "opts": [
+          "Clavicle",
+          "First rib",
+          "Second part of axillary artery",
+          "Humeral head"
+        ],
+        "a": 2,
+        "why": "The lateral, medial and posterior cords are named by their position around the second part of the axillary artery."
+      },
+      {
+        "h": "Clinical correlation",
+        "p": "Upper trunk injury (Erb palsy) classically follows excessive separation of the head and shoulder and affects C5–C6 contributions. Lower trunk injury (Klumpke palsy) affects C8–T1 contributions and may produce intrinsic hand muscle weakness and a claw-hand posture. The exact deficit depends on the structures injured.",
+        "remember": "Erb = upper trunk C5–C6; Klumpke = lower trunk C8–T1.",
+        "q": "Klumpke paralysis classically involves which part of the plexus?",
+        "opts": [
+          "Upper trunk",
+          "Middle trunk",
+          "Lower trunk",
+          "Posterior cord only"
+        ],
+        "a": 2,
+        "why": "Klumpke paralysis is associated with lower trunk (C8–T1) injury."
+      }
+    ],
+    "exam": "LAQ framework: formation, roots, trunks, divisions, cords, branches, relations and applied anatomy. A clear flowchart diagram is essential."
+  },
+  {
+    "id": "cardiac-cycle",
+    "subject": "Physiology",
+    "region": "Cardiovascular System",
+    "title": "Cardiac Cycle",
+    "tag": "LAQ · Starred",
+    "minutes": 12,
+    "slides": [
+      {
+        "h": "What is a cardiac cycle?",
+        "p": "The cardiac cycle is the sequence of events occurring in the heart during one heartbeat. At a heart rate of about 75 beats/minute, one cycle lasts approximately 0.8 seconds. It includes atrial systole, ventricular systole and joint diastole.",
+        "remember": "At 75/min: one cycle ≈ 0.8 s.",
+        "q": "At a heart rate of 75 beats per minute, one cardiac cycle lasts approximately:",
+        "opts": [
+          "0.2 s",
+          "0.4 s",
+          "0.8 s",
+          "1.2 s"
+        ],
+        "a": 2,
+        "why": "60 seconds ÷ 75 beats ≈ 0.8 seconds per cardiac cycle."
+      },
+      {
+        "h": "Atrial systole",
+        "p": "Atrial systole lasts approximately 0.1 seconds. The atria contract and complete ventricular filling. The atrioventricular valves are open and semilunar valves are closed.",
+        "remember": "Atrial systole tops up the ventricles.",
+        "q": "During atrial systole, which valves are normally open?",
+        "opts": [
+          "Atrioventricular valves",
+          "Semilunar valves",
+          "All valves",
+          "No valves"
+        ],
+        "a": 0,
+        "why": "Blood passes from atria to ventricles through the open atrioventricular valves."
+      },
+      {
+        "h": "Ventricular systole",
+        "p": "Ventricular systole lasts approximately 0.3 seconds. It begins with isovolumetric contraction, when all valves are closed and ventricular pressure rises. When ventricular pressure exceeds aortic and pulmonary arterial pressure, semilunar valves open and ejection occurs.",
+        "remember": "Isovolumetric contraction = pressure rises, volume stays the same, all valves closed.",
+        "q": "During isovolumetric contraction, the ventricular volume:",
+        "opts": [
+          "Increases",
+          "Decreases",
+          "Remains constant",
+          "Becomes zero"
+        ],
+        "a": 2,
+        "why": "All valves are closed, so pressure changes without a change in ventricular volume."
+      },
+      {
+        "h": "Joint diastole and heart sounds",
+        "p": "Joint diastole lasts approximately 0.4 seconds at this heart rate. Ventricular relaxation begins with isovolumetric relaxation, followed by ventricular filling when atrioventricular valves open. The first heart sound is associated with closure of atrioventricular valves; the second with closure of semilunar valves.",
+        "remember": "S1 = AV valves close; S2 = semilunar valves close.",
+        "q": "The second heart sound (S2) is mainly due to closure of:",
+        "opts": [
+          "Mitral and tricuspid valves",
+          "Aortic and pulmonary valves",
+          "Only mitral valve",
+          "Only tricuspid valve"
+        ],
+        "a": 1,
+        "why": "S2 is produced by closure of the aortic and pulmonary semilunar valves."
+      }
+    ],
+    "exam": "Define cardiac cycle and describe phases with duration, valve status, pressure/volume changes and heart sounds. Draw a labelled diagram or sequence chart."
+  }
+]
