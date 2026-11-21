@@ -1,11 +1,11 @@
-SUHANI MBBS GENERAL ANATOMY, HISTOLOGY, EMBRYOLOGY & GENETICS — BATCHES 9 & 10 (100% ANATOMY COMPLETE!)
+SUHANI MBBS GENERAL ANATOMY, HISTOLOGY, EMBRYOLOGY & GENETICS — BATCHES 9 & 10 (100% ANATOMY SUBJECT COVERAGE COMPLETE)
 
-Added 26 comprehensive interactive lessons to data/anatomy.json, completing 100% of General Anatomy, Histology, Embryology, and Genetics topics from FIRST YEAR IMP LIST.pdf (Pages 5–6):
+Added 27 comprehensive interactive lessons to data/anatomy.json (14 in Batch 9 + 13 in Batch 10), completing 100% of General Anatomy, Histology, Embryology, and Genetics topics from FIRST YEAR IMP LIST.pdf (Pages 5–6):
 
-BATCH 9 — GENERAL ANATOMY (8/8 PDF entries) & HISTOLOGY (9/9 PDF entries):
+BATCH 9 — GENERAL ANATOMY (7 lessons covering 8/8 PDF entries) & HISTOLOGY (7 lessons covering 9/9 PDF entries) [14 Lessons]:
 1. Synovial Joint** – Classification, Structure & Examples (General Anatomy)
 2. Classification of Fibrous Joint (General Anatomy)
-3. Cartilaginous Joint & Secondary Cartilaginous Joint (General Anatomy)
+3. Cartilaginous Joint & Secondary Cartilaginous Joint (General Anatomy — covers 2 PDF entries)
 4. Pivot Joint (General Anatomy)
 5. Sesamoid Bone (General Anatomy)
 6. Epiphysis – Types & Clinical Significance (General Anatomy)
@@ -16,22 +16,23 @@ BATCH 9 — GENERAL ANATOMY (8/8 PDF entries) & HISTOLOGY (9/9 PDF entries):
 11. Adrenal (Suprarenal) Gland** (Histology)
 12. Spleen** (Histology)
 13. Lymph Node (Histology)
-14. Testes**, Ovary & Kidney – Histology High-Yield Slides (Histology)
+14. Testes**, Ovary & Kidney – Histology High-Yield Slides (Histology — covers 3 PDF entries)
 
-BATCH 10 — EMBRYOLOGY (12/12 PDF entries) & GENETICS (9/9 PDF entries):
+BATCH 10 — EMBRYOLOGY (7 lessons covering 12/12 PDF entries) & GENETICS (6 lessons covering 9/9 PDF entries) [13 Lessons]:
 15. Phases of Fertilisation (Embryology)
-16. Primitive Streak & Notochord (Embryology)
+16. Primitive Streak & Notochord (Embryology — covers 2 PDF entries)
 17. Neural Tube Defects (Embryology)
-18. Fate and Derivatives of Yolk Sac & Vitello-Intestinal Duct (Embryology)
-19. Rotation of Gut & Development of Pancreas* (Embryology)
-20. Mesonephric Duct, Urinary Bladder & Developmental Anomalies of Kidney (Embryology)
+18. Fate and Derivatives of Yolk Sac & Vitello-Intestinal Duct (Embryology — covers 2 PDF entries)
+19. Rotation of Gut & Development of Pancreas* (Embryology — covers 2 PDF entries)
+20. Mesonephric Duct, Urinary Bladder & Developmental Anomalies of Kidney (Embryology — covers 3 PDF entries)
 21. Descent of Testes* (Embryology)
-22. Barr Body* & Lyon's Hypothesis (Genetics)
+22. Barr Body* & Lyon's Hypothesis (Genetics — covers 2 PDF entries)
 23. Karyotyping* (Genetics)
-24. Turner's Syndrome* & Monosomy of Sex Chromosome (Genetics)
+24. Turner's Syndrome* & Monosomy of Sex Chromosome (Genetics — covers 2 PDF entries)
 25. Down's Syndrome* (Genetics)
-26. Structural and Numerical Chromosome Abnormalities with Examples (Genetics)
+26. Structural and Numerical Chromosome Abnormalities with Examples (Genetics — covers 2 PDF entries)
 27. Autosomal Dominant Inheritance (Genetics)
 
 MILESTONE ACHIEVED:
-100% of ALL 170 Anatomy IMP entries across ALL 10 units in FIRST YEAR IMP LIST.pdf (Pages 1–6) are now complete!
+- Anatomy Subject Coverage: 170 / 170 listed Anatomy IMP entries (100% of Anatomy, Pages 1–6) complete across 123 unique Anatomy lessons (107 in data/anatomy.json + 16 in data/neuroanatomy.json).
+- First Year MBBS Overall Syllabus Status: Anatomy is 100% complete (170/500 total PDF entries = 34.0%); Physiology (190 entries, Pages 7–14) and Biochemistry (140 entries, Pages 15–24) remain to be built.

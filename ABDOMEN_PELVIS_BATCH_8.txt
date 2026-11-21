@@ -1,6 +1,6 @@
 SUHANI MBBS ABDOMEN & PELVIS — BATCH 8 (100% ABDOMEN & PELVIS COVERAGE)
 
-Added 12 comprehensive interactive Abdomen & Pelvis lessons to data/anatomy.json, completing 100% of Abdomen & Pelvis SN & LAQ topics from FIRST YEAR IMP LIST.pdf:
+Added 13 comprehensive interactive Abdomen & Pelvis lessons to data/anatomy.json, completing 100% of Abdomen & Pelvis SN & LAQ topics from FIRST YEAR IMP LIST.pdf:
 1. Extra-Hepatic Biliary Apparatus* (LAQ)
 2. Duodenum – 2nd Part (LAQ)
 3. Rectus Sheath (LAQ & SN)
