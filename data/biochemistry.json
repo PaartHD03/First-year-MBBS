@@ -1,0 +1,916 @@
+{
+  "source": "FIRST YEAR IMP LIST.pdf (Pages 15–24 - Biochemistry)",
+  "source_note": "Topic labels and star/LAQ/SN priority markings follow FIRST YEAR IMP LIST.pdf. Explanatory notes are supplementary study support; check exact wording and diagrams with your prescribed textbook and faculty.",
+  "groups": {
+    "Paper 1 — Protein Metabolism": {
+      "SN": [
+        "Metabolism of Tyrosine (pg 345)",
+        "Biogenic Amines (pg 375)",
+        "Metabolism of Glycine (pg 341)",
+        "Alkaptonuria (pg 352)"
+      ],
+      "LAQ": [
+        "Inborn Errors of Metabolism of Tyrosine* and Phenylalanine",
+        "Formation and Fate of Ammonia**",
+        "Urea Cycle and Abnormalities***",
+        "Alkaptonuria - Biochemical Basis, Tests for Diagnosis",
+        "Glycine - synthesis, inhibition, specialised products formed",
+        "Transamination, Deamination, Ammonia Toxicity"
+      ]
+    },
+    "Paper 1 — Nucleotide Metabolism": {
+      "SN": [
+        "Purine Salvage Pathway** (pg 391)",
+        "Hyperuricemia (pg 394)",
+        "Gout** (pg 394)",
+        "Catabolism of Purines (pg 392)"
+      ],
+      "LAQ": []
+    },
+    "Paper 1 — Hemoglobin": {
+      "SN": [
+        "Hemoglobinopathies and examples (pg 203)",
+        "Abnormal Hemoglobin** - changes in AA sequence (pg 202)"
+      ],
+      "LAQ": [
+        "Catabolism of Heme*, Hemolytic Jaundice",
+        "Formation and Fate of Bilirubin; Jaundice",
+        "Biosynthesis and Degradation of Heme",
+        "Heme - biosynthesis, regulation*; Intermittent Porphyria"
+      ]
+    },
+    "Paper 1 — Vitamins": {
+      "SN": [
+        "Coenzymes of Thiamine of Pyridoxine - two biochemical functions of each",
+        "Functions of Folic Acid (pg 150)",
+        "Deficiency Manifestation of Vitamin A (pg 118)",
+        "Coenzyme Function of Folic Acid and B12 (pg 150)",
+        "Wald's Visual Cycle (pg 129)",
+        "Activation of Cholecalciferol, Justification as a Hormone (pg 124)"
+      ],
+      "LAQ": [
+        "Vitamin D",
+        "Vitamin A**",
+        "Vitamin B12 and Folic Acid",
+        "Vitamin C",
+        "Thiamine*"
+      ]
+    },
+    "Paper 1 — Enzymes": {
+      "SN": [
+        "Isoenzymes and Clinical Application*** (pg 109)",
+        "Enzymes and Isoenzymes in Myocardial Infarction** (pg 112)",
+        "Enzymes of Diagnostic, Analytic and Therapeutic Importance* (pg 105)",
+        "Km Value (pg 88)",
+        "Activation Energy of Enzyme - E-S Complex (pg 98)"
+      ],
+      "LAQ": [
+        "Enzymes - definition, factors affecting enzyme activity*",
+        "Enzyme Inhibition - Competitive and Non-Competitive",
+        "Enzymes - classification, examples, Isoenzymes",
+        "Types of Enzyme Inhibitors"
+      ]
+    },
+    "Paper 1 — Biological Oxidation": {
+      "SN": [
+        "Substrate Level Phosphorylation (pg 224)",
+        "Oxidative Phosphorylation*** and Thermogenin (pg 228)",
+        "Malate Aspartate Shuttle* (pg 234)",
+        "Inhibitors of ETC (pg 232)",
+        "Uncouplers of Oxidative Phosphorylation (pg 233)",
+        "Difference between Oxidative and Substrate Level Phosphorylation"
+      ],
+      "LAQ": [
+        "Explain ETC, Mention Sites of 1. ATP Synthesis and Inhibitors of ETC**",
+        "Oxidative Phosphorylation",
+        "Explain ETC, Inhibitors and Uncouplers of Oxidative Phosphorylation"
+      ]
+    },
+    "Paper 1 — Molecular Biology": {
+      "SN": [
+        "Genetic Code*** (pg 551)",
+        "Mutation* - Causes and Types (pg 535)",
+        "Recombinant DNA Technology Application*",
+        "Reverse Transcription (pg 550)",
+        "DNA Replication (pg 524)",
+        "PCR (pg 534)",
+        "Lac Operon (pg 567)"
+      ],
+      "LAQ": [
+        "Protein Biosynthesis* and Inhibitors, Regulation",
+        "DNA Replication, Two Inhibitors of Replication",
+        "Genetic Code- salient features, Wobble's Hypothesis",
+        "Transcription, Post-Transcriptional Modification, Two Antibiotics Inhibiting the process"
+      ]
+    },
+    "Paper 1 — Proteins": {
+      "SN": [
+        "Biologically Important Peptides* (pg 65)",
+        "Secondary and Tertiary Structure of Proteins** (pg 56)",
+        "tRNA And Its Functions*** (pg 81)",
+        "Secondary Structure of Protein (pg 56)",
+        "Functional Classification of Proteins (pg 63)",
+        "Conjugated Proteins (pg 64)"
+      ],
+      "LAQ": []
+    },
+    "Paper 1 — Nucleotides": {
+      "SN": [
+        "Four Biochemical Functions of Nucleotides*"
+      ],
+      "LAQ": []
+    },
+    "Paper 1 — Free Radicals and Antioxidants": {
+      "SN": [
+        "Antioxidants (pg 655)",
+        "Antioxidant Enzymes*, Vitamins and Minerals",
+        "Free Radicals and Antioxidants"
+      ],
+      "LAQ": []
+    },
+    "Paper 1 — Nutrition": {
+      "SN": [
+        "Explain the Role of Dietary Fibres* (pg 508)",
+        "BMR - definition, factors (pg 504)",
+        "Protein Energy Malnutrition*** (pg 516)",
+        "Kwashiorkor* - Biochemical Alterations and Treatment (pg 516)"
+      ],
+      "LAQ": []
+    },
+    "Paper 1 — Plasma Proteins": {
+      "SN": [
+        "Immunoglobulin - diagram, describe any one Ig in detail* (pg 186)",
+        "Functions of Albumin (pg 183)"
+      ],
+      "LAQ": []
+    },
+    "Paper 2 — Carbohydrate Metabolism": {
+      "SN": [
+        "Significance of HMP Shunt* (pg 270)",
+        "Rapaport Leubering Cycle, Significance (pg 251)",
+        "Glycogen Storage Disease* - enzyme defects, clinical manifestation (pg 269)"
+      ],
+      "LAQ": [
+        "Glycolytic Pathway in Erythrocytes, Significance, Difference from Glycolysis (pg 251)",
+        "Glycogenolysis, Regulation, Glycogen Storage Diseases* (pg 265)",
+        "TCA Cycle, Amphibolic Nature* (pg 252)",
+        "HMP Shunt*, Significance (pg 270)",
+        "Metabolism of Glycogen, Hormonal Regulation* (pg 263)"
+      ]
+    },
+    "Paper 2 — Lipid Metabolism": {
+      "SN": [
+        "Cholesterol - biomedical importance (pg 315)",
+        "Cholesterol - metabolism, function (pg 309)",
+        "Lipoproteins* (pg 317)",
+        "Fatty Liver* and Lipotroptic Factors* (pg 322)",
+        "Ketosis (pg 296)"
+      ],
+      "LAQ": [
+        "Cholesterol Synthesis*** - name regulatory enzyme, normal level, functions, explain role in Atherosclerosis (pg 308)",
+        "Ketosis, Synthesis and Fate of Ketone Bodies (pg 293)",
+        "Beta Oxidation of Palmitic Acid, Regulation, Energetics** (pg 290)",
+        "Roles of LDL, HDL in Cholesterol Transport, Role in Atherosclerosis (pg 320, 326)",
+        "Fate of Acetyl CoA, Fatty Acid Synthesis (pg 297)"
+      ]
+    },
+    "Paper 2 — Mineral Metabolism": {
+      "SN": [
+        "Regulation of Serum Calcium Level (pg 407)",
+        "Role of Calcium as Second Messenger (pg 405)",
+        "Absorption of Iron (pg 414)"
+      ],
+      "LAQ": [
+        "Plasma Calcium Level - hormonal regulation, function, deficiency manifestation (pg 407)",
+        "Iron* (pg 414)",
+        "Calcium* (pg 404)",
+        "Calcium and Phosphorus (pg 404, 409)",
+        "Copper and Zinc (pg 416, 419)",
+        "Iron and Iodine (pg 414, 418)",
+        "Factors Influencing Calcium Absorption, Functions (pg 404)"
+      ]
+    },
+    "Paper 2 — Integration of Metabolism": {
+      "SN": [
+        "Short Term Starvation - metabolic changes (pg 383)",
+        "Biochemical Changes in Starvation** (pg 383)",
+        "Most Severe Phase of Starvation - biochemical changes (Pankaja - pg 276)"
+      ],
+      "LAQ": [
+        "Starvation Metabolism* (pg 383)"
+      ]
+    },
+    "Paper 2 — Acid-Base Balance": {
+      "SN": [
+        "Buffers** (pg 475)",
+        "Role of Kidney in Acid Base Balance (pg 477)",
+        "Any Two Buffer Systems (pg 475)",
+        "Metabolic Acidosis*, Its Compensation (pg 481)"
+      ],
+      "LAQ": [
+        "Metabolic Acidosis* - causes, explain compensatory role of blood buffers and kidney (pg 481)",
+        "Blood pH - maintenance, disorders associated with acid base balance (pg 474)",
+        "Water and Electrolyte Balance (pg 469)",
+        "Acid Base Balance, Imbalance, Causes (pg 474)"
+      ]
+    },
+    "Paper 2 — Insulin, Glucose Homeostasis and DM": {
+      "SN": [
+        "DM - metabolic changes* (pg 681)"
+      ],
+      "LAQ": [
+        "Hormonal Regulation of Blood Glucose Level**, Significance, Note on Glycosuria (pg 674, 681)"
+      ]
+    },
+    "Paper 2 — Organ Function Tests": {
+      "SN": [
+        "Creatinine Clearance Test**, Explanation, Significance (pg 461)",
+        "Urea Clearance (pg 461)"
+      ],
+      "LAQ": [
+        "Liver Function Tests** - enumerate, describe LFT based on excretory function (pg 453)"
+      ]
+    },
+    "Paper 2 — Carbohydrates": {
+      "SN": [
+        "Hyaluronic Acid - biomedical importance (pg 23)",
+        "GAGS, Significance*** (pg 25)"
+      ],
+      "LAQ": []
+    },
+    "Paper 2 — Lipid": {
+      "SN": [
+        "Phospholipids - classify, examples, one importance of each",
+        "Essential Fatty Acids (pg 31)"
+      ],
+      "LAQ": []
+    },
+    "Paper 2 — Digestion and Absorption": {
+      "SN": [
+        "Digestion and Absorption of Lipids (pg 173)"
+      ],
+      "LAQ": []
+    },
+    "Paper 2 — Hormones": {
+      "SN": [
+        "Group II Hormones - diagram, mechanism, example (pg 428)",
+        "Name Different Types of Messenger Hormones, Role of cAMP* (pg 430)",
+        "Mechanism of Hydrophilic Hormones",
+        "Mechanism of Steroid Hormones*"
+      ],
+      "LAQ": []
+    },
+    "Paper 2 — Cancer": {
+      "SN": [
+        "Tumour Markers*** - four examples (pg 691)",
+        "Oncogenes** and Proto-oncogenes* (pg 687)",
+        "Chemical Carcinogens* (pg 686)"
+      ],
+      "LAQ": []
+    },
+    "Paper 2 — Detoxification": {
+      "SN": [
+        "Conjugation** - examples (pg 640)",
+        "Detoxification by Oxidation and Hydrolysis (pg 639)",
+        "Metabolism of Xenobiotics - phase 1 reaction* (pg 638)"
+      ],
+      "LAQ": []
+    },
+    "Paper 2 — LCD": {
+      "SN": [
+        "Electrophoresis* - application, principle",
+        "Chromatography* - principle, application, type*",
+        "Flame Photometer - principle, parts, importance"
+      ],
+      "LAQ": []
+    },
+    "Paper 2 — Overview of Biophysical Chemistry": {
+      "SN": [
+        "Radioisotopes - diagnostic, therapeutic significance, application** (pg 717)"
+      ],
+      "LAQ": []
+    }
+  },
+  "lessons": [
+    {
+      "id": "biochem-protein-metabolism-urea-cycle-ammonia-b14",
+      "title": "Protein Metabolism: Transamination, Deamination, Ammonia Toxicity, Urea Cycle*** & Glycine",
+      "region": "Paper 1 · Protein Metabolism",
+      "tag": "LAQ & SN · *** (Urea Cycle & Ammonia)",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "1. Transamination, Deamination, Ammonia Fate & Ammonia Toxicity",
+          "p": "Dietary/intracellular proteins are hydrolyzed to amino acids; amino nitrogen enters central metabolism via <b>transamination</b> and <b>deamination</b>:",
+          "bullets": [
+            "<b>Transamination (Aminotransferases / Transaminases — PLP / Vitamin B₆ coenzyme):</b> Transfers α-amino group from an amino acid to α-ketoglutarate → glutamate (and oxaloacetate ↔ aspartate, pyruvate ↔ alanine). (Lysine, threonine, proline, hydroxyproline do NOT undergo transamination).",
+            "<b>Deamination & Ammonia Fate:</b> <b>Oxidative deamination</b> by hepatic/renal <b>glutamate dehydrogenase</b> (NAD⁺/NADP⁺) releases free NH₃/NH₄⁺; non-oxidative deamination acts on serine/threonine (PLP). Ammonia is trapped safely as non-toxic <b>glutamine</b> (glutamine synthetase) and <b>alanine</b> (glucose-alanine cycle) for transport to liver/kidney.",
+            "<b>Ammonia Toxicity (Hepatic Encephalopathy):</b> High blood NH₃/NH₄⁺ depletes α-ketoglutarate (forming glutamate/glutamine), slowing the <b>TCA cycle and ATP synthesis in brain</b>, altering neurotransmitters (glutamate/GABA), and causing cerebral edema, asterixis (flapping tremor), confusion, and coma."
+          ],
+          "remember": "Transaminases need Vitamin B₆ (PLP)! High NH₃ depletes α-ketoglutarate → slows brain TCA cycle & ATP → Hepatic encephalopathy!",
+          "q": "Which vitamin-derived coenzyme is required by aminotransferase (transaminase) enzymes?",
+          "opts": [
+            "Thiamine pyrophosphate (TPP)",
+            "Pyridoxal phosphate (PLP, from Vitamin B₆)",
+            "Flavin mononucleotide (FMN)",
+            "Biotin"
+          ],
+          "a": 1,
+          "why": "Aminotransferases use pyridoxal phosphate (PLP), the active coenzyme form of vitamin B₆, to shuttle amino groups between amino acids and keto acids."
+        },
+        {
+          "h": "2. Urea Cycle*** (5 Steps, Energetics & Defects) + Glycine Specialized Products",
+          "p": "The <b>urea cycle***</b> (Krebs-Henseleit / ornithine cycle) detoxifies ammonia into water-soluble <b>urea</b> in periportal hepatocytes (partially mitochondrial, mostly cytosolic):",
+          "bullets": [
+            "<b>5 Steps & Rate-Limiting Enzyme:</b> <b>1.</b> NH₃ + CO₂ + <b>2 ATP</b> → <b>Carbamoyl phosphate</b> via mitochondrial <b>Carbamoyl phosphate synthetase I (CPS-I)</b> (rate-limiting; allosterically activated by <b>N-acetylglutamate [NAG]</b>!). <b>2.</b> Carbamoyl phosphate + Ornithine → <b>Citrulline</b> (ornithine transcarbamoylase; transported to cytosol). <b>3.</b> Citrulline + Aspartate + <b>ATP (→ AMP + PPi, equiv. to 2 ATP)</b> → <b>Argininosuccinate</b> (argininosuccinate synthetase). <b>4.</b> Cleaved to <b>Arginine + Fumarate</b> (argininosuccinase; fumarate links to TCA cycle!). <b>5.</b> Arginine → <b>Urea + Ornithine</b> (<b>arginase</b>; <b>4 high-energy phosphate bonds consumed per urea molecule</b>).",
+            "<b>Urea Cycle Disorders & Glycine:</b> Enzyme defects (e.g., OTC deficiency) cause <b>hyperammonemia</b>, vomiting, encephalopathy. <b>Glycine</b> (simplest amino acid; synthesized from serine/glyoxylate; inhibited by benzoate via hippurate) forms <b>heme, purines, creatine, glutathione, bile salts (glycocholate), and collagen</b>."
+          ],
+          "remember": "CPS-I is rate-limiting & needs N-acetylglutamate (NAG)! Urea cycle costs 4 ATP equivalents! Glycine makes Heme, Purines, Creatine & Glutathione!",
+          "q": "Which enzyme catalyzes the rate-limiting first step of the urea cycle in liver mitochondria and requires N-acetylglutamate as an allosteric activator?",
+          "opts": [
+            "Arginase",
+            "Carbamoyl phosphate synthetase I (CPS-I)",
+            "Ornithine transcarbamoylase",
+            "Argininosuccinate synthetase"
+          ],
+          "a": 1,
+          "why": "Mitochondrial CPS-I catalyzes carbamoyl phosphate synthesis—the committed/rate-limiting step of the urea cycle—and is allosterically activated by N-acetylglutamate."
+        }
+      ],
+      "exam": "LAQ / SN order: Transamination & deamination → Ammonia transport & toxicity mechanism → Urea cycle*** (5 steps, CPS-I + NAG, 4 ATP equivalents, fumarate link, hyperammonemia) + diagram → Glycine synthesis & specialized products.",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-tyrosine-phenylalanine-alkaptonuria-amines-b14",
+      "title": "Tyrosine & Phenylalanine Metabolism, Inborn Errors*, Alkaptonuria & Biogenic Amines",
+      "region": "Paper 1 · Protein Metabolism",
+      "tag": "LAQ & SN · * (Amino Acid Disorders)",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "1. Phenylalanine → Tyrosine Pathway & Phenylketonuria (PKU) / Alkaptonuria",
+          "p": "Essential <b>phenylalanine</b> is hydroxylated to <b>tyrosine</b> by <b>phenylalanine hydroxylase</b> (requires <b>tetrahydrobiopterin [BH₄]</b> cofactor):",
+          "bullets": [
+            "<b>Phenylketonuria (PKU — Phenylalanine hydroxylase or BH₄ defect):</b> Phenylalanine accumulates and forms phenylpyruvate/phenyllactate/phenylacetate; causes severe intellectual disability, hypopigmentation (low melanin), musty/mousy odor; treated with low-phenylalanine diet.",
+            "<b>Alkaptonuria (Homogentisate 1,2-dioxygenase deficiency — Vitamin C cofactor):</b> Autosomal recessive block in tyrosine catabolism → <b>homogentisic acid</b> accumulates and is excreted in urine, turning <b>dark/black on standing or alkalinization</b>; late <b>ochronosis</b> (bluish-black pigment in cartilage/connective tissue) and ochronotic arthritis."
+          ],
+          "remember": "PKU = Phenylalanine hydroxylase defect (needs BH₄). Alkaptonuria = Homogentisate oxidase defect → Urine turns BLACK on standing + Ochronosis!",
+          "q": "Alkaptonuria is caused by a genetic deficiency of which enzyme in the tyrosine catabolic pathway?",
+          "opts": [
+            "Tyrosinase",
+            "Homogentisate 1,2-dioxygenase (homogentisate oxidase)",
+            "Phenylalanine hydroxylase",
+            "Dopamine β-hydroxylase"
+          ],
+          "a": 1,
+          "why": "Deficiency of homogentisate 1,2-dioxygenase leads to accumulation and urinary excretion of homogentisic acid, which oxidizes to a dark pigment on standing."
+        },
+        {
+          "h": "2. Specialized Products of Tyrosine & Biogenic Amines",
+          "p": "Tyrosine is the precursor for vital hormones, pigments, and neurotransmitters, while amino acid decarboxylation yields <b>biogenic amines</b>:",
+          "bullets": [
+            "<b>Tyrosine Derivatives:</b> <b>Melanin</b> (via DOPA by <b>tyrosinase</b> — absent in <b>albinism</b>), <b>Catecholamines</b> (dopamine, norepinephrine, epinephrine), and <b>Thyroid hormones (T₃, T₄)</b>.",
+            "<b>Biogenic Amines (Decarboxylation via PLP / Vitamin B₆):</b> Histidine → <b>Histamine</b> (gastric acid, allergic vasodilation/bronchoconstriction); Tyrosine → <b>Tyramine</b> / Catecholamines; Tryptophan → <b>Serotonin (5-HT)</b> & Melatonin; Glutamate → <b>GABA</b> (inhibitory neurotransmitter)."
+          ],
+          "remember": "Tyrosinase makes Melanin (absent in Albinism)! Amino acid decarboxylases need PLP (Vit B₆) to make Biogenic Amines (Histamine, Serotonin, GABA)!",
+          "q": "Which enzyme deficiency results in oculocutaneous albinism due to impaired melanin synthesis from tyrosine?",
+          "opts": [
+            "Tyrosinase",
+            "Urease",
+            "Xanthine oxidase",
+            "Monoamine oxidase"
+          ],
+          "a": 0,
+          "why": "Tyrosinase catalyzes the conversion of tyrosine to DOPA and dopaquinone in melanocytes; its deficiency causes albinism."
+        }
+      ],
+      "exam": "LAQ / SN order: Phenylalanine → Tyrosine pathway → PKU & Alkaptonuria (biochemical basis, urine darkening, ochronosis, Benedict's/ferric chloride tests) → Tyrosine products (melanin, catecholamines, T₃/T₄) → Biogenic amines.",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-nucleotide-purine-salvage-gout-b14",
+      "title": "Nucleotide Metabolism: Purine Salvage Pathway**, Purine Catabolism, Hyperuricemia & Gout**",
+      "region": "Paper 1 · Nucleotide Metabolism",
+      "tag": "SN · ** (Purines & Gout)",
+      "minutes": 12,
+      "slides": [
+        {
+          "h": "1. Purine Salvage Pathway** (APRT & HGPRT / Lesch-Nyhan)",
+          "p": "Because de novo purine synthesis is energy-expensive (6 ATP equivalents), cells recycle free purine bases via the <b>purine salvage pathway**</b> using <b>PRPP (5-phosphoribosyl-1-pyrophosphate)</b>:",
+          "bullets": [
+            "<b>Two Key Salvage Enzymes:</b> <b>1. Adenine phosphoribosyltransferase (APRT):</b> Adenine + PRPP → AMP + PPi. <b>2. Hypoxanthine-guanine phosphoribosyltransferase (HGPRT):</b> Hypoxanthine + PRPP → IMP + PPi; Guanine + PRPP → GMP + PPi.",
+            "<b>Lesch-Nyhan Syndrome (X-linked recessive HGPRT deficiency):</b> Severe <b>hyperuricemia & gout</b>, neurological dysfunction, intellectual disability, and characteristic <b>compulsive self-mutilation</b> (lip/finger biting); elevated PRPP accelerates de novo purine synthesis."
+          ],
+          "remember": "HGPRT salvages Hypoxanthine & Guanine using PRPP! HGPRT deficiency = Lesch-Nyhan syndrome (hyperuricemia + self-mutilation)!",
+          "q": "Deficiency of which purine salvage enzyme causes Lesch-Nyhan syndrome?",
+          "opts": [
+            "Adenosine deaminase",
+            "Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)",
+            "Xanthine oxidase",
+            "Uricase"
+          ],
+          "a": 1,
+          "why": "Lesch-Nyhan syndrome is an X-linked disorder caused by deficiency of HGPRT, leading to hyperuricemia, gout, and neurobehavioral abnormalities."
+        },
+        {
+          "h": "2. Purine Catabolism to Uric Acid, Hyperuricemia & Gout**",
+          "p": "In humans (who lack uricase), purine nucleosides/nucleotides are catabolized to <b>uric acid</b> (end product excreted in urine):",
+          "bullets": [
+            "<b>Catabolic Steps:</b> AMP → IMP/adenosine → inosine → <b>hypoxanthine</b>; GMP → guanosine → <b>guanine</b> → <b>xanthine</b>. <b>Xanthine oxidase</b> (molybdenum/iron enzyme) converts <b>hypoxanthine → xanthine → uric acid</b>.",
+            "<b>Hyperuricemia & Gout**:</b> Elevated serum uric acid (>7 mg/dL in men, >6 mg/dL in women) leads to monosodium urate crystal deposition in joints (<b>gouty arthritis</b>, classically first metatarsophalangeal joint / podagra), <b>tophi</b>, and uric acid renal stones. Treated with <b>Allopurinol</b> (competitive inhibitor of <b>xanthine oxidase</b>), febuxostat, uricosurics, or colchicine."
+          ],
+          "remember": "Xanthine oxidase makes Uric acid! Allopurinol inhibits Xanthine oxidase to treat Gout!",
+          "q": "How does allopurinol lower uric acid levels in patients with chronic gout?",
+          "opts": [
+            "By inhibiting xanthine oxidase",
+            "By activating carbamoyl phosphate synthetase I",
+            "By increasing dietary purine absorption",
+            "By inhibiting insulin secretion"
+          ],
+          "a": 0,
+          "why": "Allopurinol (and its active metabolite oxypurinol) inhibits xanthine oxidase, blocking the conversion of hypoxanthine and xanthine to uric acid."
+        }
+      ],
+      "exam": "SN order: Purine salvage pathway** (PRPP, APRT & HGPRT, Lesch-Nyhan syndrome) → Purine catabolism to uric acid via xanthine oxidase → Hyperuricemia & Gout** (urate crystals, tophi, allopurinol action).",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-heme-bilirubin-jaundice-hemoglobinopathies-b14",
+      "title": "Heme Biosynthesis & Regulation*, Porphyria, Heme Catabolism, Bilirubin/Jaundice & Hemoglobinopathies**",
+      "region": "Paper 1 · Hemoglobin",
+      "tag": "LAQ & SN · ** (Heme, Jaundice & Hb)",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "1. Heme Biosynthesis, ALA Synthase Regulation*, Porphyrias & Hb Variants**",
+          "p": "<b>Heme</b> is synthesized from <b>Glycine + Succinyl-CoA</b> (8 steps, starting and ending in mitochondria); <b>δ-Aminolevulinic acid (ALA) synthase-1 (ALAS1)</b> is the rate-limiting enzyme (requires <b>PLP / Vitamin B₆</b>; repressed by <b>heme</b> via feedback inhibition and induced by drugs/cytochrome P450):",
+          "bullets": [
+            "<b>Porphyrias:</b> Enzyme defects in heme synthesis cause accumulation of porphyrins/precursors (e.g., <b>Acute Intermittent Porphyria</b> — porphobilinogen deaminase defect: abdominal pain, neuropsychiatric symptoms, port-wine urine, NO photosensitivity).",
+            "<b>Hemoglobinopathies** (Single Amino Acid Substitutions in β-globin):</b> <b>Sickle-cell hemoglobin (HbS)</b>: Glutamate → <b>Valine</b> at position 6 of β-chain (hydrophobic patch causes sickling under low O₂); <b>HbC</b>: Glutamate → <b>Lysine</b> at position 6 of β-chain."
+          ],
+          "remember": "ALA synthase (needs Vit B₆) is rate-limiting in Heme synthesis! HbS = Glu6 → Val6 on β-chain!",
+          "q": "Which amino acid substitution in the β-globin chain gives rise to sickle-cell hemoglobin (HbS)?",
+          "opts": [
+            "Valine replaced by Glutamate at position 6",
+            "Glutamate replaced by Valine at position 6",
+            "Glutamate replaced by Lysine at position 6",
+            "Histidine replaced by Tyrosine at position 8"
+          ],
+          "a": 1,
+          "why": "In HbS, a point mutation replaces hydrophilic glutamate at position 6 of the β-globin chain with hydrophobic valine."
+        },
+        {
+          "h": "2. Heme Catabolism, Bilirubin Fate & Classification of Jaundice",
+          "p": "Senescent RBCs (~120 days) are destroyed in reticuloendothelial macrophages: <b>Heme → Biliverdin (heme oxygenase, releases CO & Fe³⁺) → Unconjugated (indirect) bilirubin (biliverdin reductase)</b>, bound to <b>albumin</b> in blood:",
+          "bullets": [
+            "<b>Hepatic Conjugation & Gut Fate:</b> Hepatocytes take up unconjugated bilirubin (ligandin/Y-protein) and conjugate it with glucuronic acid via <b>UDP-glucuronyl transferase</b> → water-soluble <b>conjugated (direct) bilirubin</b> secreted in bile → converted by gut bacteria to <b>stercobilinogen/stercobilin</b> (fecal color) and <b>urobilinogen</b> (reabsorbed/urinary).",
+            "<b>Three Types of Jaundice:</b> <b>1. Hemolytic (pre-hepatic):</b> ↑Unconjugated bilirubin, ↑urine urobilinogen, normal stools, NO bilirubin in urine (unconjugated is water-insoluble/albumin-bound). <b>2. Hepatocellular (hepatic):</b> Mixed ↑conjugated & unconjugated bilirubin, ↑transaminases (ALT/AST). <b>3. Obstructive (post-hepatic / cholestatic):</b> ↑Conjugated bilirubin in blood & <b>urine</b>, pale clay-colored stools, absent/low urobilinogen, ↑alkaline phosphatase."
+          ],
+          "remember": "UDP-glucuronyl transferase makes Conjugated (direct) bilirubin! Hemolytic = ↑Unconjugated; Obstructive = ↑Conjugated + Clay stools + Bilirubin in urine!",
+          "q": "Which enzyme conjugates bilirubin with glucuronic acid in hepatocytes to form water-soluble conjugated (direct) bilirubin?",
+          "opts": [
+            "Xanthine oxidase",
+            "UDP-glucuronyl transferase (bilirubin glucuronosyltransferase)",
+            "Heme oxygenase",
+            "Alanine aminotransferase (ALT)"
+          ],
+          "a": 1,
+          "why": "Hepatic UDP-glucuronyl transferase transfers glucuronate to unconjugated bilirubin, converting it into water-soluble conjugated bilirubin."
+        }
+      ],
+      "exam": "LAQ / SN order: Heme biosynthesis & ALAS regulation* → Intermittent porphyria → HbS & HbC amino acid changes** → Heme degradation to bilirubin & enterohepatic fate → Hemolytic, hepatocellular & obstructive jaundice comparison.",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-vitamins-a-d-b1-b6-b9-b12-c-b14",
+      "title": "Vitamins: Vitamin A** (Wald's Cycle), Vitamin D (Hormone), Thiamine*, B₆, B₉/B₁₂ & Vitamin C",
+      "region": "Paper 1 · Vitamins",
+      "tag": "LAQ & SN · ** (Fat & Water-Soluble Vitamins)",
+      "minutes": 16,
+      "slides": [
+        {
+          "h": "1. Vitamin A** (Wald's Visual Cycle & Deficiency) & Vitamin D (Calciferol Hormone)",
+          "p": "Master these two fat-soluble vitamins for both LAQs and Short Notes:",
+          "bullets": [
+            "<b>Vitamin A** (Retinol/Retinal/Retinoic Acid):</b> Deficiency causes <b>night blindness (nyctalopia)</b>, xerophthalmia, Bitot's spots, keratomalacia, follicular hyperkeratosis, impaired immunity. In <b>Wald's visual cycle</b>, light isomerizes <b>11-cis retinal → all-trans retinal</b>, separating from opsin (bleaching rhodopsin); all-trans retinol returns to pigment epithelium to regenerate 11-cis retinal.",
+            "<b>Vitamin D (Cholecalciferol D₃ / Ergocalciferol D₂ — Pre-hormone/Hormone):</b> Activated via <b>25-hydroxylation in liver</b> (25-(OH)D / calcidiol) and <b>1α-hydroxylation in kidney proximal tubule</b> (PTH-stimulated → <b>1,25-(OH)₂D₃ / calcitriol</b>, active steroid-like hormone raising serum Ca²⁺ & PO₄³⁻). Deficiency causes <b>rickets in children</b> and <b>osteomalacia in adults</b>."
+          ],
+          "remember": "Wald's cycle = 11-cis retinal → light → all-trans retinal! Calcitriol = 1,25-(OH)₂D₃ (activated in Liver [25] & Kidney [1α])!",
+          "q": "Which two organs sequentially hydroxylate vitamin D₃ (cholecalciferol) to produce active 1,25-dihydroxycholecalciferol (calcitriol)?",
+          "opts": [
+            "Stomach and spleen",
+            "Liver (25-hydroxylation) and Kidney (1α-hydroxylation)",
+            "Pancreas and thyroid",
+            "Lungs and heart"
+          ],
+          "a": 1,
+          "why": "Cholecalciferol is converted to 25-hydroxycholecalciferol in the liver and then to active 1,25-dihydroxycholecalciferol (calcitriol) in the kidney."
+        },
+        {
+          "h": "2. Thiamine* (B₁), Pyridoxine (B₆), Folate (B₉), Cobalamin (B₁₂) & Vitamin C",
+          "p": "Complete your Vitamins review with coenzyme roles and deficiency syndromes:",
+          "bullets": [
+            "<b>Thiamine* (B₁ → TPP coenzyme):</b> Required for oxidative decarboxylation (pyruvate dehydrogenase, α-ketoglutarate dehydrogenase) & transketolase (HMP shunt). Deficiency causes <b>beriberi</b> (dry/neuropathic, wet/cardiac) and <b>Wernicke-Korsakoff syndrome</b>.",
+            "<b>Pyridoxine (B₆ → PLP coenzyme):</b> Transaminases, decarboxylases (biogenic amines/GABA), δ-ALA synthase (heme), glycogen phosphorylase.",
+            "<b>Folic Acid (THF) & Vitamin B₁₂ (Methylcobalamin / Adenosylcobalamin):</b> Both are essential for <b>one-carbon metabolism and DNA synthesis (thymidylate synthesis)</b>; deficiency causes <b>megaloblastic anemia</b> (B₁₂ deficiency also causes <b>subacute combined degeneration of spinal cord</b> due to methylmalonyl-CoA mutase/methionine synthase dysfunction; requires <b>intrinsic factor</b> for absorption).",
+            "<b>Vitamin C (Ascorbic Acid):</b> Cofactor for prolyl & lysyl hydroxylases (<b>collagen cross-linking/maturation</b>), iron absorption, antioxidant; deficiency causes <b>scurvy</b> (bleeding gums, poor wound healing, petechiae/hemorrhages)."
+          ],
+          "remember": "B₁ (TPP) = Beriberi & Wernicke-Korsakoff! B₉ & B₁₂ = Megaloblastic anemia (B₁₂ also causes neurological degeneration)! Vit C = Collagen hydroxylation & Scurvy!",
+          "q": "Deficiency of which vitamin causes megaloblastic anemia accompanied by neurological degeneration (subacute combined degeneration of the spinal cord)?",
+          "opts": [
+            "Vitamin B₁ (Thiamine)",
+            "Vitamin B₁₂ (Cobalamin)",
+            "Vitamin C (Ascorbic acid)",
+            "Vitamin D"
+          ],
+          "a": 1,
+          "why": "Vitamin B₁₂ deficiency impairs both DNA synthesis (causing megaloblastic anemia) and myelin/methylmalonyl-CoA metabolism (causing neuropathic/spinal cord lesions)."
+        }
+      ],
+      "exam": "LAQ / SN order: Vitamin A** (Wald's visual cycle & deficiency) → Vitamin D (25 & 1α activation as hormone, rickets/osteomalacia) → Thiamine* (TPP & beriberi) → B₆ (PLP), Folate & B₁₂ (megaloblastic anemia) → Vitamin C (collagen & scurvy).",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-enzymes-kinetics-inhibition-isoenzymes-b15",
+      "title": "Enzymes: Kinetics, Km & E-S Complex, Competitive/Non-Competitive Inhibition & Isoenzymes*** (MI)",
+      "region": "Paper 1 — Enzymes",
+      "tag": "LAQ & SN · *** (Enzymes & MI)",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "1. Enzyme Activity Factors, Activation Energy, E-S Complex & Km Value",
+          "p": "Enzymes are protein biocatalysts (except ribozymes) that lower <b>activation energy</b> by stabilizing the transition state via an <b>Enzyme–Substrate (ES) complex</b> without altering reaction ΔG° or equilibrium:",
+          "bullets": [
+            "<b>Factors Affecting Velocity (V):</b> Enzyme concentration (linear proportionality at excess substrate), substrate concentration ([S] — hyperbolic Michaelis-Menten curve approaching <b>V_max</b>), temperature (optimum ~37°C; denaturation above ~45–50°C), and pH (optimum pH & ionization of active-site groups).",
+            "<b>Michaelis Constant (K_m):</b> Substrate concentration at which reaction velocity reaches <b>half of maximum velocity (1/2 V_max)</b>; inversely measures enzyme–substrate affinity (<b>low K_m = high affinity</b>; glucokinase has high K_m for glucose vs hexokinase's low K_m)."
+          ],
+          "remember": "Enzymes lower Activation Energy! K_m = [S] at 1/2 V_max (Lower K_m = Higher affinity)!",
+          "q": "What does the Michaelis constant (K_m) of an enzyme represent?",
+          "opts": [
+            "The maximum reaction velocity (V_max)",
+            "The substrate concentration required to achieve half-maximal velocity (1/2 V_max)",
+            "The turnover number (k_cat) multiplied by enzyme concentration",
+            "The free energy change (ΔG) of the reaction"
+          ],
+          "a": 1,
+          "why": "K_m is defined as the substrate concentration at which initial reaction velocity is half of V_max, serving as an inverse measure of substrate affinity."
+        },
+        {
+          "h": "2. Competitive vs Non-Competitive Inhibition & Isoenzymes*** (Myocardial Infarction**)",
+          "p": "Compare enzyme inhibitors and clinical diagnostic/therapeutic enzymes & isoenzymes:",
+          "bullets": [
+            "<b>Competitive vs Non-Competitive Inhibition:</b> <b>Competitive inhibitor</b> structurally resembles substrate and binds the <b>active site</b> → <b>increases apparent K_m</b> (decreases affinity) but <b>V_max is unchanged</b> (overcome by high [S]; e.g., statins/HMG-CoA reductase, malonate/succinate dehydrogenase). <b>Non-competitive inhibitor</b> binds a <b>different (allosteric/non-active) site</b> regardless of substrate binding → <b>V_max decreases</b> (cannot be overcome by high [S]) while <b>K_m is unchanged</b>.",
+            "<b>Isoenzymes*** & Myocardial Infarction**:</b> Multiple molecular forms of an enzyme catalyzing the same reaction with distinct tissue distributions/properties: <b>Creatine Kinase (CK)</b> (CK-MM skeletal, CK-BB brain, <b>CK-MB cardiac muscle</b> — rises 4–6 h post-MI, peaks ~18–24 h, normalizes 48–72 h), <b>LDH</b> (5 isozymes LDH₁–LDH₅; flipped LDH₁ > LDH₂ in MI), and <b>Troponins (cTnT / cTnI)</b> (most sensitive & specific cardiac markers)."
+          ],
+          "remember": "Competitive: ↑K_m, same V_max! Non-competitive: ↓V_max, same K_m! CK-MB = Cardiac isoenzymes in MI!",
+          "q": "Which kinetic pattern is characteristic of a reversible competitive enzyme inhibitor?",
+          "opts": [
+            "Decreased V_max with unchanged K_m",
+            "Increased apparent K_m with unchanged V_max",
+            "Decreased K_m and decreased V_max",
+            "Increased V_max and decreased K_m"
+          ],
+          "a": 1,
+          "why": "Competitive inhibitors compete at the active site, raising apparent K_m, while adding excess substrate can still achieve the same V_max."
+        }
+      ],
+      "exam": "LAQ / SN order: Enzyme definition, activation energy & ES complex → Factors & K_m → Competitive vs non-competitive inhibition → Isoenzymes*** & MI markers (CK-MB, LDH, troponins) + diagnostic/therapeutic enzymes.",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-biological-oxidation-etc-oxphos-shuttle-b15",
+      "title": "Biological Oxidation: ETC (Complexes I–IV & Inhibitors**), Oxidative Phosphorylation***, Uncouplers & Malate Shuttle*",
+      "region": "Paper 1 — Biological Oxidation",
+      "tag": "LAQ & SN · *** (ETC, OxPhos & Shuttles)",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "1. Electron Transport Chain (ETC), ATP Synthesis Sites, Inhibitors** & Uncouplers",
+          "p": "The mitochondrial <b>Electron Transport Chain (inner mitochondrial membrane)</b> transfers electrons from NADH (Complex I) and FADH₂ (Complex II) via Coenzyme Q (ubiquinone) and Cytochrome c to O₂ (Complex IV → H₂O), pumping H⁺ into the intermembrane space to drive <b>ATP synthase (Complex V / chemiosmotic hypothesis)</b>:",
+          "bullets": [
+            "<b>Sites of ATP Synthesis & ETC Inhibitors**:</b> Proton pumping occurs at <b>Complexes I, III, and IV</b> (~2.5 ATP per NADH; ~1.5 ATP per FADH₂). <b>Complex I inhibitors:</b> Rotenone, barbiturates (amobarbital), piercidin A. <b>Complex II inhibitors:</b> Carboxin, malonate. <b>Complex III inhibitors:</b> Antimycin A, BAL. <b>Complex IV (cytochrome c oxidase) inhibitors:</b> Cyanide (CN⁻), carbon monoxide (CO), hydrogen sulfide (H₂S), azide. <b>ATP synthase inhibitor:</b> Oligomycin.",
+            "<b>Uncouplers & Thermogenin:</b> <b>Uncouplers</b> (2,4-dinitrophenol, thermogenin / UCP1 in brown adipose tissue) dissipate the H⁺ proton gradient as <b>heat</b> without ATP synthesis (electron transport & O₂ consumption continue/increase!)."
+          ],
+          "remember": "ETC pumps H⁺ at Complexes I, III, IV! Cyanide/CO block Complex IV! Uncouplers (DNP, Thermogenin/UCP1) make HEAT instead of ATP!",
+          "q": "How do uncouplers of oxidative phosphorylation (such as 2,4-dinitrophenol or brown-fat thermogenin/UCP1) affect electron transport and ATP synthesis?",
+          "opts": [
+            "They block both electron flow and oxygen consumption completely",
+            "They dissipate the proton gradient across the inner mitochondrial membrane, generating heat rather than ATP while allowing electron transport to proceed",
+            "They directly inhibit pyruvate dehydrogenase",
+            "They convert ADP into AMP without oxygen"
+          ],
+          "a": 1,
+          "why": "Uncouplers allow protons to re-enter the matrix without passing through ATP synthase, uncoupling oxidation from phosphorylation and releasing energy as heat."
+        },
+        {
+          "h": "2. Substrate-Level Phosphorylation & Malate–Aspartate Shuttle*",
+          "p": "Contrast ATP generation mechanisms and cytosolic NADH transport into mitochondria:",
+          "bullets": [
+            "<b>Substrate-Level vs Oxidative Phosphorylation:</b> <b>Substrate-level phosphorylation</b> forms ATP/GTP directly by transferring a phosphate group from a high-energy metabolic intermediate without O₂ or ETC (e.g., phosphoglycerate kinase & pyruvate kinase in glycolysis; succinyl-CoA synthetase in TCA cycle). <b>Oxidative phosphorylation</b> uses the ETC proton gradient and O₂.",
+            "<b>Malate–Aspartate Shuttle*:</b> Transfers reducing equivalents of cytosolic NADH into mitochondria (heart, liver, kidney): cytosolic oxaloacetate + NADH → malate (malate dehydrogenase) → enters matrix → re-oxidized to oxaloacetate + <b>matrix NADH</b> (yielding ~2.5 ATP) → transaminated to aspartate and exported back."
+          ],
+          "remember": "Substrate-level phosphorylation = Direct phosphate transfer without ETC! Malate-aspartate shuttle preserves NADH equivalents for heart & liver!",
+          "q": "Which of the following is an example of substrate-level phosphorylation rather than oxidative phosphorylation?",
+          "opts": [
+            "ATP synthesis driven by Complex V (ATP synthase) using the H⁺ gradient",
+            "ATP formation catalyzed by phosphoglycerate kinase or pyruvate kinase during glycolysis",
+            "Electron transfer from NADH to Coenzyme Q",
+            "Thermogenin-mediated heat production in brown fat"
+          ],
+          "a": 1,
+          "why": "Substrate-level phosphorylation directly transfers a high-energy phosphoryl group from a substrate molecule to ADP/GDP without requiring the ETC."
+        }
+      ],
+      "exam": "LAQ / SN order: ETC complexes (I–IV), proton-pumping ATP sites & inhibitors** → Oxidative phosphorylation & uncouplers/thermogenin → Substrate-level vs oxidative phosphorylation → Malate-aspartate shuttle*.",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-molecular-biology-dna-rna-protein-synthesis-b15",
+      "title": "Molecular Biology: DNA Replication, Transcription, Genetic Code***, Wobble, Protein Biosynthesis*, PCR & Lac Operon",
+      "region": "Paper 1 — Molecular Biology",
+      "tag": "LAQ & SN · *** (Replication, Transcription, Translation & Operon)",
+      "minutes": 16,
+      "slides": [
+        {
+          "h": "1. DNA Replication, Transcription, PCR & Lac Operon",
+          "p": "Genetic information flows via <b>semiconservative, bidirectional DNA replication (5' → 3')</b> and <b>transcription (RNA polymerase, 5' → 3')</b>:",
+          "bullets": [
+            "<b>DNA Replication & Inhibitors:</b> Helicase unwinds, primase makes RNA primer, <b>DNA polymerase III</b> synthesizes leading strand continuously and lagging strand as <b>Okazaki fragments</b> (joined by <b>DNA ligase</b>); topoisomerases/gyrases relieve supercoiling (inhibited by <b>fluoroquinolones/ciprofloxacin</b>; eukaryotic topoisomerase inhibited by etoposide/camptothecin).",
+            "<b>Transcription, Post-Transcriptional Modification & PCR:</b> Eukaryotic pre-mRNA undergoes <b>5' 7-methylguanosine capping, 3' poly(A) tailing, and intron splicing (spliceosome)</b>; bacterial RNA polymerase is inhibited by <b>rifampicin</b> (actinomycin D binds DNA). <b>PCR (Polymerase Chain Reaction)</b> amplifies DNA in vitro via thermal cycling: <b>Denaturation (~94–95°C) → Annealing (~50–65°C primers) → Extension (~72°C by thermostable Taq DNA polymerase)</b>.",
+            "<b>Lac Operon (Inducible Prokaryotic Operon):</b> Structural genes (<b>lacZ</b> β-galactosidase, <b>lacY</b> permease, <b>lacA</b> transacetylase) are repressed by lac repressor bound to operator in absence of lactose; <b>allolactose (inducer)</b> inactivates repressor (and low glucose + high cAMP–CAP activates transcription)."
+          ],
+          "remember": "DNA synthesis is always 5' → 3'! PCR = Denature, Anneal, Extend (Taq polymerase)! Lac operon inducer = Allolactose!",
+          "q": "Which thermostable DNA polymerase is classically used to extend DNA primers during the extension step of Polymerase Chain Reaction (PCR)?",
+          "opts": [
+            "RNA polymerase II",
+            "Taq DNA polymerase (from Thermus aquaticus)",
+            "Reverse transcriptase",
+            "DNA ligase"
+          ],
+          "a": 1,
+          "why": "Taq DNA polymerase withstands repeated high-temperature denaturation cycles (~95°C) during PCR amplification."
+        },
+        {
+          "h": "2. Genetic Code***, Wobble Hypothesis, Mutations* & Protein Biosynthesis* (Translation)",
+          "p": "Master the genetic code, mutations, and ribosomal translation:",
+          "bullets": [
+            "<b>Genetic Code*** & Wobble Hypothesis:</b> Triplet codons (64 total: 61 sense encoding 20 amino acids + <b>3 stop/nonsense codons: UAA, UAG, UGA</b>; AUG = start/methionine). Code is <b>degenerate/redundant, unambiguous, nearly universal, and non-overlapping</b>. <b>Crick's Wobble Hypothesis</b> explains base-pairing flexibility at the <b>3rd codon / 5' anticodon position</b> (allowing one tRNA to recognize multiple synonymous codons).",
+            "<b>Mutations* & rDNA:</b> Point mutations (silent, missense, nonsense) or frameshift mutations caused by UV/radiation, base analogs, alkylating/deaminating agents; <b>recombinant DNA technology</b> uses restriction endonucleases, vectors, and ligases for gene cloning/insulin/vaccines.",
+            "<b>Protein Biosynthesis* (Translation — 5' → 3' mRNA, N → C polypeptide):</b> Aminoacyl-tRNA synthetases charge tRNAs (uses ATP); initiation (initiation factors, fMet-tRNA_i in prokaryotes / Met-tRNA_i in eukaryotes), elongation (peptidyl transferase / 23S or 28S ribozyme, EF-Tu/eEF1A, translocation EF-G/eEF2), and termination (release factors at UAA/UAG/UGA). Inhibitors include <b>streptomycin/aminoglycosides, tetracyclines, chloramphenicol, erythromycin/macrolides, puromycin, and diphtheria toxin (eEF2)</b>."
+          ],
+          "remember": "Stop codons = UAA, UAG, UGA! Wobble = 3rd base of codon / 1st base of anticodon! Peptidyl transferase is a RIBOZYME!",
+          "q": "Which three mRNA codons serve as termination (stop) codons that signal the end of translation?",
+          "opts": [
+            "AUG, UGG, UAC",
+            "UAA, UAG, and UGA",
+            "UUU, CCC, GGG",
+            "CAU, CAC, AAA"
+          ],
+          "a": 1,
+          "why": "UAA, UAG, and UGA are stop (nonsense) codons recognized by release factors rather than aminoacyl-tRNAs."
+        }
+      ],
+      "exam": "LAQ / SN order: DNA replication & inhibitors → Transcription, RNA processing & PCR → Lac operon → Genetic code***, wobble hypothesis & mutations* → Protein biosynthesis* (initiation, elongation, termination & antibiotics) + rDNA.",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-proteins-peptides-trna-nucleotides-b15",
+      "title": "Proteins (Structure, Classification, Peptides* & tRNA***), Nucleotides*, Antioxidants, Nutrition & Plasma Proteins*",
+      "region": "Paper 1 — Proteins",
+      "tag": "SN · *** (Structure, tRNA, Nutrition & Ig)",
+      "minutes": 16,
+      "slides": [
+        {
+          "h": "1. Protein Structure**, Classification, Peptides*, tRNA*** & Nucleotides*",
+          "p": "Review macromolecular structure and function across Proteins and Nucleotides:",
+          "bullets": [
+            "<b>Protein Structure** & Classification:</b> <b>Primary</b> (amino acid sequence & peptide bonds), <b>Secondary</b> (local folding via H-bonds: α-helix, β-pleated sheet), <b>Tertiary</b> (3D folding of a single polypeptide stabilized by hydrophobic interactions, H-bonds, disulfide bridges, ionic bonds), and <b>Quaternary</b> (multisubunit assembly, e.g., Hb). Classified functionally (enzymes, transport, structural/collagen, contractile, hormonal, defense/Ig) and structurally (simple vs <b>conjugated proteins</b> with prosthetic groups: glycoproteins, lipoproteins, metalloproteins, hemoproteins).",
+            "<b>Biologically Important Peptides* & tRNA***:</b> <b>Glutathione (γ-glutamyl-cysteinyl-glycine)</b> (antioxidant/redox buffer, amino acid transport), <b>insulin, oxytocin, vasopressin/ADH, bradykinin, angiotensin II</b>. <b>tRNA*** ('cloverleaf' secondary / L-shaped tertiary structure)</b> has an <b>acceptor arm (3'-CCA end)</b>, <b>anticodon loop</b>, <b>D-arm</b>, and <b>TψC arm</b> to deliver specific amino acids during translation. <b>Nucleotides*</b> serve as energy currencies (ATP/GTP), metabolic carriers (UDP-glucose, CDP-choline), second messengers (cAMP, cGMP), and coenzyme components (NAD⁺, FAD, CoA).",
+            "<b>Free Radicals & Antioxidants:</b> Reactive oxygen species (ROS: superoxide O₂•⁻, H₂O₂, hydroxyl •OH) cause lipid peroxidation/DNA damage; neutralized by <b>antioxidant enzymes</b> (<b>superoxide dismutase [SOD], catalase, glutathione peroxidase</b>) and <b>antioxidant vitamins/nutrients</b> (<b>Vitamin E [α-tocopherol — main membrane lipid antioxidant], Vitamin C, β-carotene, selenium</b>)."
+          ],
+          "remember": "tRNA 3' end = -CCA! SOD + Catalase + Glutathione peroxidase & Vit E/C = Antioxidant defense! ATP/cAMP/NAD⁺ = Nucleotide functions!",
+          "q": "Which terminal nucleotide sequence is present at the 3' acceptor end of all mature tRNA molecules where the amino acid is attached?",
+          "opts": [
+            "5'-UUU-3'",
+            "3'-CCA-5'",
+            "5'-AUG-3'",
+            "3'-GGG-5'"
+          ],
+          "a": 1,
+          "why": "Every functional tRNA ends with the 3'-CCA sequence (added post-transcriptionally by nucleotidyltransferase), with the amino acid esterified to the terminal adenosine."
+        },
+        {
+          "h": "2. Nutrition (PEM***, Kwashiorkor*, Dietary Fiber, BMR) & Plasma Proteins* (Albumin & Ig)",
+          "p": "Complete the remaining Paper 1 short-note units:",
+          "bullets": [
+            "<b>Nutrition (PEM***, Kwashiorkor*, Dietary Fiber & BMR):</b> <b>BMR</b> is basal energy expenditure at rest/post-absorptive/thermoneutral conditions (affected by BSA/age/sex/thyroid hormones). <b>Dietary fiber</b> (insoluble cellulose & soluble pectin/gums) increases stool bulk, speeds transit, lowers postprandial glucose/cholesterol, and supports gut microbiota. <b>Protein-Energy Malnutrition (PEM***)</b> spans <b>Marasmus</b> (calorie + protein deficiency; severe wasting, NO edema) and <b>Kwashiorkor*</b> (protein deficiency > calorie deficit; <b>pitting edema due to hypoalbuminemia</b>, fatty liver, flaky-paint dermatosis, depigmented hair; treated with gradual calorie/protein refeeding, electrolyte/infection control).",
+            "<b>Plasma Proteins* — Albumin & Immunoglobulins*:</b> <b>Albumin</b> maintains plasma oncotic pressure (~25–28 mmHg), binds/transports bilirubin, free fatty acids, calcium, and drugs, and acts as a negative acute-phase protein. <b>Immunoglobulin G (IgG — Y-shaped H₂L₂ with Fab & Fc regions, heavy/light chains, disulfide bonds)</b> mediates secondary immune response, opsonization, complement activation, and placental transfer."
+          ],
+          "remember": "Kwashiorkor* = Edema (low albumin!) + Fatty liver + Skin/hair changes; Marasmus = Severe wasting, NO edema! IgG crosses placenta!",
+          "q": "Which clinical feature is characteristic of Kwashiorkor compared with marasmus in protein-energy malnutrition?",
+          "opts": [
+            "Pitting edema (due to hypoalbuminemia) and fatty liver",
+            "Absence of edema with extreme subcutaneous fat loss alone",
+            "Hyperalbuminemia",
+            "Excessive thyroid hormone secretion"
+          ],
+          "a": 0,
+          "why": "Kwashiorkor is marked by protein deficiency out of proportion to calories, leading to hypoalbuminemia-induced edema and hepatic steatosis (fatty liver)."
+        }
+      ],
+      "exam": "SN order: Protein structure**, classification & conjugated proteins → Peptides* (glutathione) & tRNA*** → Nucleotide functions* → Free radicals & antioxidants (SOD, catalase, Vit E/C) → Nutrition (BMR, fiber, PEM***/Kwashiorkor*) → Plasma proteins* (albumin & Ig structure/function).",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-carb-metabolism-glycolysis-tca-hmp-glycogen-b16",
+      "title": "Carbohydrate Metabolism: Erythrocyte Glycolysis & Rapoport–Leubering, TCA Cycle*, HMP Shunt* & Glycogen / GSD*",
+      "region": "Paper 2 — Carbohydrate Metabolism",
+      "tag": "LAQ & SN · *** (Carbohydrates, TCA, HMP & Glycogen)",
+      "minutes": 16,
+      "slides": [
+        {
+          "h": "1. Erythrocyte Glycolysis, Rapoport–Leubering Cycle & TCA Cycle (Amphibolic*)",
+          "p": "Mature erythrocytes lack mitochondria and rely solely on anaerobic glycolysis, with a specialized shunt regulating oxygen unloading:",
+          "bullets": [
+            "<b>Erythrocyte Glycolysis & Rapoport–Leubering Shunt:</b> <b>1,3-Bisphosphoglycerate</b> is converted by <b>bisphosphoglycerate mutase</b> to <b>2,3-Bisphosphoglycerate (2,3-BPG)</b> → phosphatase → <b>3-phosphoglycerate</b> (bypasses phosphoglycerate kinase, costing 1 ATP per cycle). <b>2,3-BPG</b> binds deoxyhemoglobin β-chains, lowering O₂ affinity (shifting O₂–Hb curve right) to enhance O₂ delivery to tissues.",
+            "<b>TCA (Citric Acid / Krebs) Cycle — Amphibolic Nature*:</b> Acetyl-CoA (2C) + Oxaloacetate (4C) → Citrate (6C, citrate synthase) → ... → α-Ketoglutarate (5C, isocitrate dehydrogenase) → Succinyl-CoA (4C, α-ketoglutarate dehydrogenase) → Succinate (4C, GTP/ATP via substrate-level phosphorylation) → Fumarate (succinate dehydrogenase / Complex II) → Malate → Oxaloacetate (3 NADH, 1 FADH₂, 1 GTP/ATP per turn). <b>Amphibolic</b> because it is both catabolic (oxidizing fuels) and anabolic (citrate → fatty acids/cholesterol; α-KG → glutamate/purines; succinyl-CoA → heme; oxaloacetate → gluconeogenesis/aspartate)."
+          ],
+          "remember": "2,3-BPG shifts O₂–Hb curve RIGHT (unloads O₂)! TCA cycle is AMPHIBOLIC (catabolic + anabolic precursors)!",
+          "q": "How does 2,3-bisphosphoglycerate (2,3-BPG) in erythrocytes affect oxygen transport?",
+          "opts": [
+            "It increases hemoglobin's oxygen affinity and shifts the curve left",
+            "It binds preferentially to deoxyhemoglobin and decreases O₂ affinity (shifts curve right), promoting O₂ unloading to tissues",
+            "It inhibits hexokinase permanently",
+            "It converts lactate into glucose inside RBCs"
+          ],
+          "a": 1,
+          "why": "2,3-BPG stabilizes the T (deoxy) conformation of hemoglobin, shifting the O₂–Hb dissociation curve to the right and facilitating oxygen release to tissues."
+        },
+        {
+          "h": "2. HMP Shunt (Pentose Phosphate Pathway)*, Glycogen Metabolism & Glycogen Storage Diseases*",
+          "p": "Compare the HMP shunt and glycogen pathways/disorders:",
+          "bullets": [
+            "<b>HMP Shunt* (Cytosolic — Oxidative & Non-Oxidative Phases):</b> Generates <b>NADPH</b> (for fatty acid/cholesterol synthesis, steroid hydroxylation, and maintaining reduced <b>glutathione [GSH]</b> via glutathione reductase to protect RBCs against oxidative hemolysis) and <b>ribose-5-phosphate</b> (for nucleotide/nucleic acid synthesis); NO ATP is generated directly. <b>G6PD deficiency</b> causes hemolytic anemia triggered by primaquine, fava beans, or infections.",
+            "<b>Glycogen Metabolism & Glycogen Storage Diseases* (GSD):</b> <b>Glycogenesis</b> (glycogen synthase; branching enzyme) and <b>Glycogenolysis</b> (<b>glycogen phosphorylase</b> — rate-limiting, activated by glucagon/epinephrine in liver and epinephrine/AMP in muscle; inhibited by insulin). Key GSDs: <b>Type Ia / Von Gierke's disease</b> (<b>glucose-6-phosphatase</b> deficiency → severe fasting hypoglycemia, hepatomegaly, lactic acidosis, hyperuricemia, hyperlipidemia); <b>Type V / McArdle's disease</b> (muscle glycogen phosphorylase deficiency → painful muscle cramps/myoglobinuria on exercise)."
+          ],
+          "remember": "HMP shunt makes NADPH (antioxidant GSH & lipogenesis) + Ribose-5-P! Von Gierke (GSD Ia) = Glucose-6-phosphatase deficiency → Severe fasting hypoglycemia!",
+          "q": "Deficiency of which enzyme causes Von Gierke disease (Glycogen Storage Disease Type Ia), characterized by severe fasting hypoglycemia and hepatomegaly?",
+          "opts": [
+            "Glycogen synthase",
+            "Glucose-6-phosphatase",
+            "Debranching enzyme",
+            "Hexokinase"
+          ],
+          "a": 1,
+          "why": "Glucose-6-phosphatase is required in liver (and kidney) to release free glucose into blood from glycogenolysis and gluconeogenesis; its deficiency causes fasting hypoglycemia."
+        }
+      ],
+      "exam": "LAQ / SN order: Erythrocyte glycolysis & 2,3-BPG shunt → TCA cycle & amphibolic role* → HMP shunt* (NADPH & ribose-5-P, G6PD deficiency) → Glycogenolysis, hormonal regulation & Glycogen Storage Diseases* (Von Gierke, McArdle).",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-lipid-cholesterol-beta-oxidation-ketosis-lipoproteins-b16",
+      "title": "Lipid Metabolism: Cholesterol Synthesis*** & Atherosclerosis, β-Oxidation**, Ketosis, Lipoproteins* & Fatty Liver*",
+      "region": "Paper 2 — Lipid Metabolism",
+      "tag": "LAQ & SN · *** (Cholesterol, β-Oxidation, Ketosis & Lipoproteins)",
+      "minutes": 16,
+      "slides": [
+        {
+          "h": "1. Cholesterol Synthesis*** (HMG-CoA Reductase), Atherosclerosis, Lipoproteins* & Fatty Liver*",
+          "p": "<b>Cholesterol (27C)</b> is synthesized mainly in liver cytosol/ER from acetyl-CoA (via mevalonate → squalene → lanosterol → cholesterol); <b>HMG-CoA reductase</b> is the <b>rate-limiting enzyme</b> (inhibited by statins and cholesterol feedback; induced by insulin/thyroid):",
+          "bullets": [
+            "<b>Cholesterol Functions & Atherosclerosis:</b> Precursor of bile acids, steroid hormones, and vitamin D; maintains membrane fluidity. Elevated <b>LDL</b> ('bad cholesterol' — delivers cholesterol to peripheral tissues) deposits oxidized LDL in arterial intima → foam cells & fibrous plaques (<b>atherosclerosis</b> → CAD/stroke); <b>HDL</b> ('good cholesterol') mediates <b>reverse cholesterol transport</b> from peripheral tissues back to liver.",
+            "<b>Ketosis & Fatty Liver* / Lipotropic Factors*:</b> Prolonged fasting or uncontrolled diabetes increases fatty acid oxidation & acetyl-CoA → hepatic <b>ketogenesis</b> (acetoacetate, β-hydroxybutyrate, acetone); excessive ketone bodies cause <b>ketonemia, ketonuria, and metabolic ketoacidosis (ketosis)</b>. <b>Fatty liver</b> (triacylglycerol accumulation in hepatocytes) is prevented/reversed by <b>lipotropic factors</b> (<b>choline, methionine, betaine, lecithin, ω-3 fatty acids, Vitamin E</b>) needed for VLDL assembly/export."
+          ],
+          "remember": "HMG-CoA reductase = Rate-limiting enzyme in Cholesterol synthesis (inhibited by Statins)! LDL = Atherogenic; HDL = Reverse cholesterol transport! Choline = Lipotropic factor!",
+          "q": "Which enzyme catalyzes the rate-limiting step of cholesterol biosynthesis and is inhibited by statin drugs?",
+          "opts": [
+            "Acetyl-CoA carboxylase",
+            "HMG-CoA reductase",
+            "Lipoprotein lipase",
+            "Hormone-sensitive lipase"
+          ],
+          "a": 1,
+          "why": "3-Hydroxy-3-methylglutaryl-CoA (HMG-CoA) reductase converts HMG-CoA to mevalonate—the committed, rate-limiting step of cholesterol synthesis—and is the target of statins."
+        },
+        {
+          "h": "2. β-Oxidation of Palmitic Acid (16C) — Pathway, Regulation & Energetics**",
+          "p": "Fatty acids are activated to fatty acyl-CoA in cytosol, transported into mitochondria via the <b>Carnitine shuttle (CPT-I rate-limiting; inhibited by malonyl-CoA)</b>, and degraded two carbons at a time via <b>β-oxidation</b>:",
+          "bullets": [
+            "<b>Four Recurring Steps per Cycle:</b> (1) Oxidation by acyl-CoA dehydrogenase (produces <b>1 FADH₂</b>), (2) Hydration (enoyl-CoA hydratase), (3) Oxidation by β-hydroxyacyl-CoA dehydrogenase (produces <b>1 NADH</b>), (4) Thiolytic cleavage by thiolase (releases <b>1 Acetyl-CoA</b>).",
+            "<b>Energetics of Palmitate (16C):</b> Undergoes <b>7 cycles</b> → yields <b>8 Acetyl-CoA, 7 NADH, and 7 FADH₂</b> (minus 2 ATP equivalents for initial activation; net ATP yield is calculated using ~2.5 ATP/NADH, ~1.5 ATP/FADH₂, and ~10 ATP/Acetyl-CoA in modern biochemistry, or classical 129 ATP)."
+          ],
+          "remember": "CPT-I (carnitine shuttle) is the rate-limiting step of β-oxidation and is inhibited by Malonyl-CoA! Palmitate (16C) = 7 cycles → 8 Acetyl-CoA!",
+          "q": "Which enzyme in the carnitine shuttle acts as the rate-limiting control point for fatty acid entry into mitochondria and is inhibited by malonyl-CoA?",
+          "opts": [
+            "Carnitine palmitoyltransferase I (CPT-I)",
+            "Thiolase",
+            "Citrate synthase",
+            "Pyruvate carboxylase"
+          ],
+          "a": 0,
+          "why": "CPT-I on the outer mitochondrial membrane controls acyl-carnitine formation and is inhibited by malonyl-CoA (the first intermediate of fatty acid synthesis) to prevent simultaneous synthesis and oxidation."
+        }
+      ],
+      "exam": "LAQ / SN order: Cholesterol synthesis*** (HMG-CoA reductase, functions, LDL vs HDL & atherosclerosis) → β-oxidation of palmitic acid (CPT-I, 4 steps, cycles & energetics**) → Ketosis → Lipoproteins* & Fatty liver* / lipotropic factors*.",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-mineral-starvation-acidbase-dm-lft-b16",
+      "title": "Minerals (Ca²⁺, PO₄³⁻, Fe, Cu, Zn, I), Starvation*, Acid–Base & Buffers**, DM, LFT** & Clearance**",
+      "region": "Paper 2 — Mineral Metabolism",
+      "tag": "LAQ & SN · *** (Minerals, Acid-Base, DM & LFT)",
+      "minutes": 16,
+      "slides": [
+        {
+          "h": "1. Mineral Metabolism (Ca²⁺, PO₄³⁻, Fe, Cu, Zn, I) & Starvation Metabolism*",
+          "p": "Master key minerals and metabolic adaptation to starvation:",
+          "bullets": [
+            "<b>Calcium*, Phosphorus*, Iron*, Copper, Zinc & Iodine:</b> <b>Ca²⁺ & PO₄³⁻</b> form hydroxyapatite in bone/teeth; Ca²⁺ also acts as an intracellular <b>second messenger</b> (via calmodulin/troponin C) and coagulation factor IV, regulated by <b>PTH, calcitriol, and calcitonin</b> (absorption aided by calcitriol/protein/acid; hindered by phytates/oxalates/high phosphate). <b>Iron</b> (absorbed in duodenum/upper jejunum as Fe²⁺ via DMT1; transported as <b>transferrin</b>; stored as <b>ferritin/hemosiderin</b>) is needed for Hb/myoglobin/cytochromes (deficiency → microcytic hypochromic anemia). <b>Copper</b> (ceruloplasmin, cytochrome oxidase, lysyl oxidase — Wilson's/Menkes), <b>Zinc</b> (carbonic anhydrase, alkaline phosphatase, insulin storage, zinc fingers), and <b>Iodine</b> (T₃/T₄ synthesis).",
+            "<b>Starvation Metabolism* (Short-Term & Prolonged):</b> Early fasting relies on liver glycogenolysis & gluconeogenesis (amino acids/lactate/glycerol); prolonged starvation shifts to <b>lipolysis & ketogenesis</b> to spare glucose for brain/RBCs and conserve muscle protein."
+          ],
+          "remember": "Iron = DMT1 (Fe²⁺) + Transferrin + Ferritin! Calcium = PTH/Calcitriol + Calmodulin second messenger! Starvation shifts to Ketones to spare protein!",
+          "q": "In which form and oxidation state is dietary non-heme iron primarily absorbed across the apical membrane of duodenal enterocytes via DMT1?",
+          "opts": [
+            "Ferric iron (Fe³⁺) bound to albumin",
+            "Ferrous iron (Fe²⁺)",
+            "Calcium-bound iron complex",
+            "Uric acid conjugate"
+          ],
+          "a": 1,
+          "why": "Divalent metal transporter 1 (DMT1) transports ferrous iron (Fe²⁺) across the apical enterocyte membrane."
+        },
+        {
+          "h": "2. Acid–Base Balance & Buffers**, Blood Glucose / DM, LFT** & Renal Clearance**",
+          "p": "Complete the major Paper 2 clinical & metabolic LAQ/SN topics:",
+          "bullets": [
+            "<b>Acid–Base Balance, Buffers** & Metabolic Acidosis*:</b> Normal arterial blood pH is <b>7.35–7.45</b>, maintained by <b>blood buffers</b> (principal extracellular buffer = <b>HCO₃⁻ / H₂CO₃ bicarbonate buffer</b> [Henderson-Hasselbalch: pH = 6.1 + log([HCO₃⁻] / (0.03 × PaCO₂))]; also Hb, phosphate, plasma proteins), <b>respiratory compensation</b> (hyperventilation lowers PaCO₂ in metabolic acidosis), and <b>renal compensation</b> (H⁺ excretion, NH₄⁺ & HCO₃⁻ regeneration). <b>Metabolic acidosis</b> (primary ↓HCO₃⁻, ↓pH — e.g., DKA, lactic acidosis, renal failure) is compensated rapidly by hyperventilation (Kussmaul breathing) and slowly by kidneys.",
+            "<b>Blood Glucose Homeostasis, DM & Glycosuria:</b> Normal fasting glucose is ~70–100 mg/dL (regulated by <b>insulin [lowering]</b> vs <b>glucagon, epinephrine, cortisol, GH [raising]</b>). In <b>Diabetes Mellitus</b>, insulin deficiency/resistance causes hyperglycemia; once blood glucose exceeds renal threshold (~180 mg/dL), <b>glycosuria</b> occurs alongside lipolysis/ketosis and proteolysis.",
+            "<b>Liver Function Tests (LFT**) & Clearance Tests**:</b> LFTs evaluate synthetic (albumin, prothrombin time), metabolic/detoxifying, and <b>excretory</b> functions (serum bilirubin [direct/indirect], <b>alkaline phosphatase [ALP — rises in biliary obstruction]</b>, bile salts, AST/ALT). <b>Creatinine clearance**</b> (~90–125 mL/min) estimates <b>GFR</b> without needing dietary protein restriction (unlike urea clearance, which underestimates GFR due to tubular reabsorption)."
+          ],
+          "remember": "Bicarbonate buffer = Main ECF buffer (pH 7.35–7.45)! Creatinine clearance estimates GFR! ALP rises in Obstructive liver disease!",
+          "q": "Which buffer system is the principal extracellular buffer of human blood plasma and is regulated by both the lungs (PaCO₂) and kidneys (HCO₃⁻)?",
+          "opts": [
+            "Acetate–acetic acid buffer",
+            "Bicarbonate–carbonic acid (HCO₃⁻ / H₂CO₃) buffer system",
+            "Ammonia–urea buffer",
+            "Lactate–pyruvate buffer"
+          ],
+          "a": 1,
+          "why": "The HCO₃⁻ / H₂CO₃ system is the major extracellular buffer in blood plasma, with PaCO₂ controlled by ventilation and HCO₃⁻ regulated by the kidneys."
+        }
+      ],
+      "exam": "LAQ / SN order: Minerals (Ca²⁺/second messenger, PO₄³⁻, Fe, Cu, Zn, I) → Starvation metabolism* → Acid-base balance, buffers** & metabolic acidosis* → Blood glucose homeostasis, DM & glycosuria → LFT** & Creatinine/Urea clearance**.",
+      "subject": "Biochemistry"
+    },
+    {
+      "id": "biochem-paper2-carbs-lipids-hormones-cancer-detox-lcd-b16",
+      "title": "Carbohydrates (GAGs***, Hyaluronic Acid), Lipids (Phospholipids, EFA, Digestion), Hormones, Cancer (Tumor Markers***), Detoxification, LCD & Radioisotopes**",
+      "region": "Paper 2 — Carbohydrates",
+      "tag": "SN · *** (GAGs, Hormones, Cancer, Detox, LCD & Radioisotopes)",
+      "minutes": 16,
+      "slides": [
+        {
+          "h": "1. GAGs*** & Hyaluronic Acid, Lipids (Phospholipids, EFA, Digestion) & Hormones (cAMP*, Steroid)",
+          "p": "Master these high-yield Paper 2 short-note topics:",
+          "bullets": [
+            "<b>GAGs*** & Hyaluronic Acid:</b> <b>Glycosaminoglycans (GAGs / mucopolysaccharides)</b> are unbranched heteropolysaccharides of repeating disaccharide units (acidic sugar + amino sugar, mostly sulfated — <b>chondroitin sulfate, keratan sulfate, dermatan sulfate, heparan sulfate/heparin</b>). <b>Hyaluronic acid</b> is <b>non-sulfated</b> and lacks covalent protein core (glucuronic acid + N-acetylglucosamine), providing viscous lubrication in synovial fluid and vitreous humor; GAG deficiencies cause mucopolysaccharidoses (Hurler/Hunter).",
+            "<b>Lipids (Phospholipids, EFA & Digestion):</b> <b>Phospholipids</b> (glycerophospholipids like phosphatidylcholine/lecithin [lung surfactant], cephalin, phosphatidylinositol [IP₃/DAG second messenger], cardiolipin [inner mitochondrial membrane]; sphingomyelin) are amphipathic membrane builders. <b>Essential Fatty Acids (EFAs)</b> — <b>linoleic (ω-6)</b> and <b>α-linolenic (ω-3)</b> — cannot be synthesized by humans (lack Δ¹²/Δ¹⁵ desaturases) and form eicosanoids/membranes. Dietary lipids are emulsified by bile salts and digested mainly by pancreatic lipase + colipase.",
+            "<b>Hormone Mechanisms (Group I vs Group II, cAMP* & Steroids*):</b> <b>Group I (lipophilic steroid/thyroid hormones)</b> bind intracellular/nuclear receptors to alter gene transcription. <b>Group II (hydrophilic peptide/catecholamine hormones)</b> bind cell-surface receptors using second messengers like <b>cAMP*</b> (adenylyl cyclase → ↑cAMP → activates Protein Kinase A [PKA]; e.g., glucagon, epinephrine β, ACTH, TSH, PTH, ADH-V₂) or IP₃/DAG/Ca²⁺."
+          ],
+          "remember": "Hyaluronic acid = NON-sulfated GAG! EFAs = Linoleic & α-Linolenic acid! cAMP activates Protein Kinase A (PKA)!",
+          "q": "Which glycosaminoglycan (GAG) is uniquely non-sulfated and abundant in synovial fluid and vitreous humor?",
+          "opts": [
+            "Heparin",
+            "Chondroitin sulfate",
+            "Hyaluronic acid",
+            "Keratan sulfate"
+          ],
+          "a": 2,
+          "why": "Hyaluronic acid is an unbranched, non-sulfated glycosaminoglycan that imparts high viscosity and resilience to synovial fluid and connective tissues."
+        },
+        {
+          "h": "2. Cancer (Tumor Markers***, Oncogenes**), Detoxification**, LCD (Electrophoresis*, Chromatography*, Flame Photometry) & Radioisotopes**",
+          "p": "Complete all remaining Paper 2 Biochemistry short notes:",
+          "bullets": [
+            "<b>Cancer — Tumor Markers***, Oncogenes** & Carcinogens*:</b> <b>Proto-oncogenes</b> (normal growth-promoting genes) mutate into <b>oncogenes**</b> (e.g., Ras, Myc, ErbB2/HER2) driving uncontrolled proliferation alongside loss of tumor suppressors (p53, Rb) and chemical/radiation/viral carcinogens. Key <b>tumor markers***</b>: <b>AFP</b> (hepatocellular carcinoma, yolk sac tumor), <b>CEA</b> (colorectal/GI cancers), <b>CA-125</b> (ovarian cancer), <b>PSA</b> (prostate cancer), <b>hCG</b> (choriocarcinoma/hydatidiform mole).",
+            "<b>Detoxification** (Phase I & Phase II Conjugation**):</b> Makes lipophilic xenobiotics/drugs/bilirubin more water-soluble for excretion: <b>Phase I</b> (oxidation via cytochrome P450 monooxygenases, reduction, hydrolysis) introduces/exposes functional groups; <b>Phase II (conjugation**)</b> attaches <b>glucuronate (UDP-glucuronyl transferase), sulfate (PAPS), glycine, glutathione, acetate, or methyl groups</b>.",
+            "<b>LCD & Radioisotopes**:</b> <b>Electrophoresis*</b> separates charged molecules (proteins/nucleic acids) in an electric field based on charge/size/pI; <b>Chromatography*</b> separates mixtures by differential partitioning between mobile and stationary phases (paper, TLC, column, affinity, HPLC); <b>Flame photometer</b> measures Na⁺, K⁺, Li⁺ by emission intensity when aspirated into a flame. <b>Radioisotopes**</b> (e.g., ¹³¹I for thyroid imaging/therapy, ³²P, ¹⁴C, ⁹⁹mTc) are used in metabolic tracing, RIA/imaging, and radiotherapy."
+          ],
+          "remember": "Tumor markers: AFP (liver), CEA (colon), CA-125 (ovary), PSA (prostate)! Phase II = Conjugation (glucuronide, sulfate, glycine, glutathione)! Electrophoresis = Electric field separation!",
+          "q": "Which phase of xenobiotic biotransformation (detoxification) involves conjugation with glucuronic acid, sulfate, glycine, or glutathione to increase water solubility?",
+          "opts": [
+            "Phase I conjugation reaction",
+            "Phase II conjugation reaction",
+            "DNA transcription",
+            "Flame photometry"
+          ],
+          "a": 1,
+          "why": "Phase II reactions conjugate xenobiotics or their Phase I metabolites with polar molecules such as UDP-glucuronate, PAPS (sulfate), glycine, or glutathione for excretion."
+        }
+      ],
+      "exam": "SN order: GAGs*** & Hyaluronic acid → Phospholipids, EFA & lipid digestion → Group I/II hormones & cAMP* → Tumor markers***, oncogenes** & carcinogens* → Detoxification (Phase I & Phase II conjugation**) → Electrophoresis*, Chromatography*, Flame photometer & Radioisotopes**.",
+      "subject": "Biochemistry"
+    }
+  ]
+}

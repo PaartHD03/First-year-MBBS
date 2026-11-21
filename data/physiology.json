@@ -1346,6 +1346,430 @@
       ],
       "exam": "LAQ / SN order: Neural & chemical respiratory control (DRG/VRG/pneumotaxic, central CSF H⁺, peripheral O₂ <60 mmHg) → Hypoxia*** (4 types) & high-altitude acclimatization → Thermoregulation (hypothalamus, heat loss*** methods, cold** & hypothermia).",
       "subject": "Physiology"
+    },
+    {
+      "id": "cns-receptors-pain-umn-lmn-b13",
+      "title": "Sensory Receptors**, Pain (Referred*, Neospinothalamic, Fast/Slow, Analgesia) & UMN vs LMN Lesions",
+      "region": "Paper 2 · Central Nervous System (CNS)",
+      "tag": "LAQ & SN · ** (Sensory & Motor)",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "1. Sensory Receptors**, Adaptation, Intensity & UMN vs LMN Lesions",
+          "p": "<b>Sensory receptors**</b> transduce stimulus energy into action potentials and share key properties: <b>Adequacy (specific stimulus), Transduction, Generator/receptor potential (graded, non-propagated), Adaptation (phasic/rapidly adapting like Pacinian corpuscle vs tonic/slowly adapting like muscle spindle/nociceptors), Weber-Fechner / Stevens power law (intensity discrimination), and Muller's law of specific nerve energies</b>:",
+          "bullets": [
+            "<b>Upper Motor Neuron (UMN) vs Lower Motor Neuron (LMN) Lesions:</b> <b>UMN</b> (corticospinal/brain/cord above anterior horn): <b>spastic</b> paralysis/hypertonia (clasp-knife), <b>hyperreflexia</b>, <b>extensor plantar / Babinski sign (+ve)</b>, superficial reflexes lost, mild disuse atrophy (no fasciculations). <b>LMN</b> (anterior horn cell / cranial or spinal motor nerve): <b>flaccid</b> paralysis/hypotonia, <b>hyporeflexia/areflexia</b>, <b>flexor/absent plantar</b>, marked neurogenic atrophy + <b>fasciculations & fibrillations</b>."
+          ],
+          "remember": "UMN = Spastic + Hyperreflexia + Babinski (+ve)! LMN = Flaccid + Hyporeflexia + Wasting + Fasciculations!",
+          "q": "Which clinical finding is characteristic of an Upper Motor Neuron (UMN) lesion rather than a Lower Motor Neuron (LMN) lesion?",
+          "opts": [
+            "Fasciculations and early severe neurogenic muscle wasting",
+            "Spasticity, hyperreflexia, and a positive Babinski (extensor plantar) sign",
+            "Absent deep tendon reflexes (areflexia)",
+            "Marked hypotonia with normal plantar response"
+          ],
+          "a": 1,
+          "why": "UMN lesions release spinal stretch reflexes and lower motor neurons from supraspinal inhibition, causing spasticity, exaggerated tendon jerks, and an extensor plantar (Babinski) response."
+        },
+        {
+          "h": "2. Types of Pain, Neospinothalamic Pathway, Referred Pain* & Analgesia System",
+          "p": "Pain protects tissues via <b>fast pain</b> (pricking/sharp, via <b>Aδ myelinated fibers</b>, 12–30 m/s) and <b>slow pain</b> (burning/aching/throbbing, via <b>unmyelinated C fibers</b>, 0.5–2 m/s):",
+          "bullets": [
+            "<b>Neospinothalamic vs Paleospinothalamic Tract:</b> <b>Neospinothalamic</b> (fast/sharp pain) synapses in lamina I/V of dorsal horn → crosses in anterior white commissure → ascends in lateral spinothalamic tract to <b>VPL nucleus of thalamus</b> → postcentral somatosensory cortex (precise localization). <b>Paleospinothalamic</b> (slow/chronic pain) projects diffusely to reticular formation, periaqueductal grey (PAG), and intralaminar/mediodorsal thalamus (emotional suffering).",
+            "<b>Referred Pain* (Dermatomal Projection):</b> Visceral pain felt on a somatic body surface sharing the same spinal cord segment (e.g., heart/angina → T1–T4 left chest/inner arm; diaphragm irritation → C3–C5 shoulder tip; appendix → T10 periumbilical).",
+            "<b>Descending Pain Inhibiting (Analgesia) System:</b> <b>Periaqueductal grey (PAG)</b> → <b>Nucleus raphe magnus (serotonin / 5-HT)</b> → dorsal horn substantia gelatinosa (<b>enkephalins / endorphins</b>) inhibiting nociceptive transmission (gate control)."
+          ],
+          "remember": "Fast pain = Aδ + Neospinothalamic (VPL thalamus)! Slow pain = C fibers! Analgesia = PAG → Raphe magnus (5-HT) → Enkephalins!",
+          "q": "Which thalamic nucleus serves as the primary relay for fast pain transmitted via the neospinothalamic tract?",
+          "opts": [
+            "Medial geniculate body (MGB)",
+            "Ventral posterolateral (VPL) nucleus",
+            "Anterior thalamic nucleus",
+            "Reticular nucleus"
+          ],
+          "a": 1,
+          "why": "Neospinothalamic fibers terminate in the ventral posterolateral (VPL) nucleus of the thalamus before projecting to the primary somatosensory cortex."
+        }
+      ],
+      "exam": "LAQ / SN order: Receptor** properties (adaptation, generator potential) → Fast vs slow pain & Neospinothalamic pathway diagram → Referred pain* (dermatomal basis & examples) → Descending analgesia system (PAG, raphe magnus, enkephalins) → UMN vs LMN lesion table.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "cns-ascending-tracts-dorsal-column-proprioception-b13",
+      "title": "Ascending Tracts**, Dorsal Column System, Proprioception & Sensory vs Cerebellar Ataxia",
+      "region": "Paper 2 · Central Nervous System (CNS)",
+      "tag": "LAQ & SN · ** (Ascending Tracts)",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "1. Classification of Ascending Tracts & Dorsal Column–Medial Lemniscus Pathway",
+          "p": "Ascending tracts carry sensory information from peripheral receptors to higher centers: <b>Dorsal column–medial lemniscus (DCML)</b> (conscious proprioception, vibration, fine discriminative touch, stereognosis), <b>Lateral spinothalamic</b> (pain & temperature), <b>Anterior spinothalamic</b> (crude touch & pressure), and <b>Posterior & anterior spinocerebellar</b> (unconscious proprioception):",
+          "bullets": [
+            "<b>DCML 3-Neuron Pathway:</b> <b>1st-order neuron:</b> Large myelinated Aα/Aβ fibers in dorsal root ganglion → ascend ipsilaterally in <b>Fasciculus gracilis</b> (below T6, lower body) and <b>Fasciculus cuneatus</b> (above T6, upper body/arm). <b>2nd-order neuron:</b> Nucleus gracilis & nucleus cuneatus in caudal medulla → cross midline as <b>internal arcuate fibers</b> → ascend as <b>Medial lemniscus</b> to <b>VPL nucleus of thalamus</b>. <b>3rd-order neuron:</b> VPL → <b>Primary somatosensory cortex (Postcentral gyrus, Areas 3, 1, 2)</b>.",
+            "<b>Law of Projection & Phantom Limb:</b> Cortex projects sensations along the anatomical pathway; amputation leaves a vivid perception of the missing limb ('phantom limb')."
+          ],
+          "remember": "DCML crosses in MEDULLA (internal arcuate fibers → medial lemniscus → VPL)! Gracilis = Leg (below T6); Cuneatus = Arm (above T6)!",
+          "q": "Where do second-order axons of the dorsal column–medial lemniscus (DCML) pathway cross the midline?",
+          "opts": [
+            "Within the spinal cord dorsal horn",
+            "In the lower medulla oblongata as internal arcuate fibers",
+            "In the midbrain tegmentum",
+            "In the internal capsule"
+          ],
+          "a": 1,
+          "why": "Primary dorsal column fibers ascend uncrossed to the gracile and cuneate nuclei in the medulla, whose second-order axons decussate as internal arcuate fibers to form the medial lemniscus."
+        },
+        {
+          "h": "2. Proprioceptive Pathway & Sensory Ataxia vs Cerebellar Ataxia",
+          "p": "Loss of proprioception impairs coordination and posture:",
+          "bullets": [
+            "<b>Sensory Ataxia (Posterior Column / Peripheral Nerve Loss):</b> Unsteady wide-based stamping gait; <b>Romberg's sign POSITIVE</b> (sways/falls when eyes are closed because visual cues cannot compensate for absent proprioception).",
+            "<b>Cerebellar Ataxia (Cerebellar / Peduncle Lesion):</b> Intention tremor, dysmetria, dysdiadochokinesia, hypotonia, nystagmus; <b>Romberg's sign NEGATIVE</b> (already unsteady even with eyes open!)."
+          ],
+          "remember": "Romberg POSITIVE = Sensory ataxia (worsens dramatically when eyes close)! Cerebellar ataxia = Unsteady even with eyes open!",
+          "q": "Which finding helps distinguish sensory ataxia (dorsal column loss) from cerebellar ataxia?",
+          "opts": [
+            "Positive Romberg's sign (marked worsening of swaying when eyes are closed)",
+            "Presence of intention tremor and nystagmus",
+            "Hyperactive knee jerk with clonus",
+            "Loss of pain and temperature sense"
+          ],
+          "a": 0,
+          "why": "In sensory ataxia, vision can partially substitute for lost proprioception while eyes are open, so closing the eyes produces a positive Romberg sign."
+        }
+      ],
+      "exam": "LAQ / SN order: Enumerate ascending tracts** → Dorsal column system (origin, course, medulla crossing, medial lemniscus, VPL, cortex) + diagram → Law of projection & phantom limb → Proprioceptive pathway → Sensory vs cerebellar ataxia (Romberg sign).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "cns-muscle-spindle-stretch-reflex-tone-b13",
+      "title": "Muscle Spindle*, Stretch Reflex, Muscle Tone & Complete Spinal Transection",
+      "region": "Paper 2 · Central Nervous System (CNS)",
+      "tag": "LAQ & SN · * (Motor Control)",
+      "minutes": 14,
+      "slides": [
+        {
+          "h": "1. Muscle Spindle*, Stretch (Myotatic) Reflex & Gamma Loop",
+          "p": "The <b>muscle spindle*</b> is an encapsulated stretch receptor lying parallel to extrafusal skeletal muscle fibers:",
+          "bullets": [
+            "<b>Intrafusal Fibers & Innervation:</b> <b>Nuclear bag fibers</b> (dynamic stretch — <b>Group Ia primary annulospiral endings</b>) and <b>Nuclear chain fibers</b> (static length — <b>Group Ia & Group II flower-spray endings</b>). Motor innervation comes from <b>γ-motor neurons (gamma efferents)</b> to polar contractile ends of intrafusal fibers.",
+            "<b>Stretch Reflex Arc (Monosynaptic):</b> Muscle stretch → Group Ia afferents → spinal dorsal horn → directly excite <b>α-motor neurons</b> of the SAME muscle → muscle contracts to resist stretch (while inhibiting antagonists via reciprocal Ia inhibitory interneuron). <b>Gamma-alpha coactivation</b> keeps spindles sensitive during voluntary contraction."
+          ],
+          "remember": "Stretch reflex = Stretch → Group Ia afferent → Monosynaptic α-motor neuron → Same muscle contracts! γ-efferents adjust spindle sensitivity!",
+          "q": "Which sensory fibers carry impulses from muscle spindles to directly excite alpha motor neurons in the monosynaptic stretch reflex?",
+          "opts": [
+            "Group Ib Golgi tendon organ fibers",
+            "Group Ia primary afferent fibers",
+            "Type C unmyelinated fibers",
+            "Alpha efferent fibers"
+          ],
+          "a": 1,
+          "why": "Group Ia afferents from muscle spindles make direct monosynaptic excitatory connections with α-motor neurons supplying the homonymous muscle."
+        },
+        {
+          "h": "2. Muscle Tone & Effects of Complete Transection of Spinal Cord",
+          "p": "<b>Muscle tone</b> is mild continuous resistance to passive stretch maintained by the stretch reflex and supraspinal facilitatory/inhibitory balance:",
+          "bullets": [
+            "<b>Complete Spinal Cord Transection (e.g., T6/T10):</b> <b>1. Stage of Spinal Shock</b> (days to weeks): Sudden loss of descending facilitatory drive causes flaccid paralysis, areflexia below lesion, atonic bladder/bowel with retention, and hypotension. <b>2. Stage of Reflex Recovery</b>: Spinal reflexes return and become hyperactive (spastic paraplegia/quadriplegia, Babinski +ve, mass reflex, automatic neurogenic bladder). (Transection above C3–C5 is fatal due to phrenic nerve paralysis)."
+          ],
+          "remember": "Spinal transection: Stage 1 = Spinal shock (flaccid, areflexic) → Stage 2 = Hyperreflexia, spasticity & Babinski (+ve)!",
+          "q": "During the initial stage of spinal shock immediately following complete spinal cord transection, what is the state of muscle tone and tendon reflexes below the lesion?",
+          "opts": [
+            "Hypertonia and exaggerated tendon reflexes",
+            "Flaccid paralysis and areflexia (absent reflexes)",
+            "Spasticity with clonus",
+            "Normal tone with positive Babinski only"
+          ],
+          "a": 1,
+          "why": "Abrupt removal of descending supraspinal facilitatory impulses induces spinal shock, characterized by temporary flaccidity and loss of spinal reflexes below the transection."
+        }
+      ],
+      "exam": "LAQ / SN order: Muscle spindle* diagram & intrafusal/Ia/II/γ innervation → Monosynaptic stretch reflex arc & tone regulation → Complete spinal cord transection (spinal shock vs reflex recovery stage).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "cns-basal-ganglia-cerebellum-hypothalamus-cortex-b13",
+      "title": "Basal Ganglia* & Parkinsonism**, Cerebellum**, Hypothalamus**, Neocortex & Sleep/Memory",
+      "region": "Paper 2 · Central Nervous System (CNS)",
+      "tag": "LAQ & SN · ** (Higher CNS)",
+      "minutes": 16,
+      "slides": [
+        {
+          "h": "1. Basal Ganglia*, Parkinsonism** & Cerebellum**",
+          "p": "<b>Basal ganglia*</b> (striatum [caudate + putamen], globus pallidus, subthalamic nucleus, substantia nigra) modulate cortico-basal-thalamic loops to initiate/smooth voluntary movement and suppress unwanted motion:",
+          "bullets": [
+            "<b>Parkinsonism** (Degeneration of Dopaminergic Neurons in Substantia Nigra Pars Compacta → Striatum):</b> Classic triad: <b>Resting tremor ('pill-rolling')</b>, <b>Cogwheel/lead-pipe rigidity</b>, and <b>Bradykinesia/akinesia</b> (mask-like face, shuffling festinating gait, loss of arm swing). Treated with L-DOPA + carbidopa.",
+            "<b>Cerebellum** (Comparator & Error-Correction Center):</b> Vestibulocerebellum (flocculonodular — equilibrium/eye movements), Spinocerebellum (vermis/intermediate — posture, gait, tone), Cerebrocerebellum (lateral hemispheres — motor planning/timing). Lesions cause <b>ipsilateral ataxia, intention tremor, dysmetria, dysdiadochokinesia, hypotonia, and nystagmus</b>."
+          ],
+          "remember": "Parkinsonism** = Loss of Dopamine (Substantia nigra) → Tremor at rest + Rigidity + Bradykinesia! Cerebellum** = Ipsilateral ataxia + Intention tremor!",
+          "q": "Parkinsonism is primarily caused by degeneration of dopaminergic neurons projecting from which structure to the striatum?",
+          "opts": [
+            "Cerebellar cortex",
+            "Substantia nigra (pars compacta)",
+            "Red nucleus",
+            "Inferior olivary nucleus"
+          ],
+          "a": 1,
+          "why": "Loss of dopaminergic nigrostriatal neurons in the substantia nigra pars compacta disrupts basal ganglia motor circuits, producing resting tremor, rigidity, and bradykinesia."
+        },
+        {
+          "h": "2. Hypothalamus**, Neocortex Lobes, Sleep & Memory/Aphasia",
+          "p": "Complete your CNS review with these high-yield cortical, hypothalamic, sleep, and cognitive topics:",
+          "bullets": [
+            "<b>Hypothalamus** Functions:</b> Autonomic integration, <b>thermoregulation</b>, <b>osmoregulation/thirst (ADH)</b>, <b>hunger/satiety (arcuate/VMH/LH)</b>, circadian rhythms (SCN), emotional/limbic drive, and pituitary control (releasing/inhibiting hormones & oxytocin/ADH).",
+            "<b>Neocortex & Aphasia:</b> <b>Frontal</b> (motor Area 4, premotor Area 6, frontal eye field Area 8, Broca's motor speech Area 44/45 [non-fluent speech, comprehension intact], prefrontal executive/personality), <b>Parietal</b> (somatosensory Areas 3,1,2; association), <b>Temporal</b> (auditory Areas 41,42; Wernicke's sensory speech Area 22 [fluent jargon speech, poor comprehension]; hippocampus memory), <b>Occipital</b> (visual Areas 17,18,19).",
+            "<b>REM Sleep** & Memory:</b> <b>REM sleep</b> has low-voltage fast EEG, vivid dreaming, muscle atonia, and high brain O₂ use; <b>narcolepsy</b> features cataplexy/sleep attacks. <b>Memory</b> (short-term/working vs long-term declarative/procedural; hippocampal consolidation) is impaired in <b>Alzheimer's disease</b>."
+          ],
+          "remember": "Broca's (44,45) = Broken speech, good comprehension. Wernicke's (22) = Fluent nonsense speech, poor comprehension! Hypothalamus = Thermostat, thirst, hunger, emotion, endocrine master!",
+          "q": "Damage to Wernicke's area (posterior superior temporal gyrus, Area 22) in the dominant hemisphere typically produces:",
+          "opts": [
+            "Effortful, non-fluent speech with intact auditory comprehension",
+            "Fluent speech with impaired language comprehension and paraphasic errors",
+            "Complete blindness in both eyes",
+            "Resting pill-rolling tremor"
+          ],
+          "a": 1,
+          "why": "Wernicke's area lesions impair language comprehension while leaving speech output fluent but semantically defective (receptive/sensory aphasia)."
+        }
+      ],
+      "exam": "LAQ / SN order: Basal ganglia* & Parkinsonism** → Cerebellum** (divisions, functions, clinical signs) → Hypothalamus** (5+ major functions) → Neocortex lobes & Broca vs Wernicke aphasia → REM sleep** & memory/Alzheimer's.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "renal-gfr-jga-countercurrent-acidbase-micturition-b13",
+      "title": "GFR***, JGA**, Countercurrent Mechanism, Renal Acid-Base & Micturition Reflex*",
+      "region": "Paper 2 · Renal Physiology",
+      "tag": "LAQ & SN · *** (Renal Physiology)",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "1. GFR***, Tubules (PCT/DCT), JGA** & Transport Maximum (Glucose)",
+          "p": "<b>Glomerular Filtration Rate (GFR*** ≈ 125 mL/min or 180 L/day; Filtration Fraction ≈ 20% of RPF ~625 mL/min)</b> is driven by <b>Net Filtration Pressure = Glomerular hydrostatic pressure (P_GC ~60 mmHg) − [Bowman's capsule pressure (P_BS ~15 mmHg) + Glomerular oncotic pressure (π_GC ~30 mmHg)] ≈ +15 mmHg</b>:",
+          "bullets": [
+            "<b>Factors & Autoregulation of GFR***:</b> Determined by Net Filtration Pressure, glomerular capillary filtration coefficient (K_f), and afferent vs efferent arteriolar resistance (afferent constriction ↓GFR; mild efferent constriction maintains/↑GFR). Regulated by <b>myogenic response</b>, <b>tubuloglomerular feedback (macula densa senses NaCl → alters afferent tone)</b>, and <b>JGA**</b> (JG renin cells, macula densa, extraglomerular mesangial cells).",
+            "<b>Glucose Tm & PCT/DCT:</b> <b>PCT</b> reabsorbs ~65–70% of filtered Na⁺/water, 100% of glucose/amino acids via SGLT2/SGLT1 (renal glucose threshold ~180 mg/dL plasma; <b>Transport Maximum [Tm_G]</b> ≈ 375 mg/min in men, 300 mg/min in women — glycosuria occurs above threshold). <b>DCT</b> fine-tunes Na⁺/Ca²⁺ and is regulated by aldosterone & PTH."
+          ],
+          "remember": "Normal GFR = 125 mL/min (180 L/day)! Afferent constriction = ↓GFR! PCT reabsorbs 100% glucose up to Tm (~375 mg/min)! JGA = JG cells + Macula densa + Mesangial cells!",
+          "q": "What is the normal resting Glomerular Filtration Rate (GFR) in a healthy young adult?",
+          "opts": [
+            "50 mL/min",
+            "125 mL/min (180 L/day)",
+            "250 mL/min",
+            "625 mL/min"
+          ],
+          "a": 1,
+          "why": "Normal GFR is approximately 125 mL/min (about 180 liters/day), representing a filtration fraction of ~20% of renal plasma flow (~625 mL/min)."
+        },
+        {
+          "h": "2. Countercurrent Multiplier, Acid-Base Balance & Micturition Reflex*",
+          "p": "The kidneys concentrate urine, regulate plasma osmolarity/acid-base balance, and empty the bladder via coordinated reflexes:",
+          "bullets": [
+            "<b>Countercurrent Multiplier & Vasa Recta Exchange:</b> Hairpin <b>Loop of Henle</b> creates an ascending corticomedullary osmotic gradient (300 mOsm/L at cortex → up to 1200 mOsm/L at inner medulla) via active Na⁺/K⁺/2Cl⁻ transport in the water-impermeable <b>thick ascending limb</b> (single effect multiplied along countercurrent flow); <b>vasa recta</b> act as countercurrent exchangers preserving the gradient while allowing <b>ADH</b> in collecting ducts to concentrate urine.",
+            "<b>Acid-Base & Micturition Reflex*:</b> Kidneys excrete fixed H⁺ (secreted in PCT/late DCT/collecting duct via H⁺-ATPase, buffered by <b>phosphate</b> & <b>ammonia [NH₄⁺]</b>) and regenerate/reabsorb <b>HCO₃⁻</b>. <b>Micturition reflex*</b> (spinal S2–S4 pelvic parasympathetic nerves + pontine micturition center) contracts detrusor and relaxes internal sphincter; voluntary <b>external urethral sphincter</b> (pudendal nerve, S2–S4) is guarded by cerebral cortex."
+          ],
+          "remember": "Thick ascending limb pumps Na⁺/K⁺/2Cl⁻ WITHOUT water → Medullary hyperosmolarity (1200 mOsm/L)! Micturition center = S2–S4!",
+          "q": "Which segment of the nephron is impermeable to water while actively transporting Na⁺, K⁺, and 2Cl⁻ out of the tubular lumen to drive the countercurrent multiplier?",
+          "opts": [
+            "Descending thin limb of loop of Henle",
+            "Thick ascending limb of loop of Henle",
+            "Proximal convoluted tubule",
+            "Papillary duct of Bellini"
+          ],
+          "a": 1,
+          "why": "The thick ascending limb actively pumps NaCl into the medullary interstitium while remaining impermeable to water, establishing the osmotic gradient needed for urine concentration."
+        }
+      ],
+      "exam": "LAQ / SN order: GFR*** definition, normal value & Starling filtration forces → Factors & autoregulation (myogenic, TGF, JGA**) → Glucose Tm & PCT/DCT functions → Countercurrent multiplier & osmotic balance → Renal acid-base role → Micturition reflex* & cystometrogram.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "special-senses-vision-hearing-taste-smell-b13",
+      "title": "Visual Pathway*, Photochemistry & Dark Adaptation**, Accommodation*, Hearing & Taste/Smell",
+      "region": "Paper 2 · Special Senses",
+      "tag": "LAQ & SN · ** (Vision, Hearing & Senses)",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "1. Visual Pathway*, Photochemistry/Dark Adaptation**, Accommodation* & Refractive Errors",
+          "p": "Retinal photoreceptors (<b>rods</b> for dim/scotopic vision via <b>rhodopsin</b> [opsin + 11-cis retinal → all-trans retinal + metarhodopsin II → transducin → ↓cGMP → Na⁺ channel closure & hyperpolarization]; <b>cones</b> for bright/photopic & color vision via 3 iodopsins [Young-Helmholtz trichromatic theory]) project along the <b>visual pathway*</b>:",
+          "bullets": [
+            "<b>Visual Pathway* & Lesions:</b> Optic nerve → <b>Optic chiasm</b> (nasal fibers from each retina cross; temporal fibers stay uncrossed → chiasmal lesion causes <b>bitemporal heteronymous hemianopia</b>) → Optic tract → <b>Lateral geniculate body (LGB)</b> → Optic radiation → <b>Primary visual cortex (Area 17, calcarine sulcus)</b> (macular sparing).",
+            "<b>Dark Adaptation**:</b> Moving from bright light to dark increases sensitivity (regenerating 11-cis retinal & rhodopsin; cone adaptation ~5–10 min, rod adaptation ~20–30 min).",
+            "<b>Accommodation* (Near Vision Reflex):</b> <b>Ciliary muscle contracts</b> → relaxes zonular fibers → <b>lens becomes more convex (thicker)</b> to increase refractive power + <b>pupillary constriction</b> + <b>convergence</b>; loss of near elasticity with age = <b>presbyopia</b>. Refractive errors: <b>myopia</b> (nearsightedness, eyeball too long/refractive power too high → concave lens), <b>hypermetropia</b> (convex lens), <b>astigmatism</b> (uneven corneal/lens curvature → cylindrical lens)."
+          ],
+          "remember": "Optic chiasm lesion = Bitemporal hemianopia! Near accommodation = Ciliary muscle contracts → Lens rounds up (thicker) + Pupil constricts + Eyes converge!",
+          "q": "A lesion precisely at the optic chiasma (where crossing nasal retinal fibers meet) classically produces which visual field defect?",
+          "opts": [
+            "Homonymous hemianopia",
+            "Bitemporal heteronymous hemianopia",
+            "Complete blindness in one eye only",
+            "Superior quadrantanopia only"
+          ],
+          "a": 1,
+          "why": "Nasal hemiretinae (which view the temporal visual fields) decussate in the optic chiasma; compression there causes bitemporal hemianopia."
+        },
+        {
+          "h": "2. Middle Ear Impedance Matching, Organ of Corti, Place Principle, Taste & Olfaction",
+          "p": "Complete your Special Senses review with audition, taste, and smell:",
+          "bullets": [
+            "<b>Hearing & Impedance Matching:</b> Middle ear ossicles (~17× lever ratio + large tympanic membrane vs small oval window area ~14×) overcome air-to-fluid impedance mismatch so sound energy transfers efficiently into cochlear perilymph/endolymph (conductive deafness arises from earwax/ossicular fixation/tympanic perforation). Hair cells on the <b>Organ of Corti</b> (basilar membrane) open K⁺/Ca²⁺ channels as stereocilia bend against the tectorial membrane; <b>Place principle</b> (traveling wave): high frequencies vibrate the stiff narrow <b>base</b> of basilar membrane, low frequencies vibrate the wide flexible <b>apex</b>.",
+            "<b>Taste & Olfaction:</b> Taste (sweet, sour, salty, bitter, umami) from papillae (fungiform, foliate, circumvallate; filiform lack taste buds) travels via <b>CN VII (chorda tympani), CN IX, CN X</b> → NTS → VPM thalamus → gustatory cortex. <b>Olfaction (CN I)</b> is the ONLY sensory pathway that reaches the neocortex (piriform/entorhinal) <b>WITHOUT synapsing in the thalamus first</b>!"
+          ],
+          "remember": "Basilar membrane: Base = High pitch, Apex = Low pitch! Olfaction bypasses the THALAMUS!",
+          "q": "According to the place principle of hearing, where along the cochlear basilar membrane are high-frequency sounds maximally encoded?",
+          "opts": [
+            "Near the apex (helicotrema)",
+            "Near the base (stiff, narrow region near the oval window)",
+            "Equally across the entire length",
+            "Only in the semicircular canals"
+          ],
+          "a": 1,
+          "why": "The basilar membrane is narrow and stiff near the base of the cochlea, vibrating maximally to high-frequency sounds, whereas its wider, more compliant apex responds to low frequencies."
+        }
+      ],
+      "exam": "LAQ / SN order: Visual pathway* diagram & lesions → Photochemistry & dark adaptation** → Accommodation* reflex & refractive errors → Middle ear impedance matching, Organ of Corti & place principle → Taste & olfactory pathways.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "nerve-muscle-rmp-ap-nmj-sarcomere-b13",
+      "title": "RMP, Action Potential**, NMJ* & Myasthenia Gravis*, Sarcomere*, Sliding Filament & E-C Coupling",
+      "region": "Paper 2 · Nerve-Muscle Physiology",
+      "tag": "LAQ & SN · ** (Nerve & Muscle)",
+      "minutes": 16,
+      "slides": [
+        {
+          "h": "1. RMP, Action Potential** (Nerve vs SA Node) & Saltatory Conduction",
+          "p": "<b>Resting Membrane Potential (RMP ≈ −70 mV in nerve, −90 mV in skeletal muscle)</b> arises primarily from <b>K⁺ efflux down its concentration gradient (Nernst equilibrium ~−90 mV)</b> via leak channels, aided slightly by the electrogenic <b>Na⁺–K⁺ ATPase pump</b> (3 Na⁺ out, 2 K⁺ in):",
+          "bullets": [
+            "<b>Action Potential (AP) & Conduction:</b> Threshold depolarization opens voltage-gated <b>Na⁺ channels</b> (rapid upstroke/depolarization to ~+35 mV), followed by Na⁺ inactivation and delayed <b>K⁺ efflux</b> (repolarization + after-hyperpolarization). In myelinated fibers, AP jumps from node to node (<b>saltatory conduction</b> — faster & energy-efficient; speed increases with fiber diameter & myelination). Unlike nerve/ventricular myocytes (fast Na⁺ upstroke, stable RMP), <b>SA node</b> has an unstable pacemaker potential and a slow <b>L-type Ca²⁺ upstroke</b>.",
+            "<b>AP vs EPSP:</b> AP is all-or-none, propagated, Na⁺/K⁺ driven; <b>EPSP</b> is graded, local/decremental, usually Na⁺/K⁺ conductance increase."
+          ],
+          "remember": "RMP ≈ −70 mV (mainly K⁺ leak + Na⁺–K⁺ pump)! AP upstroke = Fast Na⁺ influx! Saltatory conduction = Jumping between nodes of Ranvier!",
+          "q": "Which ionic mechanism is primarily responsible for the rapid depolarizing phase (upstroke) of a typical action potential in a large myelinated nerve fiber?",
+          "opts": [
+            "Efflux of K⁺ ions through voltage-gated channels",
+            "Rapid influx of Na⁺ ions through voltage-gated sodium channels",
+            "Influx of Cl⁻ ions",
+            "Inhibition of the Na⁺–K⁺ ATPase pump"
+          ],
+          "a": 1,
+          "why": "Once membrane potential reaches threshold, voltage-gated Na⁺ channels open rapidly, allowing a surge of Na⁺ influx that depolarizes the membrane toward the Na⁺ equilibrium potential."
+        },
+        {
+          "h": "2. NMJ*, Myasthenia Gravis*, Sarcomere*, Sliding Filament & E-C Coupling",
+          "p": "Trace excitation from motor nerve terminal to myofibril contraction:",
+          "bullets": [
+            "<b>NMJ* & Myasthenia Gravis*:</b> Nerve AP opens voltage-gated <b>Ca²⁺ channels</b> at motor terminal → <b>ACh exocytosis</b> into synaptic cleft → binds <b>nicotinic (N_M) ligand-gated Na⁺/K⁺ channels</b> on motor end-plate → generates <b>End-Plate Potential (EPP)</b> (graded, non-propagated, triggers muscle AP). <b>Myasthenia gravis*</b> is an autoimmune disorder with <b>antibodies against postsynaptic nicotinic ACh receptors</b> → reduced EPP amplitude, rapid muscle fatigability/weakness (diplopia, ptosis, proximal limb fatigue) improving with rest or anticholinesterases (neostigmine).",
+            "<b>Sarcomere*, E-C Coupling & Sliding Filament Theory:</b> <b>Sarcomere*</b> (Z-disc to Z-disc; A-band = myosin length, I-band = actin only, H-zone, M-line) contracts via <b>Excitation-Contraction Coupling</b>: T-tubule depolarization activates dihydropyridine (DHPR) voltage sensors → opens ryanodine (RyR1) channels on <b>sarcoplasmic reticulum</b> → releases <b>Ca²⁺</b> → binds <b>Troponin C</b> → shifts <b>tropomyosin</b> off actin myosin-binding sites → <b>cross-bridge cycling (power stroke using ATP)</b> slides thin (actin) filaments inward over thick (myosin) filaments without shortening individual filaments (<b>Sliding Filament Theory</b>)."
+          ],
+          "remember": "Myasthenia gravis* = Autoantibodies to ACh receptors at NMJ! Muscle contraction = Ca²⁺ binds Troponin C → Tropomyosin moves → Actin slides over Myosin!",
+          "q": "In skeletal muscle excitation–contraction coupling, calcium ions (Ca²⁺) released from the sarcoplasmic reticulum initiate contraction by binding to which protein?",
+          "opts": [
+            "Tropomyosin",
+            "Troponin C",
+            "Myosin light chain kinase",
+            "Calsequestrin"
+          ],
+          "a": 1,
+          "why": "Ca²⁺ binds to Troponin C, inducing a conformational change that moves tropomyosin away from myosin-binding sites on actin so cross-bridges can form and cycle."
+        }
+      ],
+      "exam": "LAQ / SN order: RMP & ionic basis → AP genesis, saltatory conduction & nerve vs SAN comparison → NMJ* diagram, EPP & Myasthenia gravis* → Sarcomere* diagram, E-C coupling & Sliding filament theory.",
+      "subject": "Physiology"
+    },
+    {
+      "id": "blood-coagulation-immunity-groups-plasma-b13",
+      "title": "Blood Coagulation, Plasma Proteins*, ABO/Rh Groups, Erythroblastosis Foetalis & Immunity*",
+      "region": "Paper 2 · Blood",
+      "tag": "LAQ & SN · * (Hematology & Immunology)",
+      "minutes": 15,
+      "slides": [
+        {
+          "h": "1. Plasma Proteins*, Coagulation Pathway & Anticoagulants",
+          "p": "<b>Plasma proteins* (~6–8 g/dL)</b> include <b>Albumin</b> (~4.5 g/dL — main contributor to <b>colloid osmotic/oncotic pressure ~25–28 mmHg</b> holding fluid in capillaries, plus transport), <b>Globulins</b> (α, β transport; γ immunoglobulins), and <b>Fibrinogen</b> (clotting factor I):",
+          "bullets": [
+            "<b>Coagulation Cascade:</b> Tissue injury exposes tissue factor (III) + factor VII → <b>Extrinsic pathway</b>; subendothelial collagen activates factor XII → XI → IX + VIII → <b>Intrinsic pathway</b>. Both converge on <b>Factor X → Xa</b>, which with Factor Va, Ca²⁺, and platelet phospholipid converts <b>Prothrombin (II) → Thrombin (IIa)</b>, converting soluble <b>Fibrinogen (I) → insoluble Fibrin mesh (Ia)</b> stabilized by <b>Factor XIIIa</b> (requires <b>Vitamin K</b> for factors II, VII, IX, X).",
+            "<b>Anticoagulants:</b> <b>Heparin</b> (activates antithrombin III in vivo & in vitro), <b>Warfarin/dicoumarol</b> (Vitamin K antagonist in vivo), <b>Citrate/oxalate/EDTA</b> (chelate Ca²⁺ in vitro)."
+          ],
+          "remember": "Albumin = Oncotic pressure! Factor X = Common pathway start! Vitamin K makes clotting factors 2, 7, 9, 10! Heparin activates Antithrombin III!",
+          "q": "Which plasma protein is primarily responsible for maintaining plasma colloid osmotic (oncotic) pressure across systemic capillaries?",
+          "opts": [
+            "Fibrinogen",
+            "Albumin",
+            "Prothrombin",
+            "Immunoglobulin G"
+          ],
+          "a": 1,
+          "why": "Albumin is the most abundant plasma protein and has a relatively small molecular weight with high osmotic activity, accounting for the majority of plasma oncotic pressure."
+        },
+        {
+          "h": "2. ABO/Rh Groups, Erythroblastosis Foetalis & Immunity* (Humoral, Cell-Mediated, Vaccination)",
+          "p": "<b>Landsteiner's law</b> states that if a specific agglutinogen (A or B antigen) is present on RBCs, the corresponding agglutinin is absent in plasma—and reciprocally, agglutinins for absent A/B antigens are normally present in plasma:",
+          "bullets": [
+            "<b>Rh System & Erythroblastosis Foetalis:</b> When an <b>Rh-negative mother</b> carries an <b>Rh-positive fetus</b>, fetal Rh⁺ RBCs entering maternal circulation (usually at delivery) sensitize her to make anti-Rh (IgG) antibodies; in a subsequent Rh⁺ pregnancy, maternal anti-Rh IgG crosses the placenta and hemolyzes fetal RBCs (<b>hemolytic disease of newborn / erythroblastosis foetalis</b> — jaundice, anemia, kernicterus). Prevented by giving <b>anti-D immunoglobulin</b> postpartum/antenatally.",
+            "<b>Immunity* & WBCs:</b> <b>Innate</b> (barriers, neutrophils/monocytes/phagocytes, NK cells, complement) vs <b>Adaptive</b>: <b>Humoral immunity</b> (<b>B lymphocytes</b> differentiate into plasma cells secreting <b>antibodies/immunoglobulins</b>) and <b>Cell-mediated immunity</b> (<b>T lymphocytes</b>: CD4⁺ helper T cells coordinate immune response; CD8⁺ cytotoxic T cells kill virus-infected/tumor cells). <b>Vaccination</b> induces memory B & T cells for a faster, larger <b>secondary immune response</b> (predominantly IgG)."
+          ],
+          "remember": "Rh⁻ mother + Rh⁺ fetus → Maternal anti-Rh IgG hemolyzes next Rh⁺ fetus → Prevent with Anti-D! B cells = Antibodies; CD4⁺ = Helper T cells!",
+          "q": "How is erythroblastosis fetalis (hemolytic disease of the newborn) typically prevented in an Rh-negative mother carrying an Rh-positive fetus?",
+          "opts": [
+            "Administering packed platelets to the mother in the first trimester",
+            "Administering anti-D (Rh immune globulin) around 28 weeks and/or within 72 hours after delivery of an Rh-positive baby",
+            "Transfusing ABO-incompatible blood before pregnancy",
+            "Giving high-dose vitamin C"
+          ],
+          "a": 1,
+          "why": "Anti-D antibodies bind and clear any fetal Rh⁺ RBCs entering maternal circulation before they can trigger active maternal B-cell sensitization and long-lived anti-Rh IgG production."
+        }
+      ],
+      "exam": "LAQ / SN order: Plasma proteins* (albumin oncotic pressure, globulins, fibrinogen) → Coagulation flowchart & anticoagulants → ABO/Rh groups, mismatched transfusion & erythroblastosis foetalis → WBCs & Immunity* (B cells, CD4/CD8 T cells, primary vs secondary response & vaccination).",
+      "subject": "Physiology"
+    },
+    {
+      "id": "general-physiology-homeostasis-membrane-transport-b13",
+      "title": "Homeostasis**, Feedback Systems, Osmosis & Membrane Transport (Primary & Secondary Active*)",
+      "region": "Paper 2 · General Physiology",
+      "tag": "LAQ & SN · ** (General Physiology)",
+      "minutes": 11,
+      "slides": [
+        {
+          "h": "1. Homeostasis**, Negative vs Positive Feedback & Osmosis",
+          "p": "<b>Homeostasis**</b> (Walter Cannon) is the dynamic maintenance of a relatively constant internal environment ('milieu intérieur') despite external changes:",
+          "bullets": [
+            "<b>Negative Feedback (Stabilizing — Most Common):</b> Sensor → Integrator/Control center → Effector opposes the initial change and returns variable toward set-point (e.g., baroreceptor BP control, thermoregulation, blood glucose regulation).",
+            "<b>Positive Feedback (Amplifying / Self-Reinforcing):</b> Output magnifies the initial stimulus until a specific event completes (e.g., <b>parturition / oxytocin cervical stretch reflex</b>, blood clotting cascade, Na⁺ influx during action potential upstroke, progressive stage of shock).",
+            "<b>Osmosis & Osmotic Pressure:</b> Net movement of water across a semipermeable membrane from a region of lower solute concentration (higher water potential) to higher solute concentration; <b>osmotic pressure (π = CRT)</b> is the hydrostatic pressure needed to stop osmotic water flow (normal plasma osmolality ≈ 280–300 mOsm/L)."
+          ],
+          "remember": "Negative feedback = Stabilizes (opposes change). Positive feedback = Amplifies (parturition, clotting, AP Na⁺ entry)! Osmosis = Water moves to higher solute!",
+          "q": "Which physiological process is a classic example of a POSITIVE feedback mechanism in the human body?",
+          "opts": [
+            "Arterial baroreceptor reflex lowering elevated blood pressure",
+            "Oxytocin release and uterine contractions during parturition (Ferguson reflex)",
+            "Sweating when body temperature rises above normal",
+            "Insulin secretion lowering blood glucose after a meal"
+          ],
+          "a": 1,
+          "why": "During parturition, uterine contractions push the baby's head against the cervix, stretching it and stimulating more oxytocin release and stronger contractions until delivery occurs."
+        },
+        {
+          "h": "2. Transport Across Cell Membrane (Passive, Primary & Secondary Active Transport*)",
+          "p": "Substances cross lipid bilayers via <b>simple diffusion</b>, <b>facilitated diffusion</b> (carrier/channel down gradient, no ATP), <b>primary active transport</b> (direct ATP hydrolysis by pumps like Na⁺–K⁺ ATPase, Ca²⁺-ATPase, H⁺–K⁺ ATPase), and <b>secondary active transport*</b>:",
+          "bullets": [
+            "<b>Secondary Active Transport* (Co-transport / Symport & Counter-transport / Antiport):</b> Uses the electrochemical gradient of an ion (usually <b>Na⁺</b>, maintained low inside by the Na⁺–K⁺ ATPase pump) to drive another solute against its gradient without direct ATP splitting at that carrier. Examples: <b>Na⁺–glucose symporter (SGLT1/SGLT2)</b> and <b>Na⁺–amino acid symport</b> in gut/renal PCT (<b>symport/co-transport</b>); <b>Na⁺–H⁺ exchanger (NHE3)</b> and <b>Na⁺–Ca²⁺ exchanger (NCX)</b> (<b>antiport/counter-transport</b>)."
+          ],
+          "remember": "Secondary active transport* uses the Na⁺ gradient (built by Na⁺–K⁺ ATPase)! Symport = Same direction (Na⁺ + Glucose); Antiport = Opposite direction (Na⁺ in, H⁺/Ca²⁺ out)!",
+          "q": "How does secondary active transport of glucose (via SGLT) across intestinal and renal proximal tubular cells obtain its energy?",
+          "opts": [
+            "Direct hydrolysis of ATP by the SGLT glucose carrier itself",
+            "From the electrochemical Na⁺ gradient established across the membrane by the Na⁺–K⁺ ATPase pump",
+            "By simple passive diffusion down a concentration gradient",
+            "Through vesicular endocytosis"
+          ],
+          "a": 1,
+          "why": "Na⁺–K⁺ ATPase keeps intracellular Na⁺ low, creating a steep inward Na⁺ gradient that drives uphill glucose uptake via Na⁺–glucose cotransporters (SGLT)."
+        }
+      ],
+      "exam": "LAQ / SN order: Homeostasis** definition & negative vs positive feedback comparison → Osmosis & osmotic pressure → Passive vs active transport → Secondary active transport* (Na⁺ gradient, symport vs antiport examples).",
+      "subject": "Physiology"
     }
   ]
 }
