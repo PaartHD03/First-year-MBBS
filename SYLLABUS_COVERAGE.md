@@ -2,14 +2,14 @@
 
 ## 1. Overall First Year MBBS Syllabus Progress Summary
 
-> **Scope Clarification:** **Anatomy is 100% complete (170 / 170 listed Anatomy IMP entries)**. Across the entire First Year MBBS IMP syllabus (`FIRST YEAR IMP LIST.pdf`, Pages 1–24, **500 total listed IMP entries**), **265 / 500 entries (53.0%)** are complete (**Anatomy 170/170 [100%]** + **Physiology Paper 1 95/95 [100% of Paper 1 / 50.0% of Physiology]**), with Physiology Paper 2 (95 entries) and Biochemistry (140 entries) scheduled next.
+> **Scope Clarification:** **Anatomy is 100% complete (170 / 170 listed Anatomy IMP entries)**. Across the entire First Year MBBS IMP syllabus (`FIRST YEAR IMP LIST.pdf`, Pages 1–24, **500 total listed IMP entries**), **500 / 500 entries (100.0%)** are complete (**Anatomy 170/170 [100%]** + **Physiology 190/190 [100%]** + **Biochemistry 140/140 [100%]**).
 
 | Subject | PDF Pages | Listed IMP Entries (SN / LAQ / IMP) | Entries Covered | Unique Interactive Lessons | Subject Status |
 |---|---|---|---|---|---|
 | **Anatomy** | Pages 1–6 | **170** (80 SN + 52 LAQ + 38 IMP) | **170 / 170 (100%)** | **123 unique Anatomy lessons** (`107` in `data/anatomy.json` + `16` in `data/neuroanatomy.json`) | **100% Complete** |
-| **Physiology** | Pages 7–14 | **190** (131 SN + 59 LAQ) | **95 / 190 (50.0%)** *(Paper 1: 95/95 100%)* | **22 lessons** in `data/physiology.json` *(+1 starter in `lessons.json`)* | **Paper 1 Complete (100%); Paper 2 Pending** |
-| **Biochemistry** | Pages 15–24 | **140** (90 SN + 50 LAQ) | **0 / 140 (0%)** | Planned (Batches 17–22) | **Pending** |
-| **FIRST YEAR MBBS TOTAL** | **Pages 1–24** | **500 Listed IMP Entries** | **265 / 500 (53.0%)** | **123 Anatomy + 22 Physiology IMP (+1 starter)** | **Anatomy 100%; Physio Paper 1 100%** |
+| **Physiology** | Pages 7–14 | **190** (131 SN + 59 LAQ) | **190 / 190 (100%)** *(Paper 1 & Paper 2)* | **31 lessons** in `data/physiology.json` *(+1 starter in `lessons.json`)* | **100% Complete** |
+| **Biochemistry** | Pages 15–24 | **140** (90 SN + 50 LAQ) | **140 / 140 (100%)** *(Paper 1 & Paper 2)* | **13 lessons** in `data/biochemistry.json` | **100% Complete** |
+| **FIRST YEAR MBBS TOTAL** | **Pages 1–24** | **500 Listed IMP Entries** | **500 / 500 (100.0%)** | **123 Anatomy + 31 Physiology + 13 Biochem IMP (+1 starter)** | **100% Complete (All 3 Subjects)** |
 
 ---
 
@@ -155,7 +155,7 @@
 - [ ] 5. Pulmonary Ventilation - mechanism; Positive Pressure Breathing
 - [ ] 6. Oxygen Transport - describe method
 - [ ] 7. Chemical Control of Respiration
-### Paper 2 — CNS (Page 11 | 19 SN, 8 LAQ)
+### Paper 2 — CNS (Page 11 | 19 SN, 8 LAQ) — ✅ 100% Covered in Batch 13 (`data/physiology.json`)
 **Short Notes (SN):**
 - [ ] 1. Receptor** - enumerate properties, any two properties in detail
 - [ ] 2. Referred Pain*, Enumerate Different Types of Pain
@@ -185,7 +185,7 @@
 - [ ] 6. Complete Transaction of Spinal Cord - effects
 - [ ] 7. Pyramidal Tracts* - origin, course, termination, function, applied
 - [ ] 8. Lobes of Neocortex – functions
-### Paper 2 — Renal Physiology (Page 12 | 9 SN, 4 LAQ)
+### Paper 2 — Renal Physiology (Page 12 | 9 SN, 4 LAQ) — ✅ 100% Covered in Batch 13 (`data/physiology.json`)
 **Short Notes (SN):**
 - [ ] 1. JGA - diagram, functions**
 - [ ] 2. Countercurrent Multiplier Mechanism
@@ -201,7 +201,7 @@
 - [ ] 2. Physiology of Micturition*; Cystometrogram
 - [ ] 3. DCT - functions
 - [ ] 4. Milleu Interior - define; Role of Kidney in Maintaining Osmolarity of Body Fluid
-### Paper 2 — Special Senses (Pages 12–13 | 10 SN, 5 LAQ)
+### Paper 2 — Special Senses (Pages 12–13 | 10 SN, 5 LAQ) — ✅ 100% Covered in Batch 13 (`data/physiology.json`)
 **Short Notes (SN):**
 - [ ] 1. Visual Pathway* - diagram, lesions, heteronymous hemianopia
 - [ ] 2. Dark Adaptation** - define, significance
@@ -219,7 +219,7 @@
 - [ ] 3. Accommodation - define, mechanism, neural pathway; Presbyopia
 - [ ] 4. Photochemistry of Vision*, Dark Adaptation
 - [ ] 5. Middle Ear - role; Organ of Corti
-### Paper 2 — Nerve-Muscle Physiology (Page 13 | 13 SN, 8 LAQ)
+### Paper 2 — Nerve-Muscle Physiology (Page 13 | 13 SN, 8 LAQ) — ✅ 100% Covered in Batch 13 (`data/physiology.json`)
 **Short Notes (SN):**
 - [ ] 1. Excitation-Contraction Coupling
 - [ ] 2. Action Potential - define, compare ionic basis of large myelinated nerve fibre and SAN**
@@ -243,7 +243,7 @@
 - [ ] 6. Molecular Basis of Skeletal Muscle Contraction*
 - [ ] 7. Muscle Tone - define, regulation
 - [ ] 8. i. RMP - define ii. Ionic Basis for Development of RMP and AP
-### Paper 2 — Blood (Pages 13–14 | 11 SN, 4 LAQ)
+### Paper 2 — Blood (Pages 13–14 | 11 SN, 4 LAQ) — ✅ 100% Covered in Batch 13 (`data/physiology.json`)
 **Short Notes (SN):**
 - [ ] 1. Intrinsic Pathway of Coagulation
 - [ ] 2. Role of B Lymphocytes
@@ -261,7 +261,7 @@
 - [ ] 2. Immunity* - define, classify; Cell Mediated Immunity; Humoral Immunity, Vaccination
 - [ ] 3. Clotting - define; Mechanism of Blood Coagulation - flowchart; Anticoagulants - name
 - [ ] 4. WBC - classify, morphology, function
-### Paper 2 — General Physiology (Page 14 | 3 SN, 1 LAQ)
+### Paper 2 — General Physiology (Page 14 | 3 SN, 1 LAQ) — ✅ 100% Covered in Batch 13 (`data/physiology.json`)
 **Short Notes (SN):**
 - [ ] 1. Homeostasis** - define, compare between feedback systems
 - [ ] 2. Transport Mechanism Across Cell Membrane, Secondary Active Transport*
@@ -274,7 +274,7 @@
 
 ## 4. Pending Syllabus Checklist — Biochemistry (Pages 15–24 | 140 Entries: 90 SN + 50 LAQ)
 
-### Paper 1 — Protein Metabolism (Page 15 | 4 SN, 6 LAQ)
+### Paper 1 — Protein Metabolism (Page 15 | 4 SN, 6 LAQ) — ✅ 100% Covered in Batch 14 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Metabolism of Tyrosine (pg 345)
 - [ ] 2. Biogenic Amines (pg 375)
@@ -287,13 +287,13 @@
 - [ ] 4. Alkaptonuria - Biochemical Basis, Tests for Diagnosis
 - [ ] 5. Glycine - synthesis, inhibition, specialised products formed
 - [ ] 6. Transamination, Deamination, Ammonia Toxicity
-### Paper 1 — Nucleotide Metabolism (Page 15 | 4 SN, 0 LAQ)
+### Paper 1 — Nucleotide Metabolism (Page 15 | 4 SN, 0 LAQ) — ✅ 100% Covered in Batch 14 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Purine Salvage Pathway** (pg 391)
 - [ ] 2. Hyperuricemia (pg 394)
 - [ ] 3. Gout** (pg 394)
 - [ ] 4. Catabolism of Purines (pg 392)
-### Paper 1 — Hemoglobin (Pages 15–16 | 2 SN, 4 LAQ)
+### Paper 1 — Hemoglobin (Pages 15–16 | 2 SN, 4 LAQ) — ✅ 100% Covered in Batch 14 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Hemoglobinopathies and examples (pg 203)
 - [ ] 2. Abnormal Hemoglobin** - changes in AA sequence (pg 202)
@@ -302,7 +302,7 @@
 - [ ] 2. Formation and Fate of Bilirubin; Jaundice
 - [ ] 3. Biosynthesis and Degradation of Heme
 - [ ] 4. Heme - biosynthesis, regulation*; Intermittent Porphyria
-### Paper 1 — Vitamins (Page 16 | 6 SN, 5 LAQ)
+### Paper 1 — Vitamins (Page 16 | 6 SN, 5 LAQ) — ✅ 100% Covered in Batch 14 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Coenzymes of Thiamine of Pyridoxine - two biochemical functions of each
 - [ ] 2. Functions of Folic Acid (pg 150)
@@ -316,7 +316,7 @@
 - [ ] 3. Vitamin B12 and Folic Acid
 - [ ] 4. Vitamin C
 - [ ] 5. Thiamine*
-### Paper 1 — Enzymes (Page 16 | 5 SN, 4 LAQ)
+### Paper 1 — Enzymes (Page 16 | 5 SN, 4 LAQ) — ✅ 100% Covered in Batch 15 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Isoenzymes and Clinical Application*** (pg 109)
 - [ ] 2. Enzymes and Isoenzymes in Myocardial Infarction** (pg 112)
@@ -328,7 +328,7 @@
 - [ ] 2. Enzyme Inhibition - Competitive and Non-Competitive
 - [ ] 3. Enzymes - classification, examples, Isoenzymes
 - [ ] 4. Types of Enzyme Inhibitors
-### Paper 1 — Biological Oxidation (Page 17 | 6 SN, 3 LAQ)
+### Paper 1 — Biological Oxidation (Page 17 | 6 SN, 3 LAQ) — ✅ 100% Covered in Batch 15 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Substrate Level Phosphorylation (pg 224)
 - [ ] 2. Oxidative Phosphorylation*** and Thermogenin (pg 228)
@@ -340,7 +340,7 @@
 - [ ] 1. Explain ETC, Mention Sites of 1. ATP Synthesis and Inhibitors of ETC**
 - [ ] 2. Oxidative Phosphorylation
 - [ ] 3. Explain ETC, Inhibitors and Uncouplers of Oxidative Phosphorylation
-### Paper 1 — Molecular Biology (Page 17 | 7 SN, 4 LAQ)
+### Paper 1 — Molecular Biology (Page 17 | 7 SN, 4 LAQ) — ✅ 100% Covered in Batch 15 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Genetic Code*** (pg 551)
 - [ ] 2. Mutation* - Causes and Types (pg 535)
@@ -354,7 +354,7 @@
 - [ ] 2. DNA Replication, Two Inhibitors of Replication
 - [ ] 3. Genetic Code- salient features, Wobble's Hypothesis
 - [ ] 4. Transcription, Post-Transcriptional Modification, Two Antibiotics Inhibiting the process
-### Paper 1 — Proteins (Page 18 | 6 SN, 0 LAQ)
+### Paper 1 — Proteins (Page 18 | 6 SN, 0 LAQ) — ✅ 100% Covered in Batch 15 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Biologically Important Peptides* (pg 65)
 - [ ] 2. Secondary and Tertiary Structure of Proteins** (pg 56)
@@ -362,25 +362,25 @@
 - [ ] 4. Secondary Structure of Protein (pg 56)
 - [ ] 5. Functional Classification of Proteins (pg 63)
 - [ ] 6. Conjugated Proteins (pg 64)
-### Paper 1 — Nucleotides (Page 18 | 1 SN, 0 LAQ)
+### Paper 1 — Nucleotides (Page 18 | 1 SN, 0 LAQ) — ✅ 100% Covered in Batch 15 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Four Biochemical Functions of Nucleotides*
-### Paper 1 — Free Radicals and Antioxidants (Page 18 | 3 SN, 0 LAQ)
+### Paper 1 — Free Radicals and Antioxidants (Page 18 | 3 SN, 0 LAQ) — ✅ 100% Covered in Batch 15 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Antioxidants (pg 655)
 - [ ] 2. Antioxidant Enzymes*, Vitamins and Minerals
 - [ ] 3. Free Radicals and Antioxidants
-### Paper 1 — Nutrition (Page 18 | 4 SN, 0 LAQ)
+### Paper 1 — Nutrition (Page 18 | 4 SN, 0 LAQ) — ✅ 100% Covered in Batch 15 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Explain the Role of Dietary Fibres* (pg 508)
 - [ ] 2. BMR - definition, factors (pg 504)
 - [ ] 3. Protein Energy Malnutrition*** (pg 516)
 - [ ] 4. Kwashiorkor* - Biochemical Alterations and Treatment (pg 516)
-### Paper 1 — Plasma Proteins (Page 19 | 2 SN, 0 LAQ)
+### Paper 1 — Plasma Proteins (Page 19 | 2 SN, 0 LAQ) — ✅ 100% Covered in Batch 15 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Immunoglobulin - diagram, describe any one Ig in detail* (pg 186)
 - [ ] 2. Functions of Albumin (pg 183)
-### Paper 2 — Carbohydrate Metabolism (Page 20 | 3 SN, 5 LAQ)
+### Paper 2 — Carbohydrate Metabolism (Page 20 | 3 SN, 5 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Significance of HMP Shunt* (pg 270)
 - [ ] 2. Rapaport Leubering Cycle, Significance (pg 251)
@@ -391,7 +391,7 @@
 - [ ] 3. TCA Cycle, Amphibolic Nature* (pg 252)
 - [ ] 4. HMP Shunt*, Significance (pg 270)
 - [ ] 5. Metabolism of Glycogen, Hormonal Regulation* (pg 263)
-### Paper 2 — Lipid Metabolism (Page 20 | 5 SN, 5 LAQ)
+### Paper 2 — Lipid Metabolism (Page 20 | 5 SN, 5 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Cholesterol - biomedical importance (pg 315)
 - [ ] 2. Cholesterol - metabolism, function (pg 309)
@@ -404,7 +404,7 @@
 - [ ] 3. Beta Oxidation of Palmitic Acid, Regulation, Energetics** (pg 290)
 - [ ] 4. Roles of LDL, HDL in Cholesterol Transport, Role in Atherosclerosis (pg 320, 326)
 - [ ] 5. Fate of Acetyl CoA, Fatty Acid Synthesis (pg 297)
-### Paper 2 — Mineral Metabolism (Page 21 | 3 SN, 7 LAQ)
+### Paper 2 — Mineral Metabolism (Page 21 | 3 SN, 7 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Regulation of Serum Calcium Level (pg 407)
 - [ ] 2. Role of Calcium as Second Messenger (pg 405)
@@ -417,14 +417,14 @@
 - [ ] 5. Copper and Zinc (pg 416, 419)
 - [ ] 6. Iron and Iodine (pg 414, 418)
 - [ ] 7. Factors Influencing Calcium Absorption, Functions (pg 404)
-### Paper 2 — Integration of Metabolism (Page 21 | 3 SN, 1 LAQ)
+### Paper 2 — Integration of Metabolism (Page 21 | 3 SN, 1 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Short Term Starvation - metabolic changes (pg 383)
 - [ ] 2. Biochemical Changes in Starvation** (pg 383)
 - [ ] 3. Most Severe Phase of Starvation - biochemical changes (Pankaja - pg 276)
 **Long Answer Questions (LAQ):**
 - [ ] 1. Starvation Metabolism* (pg 383)
-### Paper 2 — Acid-Base Balance (Pages 21–22 | 4 SN, 4 LAQ)
+### Paper 2 — Acid-Base Balance (Pages 21–22 | 4 SN, 4 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Buffers** (pg 475)
 - [ ] 2. Role of Kidney in Acid Base Balance (pg 477)
@@ -435,50 +435,50 @@
 - [ ] 2. Blood pH - maintenance, disorders associated with acid base balance (pg 474)
 - [ ] 3. Water and Electrolyte Balance (pg 469)
 - [ ] 4. Acid Base Balance, Imbalance, Causes (pg 474)
-### Paper 2 — Insulin, Glucose Homeostasis and DM (Page 22 | 1 SN, 1 LAQ)
+### Paper 2 — Insulin, Glucose Homeostasis and DM (Page 22 | 1 SN, 1 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. DM - metabolic changes* (pg 681)
 **Long Answer Questions (LAQ):**
 - [ ] 1. Hormonal Regulation of Blood Glucose Level**, Significance, Note on Glycosuria (pg 674, 681)
-### Paper 2 — Organ Function Tests (Page 22 | 2 SN, 1 LAQ)
+### Paper 2 — Organ Function Tests (Page 22 | 2 SN, 1 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Creatinine Clearance Test**, Explanation, Significance (pg 461)
 - [ ] 2. Urea Clearance (pg 461)
 **Long Answer Questions (LAQ):**
 - [ ] 1. Liver Function Tests** - enumerate, describe LFT based on excretory function (pg 453)
-### Paper 2 — Carbohydrates (Page 22 | 2 SN, 0 LAQ)
+### Paper 2 — Carbohydrates (Page 22 | 2 SN, 0 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Hyaluronic Acid - biomedical importance (pg 23)
 - [ ] 2. GAGS, Significance*** (pg 25)
-### Paper 2 — Lipid (Page 23 | 2 SN, 0 LAQ)
+### Paper 2 — Lipid (Page 23 | 2 SN, 0 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Phospholipids - classify, examples, one importance of each
 - [ ] 2. Essential Fatty Acids (pg 31)
-### Paper 2 — Digestion and Absorption (Page 23 | 1 SN, 0 LAQ)
+### Paper 2 — Digestion and Absorption (Page 23 | 1 SN, 0 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Digestion and Absorption of Lipids (pg 173)
-### Paper 2 — Hormones (Page 23 | 4 SN, 0 LAQ)
+### Paper 2 — Hormones (Page 23 | 4 SN, 0 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Group II Hormones - diagram, mechanism, example (pg 428)
 - [ ] 2. Name Different Types of Messenger Hormones, Role of cAMP* (pg 430)
 - [ ] 3. Mechanism of Hydrophilic Hormones
 - [ ] 4. Mechanism of Steroid Hormones*
-### Paper 2 — Cancer (Page 23 | 3 SN, 0 LAQ)
+### Paper 2 — Cancer (Page 23 | 3 SN, 0 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Tumour Markers*** - four examples (pg 691)
 - [ ] 2. Oncogenes** and Proto-oncogenes* (pg 687)
 - [ ] 3. Chemical Carcinogens* (pg 686)
-### Paper 2 — Detoxification (Page 23 | 3 SN, 0 LAQ)
+### Paper 2 — Detoxification (Page 23 | 3 SN, 0 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Conjugation** - examples (pg 640)
 - [ ] 2. Detoxification by Oxidation and Hydrolysis (pg 639)
 - [ ] 3. Metabolism of Xenobiotics - phase 1 reaction* (pg 638)
-### Paper 2 — LCD (Page 24 | 3 SN, 0 LAQ)
+### Paper 2 — LCD (Page 24 | 3 SN, 0 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Electrophoresis* - application, principle
 - [ ] 2. Chromatography* - principle, application, type*
 - [ ] 3. Flame Photometer - principle, parts, importance
-### Paper 2 — Overview of Biophysical Chemistry (Page 24 | 1 SN, 0 LAQ)
+### Paper 2 — Overview of Biophysical Chemistry (Page 24 | 1 SN, 0 LAQ) — ✅ 100% Covered in Batch 16 (`data/biochemistry.json`)
 **Short Notes (SN):**
 - [ ] 1. Radioisotopes - diagnostic, therapeutic significance, application** (pg 717)
 

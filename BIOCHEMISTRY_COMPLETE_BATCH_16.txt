@@ -1,0 +1,16 @@
+SUHANI MBBS BIOCHEMISTRY — BATCH 16 (100% FIRST YEAR MBBS IMP SYLLABUS COMPLETE — 500 / 500 ENTRIES)
+
+Added 4 comprehensive interactive lessons (8 MCQs) to data/biochemistry.json and updated biochemistry.html, completing 100% of Biochemistry (140 / 140 entries across Paper 1 [78/78] and Paper 2 [62/62]) and 100% of the entire 500-entry First Year MBBS IMP list:
+
+Paper 2 Units Completed in Batch 16 (62 remaining entries → 140/140 Biochemistry total):
+1. Carbohydrate Metabolism (8/8): Erythrocyte Glycolysis & Rapoport–Leubering Cycle, TCA Cycle* (Amphibolic), HMP Shunt* & Glycogen / GSD*
+2. Lipid Metabolism (10/10): Cholesterol Synthesis*** & Atherosclerosis, β-Oxidation**, Ketosis, Lipoproteins* & Fatty Liver*
+3. Mineral Metabolism (10/10) & Integration of Metabolism / Starvation (4/4): Ca²⁺, PO₄³⁻, Fe, Cu, Zn, I & Starvation*
+4. Acid–Base Balance (8/8), Insulin / Glucose Homeostasis & DM (2/2), Organ Function Tests / LFT & Clearance (3/3): Buffers**, Metabolic Acidosis*, DM, LFT** & Creatinine/Urea Clearance**
+5. Carbohydrates (2/2), Lipid (2/2), Digestion & Absorption (1/1), Hormones (4/4), Cancer (3/3), Detoxification (3/3), LCD (3/3) & Radioisotopes (1/1): GAGs***/Hyaluronic acid, Phospholipids/EFA/Digestion, cAMP*/Steroids, Tumor Markers***/Oncogenes**, Phase I/II Conjugation**, Electrophoresis*/Chromatography*/Flame Photometry & Radioisotopes**
+
+FINAL CUMULATIVE PROJECT TOTALS (100% COMPLETE):
+- Anatomy: 170 / 170 entries complete (100% — 123 unique lessons)
+- Physiology: 190 / 190 entries complete (100% — 31 interactive lessons in data/physiology.json + 1 starter in data/lessons.json)
+- Biochemistry: 140 / 140 entries complete (100% — 13 interactive lessons in data/biochemistry.json)
+- Overall First Year MBBS IMP List: 500 / 500 entries complete (100.0% — 167 IMP lessons + 1 starter dataset)

@@ -1,0 +1,15 @@
+SUHANI MBBS BIOCHEMISTRY — BATCH 14 (PROTEIN, NUCLEOTIDE, HEMOGLOBIN & VITAMINS)
+
+Created biochemistry.html and data/biochemistry.json with all 140 Biochemistry IMP entries (Pages 15–24 of FIRST YEAR IMP LIST.pdf) and 5 comprehensive interactive lessons (10 MCQs), covering 31 / 140 Biochemistry entries (22.1%):
+
+1. Protein Metabolism — Transamination, Deamination, Ammonia Toxicity, Urea Cycle*** & Glycine
+2. Tyrosine & Phenylalanine Metabolism, Inborn Errors*, Alkaptonuria & Biogenic Amines
+3. Nucleotide Metabolism — Purine Salvage Pathway**, Purine Catabolism, Hyperuricemia & Gout**
+4. Heme Biosynthesis & Regulation*, Porphyria, Heme Catabolism, Bilirubin/Jaundice & Hemoglobinopathies**
+5. Vitamins — Vitamin A** (Wald's Cycle), Vitamin D (Hormone), Thiamine*, B₆, B₉/B₁₂ & Vitamin C
+
+CUMULATIVE PROJECT TOTALS:
+- Anatomy: 170 / 170 entries complete (100% — 123 unique lessons)
+- Physiology: 190 / 190 entries complete (100% — 31 interactive lessons in data/physiology.json + 1 starter in data/lessons.json)
+- Biochemistry: 31 / 140 entries complete (22.1% — 5 interactive lessons in data/biochemistry.json)
+- Overall First Year MBBS IMP List: 391 / 500 entries complete (78.2%)

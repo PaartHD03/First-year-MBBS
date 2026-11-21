@@ -6,12 +6,14 @@ Keep all HTML files and the data/ folder together in the project root:
 - anatomy.html — Anatomy IMP classroom (reads data/anatomy.json; progress saved in localStorage key 'suhani_anatomy_batch1_done').
 - neuroanatomy.html — Neuroanatomy IMP classroom (reads data/neuroanatomy.json; progress saved in localStorage key 'suhani_neuroanatomy_batch3_done').
 - physiology.html — Physiology IMP classroom (reads data/physiology.json; progress saved in localStorage key 'suhani_physiology_batch11_done').
+- biochemistry.html — Biochemistry IMP classroom (reads data/biochemistry.json; progress saved in localStorage key 'suhani_biochemistry_batch14_done').
 - classroom.html — Starter interactive classroom (progress saved in localStorage key 'suhani_lesson_done_v1').
 - tests.html — Practice and mock tests with instant explanations.
-- SYLLABUS_COVERAGE.md — Master syllabus coverage tracker across all 24 pages of FIRST YEAR IMP LIST.pdf (500 total IMP entries: Anatomy 170/170 complete; Physiology 95/190 complete [Paper 1 100% — CVS, GIT, Endocrine, Repro & RS]; Biochemistry 0/140 pending).
+- SYLLABUS_COVERAGE.md — Master syllabus coverage tracker across all 24 pages of FIRST YEAR IMP LIST.pdf (500 total IMP entries: Anatomy 170/170 complete; Physiology 190/190 complete (100% — Paper 1 & Paper 2); Biochemistry 0/140 pending).
 - data/anatomy.json — Complete 107-lesson Anatomy IMP dataset covering all 9 non-Neuroanatomy units (153/153 PDF entries) plus the 17-entry Neuroanatomy checklist index linking to neuroanatomy.html (Batches 1–10).
 - data/neuroanatomy.json — Complete 17-entry Neuroanatomy checklist (10 SN + 7 LAQ) and all 16 unique interactive lessons (Batch 3; Internal Capsule* is listed under both SN and LAQ in the PDF).
-- data/physiology.json — Complete 190-entry Physiology IMP checklist and 22 interactive lessons covering 100% of Paper 1 (Batches 11–12: CVS, GIT, Endocrine, Reproductive & Respiratory Systems).
+- data/physiology.json — Complete 190-entry Physiology IMP checklist and 31 interactive lessons covering 100% of Physiology Paper 1 & Paper 2 (Batches 11–13).
+- data/biochemistry.json — Complete 140-entry Biochemistry IMP checklist and 13 interactive lessons covering 100% of Biochemistry Paper 1 & Paper 2 (Batches 14–16).
 - data/lessons.json — Starter classroom lesson dataset (6 lessons: 5 Anatomy + 1 Physiology).
 
 2. RECONCILED LESSON & COVERAGE SUMMARY (BATCHES 1–10)
@@ -26,8 +28,9 @@ Keep all HTML files and the data/ folder together in the project root:
   * Batch 8: 13 lessons (Abdomen & Pelvis)
   * Batch 9: 14 lessons (General Anatomy 7 + Histology 7)
   * Batch 10: 13 lessons (Embryology 7 + Genetics 6)
-- Physiology (Pages 7–14 of FIRST YEAR IMP LIST.pdf): 95 / 190 listed IMP entries covered (50.0% — 100% of Paper 1 [95/95 across CVS, GIT, Endocrine, Reproductive & Respiratory Systems] via 22 interactive lessons in data/physiology.json; Paper 2 [95 entries] next).
-- Overall First Year MBBS IMP Syllabus (Pages 1–24 of FIRST YEAR IMP LIST.pdf): 265 / 500 entries covered (53.0% of total First Year MBBS IMP list).
+- Physiology (Pages 7–14 of FIRST YEAR IMP LIST.pdf): 190 / 190 listed IMP entries covered (100% of Physiology complete across Paper 1 [95/95] & Paper 2 [95/95] via 31 interactive lessons in data/physiology.json).
+- Biochemistry (Pages 15–24 of FIRST YEAR IMP LIST.pdf): 140 / 140 listed IMP entries covered (100% of Biochemistry complete across Paper 1 [78/78] & Paper 2 [62/62] via 13 interactive lessons in data/biochemistry.json).
+- Overall First Year MBBS IMP Syllabus (Pages 1–24 of FIRST YEAR IMP LIST.pdf): 500 / 500 entries covered (100.0% of total First Year MBBS IMP list — Anatomy 170/170, Physiology 190/190, Biochemistry 140/140).
 
 3. DEPLOYMENT (GITHUB PAGES & NETLIFY)
 - Upload the entire root folder (including index.html, anatomy.html, neuroanatomy.html, classroom.html, tests.html, and the data/ directory) to your repository root or Netlify drop zone.

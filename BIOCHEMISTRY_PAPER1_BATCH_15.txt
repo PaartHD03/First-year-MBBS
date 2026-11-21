@@ -1,0 +1,15 @@
+SUHANI MBBS BIOCHEMISTRY — BATCH 15 (100% BIOCHEMISTRY PAPER 1 COMPLETE)
+
+Added 4 comprehensive interactive lessons (8 MCQs) to data/biochemistry.json and updated biochemistry.html, completing 100% of Biochemistry Paper 1 (78 / 78 entries across all 8 Paper 1 units):
+
+Paper 1 Units Completed in Batch 15 (47 additional entries → 78/78 Paper 1 total):
+1. Enzymes (9/9 entries): Kinetics, Km & E-S Complex, Competitive/Non-Competitive Inhibition & Isoenzymes*** (MI)
+2. Biological Oxidation (9/9 entries): ETC (Complexes I–IV & Inhibitors**), Oxidative Phosphorylation***, Uncouplers/Thermogenin & Malate-Aspartate Shuttle*
+3. Molecular Biology (11/11 entries): DNA Replication, Transcription, Genetic Code***, Wobble, Mutations*, Protein Biosynthesis*, PCR & Lac Operon
+4. Proteins, Nucleotides, Free Radicals/Antioxidants, Nutrition & Plasma Proteins (18/18 entries): Protein Structure/Classification, Peptides*, tRNA***, Nucleotides*, Antioxidants, PEM***/Kwashiorkor*, Dietary Fiber, BMR, Albumin & Immunoglobulins*
+
+CUMULATIVE PROJECT TOTALS:
+- Anatomy: 170 / 170 entries complete (100% — 123 unique lessons)
+- Physiology: 190 / 190 entries complete (100% — 31 interactive lessons in data/physiology.json + 1 starter in data/lessons.json)
+- Biochemistry: 78 / 140 entries complete (55.7% — 100% of Paper 1 [78/78] across 9 interactive lessons in data/biochemistry.json; Paper 2 [62 entries] next)
+- Overall First Year MBBS IMP List: 438 / 500 entries complete (87.6%)

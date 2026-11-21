@@ -1,0 +1,25 @@
+SUHANI MBBS PHYSIOLOGY — BATCH 13 (100% PHYSIOLOGY COMPLETE — PAPER 1 & PAPER 2)
+
+Added 9 comprehensive interactive lessons (18 MCQs) to data/physiology.json and updated physiology.html, completing 100% of Physiology (190 / 190 entries across Paper 1 [95/95] and Paper 2 [95/95]):
+
+Paper 2 Systems Completed (95/95 PDF entries across 9 lessons):
+1. Central Nervous System (27/27 PDF entries across 4 lessons):
+   - Sensory Receptors**, Pain (Referred*, Neospinothalamic, Fast/Slow, Analgesia) & UMN vs LMN Lesions
+   - Ascending Tracts**, Dorsal Column System, Proprioception & Sensory vs Cerebellar Ataxia
+   - Muscle Spindle*, Stretch Reflex, Muscle Tone & Complete Spinal Transection
+   - Basal Ganglia* & Parkinsonism**, Cerebellum**, Hypothalamus**, Neocortex & Sleep/Memory
+2. Renal Physiology (13/13 PDF entries in 1 lesson):
+   - GFR***, JGA**, Countercurrent Mechanism, Renal Acid-Base & Micturition Reflex*
+3. Special Senses (15/15 PDF entries in 1 lesson):
+   - Visual Pathway*, Photochemistry & Dark Adaptation**, Accommodation*, Hearing & Taste/Smell
+4. Nerve-Muscle Physiology (21/21 PDF entries in 1 lesson):
+   - RMP, Action Potential**, NMJ* & Myasthenia Gravis*, Sarcomere*, Sliding Filament & E-C Coupling
+5. Blood (15/15 PDF entries in 1 lesson):
+   - Blood Coagulation, Plasma Proteins*, ABO/Rh Groups, Erythroblastosis Foetalis & Immunity*
+6. General Physiology (4/4 PDF entries in 1 lesson):
+   - Homeostasis**, Feedback Systems, Osmosis & Membrane Transport (Primary & Secondary Active*)
+
+CUMULATIVE PROJECT TOTALS:
+- Anatomy: 170 / 170 entries complete (100% — 123 unique lessons)
+- Physiology: 190 / 190 entries complete (100% — 31 interactive lessons in data/physiology.json + 1 starter in data/lessons.json)
+- Overall First Year MBBS IMP List: 360 / 500 entries complete (72.0% — Biochemistry [140 entries] next)
